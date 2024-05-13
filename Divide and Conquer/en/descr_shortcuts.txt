@@ -1,0 +1,694 @@
+ ;Key Shortcut database,  Set the initial keyboard shortcuts,
+; 
+;Possible key values are as follows  (n.b. these values may never actually be generated (depends on users keyboard) :
+;
+;		NONE
+;		LEFT, UP, RIGHT, DOWN,
+;		SYSRQ, 	
+;		TAB, CAPS_LOCK,
+;		WINDOWS_LEFT, WINDOWS_RIGHT, WINDOWS_MENU,
+;		BACKSPACE, ESC, 
+;		F1 - F15,
+;		PAGE_UP, PAGE_DOWN, END, HOME, INS, DELETE,
+;		SCROLL_LOCK, PAUSE, NUM_LOCK, DIVIDE, MULTIPLY, SUBTRACT, ADD, ENTER,	
+;		NUM_0 - NUM_9,
+;		NUM_POINT, NUM_DIVIDE, ENTER,
+;		START_MENU_LEFT, START_MENU_RIGHT, POP_UP_MENU,
+;		0 - 9, MINUS, EQUALS,
+;		A - Z,
+;		OPEN_BRACKET, CLOSE_BRACKET, CONTROL_LEFT,
+;		SEMI_COLON, APOSTROPHE, BACK_APOSTROPHE, GRAVE, BACKSLASH,
+;		COMMA, FULLSTOP, SLASH, SHIFT_RIGHT, NUM_MULTIPLY, ALT_LEFT, SPACE,
+;		CAPSLOCK, NUMLOCK, SCROLLLOCK, NUM_SUBTRACT, NUM_ADD, OEM_102,
+;		KANA, CONVERT, NOCONVERT,
+;		NUMPADEQUALS, PREVTRACK, KANJI,
+;		STOP, UNLABELED, NEXTTRACK, NUM_ENTER, MUTE,
+;		PLAYPAUSE, MEDIASTOP, VOLUMEDOWN, VOLUMEUP, WEBHOME,
+;		SLEEP,
+;		WEBSEARCH, WEBFAVORITES, WEBREFRESH, WEBSTOP, WEBFORWARD, WEBBACK,
+;		MAIL, MEDIASELECT
+;
+; Possible modifiers are:
+;
+;	 NONE,  CTRL,  SHIFT,  ALT,	 RALT - RALT is ALT-Gr on some keyboards  
+;
+;   ==  ::Core:: key names  ==
+;   ESC, SYSRQ, PAUSE,
+;   0 - 9, NUM_0 - NUM_9, A - Z, F1 - F15,
+;   INS, DEL, HOME, END, PAGE_UP, PAGE_DOWN, UP, LEFT, DOWN, RIGHT,
+;   MINUS, EQUALS, OPEN_BRACKET, CLOSE_BRACKET, 
+;   SEMI_COLON, APOSTROPHE, GRAVE_ACCENT, SLASH, BACKSLASH,
+;   BACKSPACE, TAB, ENTER, SPACE,
+;   COMMA, FULL_STOP,
+;   NUM_MULTIPLY, NUM_DIVIDE, NUM_SUBTRACT, NUM_ADD, NUM_DEL, NUM_ENTER, NUMPAD_EQUALS,
+;   CAPS_LOCK, NUM_LOCK, SCROLL_LOCK,
+;
+;   ==  probably shouldn't let use win/media/language/power keys  ==
+;   KANA, CONVERT, NOCONVERT, KANJI,
+;   STOP, PLAY_PAUSE, MEDIA_STOP, NEXT_TRACK,
+;   MUTE, VOLUME_MINUS, VOLUME_PLUS,
+;   WEB_HOME, WEB_STOP, SEARCH, FAVORITES, REFRESH, FORWARD, BACK, MAIL,
+;   LEFT_WINDOWS, RIGHT_WINDOWS, APPLICATION, SLEEP,
+;
+;   == ::Core:: modifiers   ==
+;   CTRL, ALT, SHIFT
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;DEFAULT KEYSET;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+keyset default
+	camera
+		step_fwd_fast		NUM_8			repeating
+;;		fov_dec				NUM_7			repeating
+;;		fov_inc				NUM_9			repeating		
+		rot_u				NUM_ADD			repeating
+		rot_d				NUM_SUBTRACT	repeating
+		cam_up				NUM_MULTIPLY	repeating
+		cam_down			NUM_DIVIDE		repeating
+		toggle_move_fast	CAPS_LOCK
+		accel				PAGE_UP			repeating
+		decel				PAGE_DOWN		repeating
+		rot_l				NUM_4	LEFT	repeating
+		rot_r				NUM_6	RIGHT	repeating
+		step_l				NUM_1			repeating
+		step_r				NUM_3			repeating
+		step_fwd			NUM_5	UP		repeating
+		step_bck			NUM_2	DOWN	repeating
+		general_zoom		HOME
+		unit_zoom			END
+		unit_track			DEL
+		bookmark1			F9 			F9 SHIFT
+		bookmark2			F10 		F10 SHIFT
+		bookmark3			F11 		F11 SHIFT
+		bookmark4			F12 		F12 SHIFT
+		bookmark5			NONE 		hidden
+		bookmark6			NONE 		hidden
+		bookmark7			NONE 		hidden
+		bookmark8			NONE 		hidden
+		bookmark9			NONE 		hidden
+		bookmark10			NONE 		hidden
+		bookmark11			NONE 		hidden
+		bookmark12			NONE 		hidden
+		bookmark13			NONE 		hidden
+		bookmark14			NONE 		hidden
+		bookmark15			NONE 		hidden
+		bookmark16			NONE 		hidden
+		bookmark17			NONE 		hidden
+		bookmark18			NONE 		hidden
+		bookmark19			NONE 		hidden
+		bookmark20			NONE 		hidden
+		bookmark21			NONE 		hidden
+		bookmark22			NONE 		hidden
+		intellizoom			INS				repeating
+		freelook			INS		SHIFT	repeating
+	end
+
+	battle
+		toggle_formation_tightness	C
+		toggle_fire_at_will			A
+		toggle_skirmish				S
+		toggle_defend				D
+		toggle_run					R
+		toggle_special_ability		F
+		order_withdraw				W
+		formation_1					1	SHIFT
+		formation_2					2	SHIFT
+		formation_3					3	SHIFT
+		formation_4					4	SHIFT
+		formation_5					5	SHIFT
+		formation_6					6	SHIFT
+		formation_7					7	SHIFT
+		formation_8					8	SHIFT
+		order_halt					BACKSPACE
+		toggle_auto_link_up			L   CTRL 
+		unit_info_toggle			F2	CTRL
+		general_chat				T
+		global_chat					Y
+		toggle_pause_button				PAUSE	P	
+		ffwd_button					NONE
+		ultra_ffwd_button			NONE
+		dec_formation				MINUS		repeating
+		inc_formation				EQUALS		repeating
+		inc_rotation				FULL_STOP	repeating
+		dec_rotation				COMMA		repeating
+		next_army					TAB CTRL	hidden
+		orders_group				G
+		assign0						1 CTRL	hidden
+		assign1						2 CTRL	hidden
+		assign2						3 CTRL	hidden
+		assign3						4 CTRL	hidden
+		assign4						5 CTRL	hidden
+		assign5						6 CTRL	hidden
+		assign6						7 CTRL	hidden
+		assign7						8 CTRL	hidden
+		assign8						9 CTRL	hidden
+		assign9						0 CTRL	hidden
+		select0						1 hidden
+		select1						2 hidden
+		select2						3 hidden
+		select3						4 hidden
+		select4						5 hidden
+		select5						6 hidden
+		select6						7 hidden
+		select7						8 hidden
+		select8						9 hidden
+		select9						0 hidden
+		inc_xp						NONE	hidden
+		dec_xp						NONE	hidden
+		show_waypoints				SPACE
+		toggle_speed				T CTRL
+		toggle_hires_radar			F5	CTRL	hidden
+		toggle_radar				F5
+		toggle_buttons				F6
+		toggle_cards				F7
+	end
+
+	misc
+		inc_scale					F2
+		dec_scale					F3
+		toggle_unit_visibility		F3 CTRL		hidden
+		select_all					A  CTRL
+		select_siege				B  CTRL
+		select_infantry				I  CTRL
+		select_cavalry				C  CTRL
+		select_missile				M  CTRL
+		select_melee				H  CTRL
+		select_next					TAB
+		select_prev					TAB SHIFT
+		deselect_all				ENTER
+		deselect_all                            NUM_ENTER
+		hide_gui					SCROLL_LOCK		hidden
+		show_console				GRAVE_ACCENT
+		toggle_sound					S ALT
+		show_help					F1
+		quit						ESC		hidden
+;		reveal_advice				Z
+		dismiss_advice				X
+		screen_grab					SYSRQ
+	end
+
+	strat
+		save_stratmap				S CTRL
+		load_stratmap				L CTRL
+		speedup_ai					SPACE
+		stop_character				BACKSPACE
+		capital_zoom				HOME	H
+		display_standards			J
+		toggle_character_labels		N CTRL
+		toggle_settlement_labels	T CTRL
+		diplomacy_overview_button	D
+		finances_button				F
+		construction_button			B
+		recruitment_button			R
+		faction_button				O
+		automerge_units				M
+        mission_button              C
+		zoom_in						NUM_ADD			repeating
+		zoom_out					NUM_SUBTRACT	repeating
+		reset_rally_point			DEL
+		disband						D	CTRL
+		show_multi_turn_paths		EQUALS
+		select_next_selected		CLOSE_BRACKET
+		select_prev_selected		OPEN_BRACKET
+	
+	end
+
+	editors
+		undo						Z CTRL
+		redo						Y CTRL
+		save						S CTRL
+		load						L CTRL
+		delete_selected				DEL
+		toggle_overlays				TAB
+		prev_brush					OPEN_BRACKET
+		next_brush					CLOSE_BRACKET
+		battle_details_tool			F1
+		edit_armies_tool			F2
+		edit_units_tool				F3
+		deployment_area_tool		F4
+		heights_tool				F5
+		textures_tool				F6
+		place_settlements_tool		F7
+		place_models_tool			F8
+		victory_conditions_tool		F9
+		roads_tool					F10
+		update_trees_tool			F11
+	end
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;FPS KEYSET;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+keyset fps
+	camera
+		step_fwd_fast		NONE		 SHIFT		repeating
+;;		fov_dec				NUM_7		 repeating
+;;		fov_inc				NUM_9		 repeating		
+		rot_u				R			 repeating
+		rot_d				F			 repeating
+		cam_up				NUM_MULTIPLY repeating
+		cam_down			NUM_DIVIDE	 repeating
+		toggle_move_fast	CAPS_LOCK
+		accel				PAGE_UP		repeating
+		decel				PAGE_DOWN	
+		rot_l				Q			repeating
+		rot_r				E			repeating
+		step_l				A			repeating
+		step_r				D			repeating
+		step_fwd			W			repeating
+		step_bck			S			repeating
+		general_zoom		HOME
+		unit_zoom			END
+		unit_track			DEL
+		bookmark1			F9 			F9 SHIFT
+		bookmark2			F10 		F10 SHIFT
+		bookmark3			F11 		F11 SHIFT
+		bookmark4			F12 		F12 SHIFT
+		bookmark5			NONE 		hidden
+		bookmark6			NONE 		hidden
+		bookmark7			NONE 		hidden
+		bookmark8			NONE 		hidden
+		bookmark9			NONE 		hidden
+		bookmark10			NONE 		hidden
+		bookmark11			NONE 		hidden
+		bookmark12			NONE 		hidden
+		bookmark13			NONE 		hidden
+		bookmark14			NONE 		hidden
+		bookmark15			NONE 		hidden
+		bookmark16			NONE 		hidden
+		bookmark17			NONE 		hidden
+		bookmark18			NONE 		hidden
+		bookmark19			NONE 		hidden
+		bookmark20			NONE 		hidden
+		bookmark21			NONE 		hidden
+		bookmark22			NONE 		hidden
+		intellizoom			GRAVE_ACCENT CTRL			repeating
+		freelook			GRAVE_ACCENT SHIFT			repeating
+	end
+
+	battle
+		toggle_formation_tightness	U
+		toggle_fire_at_will			I
+		toggle_skirmish				K
+		toggle_defend				B
+		toggle_run					H
+		toggle_special_ability		J
+		order_withdraw				L
+		formation_1					1	SHIFT
+		formation_2					2	SHIFT
+		formation_3					3	SHIFT
+		formation_4					4	SHIFT
+		formation_5					5	SHIFT
+		formation_6					6	SHIFT
+		formation_7					7	SHIFT
+		formation_8					8	SHIFT
+		order_halt					BACKSPACE
+		toggle_auto_link_up			L   CTRL 
+		unit_info_toggle			F2	CTRL
+		general_chat				T
+		global_chat					Y
+		toggle_pause_button			PAUSE	P	
+		ffwd_button					NONE
+		ultra_ffwd_button			NONE
+		dec_formation				MINUS		repeating
+		inc_formation				EQUALS		repeating
+		inc_rotation				FULL_STOP	repeating
+		dec_rotation				COMMA		repeating
+		next_army					TAB CTRL	hidden
+		orders_group				G
+		assign0						1 CTRL	hidden
+		assign1						2 CTRL	hidden
+		assign2						3 CTRL	hidden
+		assign3						4 CTRL	hidden
+		assign4						5 CTRL	hidden
+		assign5						6 CTRL	hidden
+		assign6						7 CTRL	hidden
+		assign7						8 CTRL	hidden
+		assign8						9 CTRL	hidden
+		assign9						0 CTRL	hidden
+		select0						1 hidden
+		select1						2 hidden
+		select2						3 hidden
+		select3						4 hidden
+		select4						5 hidden
+		select5						6 hidden
+		select6						7 hidden
+		select7						8 hidden
+		select8						9 hidden
+		select9						0 hidden
+		inc_xp						NONE hidden
+		dec_xp						NONE hidden
+		show_waypoints				SPACE
+		toggle_speed				T CTRL
+		toggle_hires_radar			F5 CTRL	hidden
+		toggle_radar				F5
+		toggle_buttons				F6
+		toggle_cards				F7
+	end
+
+	misc
+		inc_scale					F2
+		dec_scale					F3
+		toggle_unit_visibility		F3 CTRL		hidden
+		select_all					A  CTRL
+		select_siege				B  CTRL
+		select_infantry				I  CTRL
+		select_cavalry				C  CTRL
+		select_missile				M  CTRL
+		select_melee				H  CTRL
+		select_next					TAB
+		select_prev					TAB SHIFT
+		deselect_all				ENTER
+		deselect_all                            NUM_ENTER
+		hide_gui					SCROLL_LOCK		hidden
+		show_console				GRAVE_ACCENT
+		toggle_sound					S ALT
+		show_help					F1
+		quit						ESC			hidden
+;		reveal_advice				Z
+		dismiss_advice				X
+		screen_grab					SYSRQ 
+	end
+
+	strat
+		save_stratmap				S CTRL
+		load_stratmap				L CTRL
+		speedup_ai					SPACE
+		stop_character				BACKSPACE
+		capital_zoom				HOME	H
+		display_standards			J
+		toggle_character_labels		N CTRL
+		toggle_settlement_labels	T CTRL
+		diplomacy_overview_button	G
+		finances_button				F
+		construction_button			B
+		recruitment_button			R
+		faction_button				O
+		automerge_units				M
+        mission_button              C
+		zoom_in						NUM_ADD			repeating
+		zoom_out					NUM_SUBTRACT	repeating
+		reset_rally_point			DEL
+		disband						D	CTRL
+		show_multi_turn_paths		EQUALS
+		select_next_selected		CLOSE_BRACKET
+		select_prev_selected		OPEN_BRACKET
+
+	end
+
+	editors
+		undo						Z CTRL
+		redo						Y CTRL
+		save						S CTRL
+		load						L CTRL
+		delete_selected				DEL
+		toggle_overlays				TAB
+		prev_brush					OPEN_BRACKET
+		next_brush					CLOSE_BRACKET
+		battle_details_tool			F1
+		edit_armies_tool			F2
+		edit_units_tool				F3
+		deployment_area_tool		F4
+		heights_tool				F5
+		textures_tool				F6
+		place_settlements_tool		F7
+		place_models_tool			F8
+		victory_conditions_tool		F9
+		roads_tool					F10
+		update_trees_tool			F11
+	end
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;KEY MAPPINGS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+mappings
+
+	battle
+		toggle_formation_tightness
+		toggle_fire_at_will
+		toggle_skirmish
+		toggle_defend
+		toggle_run
+		toggle_special_ability
+		order_withdraw
+		formation_1
+		formation_2
+		formation_3
+		formation_4
+		formation_5
+		formation_6
+		formation_7
+		formation_8
+		order_halt
+		toggle_auto_link_up
+		toggle_pause_button
+		ffwd_button
+		ultra_ffwd_button
+		unit_info_toggle	battle_ui
+		general_chat		battle_ui
+		global_chat			battle_ui
+		general_zoom		battle_ui
+		unit_zoom		battle_ui
+		unit_track		battle_ui
+		quit			battle_ui
+		dec_formation		battle_ui
+		inc_formation		battle_ui
+		inc_rotation		battle_ui
+		dec_rotation		battle_ui
+		next_army		battle_ui
+		bookmark1		battle_ui
+		bookmark2		battle_ui
+		bookmark3		battle_ui
+		bookmark4		battle_ui
+		bookmark5		battle_ui
+		bookmark6		battle_ui
+		bookmark7		battle_ui
+		bookmark8		battle_ui
+		bookmark9		battle_ui
+		bookmark10		battle_ui
+		bookmark11		battle_ui
+		bookmark12		battle_ui
+		bookmark13		battle_ui
+		bookmark14		battle_ui
+		bookmark15		battle_ui
+		bookmark16		battle_ui
+		bookmark17		battle_ui
+		bookmark18		battle_ui
+		bookmark19		battle_ui
+		bookmark20		battle_ui
+		bookmark21		battle_ui
+		bookmark22		battle_ui
+		toggle_hires_radar battle_ui
+		toggle_speed	timeline_control
+		inc_scale		radar
+		dec_scale		radar
+		toggle_unit_visibility		radar
+		select_siege	card_manager
+		select_infantry		card_manager
+		select_cavalry		card_manager
+		select_missile		card_manager
+		select_melee		card_manager
+		orders_group		card_manager
+		assign0		card_manager
+		assign1		card_manager
+		assign2		card_manager
+		assign3		card_manager
+		assign4		card_manager
+		assign5		card_manager
+		assign6		card_manager
+		assign7		card_manager
+		assign8		card_manager
+		assign9		card_manager
+		select0		card_manager
+		select1		card_manager
+		select2		card_manager
+		select3		card_manager
+		select4		card_manager
+		select5		card_manager
+		select6		card_manager
+		select7		card_manager
+		select8		card_manager
+		select9		card_manager
+		inc_xp		card_manager
+		dec_xp		card_manager
+		show_waypoints		waypoint_display
+		step_fwd_fast		camera
+		rot_u		camera
+		rot_d		camera
+		cam_up		camera
+		cam_down		camera
+		toggle_move_fast		camera
+		accel		camera
+		decel		camera
+		rot_l		camera
+		rot_r		camera
+		step_l		camera
+		step_r		camera
+		step_fwd		camera
+		step_bck		camera
+		intellizoom		battle_ui_extras 
+		freelook		battle_ui_extras
+		toggle_radar	minimal_hud
+		toggle_buttons  minimal_hud
+		toggle_cards	minimal_hud
+	end
+
+	battle_view
+		quit		battleview_ui
+		step_fwd_fast	camera
+		rot_u		camera
+		rot_d		camera
+		cam_up		camera
+		cam_down		camera
+		toggle_move_fast		camera
+		accel		camera
+		decel		camera
+		rot_l		camera
+		rot_r		camera
+		step_l		camera
+		step_r		camera
+		step_fwd		camera
+		step_bck		camera
+	end
+
+	battle_replay
+		quit	battle_replay_ui
+		toggle_pause_button
+		ffwd_button
+		ultra_ffwd_button
+		step_fwd_fast		camera
+		rot_u		camera
+		rot_d		camera
+		cam_up		camera
+		cam_down		camera
+		toggle_move_fast		camera
+		accel		camera
+		decel		camera
+		rot_l		camera
+		rot_r		camera
+		step_l		camera
+		step_r		camera
+		step_fwd		camera
+		step_bck		camera
+		toggle_speed	timeline_control
+;;		fov_dec		camera
+;;		fov_inc		camera
+	end
+
+	strat
+		save_stratmap					strat_ui
+		load_stratmap					strat_ui
+		speedup_ai						strat_ui
+		stop_character					strat_ui
+		capital_zoom					strat_ui
+		display_standards				strat_ui
+		toggle_character_labels			strat_ui
+		toggle_settlement_labels		strat_ui
+		quit							strat_ui
+		diplomacy_overview_button		strat_ui
+		finances_button					strat_ui
+		zoom_in							strat_ui
+		zoom_out						strat_ui
+		reset_rally_point				strat_ui
+        mission_button                  strat_ui
+		disband							card_manager
+		show_multi_turn_paths			strat_ui
+		inc_scale						radar	
+		dec_scale						radar
+		construction_button
+		recruitment_button
+		faction_button
+		automerge_units		campaign_hud
+		step_l				camera
+		step_r				camera
+		step_fwd			camera
+		step_bck			camera
+		rot_l				camera
+		rot_r				camera
+		select_next_selected			hud_select_next_item_cycle
+		select_prev_selected			hud_select_prev_item_cycle	
+	end
+
+	strat_ed
+		undo		strat_ed_ui
+		redo		strat_ed_ui
+		save		strat_ed_ui
+		load		strat_ed_ui
+		quit		strat_ed_ui
+		zoom_in							strat_ed_ui
+		zoom_out						strat_ed_ui
+		delete_selected		strat_ed_ui
+		toggle_overlays		strat_ed_ui
+		step_l		camera
+		step_r		camera
+		step_fwd		camera
+		step_bck		camera
+		rot_l				camera
+		rot_r				camera
+		inc_scale						radar	
+		dec_scale						radar
+	end
+
+	battle_ed
+		quit		battle_editor
+		undo		battle_editor
+		redo		battle_editor
+		delete_selected		battle_editor
+		save		battle_editor
+		load		battle_editor
+		unit_zoom		battle_editor
+		prev_brush		battle_editor
+		next_brush		battle_editor
+		battle_details_tool
+		edit_armies_tool
+		edit_units_tool
+		deployment_area_tool
+		heights_tool
+		textures_tool
+		place_settlements_tool
+		place_models_tool
+		victory_conditions_tool
+		roads_tool
+		update_trees_tool
+		step_fwd_fast	camera
+		rot_u		camera
+		rot_d		camera
+		cam_up		camera
+		cam_down		camera
+		toggle_move_fast		camera
+		accel		camera
+		decel		camera
+		rot_l		camera
+		rot_r		camera
+		step_l		camera
+		step_r		camera
+		step_fwd		camera
+		step_bck		camera
+	end
+
+	all
+		hide_gui				object_manager
+		show_console			object_manager
+		screen_grab				object_manager
+		select_all				card_manager
+		select_next				card_manager
+		select_prev				card_manager
+		deselect_all			card_manager
+		toggle_sound				preferences
+		show_help				help_scroll
+;		reveal_advice			advisor_portrait_button
+		dismiss_advice			advisor_dismiss_button  
+	end
