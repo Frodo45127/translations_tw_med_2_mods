@@ -7,7 +7,7 @@ Medieval 2 mod translations. Status:
     - Descriptions
 
 How to install:
-    - Download the repo.
-    - Copy all files from "folder of the mod you want to translate/es" (repo) to "folder where the mod is installed/data/text".
-    - Run the "Full Cleaner.bat" in the "folder where the mod is installed" folder.
-    - Disfruta de mods mayormente en español. No hay de qué
+- Download the repo.
+- Copy all files from "folder of the mod you want to translate/es" (repo) to "folder where the mod is installed/data/text".
+- Run the "Full Cleaner.bat" in the "folder where the mod is installed" folder.
+- Disfruta de mods mayormente en español. No hay de qué
