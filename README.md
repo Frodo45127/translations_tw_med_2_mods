@@ -8,7 +8,6 @@ Medieval 2 spanish mod translations. Status:
 - AGO 2.1: everything done except:
     - A decent chunk of events
     - Descriptions
-    - Trait names 
 
 How to install (DaC and Gondor at War):
 - Download the repo.
