@@ -17,7 +17,6 @@ Traducciones a español/castellano de mods del Medieval 2. Estado:
     - Séquitos.
     - La mitad de los nombres.
     - Interfaz diplomática.
-    - Adjetivos de facciones.
 
 Cómo instalar (DaC y Gondor at War):
 - Descarga el repo.
