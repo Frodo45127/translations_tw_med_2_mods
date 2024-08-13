@@ -6,7 +6,6 @@ Traducciones a español/castellano de mods del Medieval 2. Estado:
     - Gran parte de los eventos.
     - Descripciones.
 - AGO 2.1: todo traducido excepto:
-    - Gran parte de los eventos.
     - Descripciones.
 - The Elder Scrolls Unofficial Patch 2.0.5: todo traducido excepto:
     - Gran parte de los eventos.
