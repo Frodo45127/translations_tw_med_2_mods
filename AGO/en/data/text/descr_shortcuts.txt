@@ -125,6 +125,7 @@ keyset default
 		formation_8					8	SHIFT
 		order_halt					BACKSPACE
 		toggle_auto_link_up			L   CTRL 
+		highlight_units				Q   CTRL 
 		unit_info_toggle			F2	CTRL
 		general_chat				T
 		global_chat					Y
@@ -138,7 +139,7 @@ keyset default
 		select9						0 hidden
 		inc_xp						NONE	hidden
 		dec_xp						NONE	hidden
-		show_waypoints				SPACE
+		show_waypoints				SPACE repeating
 		toggle_speed				T CTRL
 		toggle_hires_radar			F5	CTRL	hidden
 		toggle_radar				F5
@@ -215,6 +216,9 @@ keyset default
 		select_next_selected		CLOSE_BRACKET
 		select_prev_selected		OPEN_BRACKET
 		ago_custom_1				SHIFT F8 	hidden
+		open_eop_gui				X
+		sort_stack					Z CTRL
+		next_idle_unit				I CTRL
 	
 	end
 
@@ -313,6 +317,7 @@ keyset fps
 		formation_8					8	SHIFT
 		order_halt					BACKSPACE
 		toggle_auto_link_up			L   CTRL 
+		highlight_units				Q   CTRL 
 		unit_info_toggle			F2	CTRL
 		general_chat				T
 		global_chat					Y
@@ -347,7 +352,7 @@ keyset fps
 		select9						0 hidden
 		inc_xp						NONE hidden
 		dec_xp						NONE hidden
-		show_waypoints				SPACE
+		show_waypoints				SPACE repeating
 		toggle_speed				T CTRL
 		toggle_hires_radar			F5 CTRL	hidden
 		toggle_radar				F5
@@ -403,6 +408,9 @@ keyset fps
 		select_next_selected		CLOSE_BRACKET
 		select_prev_selected		OPEN_BRACKET
 		ago_custom_1				SHIFT F8 	hidden
+		open_eop_gui				X
+		sort_stack					Z CTRL
+		next_idle_unit				I CTRL
 
 	end
 
@@ -455,6 +463,7 @@ mappings
 		formation_7
 		formation_8
 		order_halt
+		highlight_units		battle_ui
 		toggle_auto_link_up
 		toggle_pause_button
 		ffwd_button
@@ -607,6 +616,9 @@ mappings
 		reset_rally_point				strat_ui
         mission_button                  strat_ui
 		ago_custom_1					strat_ui
+		sort_stack						strat_ui
+		next_idle_unit					strat_ui
+		open_eop_gui					strat_ui
 		disband							card_manager
 		show_multi_turn_paths			strat_ui
 		inc_scale						radar	
