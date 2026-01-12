@@ -1,1 +1,2 @@
-*.txt   diff=localizablestrings
+**/*.txt   working-tree-encoding=utf-16le-bom
+**/descr_shortcuts.txt -working-tree-encoding
