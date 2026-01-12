@@ -1,0 +1,44 @@
+¬
+{acquire}Right-click to Acquire merchant's assets
+{already_equipped}Cannot use siege equipment whilst already equipped
+{alt_to_set_rally_point}Hold ALT key and Right-click to set rally point at this position
+{armies_cannot_attack_navies}Armies cannot attack navies
+{armies_cannot_attack_ports}Armies cannot attack ports
+{armies_cannot_go_on_sea}Armies cannot travel on water unless they are travelling on a naval fleet
+{artillery_cannot_sap}Artillery units cannot enter sap points
+{assassination_mission}Right-click to assassinate target
+{assassination_sabotage_mission}Right-click to choose assassination or sabotage mission
+{attack_from_settlement}Right-click to attack enemy with entire garrison
+{cannot_attack_rome_yet}IF YOU CAN SEE THIS THERE'S SOMETHING WRONG - TELL DAN T YOU SAW A cursor_action_tooltip PROBLEM.
+{cannot_enter_sieged_fort}Cannot enter forts that are under siege
+{cannot_enter_sieged_settlement}Cannot enter settlements that are under siege
+{cannot_break_alliance}Cannot attack allies! First you must send a diplomat and inform them of your ill-intentions.
+{cannot_leave_settlement}It isn't possible to leave a settlement or fort that is under siege
+{cannot_perform_mission}Cannot perform mission on this character
+{cannot_perform_mission_on_sieged_fort}Cannot perform missions on forts that are under siege
+{cannot_perform_mission_on_sieged_settlement}Cannot perform missions on settlements that are under siege
+{cannot_select_enemy_piece}This belongs to another faction
+{cannot_set_rally_point_on_enemy}Cannot set a rally point on an enemy position
+{cavalry_cannot_sap}Cavalry units cannot enter sap points
+{characters_cannot_go_on_sea}Characters cannot travel on water unless they are travelling on a naval fleet
+{cowards_cannot_action}Cannot command routing units
+{denounce}Right-click to denounce this blasphemous individual
+{diplomacy_mission}Right-click to enter diplomatic negotiations
+{disembark_army}Right-click to disembark transported army
+{embark_army}Right-click to transfer army onto this fleet
+{embark_character}Right-click to add character as a passenger on this fleet
+{embark_character_in_port}Right-click to add character as a passenger of the fleet in this port
+{enter_fort}Right-click to move into fort
+{enter_settlement}Right-click to move into settlement
+{fleet_offshore}To move armies on to a fleet the fleet must be next to a beach or port 
+{impassable_forest}This forest is impassable. You cannot move in to it
+{impassable_mountains}These mountains are impassable. You cannot move in to them
+{marry_diplomacy}Right-click to propose marriage, or enter diplomatic negotiations
+{marry_merge}Right-click to propose marriage, or join this army
+{navies_cannot_attack_land_based}Navies cannot attack land based items
+{navies_cannot_move_on_land}Navies cannot move on land
+{no_artillery_on_platforms}Artillery cannot be moved on walls
+{no_cavalry_on_platforms}Cavalry units cannot move on walls
+{no_equipment_on_platforms}Siege equipment cannot be moved on walls
+{rclick_to_blockade}Right-click to blockade docks
+{spy_mission}Right-click to spy on target

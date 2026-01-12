@@ -1,0 +1,285 @@
+¬
+{Author_1}Emperor Uriel Septim VII
+{Author_10}Zurin Arctus
+{Author_100}Gaiden Shinji
+{Author_102}Zurin Arctus
+{Author_103}Sheogorath, Daedric Prince of Madness
+{Author_104}Potema Septim, Wolf Queen of Solitude
+{Author_105}Potema Septim, Wolf Queen of Solitude
+{Author_106}Potema Septim, Wolf Queen of Solitude
+{Author_107}Lord Dagoth Voryn, Dagoth Ur
+{Author_108}Emperor Reman Cyrodiil III
+{Author_109}Zarek
+{Author_11}Khajiiti proverb
+{Author_110}Akatosh Prophecy
+{Author_111}Queen Barenziah
+{Author_112}"Manual of Spellcraft"
+{Author_113}Hlaalu Dram Bero
+{Author_114}Hlaalu Dram Bero
+{Author_115}Hlaalu Dram Bero
+{Author_116}"Galerion the Mystic"
+{Author_117}Lord Dagoth Voryn, Dagoth Ur
+{Author_118}"Souls: Black and White"
+{Author_119}General Indoril-Triffith
+{Author_12}Mankar Camoran
+{Author_120}Mankar Camoran
+{Author_121}Emperor Tiber Septim
+{Author_122}Morihaus-Breath-of-Kyne about Saint Alessia
+{Author_123}Morihaus-Breath-of-Kyne
+{Author_124}Lord Vivec, Warrior-Poet God
+{Author_125}Emperor Uriel Septim VII
+{Author_126}Emperor Reman Cyrodiil I
+{Author_127}Emperor Varen Aquilarios
+{Author_128}Emperor Antiochus Septim about Potema Septim, Wolf Queen of Solitude
+{Author_129}Mankar Camoran
+{Author_13}Emperor Tiber Septim
+{Author_130}Lord Vivec, Warrior-Poet God
+{Author_131}Potentate Versidue-Shaie to emperor Reman Cyrodiil III
+{Author_132}Lord Sotha Sil, Clockmaster
+{Author_133}Lord Sotha Sil, Clockmaster
+{Author_134}Lord Sotha Sil, Clockmaster
+{Author_135}Emperor Reman Cyrodiil III
+{Author_136}Last words of emperor Reman Cyrodiil III
+{Author_137}Emperor Uriel Septim VII
+{Author_138}High King Emeric I Cumberland
+{Author_139}High King Emeric I Cumberland
+{Author_14}Mankar Camoran
+{Author_140}High King Emeric I Cumberland
+{Author_141}High King Emeric I Cumberland
+{Author_142}Lord Vivec, Warrior-Poet God
+{Author_143}Lord Dagoth Voryn, Dagoth Ur
+{Author_144}Lord Indoril Nerevar, Moon-and-Star
+{Author_145}Lord Indoril Nerevar, Moon-and-Star
+{Author_146}Lord Indoril Nerevar, Moon-and-Star
+{Author_147}Abnur Tharn
+{Author_148}Emperor Varen Aquilarios
+{Author_149}Emperor Varen Aquilarios
+{Author_15}Lord Vivec, Warrior-Poet God
+{Author_150}Emperor Varen Aquilarios
+{Author_151}"Commentaries on the Mysterium Xarxes Book Three"
+{Author_16}King Hlaalu Helseth
+{Author_17}Zurin Arctus
+{Author_18}Zurin Arctus
+{Author_19}Zurin Arctus
+{Author_2}"Sovngarde, a Reexamination"
+{Author_20}Emperor Uriel Septim VII
+{Author_21}"The Final Lesson"
+{Author_22}Old Breton joke
+{Author_23}Lord Dagoth Voryn, Dagoth Ur to Nerevarine
+{Author_24}Potentate Versidue-Shaie
+{Author_25}"Brief History of the Empire" vol. 1
+{Author_26}Allena Benoch
+{Author_27}Allena Benoch
+{Author_29}Emperor Pelagius Septim III
+{Author_3}Aerin
+{Author_30}Raelys Anine
+{Author_31}Raelys Anine
+{Author_32}Raelys Anine
+{Author_33}Raelys Anine
+{Author_34}Mankar Camoran
+{Author_35}"The Blessings of Sheogorath"
+{Author_36}"The Blessings of Sheogorath"
+{Author_37}"The Blessings of Sheogorath"
+{Author_38}"The Blessings of Sheogorath"
+{Author_39}"The Blessings of Sheogorath"
+{Author_4}"The Blessings of Sheogorath"
+{Author_40}"The Blessings of Sheogorath"
+{Author_41}"The Blessings of Sheogorath"
+{Author_42}"The Blessings of Sheogorath"
+{Author_43}"The Blessings of Sheogorath"
+{Author_44}"The Blessings of Sheogorath"
+{Author_45}"The Blessings of Sheogorath"
+{Author_46}"The Blessings of Sheogorath"
+{Author_47}"The Book of Daedra"
+{Author_48}"The Book of Daedra"
+{Author_49}"The Book of Daedra"
+{Author_5}"The Book of Daedra"
+{Author_50}"The Book of Daedra"
+{Author_51}"The Book of Daedra"
+{Author_52}"The Book of Daedra"
+{Author_53}"The Book of Daedra"
+{Author_54}"The Book of Daedra"
+{Author_55}"The Book of Daedra"
+{Author_56}"The Book of Daedra"
+{Author_57}"The Book of Daedra"
+{Author_58}"The Book of Daedra"
+{Author_59}"The Book of Daedra"
+{Author_6}"The Book of Daedra"
+{Author_60}"The Book of Daedra"
+{Author_61}Mujitaba the Iron-Hoofed
+{Author_64}Movarth Piquine
+{Author_65}Movarth Piquine
+{Author_66}"The Doors of Oblivion"
+{Author_67}Emperor Reman Cyrodiil I
+{Author_68}Commandment of Stendarr, the Steadfast, God of Justice
+{Author_69}Commandment of Arkay, the Mortals' God, Lord of the Wheel of Life
+{Author_7}Commandment of Mara, the Mother-Goddess
+{Author_71}Commandment of Zenithar, Trader God, God of Work
+{Author_72}Commandment of Talos, Heir to the Seat of Sundered Kings, God of War
+{Author_73}Commandment of Kynareth, Goddess of the heavens
+{Author_74}Commandment of Dibella, Lady of Love
+{Author_75}Commandment of Julianos, God of Wisdom and Logic
+{Author_76}Commandment of Akatosh, the Dragon God of Time
+{Author_78}Morian Zenas
+{Author_79}Morian Zenas
+{Author_8}Agnar the Unwavering
+{Author_80}Lucien Lachance
+{Author_81}Reven
+{Author_82}"An Aqqounting of Scrolls"
+{Author_83}Alexandre Hetrard
+{Author_84}Alessia Ottus
+{Author_85}Symmachus
+{Author_86}Symmachus to Queen Barenziah
+{Author_87}Symmachus to Queen Barenziah
+{Author_88}Queen Barenziah to Symmachus
+{Author_89}Sed-Yenna to young Reman Cyrodiil I
+{Author_9}Voth Karlyss
+{Author_92}"Followers of the Gray Fox"
+{Author_93}"The Real Barenziah", Tiber Septim's appearance
+{Author_94}Potema Septim, Wolf Queen of Solitude
+{Author_95}Mankar Camoran
+{Author_96}Emperor Tiber Septim
+{Author_98}Mankar Camoran
+{Author_99}Brunwulf Free-Winter
+{Quote_1}Close shut the jaws of Oblivion.
+{Quote_10}Each event is preceded by Prophecy. But without the hero, there is no Event...
+{Quote_100}The best techniques are passed on by the survivors.
+{Quote_102}The enemy's vulnerability may be his strongest point; your weakness may enable you to strike the decisive blow.
+{Quote_103}Without madness, there are no dreams, and no creation.
+{Quote_104}Oh, everyone can be hit, all right. But it does take some doing...
+{Quote_105}Sometimes making people hate you, is how you make a profit.
+{Quote_106}Sister-in-Law, You asked what I do better than speaking? The answer is: 'war'.
+{Quote_107}Come to me through fire and war, I welcome you.
+{Quote_108}You Akaviri have a lot of showy moves, but if just one of our strikes comes through, it's all over for you.
+{Quote_109}Observing thy surroundings, and looking for thy opponent's weakness.
+{Quote_11}Absurdity has become necessity.
+{Quote_110}So long as the Blood of the Dragon runs strong in her rulers, the glory of the Empire shall extend in unbroken years. But should the Dragonfires fail, and should no heir of our joined blood wear the Amulet of Kings, then shall the Empire descend into darkness, and the Demon Lords of Misrule shall govern the land.
+{Quote_111}Worth is measured by the price we pay...
+{Quote_112}The most powerful mages in Tamriel were once beginners.
+{Quote_113}House Redoran may be - and is - able to beat us on the battlefield, but when the smokes of war settle, they still discover that they are obliged to us - one way or the other.
+{Quote_114}Telvanni wield ancient and mysterious powers, but they are fighting among themselves, not eager to accept ways of our Empire.
+{Quote_115}House Dres learned how to make money, and never to make enemies.
+{Quote_116}Competent servants - a mistake of nature, they are equally dangerous for themselves and for their lords.
+{Quote_117}What a fool you are... I am a GOD! How can you kill a GOD?
+{Quote_118}The nature of the soul is not knowable.
+{Quote_119}If your ancestors are so smart, why are they all so dead?
+{Quote_12}Walk first. Heed. The impatience you feel is your first slave to behead.
+{Quote_120}Though you be a destroyer you must still submit to locks
+{Quote_121}They're people, child, not dry facts in a dusty volume.
+{Quote_122}Though she is gone to me, she remains bathed in stars, first Empress, Lady of Heaven, Queen-ut-Cyrod.
+{Quote_123}Pelinal-ada, you lay in longest quiet,|Making it less easy to stay here between|The wave-fields of time,|Where forms adorn ideas rather|Than the insane else of heaven.
+{Quote_124}Vehk the mortal did murder the Hortator. Vehk the God did not, and remains as written. And yet these two are the same being. And yet are not, save for one red moment.
+{Quote_125}The skies are marked with numberless sparks, each a fire, and every one a sign.
+{Quote_126}Tell me now what else does not believe in or belong to me.
+{Quote_127}Now watch, and see how one man's arrogance brought about the greatest threat our world has ever known.
+{Quote_128}My sister is a devotee of the conqueror gods Reman and Talos, not the love goddess Dibella. She is plotting with those men, not having orgies with them. I'd wager I've slept with more men than she has.
+{Quote_129}We mortals leave the dreaming-sleeve of birth the same, unmantled save for the symbiosis with our mothers, thus to practice and thus to rapprochement, until finally we might through new eyes leave our hearths without need or fear that she remains behind.
+{Quote_13}Let me show you the power of Talos Stormcrown, born of the North, where my breath is long winter. I breathe now, in royalty, and reshape this land which is mine. I do this for you, Red Legions, for I love you.
+{Quote_130}Reach heaven by violence.
+{Quote_131}At last we can settle which philosophy is better -- to create armor to combat swords as your people do, or to create swords to combat armor as mine do.
+{Quote_132}If you must be stupid, at least be amusing.
+{Quote_133}There are layers to understanding all things.
+{Quote_134}The deals we make with Daedra... Should not be discussed with the innocent.
+{Quote_135}A lust for love leads to a lust for power.
+{Quote_136}Snake.
+{Quote_137}Men are but flesh and blood. They know their doom, but not the hour.
+{Quote_138}And that is, perhaps, the greatest lesson that Reman II can teach to any leader: to keep ambition in check.
+{Quote_139}The city of Alessia and the Remans is itself a source of great power, both symbolic and actual
+{Quote_14}Fear only for a second.
+{Quote_140}We Bretons of High Rock remember the oppressive rule of Elvenkind, and are determined that Tamriel shall not be ruled again by such tyrants.
+{Quote_141}Then once more peace and justice will rule the provinces, rather than blood and fire.
+{Quote_142}Because a ruling king that sees in another his equivalent rules nothing.
+{Quote_143}I am older than Music. What I bring is light, what I bring is a star, what I bring is an Ancient Sea.
+{Quote_144}I am not of the slaves that perish.
+{Quote_145}The edge of the world is made of swords.
+{Quote_146}Do not betray your nature.
+{Quote_147}I detest being on the wrong side of history.
+{Quote_148}The minds of some men can endure hardships far greater than anything the Daedra can concoct.
+{Quote_149}Destiny can crush us by fulfilling our wishes, just as surely as it can by denying them.
+{Quote_15}He was not born a god. His destiny did not lead him to this crime. He chose this path of his own free will. He stole the godhood and murdered the Hortator. Vivec wrote this.
+{Quote_150}You cannot cross the sea simply by standing and considering the water.
+{Quote_151}The Tower touches all the mantles of Heaven... and by its apex one can be as he will. More: be as he was and yet changed for all else on that path for those that walk after. This is... the secret of how mortals become makers, and makers back to mortals."
+{Quote_16}The kings made best of revolutions.
+{Quote_17}Only in victory will the enemy be vulnerable to defeat.
+{Quote_18}Victory in battle is only the least kind of victory. Victory without battle is the acme of skill.
+{Quote_19}Thus when the army strikes a blow, it will be like a thunderclap out of a cloudless sky. 
+{Quote_2}What, some may ask, does the entrance to Sovngarde have to do with death? Everything.
+{Quote_20}Death, a necessary end, will come when it will come.
+{Quote_21}The only way to become truly great is to try all the possibilities on your own.
+{Quote_22}Find a new hill, become a king!
+{Quote_23}Three belied you, three betrayed you! One you betrayed was three times true! Lord Voryn Dagoth, Dagoth Ur, steadfast liegeman, faithful friend, bids you come and climb Red Mountain!
+{Quote_24}We don't have shields in our culture... In our country, if you don't want to get hit, you move out of the way.
+{Quote_25}For thirty-eight years, the Emperor Tiber reigned supreme. It was a lawful, pious, and glorious age, when justice was known to one and all, from serf to sovereign. On Tiber's death, it rained for an entire fortnight as if the land of Tamriel itself was weeping.
+{Quote_26}You always remember the mistakes of your first victim.
+{Quote_27}The ways of the warrior were never meant to be the easiest path.
+{Quote_29}Yes, Agnorith! Hero of—which battles? Conquerer of—what people? Slayer of—which enemy? Author of—which laws?
+{Quote_3}Use your enemy's momentum against him.
+{Quote_30}From fire, life; from light, magic.
+{Quote_31}Wear lore as your armor.
+{Quote_32}Wisdom learned by pain is a reliable guide in dark times.
+{Quote_33}In the caverns of lore, ugly and obscure, shines the gold of truth...
+{Quote_34}Let all the Aurbis know itself to be Free! Mehrunes is come! There is no dominion save free will!
+{Quote_35}Blessed are the Madmen, for they hold the keys to secret knowledge.
+{Quote_36}Blessed are the Phobic, always wary of that which would do them harm.
+{Quote_37}Blessed are the Obsessed, for their courses are clear.
+{Quote_38}Blessed are the Addicts, may they quench the thirst that never ebbs.
+{Quote_39}Blessed are the Murderous, for they have found beauty in the grotesque.
+{Quote_4}Blessed are the Firelovers, for their hearts are always warm.
+{Quote_40}Blessed are the Artists, for in their hands the impossible is made real.
+{Quote_41}Blessed are the Musicians, for in their ears they hear the music of the soul. 
+{Quote_42}Blessed are the Sleepless, as they bask in wakeful dreaming.
+{Quote_43}Blessed are the Paranoid, ever-watchful for our enemies.
+{Quote_44}Blessed are the Visionaries, for their eyes see what might be.
+{Quote_45}Blessed are the Painlovers, for in their suffering, we grow stronger.
+{Quote_46}Blessed is the Madgod, who tricks us when we are foolish, punishes us when we are wrong, tortures us when we are unmindful, and loves us in our imperfection.
+{Quote_47}Azura, whose sphere is dusk and dawn, the magic in-between realms of twilight, known as Moonshadow, Mother of the Rose, and Queen of the Night Sky.
+{Quote_48}Boethiah, whose sphere is deceit and conspiracy, and the secret plots of murder, assassination, treason, and unlawful overthrow of authority.
+{Quote_49}Clavicus Vile, whose sphere is the granting of power and wishes through ritual invocations and pact. 
+{Quote_5}Hermaeus Mora, whose sphere is scrying of the tides of Fate, of the past and future as read in the stars and heavens, and in whose dominion are the treasures of knowledge and memory.
+{Quote_50}Hircine, whose sphere is the Hunt, the Sport of Daedra, the Great Game, the Chase, known as the Huntsman and the Father of Manbeasts. 
+{Quote_51}Malacath, whose sphere is the patronage of the spurned and ostracized, the keeper of the Sworn Oath, and the Bloody Curse.
+{Quote_52}Mehrunes Dagon, whose sphere is Destruction, Change, Revolution, Energy, and Ambition. 
+{Quote_53}Mephala, whose sphere is obscured to mortals; known by the names Webspinner, Spinner, and Spider; whose only consistent theme seems to be interference in the affairs of mortals for her amusement.
+{Quote_54}Meridia, whose sphere is obscured to mortals; who is associated with the energies of living things.
+{Quote_55}Molag Bal, whose sphere is the domination and enslavement of mortals; whose desire is to harvest the souls of mortals and to bring mortals souls within his sway by spreading seeds of strife and discord in the mortal realms.
+{Quote_56}Namira, whose sphere is the ancient Darkness; known as the Spirit Daedra, ruler of sundry dark and shadowy spirits; associated with spiders, insects, slugs, and other repulsive creatures which inspire mortals with an instinctive revulsion.
+{Quote_57}Nocturnal, whose sphere is the night and darkness; who is known as the Night Mistress.
+{Quote_58}Peryite, whose sphere is the ordering of the lowest orders of Oblivion, known as the Taskmaster. 
+{Quote_59}Sanguine, whose sphere is hedonistic revelry and debauchery, and passionate indulgences of darker natures.
+{Quote_6}Sheogorath, whose sphere is Madness, and whose motives are unknowable.
+{Quote_60}Vaermina, whose sphere is the realm of dreams and nightmares, and from whose realm issues forth evil omens.
+{Quote_61}When our lord Reman called out for mighty teamsters to stand at his side and help him unite the Land, yea, we answered the call.
+{Quote_64}I don't believe in luck. I believe in knowledge and training.
+{Quote_65}I've never believed in weaponry of any kind. Too many unknowns.
+{Quote_66}But ever shall Darkness contest the Light, and great were the Powers that breathed the void and laid waste upon one another.
+{Quote_67}I AM CYRODIIL COME
+{Quote_68}Be kind and generous to the people of Tamriel. Protect the weak, heal the sick, and give to the needy.
+{Quote_69}Honor the earth, its creatures, and the spirits, living and dead. Guard and tend the bounties of the mortal world, and do not profane the spirits of the dead.
+{Quote_7}Live soberly and peacefully. Honor your parents, and preserve the peace and security of home and family.
+{Quote_71}Work hard, and you will be rewarded. Spend wisely, and you will be comfortable. Never steal, or you will be punished.
+{Quote_72}Be strong for war. Be bold against enemies and evil, and defend the people of Tamriel.
+{Quote_73}Use Nature's gifts wisely. Respect her power, and fear her fury. 
+{Quote_74}Open your heart to the noble secrets of art and love. Treasure the gifts of friendship. Seek joy and inspiration in the mysteries of love.
+{Quote_75}Know the truth. Observe the law. When in doubt, seek wisdom from the wise.
+{Quote_76}Serve and obey your Emperor. Study the Covenants. Worship the Nine, do your duty, and heed the commands of the saints and priests.
+{Quote_78}There is no sky or ground or air, only particles, floating, falling, whirling about me.
+{Quote_79}I see the world, a last illusion's shimmer, it is crumbling all around us.
+{Quote_8}I take comfort in knowing I will soon rejoin my beautiful bride in the gilded halls of Sovngarde.
+{Quote_80}You sleep rather soundly for a murderer.
+{Quote_81}It was, it turned out, quite possible to steal a kingdom.
+{Quote_82}Elder Scrolls cut open things that lies before the shroud. They give us chanke to look on flow of time...
+{Quote_83}Their true enemy was the arrogant pride of their achievements, their smug self-assurance that their empire would last forever, that doomed them to fail and fade into obscurity.
+{Quote_84}May the Nine guard and guide you!
+{Quote_85}Tiber Septim does not keep those he has no use for.
+{Quote_86}Graciousness is to be desired from those in authority, M'lady. Familiarity is not.
+{Quote_87}Then know this: Tiber Septim rewards friends and foes alike according to their deserts.
+{Quote_88}It's only lower-ranking members like me who are supposed to keep their membership secret. The ones higher up are well known. But you must know all that, shouldn't you, General?
+{Quote_89}Come, little one. I must take you to your rightful throne.
+{Quote_9}Necromancy is inherently dangerous. One cannot 'dabble' in it. The simplest spell requires the spilling of blood, and immediately begins to corrupt the caster's soul.
+{Quote_92}Remember that the best source of information is the beggars. Their eyes and ears seem to be everywhere.
+{Quote_93}Tiber Septim was nothing like the grim, grey, giant warrior she'd pictured. He was of average height, fully half a head shorter than tall Sym­machus, although he was well-knit of figure and lithe of movement. He had a winning smile, bright -- indeed piercing -- blue eyes, and a full head of stark white hair above a lined and weathered face.
+{Quote_94}I am the Queen of Solitude, daughter of the Emperor! Summon the daedra! I'll trade the soul of every last subject of mine for a little comfort.
+{Quote_95}Lord Dagon would only have those clever enough to pause.
+{Quote_96}Power! I'd trade a goodly share of it for youth and love if the gods would only sanction it.
+{Quote_98}How is it that the Daedra forthrightly proclaim themselves to man, while the gods cower behind statues and the faithless words of traitor-priests?
+{Quote_99}There's no glory in war. It's just something they tell soldiers so they'll risk their lives.

@@ -1,0 +1,54 @@
+¬ Region Based
+{Druedain}Drúedain
+{Orcs_Of_The_Blue_Mountains}Orcos de las Montañas Azules
+{Eriador_Ruffians}Rufianes de Eriador
+{Breeland_Ruffians}Rufianes de las Tierras de Bree
+{Rhudaur_Hillmen}Hombres de las colinas de Rhudaur
+{Angmarim_Rebels}Rebeldes angmarinos
+{Lossoth_Tribesmen}Hombres de las tribus de Lossoth
+{Eriador_Looters}Saqueadores de Eriador
+{Gundabad_Orcs}Orcos de Forodwaith
+{Orcs_Of_The_Misty_Mountains}Orcos de las Montañas Nubladas
+{Orcs_Of_The_Iron_Hills}Orcos de las Colinas de Hierro
+{Vale_Bandits}Bandidos del valle
+{Mirkwood_Raiders}Incursores del Bosque Negro
+{Mirkwood_Spiders}Arañas del Bosque Negro
+{Daen_Raiders}Incursores Daen
+{Dunforgoil}Dunforgoil
+{Uruk_Raiders}Incursores Uruk
+{Saralainn}Saralainn
+{Firhane}Firháne
+{Dhai_Uarioch}Dhai-Uarioch
+{Tiarhlach}Tiarhlach
+{Ualfian}Ualfian
+{Morichoai}Morichoai
+{Saisen}Saisen
+{Caiad}Caiàd
+{Corsair_Raiders}Incursores corsarios
+{Mordor_Looters}Saqueadores de Mordor
+{Logathavuld_Ruffians}Rufianes de Logathavuld
+{Avari_Elves}Elfos Avari
+{Remnants_Of_Rhovanion}Remanentes de Rhovanion
+{Arulad_Clansmen}Hombres del clan Arulad
+{Daritai_Tribesmen}Hombres de las tribus Daritai
+{Balchoth_Tribes}Tribus Balchoth
+{Khandish_Raiders}Incursores khandinos
+{Tribes_Of_Harad}Tribus de Harad
+{Harondor_Rebels}Hombres de Harondor
+{Trollmen}Hombres troll de Harad Lejano
+{Gondor_Rebels}Rebeldes gondorianos
+{Wights_Of_The_Barrow_Downs}Espectros de las Quebradas de los Túmulos
+{Blue_Wizards}Magos azules
+{Sapphire_Sea}Cultistas del Mar Zafiro
+{Leofthiuda}Leofthiuda
+{Kugathi}Kugath
+{Dorwinion_Dissenters}Disidentes de Dorwinion
+{Dragon_Cult_Remnants}Remanentes del culto del dragón
+{Umbar_City}Ciudad de Umbar
+{Saruman_Servants}Siervos de Saruman
+
+
+¬ Non Region Based
+{gladiator_uprising}La rebelión de los esclavos
+{brigands}Bandoleros
+{pirates}Piratas

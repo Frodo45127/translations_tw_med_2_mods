@@ -1,0 +1,15 @@
+¬
+{catholic}Nueve divinos
+{heretic}Cultos daédricos
+{islam}Templo del Tribunal
+{orthodox}Ja-Kha'jay
+{pagan}Adoradores del hist
+{dagoth_rel}Culto de Dagoth Ur
+{auriel_rel}Panteón altmer
+{green_rel}Panteón bosmer
+{orc_rel}Adoradores de Malacath
+{yok_rel}Panteón yokudan
+{akaviri_rel}Panteón akaviri
+{maormer_rel}Dioses maormer
+{the_eight}Ocho divinos
+{old_gods}Dioses antiguos

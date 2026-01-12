@@ -1,0 +1,225 @@
+¬
+{acquisition_attempt}Merchant's Assets Seized!
+{acquisition_attempt_fail}Foreign Merchant Strikes
+{acquisition_attempt_fail_and_removed}Foreign Merchant Acquired
+{adopta_general_offer}The Man of the Hour
+{adoption}A New Son Adopted
+{adoption_failed}Adoption Not Completed
+{advisor_dummy_msg}Your Advisor has Information
+{agent_detected_and_expelled}Agent Found!
+{agent_recruited}Agent Recruited
+{alliance_broken}Alliance in Tatters
+{alliance_declared}Alliance Announced
+{ally_declared_alliance_with_enemy}Ally Loyalty in Question
+{approval_report}Report From the Dark Lord
+{army_bribed}Turncoat Army!
+{army_revolt}Army In Revolt
+{betrayed}Betrayed!
+{bride_available_for_family_member}Bride Presented
+{building_captured_battle}Building Captured
+{building_captured_by_allies}Allies Capture Building
+{building_completed}Construction Complete
+{building_lost_battle}Building Lost
+{building_repair_complete}Repair Complete
+{building_sabotaged}Sabotage!
+{cardinal_dies}Advisor Dies
+{cardinal_promoted}Advisor Promoted
+{cardinal_report}Advisor Report
+{ceasefire_declared}Hostilities Cease
+{character_available_for_adoption}A Candidate for Adoption
+{character_bribed}Despicable Treachery!
+{character_dies_disaster}Disaster Costs Life of Important Figure
+{character_dies_executed_prisoner}Executed
+{character_dies_heroic}A Noble Death
+{character_dies_natural}A Noble Life Ends
+{character_dies_suspicious}Assassinated
+{character_joins_through_rebellion}A Convert to Our Cause
+{character_rebels}A Traitor to Our People
+{character_trait_gained}Trait Increase
+{character_trait_lost}Trait Decrease
+{chat_message}Messenger Arrives
+{city_gained_through_revolt}Loyalist Revolt
+{city_sacked}Plundered!
+{coming_of_age}Coming Of Age
+{construction_approval}Construction Approved
+{construction_complete_many}Construction Report
+{construction_disapproval}The Dark Lord's Disapproval!
+{create_guild}Guild Available
+{crusade_called}Invasion Called!
+{crusade_canceled}Invasion Cancelled
+{crusade_factions_joined}The Evil Armies Grow 
+{crusade_failed}Failed Invasion
+{crusade_succeed}Successful Invasion
+{crusade_units_desert_warning}Talk of Desertion
+{crusade_units_deserted_no_progress}Desertion!
+{crusade_units_deserted_removed}Desertion!
+{crusade_will_end}Invasion About to End
+{daughter_retired}Past Childbearing Age
+{denouncement_attempt}Executed for Heresy!
+{denouncement_attempt_fail}Found Innocent at Trial
+{diplomacy_report}Diplomatic Information
+{disaster_barbarian_horde}Wandering army sighted!
+{disaster_earthquake}Earthquake
+{disaster_flood}Flash Flood
+{disaster_plague}Death Stalks The Land
+{disaster_report}Civil Disorder
+{disaster_riot}Rioting!
+{disaster_storm}Storm
+{disaster_volcano}Volcano Erupts
+{dominant_religion}A Powerful Faith
+{eastern_shadow_faction}A New Roman Empire in the East?
+{emergent_faction_appears}A New Faction Emerges
+{excommunicate}Faction lost Sauron's Protection
+{exterminate_populace}Resistance is Futile!
+{faction_advanced}Most Advanced Faction
+{faction_defeated}Faction Destroyed
+{faction_defeated_by_player}Faction Destroyed
+{faction_largest}Largest Faction
+{faction_leader_dies}Faction Leader Dies
+{faction_leader_killed}Faction Leader Killed
+{faction_richest}Richest Faction
+{faction_strongest}Strongest Faction
+{family_report}Faction Announcements
+{female_dies}Family Tragedy
+{fort_bribed}Garrison of Traitors!
+{games_held}Games Held
+{general_appointed}New General Appointed
+{general_dies}General Dies
+{general_killed_ally}Allied General Fallen
+{general_killed_enemy}Enemy General Fallen
+{general_promoted}Promotion
+{hidden_agent_detected_in_settlement}Agent Detected
+{historic_event}Historic Event
+{historic_event_movie}Historic Event
+{horde_in_your_region}Wandering army sighted!
+{horde_settles}A new land
+{huns_hording}A Storm from the East!
+{jihad_called}Tûl Acharn Called
+{jihad_canceled}The Tûl Acharn Cancelled
+{jihad_factions_joined}The Tûl Acharn Grows
+{jihad_failed}Failed Tûl Acharn
+{jihad_succeed}Successful Tûl Acharn
+{jihad_units_desert_warning}Talk of Desertion
+{jihad_units_deserted_no_progress}Desertion!
+{jihad_units_deserted_removed}Desertion!
+{jihad_will_end}Tûl Acharn About to End
+{marian_reform}DO NOT TRANSLATE: THIS TEXT SHOULD BE REPLACED BY TEXT FROM ANOTHER FILE
+{marriage}Marriage Celebrations
+{marriage_attempt}Marriage Proposed
+{marriage_attempt_fail}Marriage Rejected
+{marriage_attempt_fail_and_removed}Foreign Princess Disgraced!
+{mission_acquire}Successful Acquisition
+{mission_acquire_fail}Acquisition Failed
+{mission_acquire_fail_and_removed}Acquisition Backfires!
+{mission_assassinate}Assassination Mission Success
+{mission_assassinate_fail}Assassin Misses Target
+{mission_assassinate_fail_and_killed}Assassin Dies in Action
+{mission_denounce}Punishment Successful (Papal States Event)
+{mission_denounce_fail}Punishment Unsuccessful (Papal States Event)
+{mission_expired}Mission Expired
+{mission_failed}Mission Failed
+{mission_gift}Gift
+{mission_issued}New Mission
+{mission_marriage}Marriage Accepted
+{mission_marriage_fail}Marriage Rejected
+{mission_marriage_fail_and_removed}Princess Disgraced!
+{mission_sabotage}Sabotage Mission Success
+{mission_sabotage_fail}Sabotage Attempt Fails
+{mission_sabotage_fail_and_killed}Agent Killed in Sabotage Attempt
+{mission_spy_character}Spying Mission Success
+{mission_spy_fail}Spy Mission Failure
+{mission_spy_fail_and_killed}Spy Killed During Mission 
+{mission_spy_settlement}Spying Mission Success
+{mission_success}Mission Success
+{multiturn_path_blocked}Path Blocked
+{naval_blockade}Port Blockaded
+{new_ancillary_character}Retinue Expands
+{new_barbarian_horde}A New Threat Rises!
+{new_bouncing_baby}New Family Member
+{new_eastern_ceasar}A New Caesar for Constantinople
+{new_eastern_emperor}A New Augustus for Constantinople
+{new_faction_heir}New Faction Heir
+{new_faction_leader}New Faction Leader
+{new_western_ceasar}A New Caesar for Rome
+{new_western_emperor}A New Augustus for Rome
+{papal_election}Papal Election
+{peacy_treaty_signed}Peace Treaty Enacted
+{player_excommunicate}You Have lost Sauron's Protection!
+{player_faction_advanced}Most Advanced Faction
+{player_faction_largest}Largest Faction
+{player_faction_richest}Richest Faction
+{player_faction_strongest}Strongest Faction
+{player_lose_warning}Defeat Imminent!
+{player_recommunicate}You Have Been Reconciled!
+{players_army_destroyed}Utter Defeat!
+{pope_accepts_crusade}The Dark Lord Calls Invasion 
+{pope_assassin_caught}Attempt on the Dark Lord's Life!
+{pope_dies}Sauron awaits
+{pope_elected}The Dark Lord Returns
+{pope_rejects_crusade}Invasion Request Rejected
+{priest_denouncement_attempt}Tried as a Heretic! (Rebel Event)
+{priest_denouncement_attempt_fail}Survives Trial (Rebel Event)
+{priest_denouncement_attempt_fail_and_converted}Heretic Converts Priest! (Rebel Event)
+{priest_denouncement_attempt_fail_and_removed}Witch Kills Priest! (Rebel Event)
+{priest_mission_denounce}Blasphemer Executed!
+{priest_mission_denounce_fail}Failed to Denounce Blasphemer
+{priest_mission_denounce_fail_and_converted}Fallen to Heresy!
+{priest_mission_denounce_fail_and_removed}Shamed by Blasphemer
+{princess_marriage}Marriage Celebrations
+{prisoners_executed}Prisoners Executed
+{prisoners_released}Prisoners Released
+{protectorate_established}Client Kingdom Established
+{queues_stalled}Queues Stalled
+{races_held}Races Held
+{rebel_revolt_surpressed}Revolt Suppressed
+{rebels_victorious}The Old Order Collapses!
+{recommunicate}Faction Reconciled
+{recruitment_complete_many}Recruitment Report
+{reinforcements_arrived}Reinforcements
+{relations_improved}Relations Improved
+{relations_report}Relations Report
+{relations_worsened}Relations Worsened
+{retraining_complete}Retraining Complete
+{roman_empire_reunited}The Roman Empire is Reborn!
+{settlement_besieged}Settlement Besieged
+{settlement_bribed}Settlement Bribed!
+{settlement_destroyed}Settlement Destroyed
+{settlement_exterminated}Settlement Exterminated
+{settlement_occupied}Settlement Occupied
+{settlement_razed}Settlement Sacked
+{settlement_revolts}Civil Revolt
+{settlement_sacked}Settlement Sacked
+{settlement_surrender}Settlement Surrenders
+{settlement_surrenders_enemy}Enemy Settlement Conquered
+{settlement_surrenders_own}Our Settlement Surrenders
+{settlement_taken}Settlement Lost
+{settlement_unrest}Civil Unrest
+{shadow_faction_appears}Rebellion - or worse?
+{shadow_faction_destroyed}Pretenders Destroyed
+{small_army_disbands}Enemy Army Routs
+{small_army_disbands_loser}Your Forces Melt Away
+{suitor_available_for_daughter}A Suitable Husband
+{suitor_available_for_princess}A Suitable Prince
+{transgression}Transgression
+{unit_completed}Unit Recruitment Completed
+{unit_routs_in_battle}Unit Routs
+{upgrade_guild}Guild Improvement
+{upgrade_settlement_to_castle}Wooden Castle Ready to Upgrade
+{upgrade_settlement_to_citadel}Fortress Ready to Upgrade
+{upgrade_settlement_to_city}Large Town Ready to Upgrade
+{upgrade_settlement_to_fortress}Castle Ready to Upgrade
+{upgrade_settlement_to_huge_city}Large City Ready to Upgrade
+{upgrade_settlement_to_large_city}City Ready to Upgrade
+{upgrade_settlement_to_large_town}Town Ready to Upgrade
+{upgrade_settlement_to_town}Village Ready to Upgrade
+{upgrade_settlement_to_wooden_castle}Motte and Bailey Ready to Upgrade
+{war_declared}War!!!
+{war_declared_non_player}War Declared!
+{war_declared_on_ally}Allies Declare War!
+{western_shadow_faction}A New Western Roman Empire?
+{wonder_approval}Papal Approval
+{wonder_captured}Wonder Captured
+{wonder_lost}Wonder Lost
+{year_end_report}End Of Turn Report
+{your_machine_needs_upgrading}Reinforcements Delayed?
+{your_machine_needs_upgrading_ai_to_reinforce}Enemy Reinforcements Delayed?

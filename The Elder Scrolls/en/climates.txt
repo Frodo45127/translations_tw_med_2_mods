@@ -1,0 +1,14 @@
+¬
+{alpine}	Mountains
+{highland}	Highland
+{mediterranean}	Subtropical
+{rocky_desert}	Desert
+{sandy_desert}	Ashlands
+{semi_arid}	Semi-Arid
+{steppe}	Steppe
+{temperate_coniferous_forest}	Coniferous Forest
+{temperate_deciduous_forest}	Deciduous Forest
+{tropical}	Tropical
+{volcanic}	Volcanic
+{unused1}	Arctic Desert
+{unused2}	Jungle

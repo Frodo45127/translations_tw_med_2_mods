@@ -1,0 +1,304 @@
+¬ Strings that only appear in battle
+{BMT_TOGGLE_SKIRMISH_ON}Enable skirmish mode
+{BMT_TOGGLE_FIRE_ON}Enable fire at will mode
+{BMT_TOGGLE_SKIRMISH_OFF}Disable skirmish mode
+{BMT_TOGGLE_FIRE_OFF}Disable fire at will mode
+{BMT_TOGGLE_DEFEND_ON}Enable guard mode 
+{BMT_TOGGLE_DEFEND_OFF}Disable guard mode 
+{BMT_TOGGLE_FORMATION_TIGHT}Set unit formation to 'tight'
+{BMT_TOGGLE_FORMATION_LOOSE}Set unit formation to 'loose'
+{BMT_TOGGLE_SPECIAL_FORMATION_ON}Set units to specialist formation (Spearwall/Circle and Shoot etc.)
+{BMT_TOGGLE_SPECIAL_FORMATION_OFF}Disable unit's special ability
+{BMT_RADAR_ZOOM_IN}Zoom in on current location
+{BMT_RADAR_ZOOM_OUT}Zoom out of current location
+{BMT_SHOW_GROUP_FORMATIONS}Show group formation buttons
+{BMT_HIDE_GROUP_FORMATIONS}Hide group formation buttons
+{BMT_HALT}Stop current orders
+{BMT_WALK}Walk
+{BMT_RUN}Run
+{BMT_WITHDRAW}Withdraw
+{BMT_PAUSE}Pause
+{BMT_NEW_PLAY}Play
+{BMT_FASTER}Faster
+{BMT_SLOWER}Slower
+{BMT_RADAR}Radar
+{BMT_GROUP}Group selected units
+{BMT_UNGROUP}Ungroup selected units
+{BMT_FAT_FRESH}Fresh
+{BMT_FAT_WARMED_UP}Warmed up
+{BMT_FAT_WINDED}Winded
+{BMT_FAT_TIRED}Tired
+{BMT_FAT_MOST_TIRED}Exhausted
+{BMT_FAT_EXHAUSTED}Very tired
+{BMT_MOR_BESERK}Heroic
+{BMT_MOR_IMPETUOUS}Impetuous
+{BMT_MOR_HIGH}Eager
+{BMT_MOR_FIRM}Steady
+{BMT_MOR_SHAKEN}Shaken
+{BMT_MOR_WAVERING}Wavering
+{BMT_MOR_ROUTING}Broken
+{BMT_BATTLE_DEPLOYMENT}Battle Deployment
+{BMT_END_DEPLOYMENT}Start Battle
+{BMT_WAIT}Wait:
+{BMT_START_DEPLOYMENT}Start Deployment
+{BMT_CHAT_SUPPORT}Support
+{BMT_CHAT_RETREAT}Retreat
+{BMT_CHAT_ADVANCE}Advance
+{BMT_CHAT_ATTACK}Attack
+{BMT_CHAT_HELP}Offer help
+{BMT_CHAT_SUPPORT_FLANK}Support my flank
+{BMT_CHAT_SUPPORT_ATTACK}Support my next attack
+{BMT_CHAT_SUPPORT_ADVANCE}Support my advance
+{BMT_CHAT_RETREAT_FLANK}Pull back to cover my flank
+{BMT_CHAT_RETREAT_GENERAL}Withdraw all troops now!
+{BMT_CHAT_ADVANCE_LINE}Advance along battle line
+{BMT_CHAT_ADVANCE_KEEP_UP}Keep up with my troops
+{BMT_CHAT_ATTACK_ALL}Attack anyone
+{BMT_CHAT_RETREAT_TO_POS}Fall back to the position shown
+{BMT_CHAT_ADVANCE_TO_POS}Advance to the position shown
+{BMT_CHAT_ATTACK_POS}Attack units at the position shown
+{BMT_CHAT_USER}Custom
+{BMT_CHAT_CANCEL}Cancel
+{BMT_CHAT_HELP_BODY}I'm here to help. Tell me what to do.
+{BMT_SPECIFY_POSITION}Point at an area of the map and specify a position with the 'order' mouse button
+{BMT_SIEGE_EQUIPMENT}Siege equipment
+{BMT_DEPLOY_SIEGE}Drag equipment icon onto a unit card to deploy
+{BMT_ACT_IDLE}Idle
+{BMT_ACT_HIDING}Hiding
+{BMT_ACT_READY}Ready
+{BMT_ACT_REFORMING}Reforming
+{BMT_ACT_MOVING}Marching
+{BMT_ACT_FIRING}Firing missiles
+{BMT_ACT_RELOADING}Reloading
+{BMT_ACT_CHARGING}Charging
+{BMT_ACT_FIGHTING}Fighting
+{BMT_ACT_RUNNING_AMOK}Running amok
+{BMT_ACT_INFIGHTING}Infighting
+{BMT_ACT_ROUTING}Routing
+{BMT_ACT_FIGHTING_BACKS_TO_THE_WALLS}Fighting to the death
+{BMT_ACT_PURSUING}Pursuing
+{BMT_ACT_DEAD}Dead
+{BMT_ACT_LEFT}Left battle
+{BMT_ACT_ENTERING_BATTLE}Waiting to enter battle
+{BMT_ACT_TAUNTING}Taunting
+{BMT_COM_WIN_BIG}Victory seems certain
+{BMT_COM_WIN}Victory is almost a certainty
+{BMT_COM_WIN_SLIGHT}Victory is a distinct possibility
+{BMT_COM_EVEN}The balance of forces is evenly matched
+{BMT_COM_LOSE_SLIGHT}Defeat is a distinct possibility
+{BMT_COM_LOSE}Defeat is almost a certainty
+{BMT_COM_LOSE_BIG}Defeat seems certain
+{BMT_DAMAGE}Damage:
+{BMT_HOLD_FOR_X_MINUTES}Location must be held for %f minutes.
+{BMT_CAPTURE_LOCATION}Capture location
+{BMT_CAPTURE_SETTLEMENT}Capture settlement
+{BMT_CAPTURE_CAMP}Capture baggage train
+{BMT_DESTROY_CHARACTER}Destroy character:
+{BMT_DESTROY_ENEMY}Destroy or rout enemy
+{BMT_BALANCE_OF_STRENGTH}Balance of power (percent)
+{BMT_DESTROY_ENEMY_STRENGTH}Reduce enemy strength
+{BMT_SUCCEEDED}Succeeded
+{BMT_FAILED}Failed
+{BMT_IMPOSSIBLE}Impossible
+{BMT_CONDITIONS}Battle objectives
+{BMT_CONDITIONS_ALL}Battle objectives (all required)
+{BMT_CONDITIONS_ANY}Battle objectives (one or more required)
+{BMT_STATE_RUNNING}Running
+{BMT_STATE_WALKING}Walking
+{BMT_STATE_UNDER_MISSILE_ATTACK}Under missile attack
+{BMT_STATE_PANIC}Panicking
+{BMT_STATE_HIDING}Hiding
+{BMT_STATE_ATTACKING}Attacking
+{BMT_STATE_ATTACK_MISSILE}Attacking with missiles
+{BMT_STATE_LADDERS}Carrying ladders
+{BMT_STATE_RAMS}Carrying battering ram
+{BMT_STATE_SAPPERS}Sappers
+{BMT_STATE_TOWERS}Attached to siege tower
+{BMT_ENCOURAGED_ARMY_SUPPORTED}Encouraged by nearby armies in the campaign
+{BMT_ENCOURAGED_ARMY_NO_RETREAT}Grimly determined since there is no retreat in the campaign
+{BMT_ENCOURAGED_GENERAL_PRESENT}Glad to have the general in the unit
+{BMT_ENCOURAGED_GENERAL_NEARBY}Spirits lifted by the general's encouragements
+{BMT_ENCOURAGED_COMMAND_UNIT_NEARBY}Happy to be near a command unit
+{BMT_ENCOURAGED_FLANKS_SECURE}Safe in the knowledge that the flanks are secure
+{BMT_ENCOURAGED_FORTIFICATION}Pleased to be close to a friendly fortification
+{BMT_ENCOURAGED_ON_THE_HILL}Feeling secure on the hill
+{BMT_ENCOURAGED_ENEMY_ROUTING}Glad to see the enemy routing
+{BMT_ENCOURAGED_TRYING_TO_RALLY}Trying to rally
+{BMT_ENCOURAGED_HIDING}Happy to be hidden
+{BMT_ENCOURAGED_BLOODLUST}In bloodlust and oblivious to the world
+{BMT_ENCOURAGED_BERSERK}In berserk bloodlust and oblivious to the world
+{BMT_CONCERNED_ARMY_DESTRUCTION}Dismayed at the loss of the battle
+{BMT_CONCERNED_GENERAL_JUST_DIED}Panicked over the general's death
+{BMT_CONCERNED_FLANKS_EXPOSED}Concerned over exposed flanks
+{BMT_CONCERNED_FATIGUE}Unhappy due to exhaustion
+{BMT_CONCERNED_CASUALTIES}Unhappy over taking casualties
+{BMT_CONCERNED_ATTACKED_BY_FIRE}Panicked by fire attack
+{BMT_CONCERNED_ATTACKED_BY_ARTILLERY}Panicked by artillery fire
+{BMT_CONCERNED_FIGHTING_CAVALRY}Concerned about fighting a cavalry unit
+{BMT_CONCERNED_FRIENDS_ROUTING}Unhappy to see friends routing
+{BMT_CONCERNED_ENEMY_NUMBERS}Distraught over the number of enemies
+{BMT_CONCERNED_SURPRISED}Surprised by the enemy emerging
+{BMT_CONCERNED_PANIC}Fleeing in panic and oblivious to the world
+{BMT_CONCERNED_FEAR_ELEPHANTS}Frightened by creatures
+{BMT_CONCERNED_FEAR_ENEMY_UNIT}Intimidated by nearby enemy
+{BMT_DESTROY_OR_ROUT_ENEMY}Destroy or rout all enemies
+{BMT_ACHIEVE_BALANCE_OF_STRENGTH_OF_X_PERCENT}Achieve balance of strength of %d%%
+{BMT_DESTROY_ENEMY_STRENGTH_X_PERCENT}Destroy %d%% of enemy strength
+{BMT_WITH_MIN_X_ALLIES}With at least %d allied soldiers
+{BMT_WITH_MAX_X_ENEMY}And at most %d enemy soldiers
+{BMT_LOCATION}Location
+{BMT_DROP_SIEGE_EQUIPMENT}Drop siege equipment
+{BMT_AUTODEPLOY_SIEGE}Automatically deploy siege equipment
+{BMT_PAUSED}Paused
+{BMT_WAITING_TO_DEPLOY}Waiting for other players to start deployment phase
+{BMT_WAITING_TO_END_DEPLOYMENT}Waiting for other players to end deployment phase
+{BMT_WAITING_TO_END_BATTLE}Waiting for other players to end battle
+{BMT_SELECT_NEXT_ARMY}Cycle forward through army list
+{BMT_SELECT_PREV_ARMY}Cycle backward through army list
+{BMT_PERCENTAGE_ALLIES_KILLED}Percentage Allies Killed:
+{BMT_PERCENTAGE_ENEMIES_KILLED}Percentage Enemies Killed:
+{BMT_EXIT_BATTLE}Exit Battle
+{BMT_RETURN_TO_CAMPAIGN}Return to Campaign Map
+{BMT_LINK_UNITS}Enable unit linking
+{BMT_UNLINK_UNITS}Disable unit linking
+{BMT_ENABLE_AI_GROUPING}Put group under AI assistance
+{BMT_DISABLE_AI_GROUPING}Remove group from AI assistance
+{BMT_BATTLE_RESOLUTION_AUTO_RESOLVE_QUITTER_LOSES}If you quit now you will lose this battle
+{BMT_BATTLE_RESOLUTION_SUCCESSFUL_SALLY_OUT}Your sally has been successful. You may leave the battle
+{BMT_BATTLE_RESOLUTION_SUCCESSFUL_WITHDRAW}You have successfully withdrawn from the battle. You may leave the battle
+{BMT_BATTLE_RESOLUTION_QUIT_PROLOGUE}Quitting now will quit the whole tutorial. Are you sure you want to leave?
+{BMT_CONDITIONS_COMPLETE}Victory
+{BMT_CONDITIONS_COMPLETE_CONTINUE}You have completed the objectives for this battle! Would you like to continue and hunt the enemy down like the worthless animals they are?
+{BMT_SAVE_REPLAY}Save Battle Replay
+{BMT_FLAMING_AMMO_SPECIAL}Special Ability: Fire flaming ammo
+{BMT_BARRAGE_FIRE_SPECIAL}Special Ability: Barrage fire
+{BMT_ROTTING_COW_SPECIAL}Special Ability: Rotting meat
+{BMT_GRAPESHOT_SPECIAL}Special Ability: Grapeshot
+{BMT_WARCRY_SPECIAL}Special Ability: Warcry
+{BMT_CHANT_SPECIAL}Special Ability: Chant
+{BMT_BERSERK_SPECIAL}Special Ability: Berserk attack
+{BMT_RALLY_SPECIAL}Special Ability: Rally troops
+{BMT_WEDGE_SPECIAL}Special Ability: Wedge formation
+{BMT_KILL_ELEPHANTS_SPECIAL}Special Ability: Kill rampaging creatures
+{BMT_CANTABRIAN_CIRCLE_SPECIAL}Special Ability: Circle and shoot\nMissile cavalry circle in front of enemy
+{BMT_SHIELD_WALL_SPECIAL}Special Ability: Shield wall
+{BMT_STEALTH_SPECIAL}Special Ability: Stealth\nMove while hidden
+{BMT_NO_SPECIAL_ABILITY}Special Ability: None
+{BMT_ALL_ALLIES}All allies
+{BMT_ALL_ENEMIES}All enemies
+{BMT_CONTINUE_BATTLE_AFTER_VICTORY}Continue Battle						
+{BMT_QUIT_BATTLE_AFTER_VICTORY}End Battle
+{BMT_GROUP_FORMATION_1}Single Line: Units organised into a line
+{BMT_GROUP_FORMATION_2}Sorted Single Line: Units organised into a line, with heavy infantry in the centre, light infantry and missile troops on the flanks and cavalry on the wings
+{BMT_GROUP_FORMATION_3}Double Line: Units organised into two lines
+{BMT_GROUP_FORMATION_4}Sorted Double Line: Units organised into two lines, with non-missile infantry in front, missile troops and general behind with cavalry on the wings
+{BMT_GROUP_FORMATION_5}Missile First 3 Line: Units organised into three lines, missile infantry in front, non-missile infantry behind, cavalry at the rear
+{BMT_GROUP_FORMATION_6}Foot First 3 Line: Units organised into three lines, non-missile infantry in front, missile troops behind, non-missile cavalry at the rear
+{BMT_GROUP_FORMATION_7}Cavalry First 3 Line: Units organised into three lines, cavalry in front, missile infantry behind, non-missile infantry at the rear
+{BMT_GROUP_FORMATION_8}Column: Units organised into a column one unit wide, cavalry in-front, infantry behind
+{BMT_CHAT_ALL_PLAYERS}All Players
+{BMT_NETWORK_INFO_PROBLEMS}Encountered network problems
+{BMT_NETWORK_INFO_RETRY}Retry
+{BMT_ABANDON_GAME}Abandon Game
+{BMT_UNIT_HEAVY_INFANTRY}Heavy Infantry
+{BMT_UNIT_LIGHT_INFANTRY}Light Infantry
+{BMT_UNIT_SKIRMISHER_INFANTRY}Skirmishers
+{BMT_UNIT_SPEARMEN}Medium Infantry
+{BMT_UNIT_MISSILE}Missile
+{BMT_UNIT_HEAVY_CAVALRY}Heavy Cavalry
+{BMT_UNIT_LIGHT_CAVALRY}Light Cavalry
+{BMT_UNIT_SKIRMISHER_CAVALRY}Skirmisher Cavalry
+{BMT_UNIT_MISSILE_CAVALRY}Missile Cavalry
+{BMT_UNIT_HEAVY_SIEGE}Heavy Artillery
+{BMT_UNIT_LIGHT_SIEGE}Light Artillery
+{BMT_UNIT_SIEGE}Artillery
+{BMT_UNIT_HEAVY_SPECIAL}Heavy
+{BMT_UNIT_LIGHT_SPECIAL}Light
+{BMT_TIME_REMAINING_HOURS}Time remaining: %d hours
+{BMT_TIME_REMAINING_MINS}Time remaining: %d minutes
+{BMT_STATE_AI_LINKED}Ai Linked
+{BMT_STATE_RUNNING_AMOK}Running Amok
+{BMT_STATE_FIGHTING_TO_DEATH}Fighting to the death
+{BMT_STATE_WITHDRAWING}Withdrawing
+{BMT_END_DEPLOYMENT_SALLY}End Deployment and Start Battle
+{BMT_NETWORK_PLAYERS_JOINING}Waiting for the following players to join:
+{BMT_ACT_CELEBRATING}Celebrating
+{BMT_NO_TIME_LIMIT}No time limit for this battle
+{BMT_FLAMING_AMMO_SPECIAL_OFF}Disable Special Ability: Fire normal ammo
+{BMT_BARRAGE_FIRE_SPECIAL_OFF}Disable Special Ability: Barrage fire
+{BMT_ROTTING_COW_SPECIAL_OFF}Disable Special Ability: Rotting meat
+{BMT_GRAPESHOT_SPECIAL_OFF}Disable Special Ability: Grapeshot
+{BMT_WARCRY_SPECIAL_OFF}Special Ability: Warcry Active
+{BMT_CHANT_SPECIAL_OFF}Disable Special Ability: Stop chant
+{BMT_BERSERK_SPECIAL_OFF}Disable Special Ability: Stop berserk attack
+{BMT_WEDGE_SPECIAL_OFF}Disable Special Ability: Remove from wedge formation
+{BMT_CANTABRIAN_CIRCLE_SPECIAL_OFF}Disable Special Ability: Stop Circle and Shoot
+{BMT_1_HOUR_REMAINING}1 hour remaining
+{BMT_1_MIN_REMAINING}1 minute remaining
+{BMT_AI_CONTROLLED}AI Reinforcements
+{BMT_CHOOSE_ANOTHER_TARGET_WALL}This wall section has been breached
+{BMT_CHOOSE_ANOTHER_TARGET_TOWER}This tower has been completely destroyed
+{BMT_CHOOSE_ANOTHER_TARGET_GATE}The gates have been completely destroyed
+{BMT_CHOOSE_ANOTHER_TARGET_BUILDING}This building has been completely destroyed
+{BMT_CHOOSE_ANOTHER_TARGET_GATEHOUSE}The gatehouse has been completely destroyed
+{BMT_ENGINE_DESTROYED}This equipment has been destroyed
+{BMT_THIS_UNIT_SELECTION_CANNOT_EQUIP}The selected unit cannot be equipped with this item
+{BMT_THESE_UNITS_CANNOT_EQUIP}The selected units cannot be equipped with this item
+{BMT_THIS_UNIT_CANNOT_ATTACK_WALLS}The selected unit cannot attack walls
+{BMT_THESE_UNITS_CANNOT_ATTACK_WALLS}The selected units cannot attack walls
+{BMT_THIS_UNIT_HAS_LEFT_THE_BATTLE}This unit has left the battle
+{BMT_CANNOT_REACH_THIS_POSITION}The selected units cannot reach this position
+{BMT_CANNOT_REACH_THIS_POSITION_SINGLE}The selected unit cannot reach this position
+{BMT_REPLAY_FINISHED}Replay Finished
+{BMT_THIS_UNIT_CANNOT_ATTACK_TOWERS}The selected unit cannot attack towers
+{BMT_THESE_UNITS_CANNOT_ATTACK_TOWERS}The selected units cannot attack towers
+{BMT_THIS_UNIT_CANNOT_ATTACK_GATES}The selected unit cannot attack gates
+{BMT_THESE_UNITS_CANNOT_ATTACK_GATES}The selected units cannot attack gates
+{BMT_THIS_UNIT_CANNOT_ATTACK_BUILDINGS}The selected unit cannot attack buildings
+{BMT_THESE_UNITS_CANNOT_ATTACK_BUILDINGS}The selected units cannot attack buildings
+{BMT_FIGHT_AGAIN}Fight this battle again?
+{BMT_CANNOT_MOVE_MULTIPLE_UNITS_ON_WALLS}Cannot move multiple units on walls
+{BMT_RETURN_OUTSIDE_PLAYABLE_AREA}This position is outside the extents of the battlefield
+{BMT_RETURN_OUTSIDE_DEPLOYMENT_AREA}Cannot deploy outside the marked area
+{BMT_RETURN_SIEGE_ENGINES_IN_FOREST}Cannot move siege engines inside wooded areas
+{BMT_RETURN_SIEGE_ENGINES_IN_SETTLEMENTS}Cannot move siege engines when they are inside settlements
+{BMT_RETURN_UNITS_ON_SIEGE_TOWER}Cannot move selected units onto siege towers
+{BMT_RETURN_UNIT_ON_SIEGE_TOWER}Cannot move selected unit onto siege towers
+{BMT_RETURN_OBSTRUCTION}Cannot move here as the path is obstructed
+{BMT_THIS_UNIT_IS_YET_TO_JOIN_BATTLE}This unit is yet to enter the battlefield
+{BMT_PLAZA_PREVIOUS_BANNER_TOOLTIP}Hold the plaza until the counter reaches zero to capture this settlement
+{BMT_PLAZA_CURRENT_BANNER_TOOLTIP}Hold the plaza until the counter reaches zero to capture this settlement
+{BMT_ZOOM_TO_UNIT}Locate this unit
+{BMT_WITH_MIN_1_ALLY}With at least 1 allied soldier
+{BMT_WITH_MAX_1_ENEMY}And at most 1 enemy soldier
+{BMT_WITH_MAX_0_ENEMY}And at most no enemy soldiers
+{BMT_RALLY_SPECIAL_OFF}Special Ability: Attempting to rally troops
+{BMT_CANNOT_MOVE_MULTIPLE_UNITS_ON_BRIDGES}Cannot move multiple units onto bridges
+{BMT_CANNOT_MOVE_ONTO_SIEGE_TOWERS}Cannot move directly onto siege towers
+{BMT_CANNOT_MOVE_ON_WATER}Cannot move onto water
+{BMT_FIELD_CURRENT_BANNER_TOOLTIP}The defender will win this battle when the timer reaches zero
+{BMT_NETWORK_STALL_DIALOG_TITLE}Possible Connection Problems
+{BMT_NETWORK_DROP_DROP_PLAYER}Kick this player?
+{BMT_QUIT_FROM_NETWORK_DROP}Quit game?
+{BMT_SCHILTROM}Special Ability: Schiltrom formation
+{BMT_SCHILTROM_OFF}Disable Special Ability: Remove from Schiltrom formation
+{BMT_SHIELD_WALL_SPECIAL_OFF}Disable Special Ability: Remove from shield wall formation
+{BMT_ACT_BERSERK}Berserk
+{BMT_STATE_BERSERK}Going berserk
+{BMT_STATE_SWIMMING}Swimming
+{BMT_CANT_PLACE_WAGON_FORT}Can't Place Wagon Fort
+{BMT_CANT_PLACE_WAGON_FORT_EXPLANATION}Your army had units capable of forming a wagon fort, but the terrain was not suitable for them to deploy.
+{BMT_STAKES_SPECIAL}Special Ability: Sharpened stakes
+{BMT_ACT_BRACING}Bracing
+{BMT_PHALANX}Special Ability: Spearwall formation
+{BMT_PHALANX_OFF}Disable Special Ability: Stop spearwall formation
+{BMT_EXPLODING_AMMO_SPECIAL}Special Ability: Fire exploding ammo
+{BMT_EXPLODING_AMMO_SPECIAL_OFF}Disable Special Ability: Fire normal ammo
+{BMT_CURSOR_OUTSIDE_RESTRICTED_REGION}Cannot move outside restricted region
+{BMT_FLASH_UNITS}Flash own, ally and enemy units
+{BMT_AISA_AGGRESSIVE}Aggressive stance
+{BMT_AISA_AGGRESSIVE_SELECTED}Aggressive stance (active)
+{BMT_AISA_DEFENSIVE}Defensive stance
+{BMT_AISA_DEFENSIVE_SELECTED}Defensive stance (active)
+{BMT_AISA_SHOOTOUT}Shootout stance
+{BMT_AISA_SHOOTOUT_SELECTED}Shootout stance (active)

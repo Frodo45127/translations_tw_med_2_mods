@@ -1,0 +1,3571 @@
+¬
+{Hircine}Hircine
+{Meriath}Meriath
+{Nelos}Nelos
+{Otheri}Otheri
+{Maryon}Maryon
+{Storn}Storn
+{Talcar}Talcar
+{Tharsten}Tharsten
+{Galyn}Galyn
+{Mecinar}Mecinar
+{Araan}Araan
+{Cylben}Cylben
+{Heartfang}Colmillo de Corazón
+{Noname}Sin nombre
+{Errinorne}Errinorne
+{Amiel}Amiel
+{Minisera}Minisera
+{Carwen}Carwen
+{Angof}Angof
+{Faolchu}Faolchu
+{Wylon}Wylon
+{Llerey}Llrey
+{Rohlbert}Rohlbert
+{Guitaut}Guitaut
+{Medryndril}Medryndril
+{Urfon}Urfon
+{Urien}Urien
+{Olarz}Olarz
+{Ice-Heart}Corazón Helado
+{Alasan}Alasan
+{Shiri}Shiri
+{Uwaf}Uwaf
+{Suturah}Suturah
+{Ellic}Ellic
+{Beric}Beric
+{Djuncan}Djuncan
+{Dunstad}Dunstad
+{Henrick}Henrick
+{Kazimir}Kazimir
+{Karodus}Karodus
+{Kellen}Kellen
+{Laton}Laton
+{Relvas}Relvas
+{Roderic}Roderic
+{Pelinal}Pelinal
+{Adelasia}Adelasia
+{Aelwin}Aelwin
+{Aleron}Aleron
+{Alix}Alix
+{Alberic}Alberic
+{Ambroz}Ambroz
+{Andre}Andre
+{Ancus}Ancus
+{Antuan}Antuan
+{Astav}Astav
+{Ahill}Ahill
+{Adrien}Adrien
+{Bazil}Bazil
+{Baragon}Baragon
+{Bartel}Bartel
+{Baurion}Baurion
+{Beran}Beran
+{Berouche}Berouche
+{Bradon}Bradon
+{Bridwell}Bridwell
+{Brustetus}Brustetus
+{Casimir}Casimir
+{Christophe}Christophe
+{Claude}Claude
+{Colin}Colin
+{Corrick}Corrick
+{Damian}Damian
+{Davide}Davide
+{Didier}Didier
+{Dorten}Dorten
+{Eadwyre}Eadwyre
+{Eamond}Eamond
+{Edgar}Edgar
+{Eduard}Eduard
+{Emeric}Emeric
+{Copper}Copper
+{Ernest}Ernest
+{Eseld}Eseld
+{Edmund}Edmund
+{Alard}Alard
+{Eugal}Eugal
+{Floyd}Floyd
+{Francois}Francois
+{Gan}Gan
+{Gaspar}Gaspar
+{Gaston}Gaston
+{Gerard}Gerard
+{Gothryd}Gothryd
+{Grantham}Grantham
+{Gregory}Gregory
+{Gerieux}Gerieux
+{Mathias}Mathias
+{Etienne}Etienne
+{Ahla}Ahla
+{Nal}Nal
+{Nala}Nala
+{Ahl}Ahl
+{Cheryline}Cheryline
+{Cherylin}Cherylin
+{Septimus}Septimus
+{Attius}Attius
+{Darien}Darien
+{Guilbert}Guilbert
+{Hannibal}Hannibal
+{Hastrel}Hastrel
+{Istirus}Istirus
+{Jakben}Jakben
+{Jauffre}Jauffre
+{Geriuex}Geriuex
+{Hughes}Hughes
+{Croix}Croix
+{Jean}Jean
+{Jhared}Jhared
+{Kastaus}Kastaus
+{Lannis}Lannis
+{Lazare}Lazare
+{Lysandus}Lysandus
+{Nathaniel}Nathaniel
+{Marcel}Marcel
+{Marc}Marc
+{Mathieu}Mathieu
+{Matthas}Matthas
+{Marone}Marone
+{Norbert}Norbert
+{Ogier}Ogier
+{Auberon}Auberon
+{Pierric}Pierric
+{Philip}Philip
+{Renald}Renald
+{Reynald}Reynald
+{Roderic}Roderic
+{Roland}Roland
+{Rufio}Rufio
+{Salomon}Salomon
+{Samiel}Samiel
+{Sam}Sam
+{Stelanie}Stelanie
+{Sebastien}Sebastien
+{Theranis}Theranis
+{Thorley}Thorley
+{Timothee}Timothee
+{Ulrich}Ulrich
+{Verandis}Verandis
+{Vincente}Vincente
+{Vincent}Vincent
+{Woodborne}Woodborne
+{of_Daggerfall}de Salto de la Daga
+{of_Anticler}de Anticler
+{of_Evermor}de Abundancia
+{of_Wayrest}de Quietud
+{of_Northpoint}de Punta Norte
+{of_Camlorn}de Camlorn
+{Bertram}Bertram
+{Spode}Spode
+{Shaldon}Shaldon
+{Dariah}Dariah
+{Gardner}Gardner
+{Gautier}Gautier
+{Deleyn}Deleyn
+{Guimard}Guimard
+{Ales}Ales
+{Cumberland}Cumberland
+{Montclair}Montclair
+{Dorell}Dorell
+{Tamrith}Tamrith
+{Ravenwatch}Ravenwatch
+{Lamont}Lamont
+{Emax}Emax
+{Parmion}Parmion
+{Barthel}Barthel
+{Esmery}Esmery
+{Chamrond}Chamrond
+{Marence}Marence
+{Guillon}Guillon
+{Virelande}Virelande
+{Muriel}Muriel
+{Santerre}Santerre
+{Ginise}Ginise
+{Cornillac}Cornillac
+{Cergend}Cergend
+{Pathierry}Pathierry
+{Montieu}Montieu
+{Narcien}Narcien
+{Cordier}Cordier
+{Aubertin}Aubertin
+{Doeur}Doeur
+{Averos}Averos
+{Arzhel}Arzhel
+{Arzhela}Arzhela
+{Falliere}Falliere
+{Leonciele}Leonciele
+{Favraud}Favraud
+{Coutenan}Coutenan
+{Astier}Astier
+{Jerenise}Jerenise
+{Celd}Celd
+{Cartier}Cartier
+{Douare}Douare
+{Sourt}Sourt
+{Dailland}Dailland
+{Cheval}Cheval
+{Stentor}Stentor
+{Celiane}Celiane
+{Dalot}Dalot
+{Broc}Broc
+{Addriene}Addriene
+{Antoinetta}Antoinetta
+{Arielle}Arielle
+{Aubki}Aubk'i
+{Dortene}Dortene
+{Beatrice}Beatrice
+{Bernadette}Bernadette
+{Biene}Biene
+{Blanche}Blanche
+{Callia}Callida
+{Candice}Candice
+{Caroline}Caroline
+{Chana}Chana
+{Claudette}Claudette
+{Delphine}Delphine
+{Elara}Elara
+{Ondre}Ondre
+{Colane}Colane
+{Rayelle}Rayelle
+{Aurine}Aurine
+{Leila}Leila
+{Elisa}Elisa
+{Elysana}Elysana
+{Erline}Erline
+{Estelle}Estelle
+{Eselde}Eselde
+{Evangeline}Evangeline
+{Francine}Francine
+{Irene}Irene
+{Isabeau}Isabeau
+{Jeanne}Jeanne
+{Joile}Joile
+{Julienne}Julienne
+{Lakana}Lakana
+{Luciana}Luciana
+{Maraya}Maraya
+{Marguerite}Marguerite
+{Marie}Marie
+{Mariette}Mariette
+{Matilde}Matilde
+{Melisande}Melisande
+{Mirabelle}Mirabelle
+{Raelynn}Raelyn
+{Renote}Renote
+{Rochelle}Rochelle
+{Roxanne}Roxanne
+{Roxy}Roxy
+{Sabine}Sabine
+{Phebe}Phebe
+{Ursanne}Ursanne
+{Yvara}Yvara
+{Aldos}Aldos
+{Alms}Alms
+{Alval}Alval
+{Alveno}Alveno
+{Andel}Andel
+{Andilo}Andilo
+{Andil}Andil
+{Arvin}Arvin
+{Athal}Atal
+{Avon}Avon
+{Avron}Avron
+{Avrus}Avrus
+{Avus}Avus
+{Aymar}Aymar
+{Balen}Balen
+{Banus}Banus
+{Baren}Baren
+{Bolay}Bolay
+{Bolor}Bolor
+{Bolnor}Bolnor
+{Bongond}Bongond
+{Bratheru}Bratheru
+{Brethas}Brethas
+{Breyns}Breyns
+{Briras}Briras
+{Cylben}Cylben
+{Dals}Dals
+{Danar}Danar
+{Delos}Delos
+{Diram}Diram
+{Direr}Direr
+{Dondos}Dondos
+{Dovyn}Dovyn
+{Drad}Drad
+{Dram}Dram
+{Dranas}Dranas
+{Drarus}Drarus
+{Drels}Drels
+{Dredas}Dredas
+{Dridas}Dridas
+{Ethys}Ethys
+{Eronor}Eronor
+{Farwill}Farwill
+{Fathis}Fathis
+{Felen}Felen
+{Ferul}Ferul
+{Gilen}Gilen
+{Gureryn}Gureryn
+{Harrow}Harrow
+{Ilvel}Ilvel
+{Mels}Mels
+{Nivan}Nivan
+{Olyn}Olyn
+{Othrelos}Othrelos
+{Orvas}Orvas
+{Ralsa}Ralsa
+{Raynil}Raynil
+{Redas}Redas
+{Simmachus}Simmachus
+{Slythe}Slythe
+{Soris}Soris
+{Tovas}Tovas
+{Ulen}Ulen
+{Valen}Valen
+{Varel}Varel
+{Varon}Varon
+{Vedam}Vedam
+{Dren}Dren
+{Hlaalu}Hlaalu
+{Bero}Bero
+{Andrano}Andrano
+{Alen}Alen
+{Andrani}Andrani
+{Arano}Arano
+{Aretan}Aretan
+{Andaris}Andaris
+{Arvel}Arvel
+{Berendus}Berendus
+{Balen}Balen
+{Deras}Deras
+{Dres}Dres
+{Dalomo}Dalomo
+{Driler}Driler
+{Danoran}Danoran
+{Favelnim}Favelnim
+{Fyr}Fyr
+{Girit}Girit
+{Hlaano}Hlaano
+{Helvi}Helvi
+{Hlaalo}Hlaalo
+{Indoril}Indoril
+{Lloran}Lloran
+{Llethri}Llethri
+{Marethi}Marethi
+{Nerano}Nerano
+{Oran}Oran
+{Otril}Otril
+{Otrelet}Otrelet
+{Omani}Omani
+{Retan}Retan
+{Randas}Randas
+{Sadri}Sadri
+{Sedreti}Sedreti
+{Sereti}Sereti
+{Savil}Savil
+{Sadris}Sadris
+{Therethi}Therethi
+{Telvanni}Telvanni
+{Tiravel}Tiravel
+{Tilvur}Tilvur
+{Uvalen}Uvalen
+{Ules}Ules
+{Uvein}Uvein
+{Verotan}Verotan
+{Verano}Verano
+{Baro}Baro
+{Raram}Raram
+{Sarethi}Sarethi
+{Andrano}Andrano
+{Dralor}Dralor
+{Venim}Venim
+{Elvael}Elvael
+{Selas}Selas
+{Selvilo}Selvilo
+{Llervu}Llervu
+{Reteran}Reteran
+{Ramoran}Ramoran
+{Sarandas}Sarandas
+{Mandas}Mandas
+{Sarano}Sarano
+{Vabdas}Vabdas
+{Arobar}Arobar
+{Marvel}Marvel
+{Llethri}Llethri
+{Omalen}Omalen
+{Drurel}Drurel
+{Virit}Virit
+{Samori}Samori
+{Berendas}Berendas
+{Atren}Arten
+{Mano}Mano
+{Uvani}Uvani
+{Fandas}Fandas
+{Lerano}Lerano
+{Romaine}Romaine
+{Morvayn}Morvayn
+{Adosi}Adosi
+{Alves}Alves
+{Arvena}Arvena
+{Barenzia}Barenzia
+{Boderi}Boderi
+{Bralsa}Bralsa
+{Carlia}Carlia
+{Davela}Davela
+{Dervera}Dervera
+{Doversi}Doversi
+{Drarana}Drarana
+{Falanu}Falanu
+{Glistel}Glistel
+{Llensi}Llensi
+{Llevana}Llevana
+{Malyani}Malyani
+{Mensa}Mensa
+{Minx}Minx
+{Mivryna}Mivryna
+{Morgia}Morgia
+{Nardhil}Nardhil
+{Norasa}Norasa
+{Noveni}Noveni
+{Ralsa}Ralsa
+{Satha}Satha
+{Saveri}Saveri
+{Tadrose}Tadrose
+{Tanasa}Tanasa
+{Tivela}Tivela
+{Tolisi}Tolisi
+{Tolvasa}Tolvasa
+{Ulene}Ulene
+{Undena}Undena
+{Uravasa}Uravasa
+{Urnsi}Urnsi
+{Aroa}Aroa
+{Arion}Arion
+{Arnas}Arnas
+{Balver}Balver
+{Berel}Berel
+{Bervaso}Bervaso
+{Bethes}Bethes
+{Birer}Birer
+{Bolvin}Bolvin
+{Daral}Daral
+{Dethresa}Dethresa
+{Divayth}Divayth
+{Dralval}Dralval
+{Dreyns}Dreyns
+{Drores}Drores
+{Elam}Elam
+{Enar}Enar
+{Endryn}Endryn
+{Eris}Eris
+{Esib-Nummu}Esib-Nummu
+{Faras}Faras
+{Folvys}Folvys
+{Goron}Goron
+{Garan}Garan
+{Gothren}Gothren
+{Helseth}Helseth
+{Hentus}Hentus
+{Hloris}Hloris
+{Ilen}Ilen
+{Ilet}Ilet
+{Kummi-Namus}Kummi-Numus
+{Llaalamu}Llaalamu
+{Lleril}Lleril
+{Ilandris}Ilandris
+{Mausur}Mausur
+{Methal}Methal
+{Nals}Nals
+{Naral}Naral
+{Nevil}Nevil
+{Neloth}Neloth
+{Nerevar}Nerevar
+{Nerevarin}Nerevarin
+{Nerevarine}Nerevarine
+{Niras}Niras
+{Odron}Odron
+{Ralyn}Ralyn
+{Rinas}Rinas
+{Salen}Salen
+{Salvas}Salvas
+{Salyn}Salin
+{Selman}Selman
+{Selmen}Selmen
+{Sendus}Sendus
+{Shanud}Shanud
+{Sortis}Sortis
+{Sotha-Sil}Sotha Sil
+{Suryn}Suryn
+{Tarer}Tarer
+{Telis}Telis
+{Tendris}Tendris
+{Tharer}Tharer
+{Tholer}Tholer
+{Tralas}Tralas
+{Trevyn}Trevyn
+{Tuls}Tuls
+{Velms}Velms
+{Vivek}Vivec
+{Voruse}Voruse
+{Zanmulk}Zanmulk
+{Zedbusipal}Zedbusipal
+{Adamus}Adamus
+{Adrian}Adrian
+{Adventus}Adventus
+{Aloys}Aloys
+{Amantius}Amantius
+{Amminus}Amminus
+{Andreas}Andreas
+{Angoril}Angoril
+{Antus}Antus
+{Arentus}Arentus
+{Attrebus}Attrebus
+{Audens}Audens
+{Belisarius}Belisarius
+{Berich}Berich
+{Betto}Betto
+{Bremman}Bremman
+{Brelius}Brelius
+{Brotch}Brotch
+{Bruscius}Brucius
+{Carius}Carius
+{Carmalo}Carmalo
+{Casta}Casta
+{Charrus}Charrus
+{Cicero}Cicero
+{Claudius}Claudius
+{Collatinus}Collantius
+{Contumeliours}Contumeliours
+{Cyronion}Cyronion
+{Danus}Danus
+{Darius}Darius
+{Decentius}Decentius
+{Decianus}Decianus
+{Denel}Denel
+{Dion}Dion
+{Ebbel}Ebbel
+{Eduard}Eduard
+{Enman}Enman
+{Fadus}Fadus
+{Galtus}Galtus
+{Garrus}Garrus
+{Geldall}Geldall
+{Gellius}Gellius
+{Gemellus}Gemellus
+{Gerich}Gerich
+{Giovanni}Giovanni
+{Glenroy}Glenroy
+{Helvius}Helvius
+{Helvo}Helvo
+{Hieronimus}Hieronimus
+{Humilis}Humilis
+{Ilav}Ilav
+{Ilend}Ilend
+{Iniel}Iniel
+{Irlav}Irlav
+{Itius}Itius
+{Januarius}Januarius
+{Janus}Janus
+{Jaras}Jaras
+{Jesan}Jesan
+{Jirolin}Jirolin
+{Jiv}Jiv
+{Jonna}Jonna
+{Kantav}Kantav
+{Kastav}Kastav
+{Korvo}Korvus
+{Korvus}Korvus
+{Langley}Langley
+{Laythe}Laythe
+{Lerexus}Lerexus
+{Ley}Ley
+{Lorgren}Lorgren
+{Lucan}Lucan
+{Lucien}Lucien
+{Lurio}Lurio
+{Luther}Luther
+{Malintus}Malintus
+{Marinus}Marinus
+{Maro}Maro
+{Marius}Marius
+{Martin}Martin
+{Melus}Melus
+{Menien}Menien
+{Mercator}Mercator
+{Natch}Natch
+{Ontus}Ontus
+{Ormellius}Ormellius
+{Otius}Otius
+{Pennus}Pennus
+{Pelagius}Pelagius
+{Pinarus}Pinarus
+{Primo}Primo
+{Proventus}Proventus
+{Quentin}Quentin
+{Rallus}Rallus
+{Raminus}Raminus
+{Regulus}Regulus
+{Reman}Reman
+{Rimalus}Rimalus
+{Ris}Ris
+{Roliand}Roliand
+{Rufrius}Rufrius
+{Savlian}Savlian
+{Sergius}Sergius
+{Servatius}Servatius
+{Sevarius}Sevarius
+{Stantus}Stantus
+{Steffan}Steffan
+{Sulinus}Sulinus
+{Surius}Surius
+{Talos}Talos
+{Tertius}Tentius
+{Tertullian}Tertullian
+{Tiber}Tiber
+{Titus}Titus
+{Titus_Mede}Titus Mede
+{Javad}Javad
+{Abnur}Abnur
+{Martialis}Martialis
+{Magnius}Magnius
+{Euraxius}Euraxius
+{Jagar}Jagar
+{Varen}Varen
+{Septima}Septima
+{Vanus}Vanus
+{Festius}Festius
+{Crispus}Crispus
+{Lavinius}Lavinius
+{Tharn}Tharn
+{Sadas}Sadas
+{Secundus}Secundus
+{Nadir}Nadir
+{Aquilarios}Aquilarios
+{Thulsa}Thulsa
+{Toutius}Toutius
+{Trenus}Trenus
+{Tyrellius}Tyrellius
+{Tullius}Tullius
+{Uriel}Uriel
+{Valandrus}Valandryus
+{Valus}Valus
+{Vandorallen}Vandorallen
+{Vantus}Vantus
+{Velan}Velan
+{Velus}Velus
+{Velwyn}Velwyn
+{Viator}Viator
+{Viranus}Viranus
+{Vlanarus}Vlanarus
+{Vlanhonder}Vlanhonder
+{Vlarimil}Vlarimil
+{Vontan}Vontan
+{Vontus}Vontus
+{Hassildor}Hassildor
+{Caesennius}Caesennius
+{Caro}Caro
+{Umbranox}Umbranox
+{Corvein}Carvein
+{Valga}Valga
+{Cipius}Cipius
+{Terentius}Terentius
+{Goldvine}Goldvine
+{Matius}Matius
+{Indaris}Indaris
+{Inian}Inian
+{Valus}Valus
+{Rilian}Rilian
+{Lex}Lex
+{Polus}Polus
+{Jarol}Jarol
+{Kvinchal}Kvinchal
+{Lashance}Lashance
+{Pinder}Pinder
+{Segonius}Segonius
+{Filida}Filida
+{Akkius}Akkius
+{Rufus}Rufus
+{Kalus}Kalus
+{Sintav}Sintav
+{Mede}Mede
+{Septim}Septim
+{Annaïg}Annaïg
+{Augusta}Augusta
+{Aviera}Aviera
+{Aya}Aya
+{Lucina}Lucina
+{Britta}Britta
+{Bronsila}Bronsila
+{Caelia}Caelia
+{Camilla}Camilla
+{Carmana}Carmana
+{Caula}Caula
+{Durnania}Durnania
+{Dynari}Dynari
+{Erina}Erina
+{Etira}Etira
+{Faustina}Faustina
+{Gruiand}Gruiand
+{Herminia}Herminia
+{Ida}Ida
+{Janonia}Janonia
+{Jantus}Jantus
+{Jastia}Jastia
+{Javolia}Javolia
+{Jena}Jena
+{Julitta}Julitta
+{Kaula}Kaula
+{Lenka}Lenca
+{Lyra}Lyra
+{Marana}Marana
+{Mariana}Mariana
+{Marlena}Marlena
+{Martina}Martina
+{Millona}Millona
+{Narina}Narina
+{Naspia}Naspia
+{Perennia}Perennia
+{Pista}Pista
+{Praxedes}Praxedes
+{Renaz}Renaz
+{Renee}Renee
+{Restita}Restita
+{Romana}Romana
+{Rona}Rona
+{Rosentia}Rosentia
+{Rusia}Rusia
+{Schlera}Schlera
+{Selena}Selena
+{Selen}Selen
+{Sibylla}Sibylla
+{Silana}Silana
+{Tertia}Tertia
+{Viera}Viera
+{Vilena}Vilena
+{Vinicia}Vinicia
+{Ysabel}Ysabel
+{Abzug}Abzug
+{Agronak}Agronak
+{Bazur}Bazur
+{Bazrag}Bazrag
+{Bolg}Bolg
+{Brugo}Brugo
+{Brag}Brag
+{Brokil}Brokil
+{Bugak}Bugak
+{Burz}Burz
+{Dragom}Dragom
+{Dubok}Dubok
+{Dulfish}Dulfish
+{Dul}Dul
+{Dushkul}Dushkul
+{Gathurn}Gathrun
+{Ghorub}Ghorub
+{Godrun}Godrun
+{Gogron}Gogron
+{Gorgo}Gorgo
+{Gortvorg}Gortvorg
+{Graklak}Graklak
+{Graman}Graman
+{Gul}Gul
+{Hanz}Hanz
+{Khamagash}Khamagash
+{Krognak}Krognak
+{Kurdan}Kurdan
+{Kurog}Kurog
+{Torug}Torug
+{Moth}Moth
+{Bolazgar}Bolazgar
+{Lazgar}Lazgar
+{Thulgeg}Thulgeg
+{Kurz}Kurz
+{Lumdum}Lumdum
+{Lum}Lum
+{Lugronk}Lugronk
+{Magra}Magra
+{Magub}Magub
+{Maknok}Maknok
+{Makhug}Makhug
+{Mug}Mug
+{Nagoth}Nagoth
+{Ogzor}Ogzor
+{Orok}Orok
+{Ramash}Ramash
+{Ruzglor}Ruzglor
+{Shagol}Shagol
+{Shamlakh}Shamlakh
+{Shobob}Shobob
+{Shum}Shum
+{Ulmag}Ulmag
+{Ulukhaz}Ulukhaz
+{Urbul}Urbul
+{Urgodosh}Urgodosh
+{Uugus}Uugus
+{Uzul}Uzul
+{Akash}Akash
+{Gorzesh}Gorzesh
+{Nenesh}Nenesh
+{gro-Orsinium}gro-Orsinium
+{gro-Bagrakh}gro-Bagrakh
+{gro-Morkul}gro-Morkul
+{gro-Tumnosh}gro-Tumnosh
+{gro-Fharrun}gro-Fharrun
+{gro-Shatul}gro-Shatul
+{gro-Igronk}gro-Igronk
+{gro-Burgal}gro-Burgal
+{gro-Dush}gro-Dush
+{gro-Arzug}gro-Arzug
+{gro-Badbul}gro-Badbul
+{gro-Birgo}gro-Birgo
+{gro-Kreeg}gro-Kreeg
+{gro-Gruumsh}gro-Gruumsh
+{gro-Larishak}gro-Larishak
+{gro-Ruumsh}gro-Ruumsh
+{gro-Lort}gro-Lort
+{gro-Kush}gro-Kush
+{gro-Dushnikh}gro-Dushnikh
+{gro-Shugharz}gro-Shugharz
+{gro-Oglurn}gro-Oglurn
+{gro-Burz}gro-Burz
+{gro-Luruk}gro-Luruk
+{gro-Izburg}gro-Izburg
+{gro-Korlag}gro-Korlag
+{gro-Shugduk}gro-Shugduk
+{gro-Barbol}gro-Barbol
+{gro-Murtag}gro-Murtag
+{gro-Shagronk}gro-Shagronk
+{gro-Barkbite}gro-Barkbite
+{gro-Drublog}gro-Drublog
+{gro-Lhurgash}gro-Lhurgash
+{gro-Igron}gro-Igron
+{gro-Nagorm}gro-Nagorm
+{gro-Mal}gro-Mal
+{Batul}Batul
+{Borba}Borba
+{Bumph}Bumph
+{Hormaz}Hormaz
+{Razbela}Razbela
+{Oshghana}Oshghana
+{Mazoga}Mazoga
+{Mog}Mog
+{Mor}Mor
+{Ognash}Ognash
+{Orag}Orag
+{Rogmesh}Rogmesh
+{Shak}Shak
+{Alga}Alga
+{Solgra}Solgra
+{Tazgol}Tazgol
+{Ugak}Ugak
+{Umog}Umog
+{Ashaad}Ashaad
+{Baadargo}Baadargo
+{Bhisha}Bhisha
+{Dahlima}Dahlima
+{Drobarri}Dro'Barri
+{Drofarahn}Dro'farahn
+{Dromarash}Dro'Marash
+{Droqanar}Dro'Qanar
+{Drosakhar}Dro'Sakhar
+{Droshanjii}Dro'Shanjii
+{Droshavir}Dro'Shavir
+{Drotasarr}Dro'Tasarr
+{Drozah}Dro'Zah
+{Drozaymar}Dro'Zaymar
+{Drozharim}Dro'Zharim
+{Drozhirr}Dro'Zhirr
+{Hassiri}Hassiri
+{Hunal}Hunal
+{Khasar}Khasar
+{Sarshar}Sarshar
+{JaFazir}Ja'Fazir
+{Jbanna}J'Banna
+{JBaasha}J'Baasha
+{Jobashado}Jobasha
+{Jbari}J'Bari
+{Jdarr}J'Darr
+{Jdatharr}J'Datharr
+{Jdato}J'Dato
+{Jdhannar}J'Dhannar
+{Jghasta}J'Ghasta
+{Jhanir}J'hanir
+{Jjarsha}J'Jarsha
+{Jjazha}J'Jazha
+{Jkara}J'Kara
+{Jkier}J'Kier
+{Jmhad}J'Mhad
+{Jobasha}Jobasha
+{Jodhur}Jodhur
+{Joren}Jo'Ren
+{Joshur}Joshur
+{Jothri}Jo'Thri
+{Jraksa}J'Raksa
+{Jrasha}J'Rasha
+{Jriska}J'Riska
+{Jsaddha}J'Saddha
+{Jskar}J'Skar
+{Jzamha}J'Zamha
+{Jzargo}J'Zargo
+{Jzhar}J'Zhar
+{Jzhirr}J'Zhirr
+{Jzidzo}J'Zidzo
+{JzinDar}J'Zin-Dar
+{Kazagh}Kazagh
+{Kharjo}Kharjo
+{Kesh}Kesh
+{Ksharr}K'Sharr
+{Ksharra}K'Sharra
+{Ksirr}K'Sirr
+{Keirgo}Keirgo
+{Madara}Ma'Dara
+{Madran}Ma'Dran
+{Majhad}Ma'Jhad
+{Maiq}M'Aiq
+{Majidarr}Ma'Jidarr
+{Makhar}Ma'Khar
+{Marandru}Ma'Randru
+{Maraska}Ma'Raska
+{Marashirr}Ma'Rashirr
+{Matasarr}Ma'Tasarr
+{Mazaddha}Ma'Zaddha
+{Mazahn}Ma'Zahn
+{Mazaka}Ma'Zaka
+{Mdasha}M'Dasha
+{Mdirr}M'Dirr
+{Mdesi}M'Desi
+{Mnashi}M'Nashi
+{MraajDar}M'Raaj
+{Mraaj}M'Raaj
+{Mshan}M'Shan
+{NhadHatta}Nhad-Hatta
+{Qadar}Qa'Dar
+{Radirsha}Ra'Dirsha
+{Rajerra}Ra'Jhera
+{Rajahirr}Ra'Jahirr
+{Rajhan}Ra'Jhan
+{Rajirr}Ra'Jirr
+{Rajiradh}Ra'Jiradh
+{Rakarim}Ra'karim
+{Rakheran}Ra'Kheran
+{Rakothre}Ra'Kothre
+{Ramhirr}Ra'Mhirr
+{Ranarr}Ranarr
+{Raqanar}Ra'Qanar
+{Rasava}Ra'Sava
+{Ratassa}Ra'Tassa
+{Ratesh}Ra'Tesh
+{Ravirr}Ra'Virr
+{Razahr}Ra'Zahr
+{Razhid}Ra'Zhid
+{Ribassa}Ri'Bassa
+{Ridarsha}Ri'Darsha
+{Ridumiwa}Ri'Dumiwa
+{Rijirr}Ri'Jirr
+{Risaad}Ri'Saad
+{Rishajirr}Ri'Shajirr
+{Rivassa}Ri'Vassa
+{Rizaadha}Ri'Zaadha
+{Rizakar}Ri'Zakar
+{Rvanni}R'Vanni
+{Sbakha}S'Bakha
+{Sdrassa}S'Drassa
+{Sholani}Sholani
+{Sradirr}S'Radirr
+{Srathad}S'Rathad
+{Srava}S'Rava
+{Sraverr}S'Raverr
+{Srazirr}S'Razirr
+{Srenji}S'Renji
+{Shani}S'Shani
+{Svandra}S'Vandra
+{Svirr}S'Virr
+{Thengil}Thengil
+{Urjabhi}Urjabhi
+{Urjorad}Urjorad
+{Vasha}Vasha
+{Wadarkhu}Wadarkhu
+{Zadabal}Zadabal
+{Zagun}Zagun
+{Zoaraym}Zoaraym
+{Abanji}Abanji
+{Abhuki}Abhuki
+{Adanja}Adanja
+{Addhiranirr}Addhiranirr
+{Adharanji}Adharanji
+{Affri}Affri
+{Ahdahni}Ahdahni
+{Ahdarji}Ahdarji
+{Ahdni}Ahdni
+{Ahdri}Ahdri
+{Ahjara}Ahjara
+{Ahjazda}Ahjazda
+{Ahjisi}Ahjisi
+{Ahkari}Ahkari
+{Ahnarra}Ahnarra
+{Ahnassi}Ahnassi
+{Ahndahra}Ahndahra
+{Ahnia}Ahnia
+{Ahnisa}Ahnisa
+{Ahnissi}Ahnissi
+{Ahzini}Ahzini
+{Aina}Aina
+{Ajira}Ajira
+{Anjari}Anjari
+{Anurassa}Anurassa
+{Arabhi}Arabhi
+{Aravi}Aravi
+{Ashidasha}Ashidasha
+{Ashni}Ashni
+{Atrabhi}Atrabhi
+{Ayisha}Ayisha
+{Bahdahna}Bahdahna
+{Bahdrashi}Bahdrashi
+{Baissa}Baissa
+{Bhisha}Bhisha
+{Bhusari}Bhusari
+{Chirranirr}Chirranirr
+{Dahleena}Dahleena
+{Dahnara}Dahnara
+{DraNahrah}Dro'Nahrah
+{Ekapi}Ekapi
+{Eshita}Eshita
+{Naghea}Naghea
+{Rozhinda}Rozhinda
+{Harassa}Harassa
+{Habasi}Habasi
+{Idhassi}Idhassi
+{Inerri}Inerri
+{Inorra}Inorra
+{Kaasha}Kaasha
+{Khamuzi}Khamuzi
+{Khayla}Khayla
+{Khazura}Khazura
+{Khinjarsi}Khinjarsi
+{Kiseena}Kiseena
+{Kishashi}Kishashi
+{Kishna}Kish'na
+{Kishni}Kishni
+{Kishrado}Kishra
+{Kisimba}Kisimba
+{Kisisa}Kisisa
+{Lesspa}Lesspa
+{Mizabako}Mizaba
+{Mkai}M'Kai
+{Nashi}Nashi
+{Nisaba}Nisaba
+{Rabinna}Rabinna
+{Rathumila}Rathumi
+{Razhinda}Ra'Zhinda
+{Shaba}Shaba
+{Shamada}Shamada
+{Shavari}Shavari
+{Shivani}Shivani
+{Shomara}Shomara
+{Shotherra}Shotherra
+{Shunari}Shunari
+{Shuravi}Shuravi
+{Sfara}S'Fara
+{Sjirra}S'Jirra
+{Skasha}S'Kasha
+{Skrivva}S'Krivva
+{Smirra}S'Mirra
+{Sthasa}S'Thasa
+{Talasma}Talasma
+{Tsabhi}Tsabhi
+{Tsajadhi}Tsajadhi
+{Tsalajma}Tsalajma
+{Tsalani}Tsalani
+{Tsani}Tsani
+{Tsarrina}Tsarrina
+{Tsavani}Tsavani
+{Tsavi}Tsavi
+{Tsiya}Tsiya
+{Tsramla}Tsramla
+{Tsrasuna}Tsrasuna
+{Tsrava}Tsrava
+{Tsrazami}Tsrazami
+{Ubaasi}Ubaasi
+{Udarra}Udarra
+{Unjara}Unjara
+{Vajhira}Vajhira
+{Vanjirra}Vanjirra
+{Yushi}Yushi
+{Zabhila}Zabhila
+{Zahraji}Zahraji
+{Zahrasha}Zahrasha
+{Zara}Zara
+{Zaynabi}Zaynabi
+{Kathutet}Kathutet
+{Amkaos}Amkaos
+{Orthe}Orthe
+{Ranyu}Ranyu
+{Cirus}Cirus
+{Orchun}Orchun
+{Churl}Churl
+{Amozambel}Amozambel
+{Shanyu}Shanyu
+{Orсhun}Or-Chun
+{Senutet}Senutet
+{Santhe}Sante
+{Korozoth}Korozoth
+{Sinzoth}Sinzoth
+{Amonateth}Amonateth
+{Anaedra}Anaedra
+{Raven}Raven
+{Ornhun}Ornhun
+{Mehrunes}Mehrunes Dagon
+{Umaril}Umaril
+{Kamoran}Camoran
+{Dremorawomana}Mujer dremora
+{Dremorawomanb}Mujer dremora
+{Dremorawomanc}Mujer dremora
+{Dremorawomand}Mujer dremora
+{Dremorawomane}Mujer dremora
+{Ancotar}Ancotar
+{Ancano}Ancano
+{Aiden}Aiden
+{Aranneylan}Arannelyan
+{Areldil}Areldir
+{Arkved}Arkved
+{Arterion}Arterion
+{Calcelmo}Calcelmo
+{Calindil}Calindil
+{Calyaamo}Calyaamo
+{Carandial}Carandial
+{Celarus}Celarus
+{Celedaen}Celedaen
+{Eldmail}Eldmail
+{Elidor}Elidor
+{Enrion}Enrion
+{Errandil}Errandil
+{Faelian}Faelian
+{Falcar}Falcar
+{Fasendil}Fasendil
+{Gilgondorin}Gildondorin
+{Henantier}Henantier
+{Hindaril}Hindaril
+{Hirtel}Hirtel
+{Honditar}Honditar
+{Iachesis}Iachesis
+{Kivamiel}Kivamiel
+{Lithnilian}Lithnilian
+{Maldolir}Maldolir
+{Merandil}Merandil
+{Merildor}Merildor
+{Naarfin}Naarifin
+{Naeqorwe}Naeqorwe
+{Odycano}Odycano
+{Ondolemar}Ondolemar
+{Otimbar}Otimbar
+{Orintur}Orintur
+{Ormil}Ormil
+{Rucovimo}Rucovimo
+{Ryain}Ryain
+{Salmo}Salmo
+{Seridur}Seridur
+{Sicrodion}Sicrodion
+{Sinderion}Sinderion
+{Suurootan}Suurootan
+{Tilmo}Tilmo
+{Tumindil}Tumindil
+{Umbacano}Umbacano
+{Vanus}Vanus
+{Ungarion}Ungarion
+{Volanaro}Volanaro
+{Voranil}Vorandil
+{Hidelith}Hidelith
+{Tuinden}Tuinden
+{Elanwe}Elanwe
+{Naemon}Naemon
+{Ayrenn}Ayrenn
+{Ehran}Ehran
+{Arfanel}Arfanel
+{Linaarie}Linaarie
+{Kazirr}Kazirr
+{Kazirra}Kazirra
+{Akkhuz}Akkhuz
+{Micell}Micell
+{Cordius}Cordius
+{Otho}Otho
+{Pontifio}Pontifio
+{Carlinus}Carlinus
+{Numida}Numida
+{Terran}Terran
+{Arminus}Arminus
+{Velarius}Velarius
+{Reive}Reive
+{Augurius}Augurius
+{Jeer-Tei}Jeer-Tei
+{Hlan}Hlan
+{Bucco}Bucco
+{Regilus}Regilus
+{Shazah}Shazah
+{Khali}Khali
+{Cherim}Cherim
+{Laurig}Laurig
+{Golg}Golg
+{Hunal}Hunal
+{Azareth}Azareth
+{Endare}Endare
+{Glaras}Glaras
+{Rolon}Rolon
+{Thoron}Thoron
+{Sorcalin}Sorcalin
+{Pelidil}Pelidil
+{Meleras}Meleras
+{Ulmion}Ulmion
+{Fariel}Fariel
+{Breduin}Breduin
+{Indaenir}Indaenir
+{Aranias}Aranias
+{Andur}Andur
+{Sarandil}Sarandil
+{Fisalie}Fisalie
+{Sariel}Sariel
+{Halskar}Halskar
+{Carolus}Carolus
+{Ephrem}Ephrem
+{Fasion}Fasion
+{Aroz'lai}Aroz'lai
+{Forinor}Forinor
+{Maeroth}Maeroth
+{Benirus}Benirus
+{Pulasia}Pulasia
+{Euraxia}Euraxia
+{Clivia}Clivia
+{Lob}Lob
+{Dolilas}Dolilas
+{Firathil}Firathil
+{Henaamo}Henaamo
+{Aldononde}Aldononde
+{Glaror}Glaror
+{Ruuvitar}Ruuvitar
+{Anglith}Anglith
+{Raen}Raen
+{Saen}Saen
+{Clivius}Clivius
+{Blackthroat}Garganta Negra
+{Thorntongue}Lengua Espinosa
+{Blightheart}Corazón Feroz
+{Wormfather}Padre de Gusanos
+{Garmar}Garmar
+{Lucullus}Lucullus
+{Withclaw}Withclaw
+{Stoneshaper}Picapedrero
+{Frostfang}Colmillo de Escarcha
+{Stral}Stral
+{Calix}Calix
+{Borodin}Borodin
+{Kevinne}Kevinne
+{Thalik}Thalik
+{Anchorite}Anchorite
+{Fortun}Fortun
+{Kerelius}Kerelius
+{Vivian}Vivian
+{Mannimarco}Mannimarco
+{Linaarien}Linaarien
+{Rolancano}Rolancano
+{Rynandor}Rynandor
+{Lathenil}Lathenil
+{Phillida}Phillida
+{Yashnag}Yashnag
+{gro-Yazgu}gro-Yazgu
+{Landaren}Landaren
+{Artinaire}Artinaire
+{Tendil}Tendil
+{Sinien}Sinien
+{Curime}Curime
+{Hanilan}Hanilan
+{Hyamir}Hyamir
+{Alduril}Alduril
+{Urien}Urien
+{Enathorn}Enathorn
+{Mengaer}Mengaer
+{Dinwenel}Dinwenel
+{Englor}Englor
+{Urien}Urien
+{Eldumoril}Eldumoril
+{Elderien}Elderien
+{Sincantar}Sincantar
+{Cirion}Cirion
+{Malyon}Malyon
+{Curano}Curano
+{Ostarand}Ostarand
+{Nym}Nym
+{Laloriaran}Laloriaran
+{Celethelel}Celethelel
+{Ocato}Ocato
+{Dyran}Dyran
+{Direnni}Direnni
+{Kaltos}Kaltos
+{Galerion}Galerion
+{Vanus}Vanus
+{Elenwen}Elenwen
+{Teromawen}Teromawen
+{Uryando}Uryando
+{Eralgor}Eralgor
+{Aldarnen}Aldarnen
+{Eraegaer}Eraegaer
+{Endaron}Endaron
+{Giralon}Giralon
+{Laelrion}Laelrion
+{Lenahawn}Lenahawn
+{Rilding}Rilding
+{Mendreval}Mendreval
+{Anexemes}Anexemes
+{Haymon}Haymon
+{Raven}Raven
+{Rum}Rum
+{Cel}Cel
+{Jaqspur}Jaqspur
+{Meh}Meh
+{Oreyn}Oreyn
+{Varbarenth}Varbarenth
+{Brimlor}Brimlor
+{Athemel}Athemel
+{Centrathil}Centrathil
+{Cenirond}Cenirond
+{Borwaeneth}Borwaeneth
+{Fithrolan}Fithrolan
+{Folilas}Folilas
+{Gathraenor}Gathraenor
+{Gwilgoth}Gwilgoth
+{Halordil}Halordil
+{Hangaerin}Hangaerin
+{Helondanbor}Helondanbor
+{Laen}Laen
+{Malaniel}Malaniel
+{Maras}Maras
+{Milmilim}Milmilim
+{Milwalin}Milwalin
+{Nanthenas}Nanthenas
+{Niruin}Niruin
+{Mankar}Mankar
+{Nithriel}Nithriel
+{Orchelor}Orchelor
+{Ornanael}Ornanael
+{Dothriel}Dothriel
+{Einrel}Einrel
+{Thalrinel}Thalrinel
+{Gelthior}Gelthior
+{Gorinir}Gorinir
+{Lorchon}Lorchon
+{Galriel}Galriel
+{Glardel}Glardel
+{Iirond}Iirond
+{Nallion}Nallion
+{Norweras}Norweras
+{Ayleidion}Ayleidion
+{Pierre}Pierre
+{Ginsen}Ginsen
+{Lazgar}Lazgar
+{Laurig}Laurig
+{Golg}Golg
+{gro-Doldog}gro-Doldog
+{Minangor}Minangor
+{Allunen}Allunen
+{Cularald}Cularald
+{Trelano}Trelano
+{Valano}Valano
+{Fairenwen}Fairenwen
+{Bowenas}Bowenas
+{Ranneth}Ranneth
+{Dailithil}Dailithil
+{Odreth}Odreth
+{Herdor}Herdor
+{Glooredel}Glooredel
+{Cariel}Cariel
+{Edhelorn}Edhelorn
+{Tarinwe}Tarinwe
+{Maruin}Maruin
+{Sinyon}Sinyon
+{Estre}Estre
+{Rilis}Rilis
+{Hazazi}Hazazi
+{Melanie}Melanie
+{Ostion}Ostion
+{Urcelmo}Urcelmo
+{Norion}Norion
+{Eminwe}Eminwe
+{Aeradan}Aeradan
+{Camoran}Camoran
+{Jimila}Jimila
+{Atahba}Atahba
+{Elonthor}Elonthor
+{Gharesh}Gharesh
+{Kazargi}Kazargi
+{Sorondil}Sorondil
+{Razum}Razum
+{Angalsama}Angalsama
+{Arannelya}Arannelya
+{Ardaline}Ardaline
+{Arquen}Arquen
+{Aryarie}Aryarie
+{Atraena}Atraena
+{Caminalda}Caminalda
+{Caranya}Caranya
+{Earana}Earana
+{Eilnowy}Eilonwy
+{Elante}Elante
+{Erissare}Erissare
+{Hildara}Hildara
+{Karinnarre}Karinnarre
+{Mirie}Mirie
+{Nerussa}Nerussa
+{Othesse}Othesse
+{Palonirya}Palonirya
+{Ranalie}Ranalie
+{Ruma}Ruma
+{Tandilwe}Tandilwe
+{Varulae}Varulae
+{Addvar}Addvar
+{Alvor}Alvor
+{Andrus}Andrus
+{Angvid}Angvid
+{Arnbjorn}Arnbjorn
+{Aslfur}Aslfur
+{Atar}Atar
+{Avulstein}Avulsten
+{Bandir}Bandir
+{Balgruth}Balgruf
+{Balimund}Balimund
+{Benkum}Benkum
+{Briehl}Briehl
+{Brunwulf}Brunwulf
+{Bulfrek}Bulfrek
+{Dagur}Dagur
+{Dengeir}Dengeir
+{Duvice}Duvice
+{Eimar}Eimar
+{Embry}Embry
+{Erik}Erik
+{Erikur}Erikur
+{Folk}Folk
+{Farengar}Farengar
+{Farkas}Farlas
+{Filnjar}Filanjar
+{Fultheim}Fultheim
+{Galmar}Galmar
+{Garthar}Garthar
+{Geimund}Geimund
+{Gestur}Gestur
+{Gissur}Gissur
+{Gjak}Gjak
+{Gloth}Gloth
+{Golldir}Golldir
+{Gorm}Gorm
+{Grisvar}Grisvar
+{Gundurr}Gundurr
+{Hadvar}Hadvar
+{Harrald}Harrald
+{Hroggar}Hroggar
+{Hrolfdir}Hrolfdir
+{Hrongar}Hrongar
+{Idolaf}Idolaf
+{Igmund}Igmund
+{Igrod}Igrod
+{Imskar}Imskar
+{Istlod}Istlod
+{Jorn}Jorn
+{Kodlak}Kodlak
+{Kodrir}Kodrir
+{Mikael}Mikael
+{Molgorm}Molgorm
+{Mralki}Mralki
+{Odar}Odar
+{Ogmund}Ogmund
+{Ragnar}Ragnar
+{Rolff}Rolff
+{Ralof}Ralof
+{Siddgeir}Siddgeir
+{Skald}Skald
+{Thorgar}Thorgar
+{Thrynn}Thrynn
+{Torygg}Torygg
+{Raibert}Raibert
+{Torolf}Torolf
+{Bitterblade}Hoja Amarga
+{Gap-Tooth}Diente Ahuecado
+{Ulfric}Ulfric
+{Orcthane}Orcthane
+{Jorunn}Jorunn
+{Mabjaarn}Mabjaarn
+{Fildgor}Fildgor
+{Irnskar}Irnskar
+{Lenning}Lenning
+{Vigrod}Vigrod
+{Hamar}Hamar
+{Gandis}Gandis
+{Gjakil}Gjakil
+{Borodin}Borodin
+{Fenrir}Fenrir
+{Bredrek}Bredrek
+{Andrin}Andrin
+{Holgunn}Holgunn
+{Unvald}Unvald
+{Oda}Oda
+{Rawan}Rawan
+{Merton}Merton
+{Harvard}Harvard
+{Orcthane}Orcthane
+{Wraithbane}Azote de espectros
+{Ironhand}Mano de Hierro
+{Snowhunter}Cazador Nevado
+{Hokurek}Hokurek
+{Yjarnn}Yjarnn
+{Hlorenor}Hlorenor
+{Vurlop}Vurlop
+{Harvald}Harvald
+{Majorn}Majorn
+{Valeric}Valeric
+{Gakurek}Gakurek
+{Esling}Esling
+{Hald}Hald
+{Wraithbane}Azote de espectros
+{Jeggi}Jeggi
+{Nurnhilde}Nurnhilde
+{Hrondar}Hrondar
+{Jeggord}Jeggord
+{Zimmeron}Zimmeron
+{Servyn}Servyn
+{Indoril}Indoril
+{Hlaalu}Hlaalu
+{Redoran}Redoran
+{Dres}Dres
+{Omin}Omin
+{Naryu}Naryu
+{Virian}Virian
+{Alarel}Alarel
+{Duryn}Duryn
+{Llurour}Llurour
+{Venthin}Venthin
+{Melur}Melur
+{Sen}Sen
+{Lyranth}Lyranth
+{Seris}Seris
+{Molag_Bal}Molag Bal
+{Mannimarco}Mannimarco
+{Ralden}Ralden
+{Aryo}Aryo
+{Bralos}Bralos
+{Diiril}Diiril
+{Giron}Giron
+{Turnol}Turnol
+{Morami}Morami
+{Mondran}Mondran
+{Furen}Furen
+{Hlenir}Hlenir
+{Belvin}Belvin
+{Galdsa}Galdsa
+{Gavrys}Gavryn
+{Talvyn}Taldyn
+{Brethis}Brethis
+{Darj}Darj
+{Rana}Rana
+{Drathus}Drathus
+{Othral}Othral
+{Aldryn}Aldryn
+{Beron}Beron
+{Farayn}Farayn
+{Llasi}Llasi
+{Omoren}Omoren
+{Beleran}Beleran
+{Vunal}Vunal
+{Belronen}Belronen
+{Belron}Belron
+{Vox}Vox
+{Arvyn}Arvyn
+{Serien}Serien
+{Thandon}Thandon
+{Brilnosu}Brilnosu
+{Darvasen}Darvasen
+{Merdyndril}Merdyndril
+{Telvanni}Telvanni
+{Almalexia}Almalexia
+{Tanval}Tanval
+{Thrush}Thrush
+{Yeveth}Yeveth
+{Noramil}Noramil
+{Garyn}Garyn
+{Vhos}Vhos
+{Danys}Danys
+{Dohna}Dohna
+{Gelds}Gelds
+{Talsyne}Talsyne
+{Naddu}Naddu
+{Talnus}Talnus
+{Eyes-of-Steel}Ojos-de-Acero
+{Heita-Meen}Heita-Meen
+{Dar-Liurz}Dar-Liurz
+{Haj-Tei}Haj-Tei
+{Alan-Tei}Alan-Tei
+{Axe-Fist}Puño-de-Hacha
+{Bathed-in-Steel}Bañado-en-Acero
+{Beek-Nei}Beek-Nei
+{Black-Scale}Escama-Negra
+{Chilwir}Chilwir
+{Dee-Nura}Dee-Nura
+{Heek-Sa}Heek-Sa
+{Im-Kajin}Im-Kajin
+{Ianix}Ianix
+{Plays-With-Fire}Juega-Con-Fuego
+{Inue}Inue
+{Stormy-Eyes}Ojos-Tormentosos
+{Kal-Mei}Kal-Mei
+{Listens-to-Water}Escucha-el-Agua
+{Maddu}Maddu
+{Ree-Kia}Ree-Kia
+{Rides-the-River}Monta-el-Río
+{Sky-Seer}Mirador-del-Cielo
+{Sharp-Edge}Filo-Afilado
+{Taleel-Bex}Taleel-Bex
+{Tar-Shebs}Tar-Shebs
+{Teeka}Teeka
+{Under-Root}Bajo-Raíces
+{Veenaza}Veenaza
+{Nesh-Ja}Nesh-Ja
+{Mim-Jas}Mim-Jas
+{Nubaree}Nubaree
+{Keesekeeth}Keesekeeth
+{Okaw-Durnania}Okaw-Durnania
+{Otumi-Wulm}Otumi-Wulm
+{Ja-Reet}Ja-Reet
+{Seemarz}Seemarz
+{Ukka-Dimik}Ukka-Dimik
+{Druxolneeus}Druxolneeus
+{Ajul-Kahz}Ajul-Kahz
+{Tah-Tehat}Tah-Tehat
+{Akeerus}Akeerus
+{Nuleem-Malem}Nuleem-Malem
+{Dethrel}Dethrel
+{Najeepa}Najeepa
+{Ahaht-Ei}Ahaht-Ei
+{Am-Meesei}Am-Meesei
+{Keel-Lurash}Keel-Lurash
+{Telixith}Telixith
+{Born-Under-Stars}Nacido-Bajo-Estrellas
+{Has-No-Regrets}Sin-Arrepentimientos
+{Long-Claw}Garra-Larga
+{Mud-Toes}Pies-Embarrados
+{Nimble-Knuckles}Nudillos-Ágiles
+{Rising-In-Still-Waters}Criado-en-Aguas-Calmadas
+{Sharp-Eyes}Ojos-Afilados
+{Sleeps-With-Open-Eyes}Duerme-Con-Ojos-Abiertos
+{Nexith}Nexith
+{Ukka-Meedish}Ukka-Meedish
+{Ah-Seeba}Ah-Seeba
+{Adrasi}Adrasi
+{Dosu-Nur}Dosu-Nur
+{Lizard-Eater}Come-Lagartos
+{Kizta-Raj}Kizta-Raj
+{Pimaxi-Loh}Pimaxi-Loh
+{Rabeen-Ei}Rabeen-Ei
+{Terezeeus}Terezeeus
+{Swift-Catch}Captura-Rápida
+{Uthisii}Uthisii
+{Nebutil}Nebutil
+{Sees-All-Colors}Ve-Todos-los-Colores
+{Head-In-Clouds}Cabeza-en-las-Nubes
+{Azeez-Eix}Azeez-Eix
+{Many-Eyes-Watching}Muchos-Ojos-Observan
+{Speaks-With-Lights}Habla-Con-Luces
+{Walks-In-Ash}Camina-Sobre-Ceniza
+{Kepanuu}Kepanuu
+{Way-With-Words}Hábil-Con-Palabras
+{Runs-With-Quickness}Corre-Con-Rapidez
+{Kamax-Ei}Kamax-Ei
+{One-Eye}Ojo Único
+{Hides-The-Ashes}Esconde-las-Cenizas
+{Silent-Moss}Musgo-Silencioso
+{Deyapa}Deyapa
+{Ukatsei}Ukatsei
+{Uxith-Ei}Uxith-Ei
+{Keel-Lurash}Keel-Lurash
+{Fal-Xoc}Fal-Xoc
+{Sarase}Sarase
+{Brinarch}Brinarch
+{Strastnoc}Strastnoc
+{Valdimar}Valdimar
+{Vilkas}Vilkas
+{Vilod}Vilod
+{Yngvar}Yngvar
+{Yngold}Yngold
+{Aspenarm}Aspenarm
+{Alhund}Alhund
+{Anvil-Hand}Mano-de-Yunque
+{Axeman}Hachero
+{Axebearer}Portador de Hacha
+{Axewife}Esposa Hachera
+{Bearclaw}Garra de Oso
+{Bearskin}Piel de Oso
+{Blackfyre}Fuego Negro
+{Blackblood}Sangre Negra
+{Blackthorn}Espìno Negro
+{Bloodmouth}Boca Ensangrentada
+{Blue-Eyes}Ojos-Azules
+{Blue-Tooth}Dientes-Azules
+{Bog-Trotter}Camina-Ciénagas
+{Bold-Lute}Laúd-Audaz
+{Bright-Eyes}Ojos-Brillantes
+{Bronzehelm}Yelmo de Bronce
+{Coldhand}Mano Fría
+{Coldfist}Puño Frío
+{Coldsword}Espada Fría
+{Cloud-Runner}Corre-Sobre-Nubes
+{Cravenrune}Runa Codiciosa
+{Crowchild}Hijo de Cuervo
+{Crowhaven}de Refugio del Cuervo
+{Cursebringer}Atracción Maldita
+{Dampnervald}Dampnervald
+{Dayspring}Aurora
+{Dawntreader}Viajero del Alba
+{Dawnstar}de Lucero del Alba
+{Deathbloom}Flor Mortal
+{Death-Bringer}Trae-la-Muerte
+{Doomsayer}Agorero
+{Dovahbor}Dovahbor
+{Dovahoran}Dovahoran
+{Eagle-Eye}Ojo-de-Águila
+{Eastmarch}de la Marca Oriental
+{Ebonhand}Mano de Ébano
+{Ebonheart}de Corazón de Ébano
+{Elderfire}Fuego Antiguo
+{Eldergleam}Brillo de los Antiguos
+{Elderoot}Raíz Antigua
+{Elf-Hewer}Tallaelfos
+{Elf-Killer}Mataelfos
+{Falkreath}de Falkreath
+{Farseer}Clarividente
+{Finehair}Cabellohermoso
+{Firebringer}Lanzafuego
+{Firebeather}Respirafuego
+{Fire-Eyes}Ojos-de-Fuego
+{Flat-Tooth}Diente-Plano
+{Flatfoot}Piesplanos
+{Flatface}Caraplana
+{Fog-Eye}Ojo-Nublado
+{Forkbeard}Barba de Horca
+{Free-Winter}Invierno-Libre
+{Frostbeard}Barba de Escarcha
+{Frostfire}Fuego de Escarcha
+{Frostfang}Colmillo de Escarcha
+{Ghost-Bear}Oso Fantasma
+{Ghostheart}Corazón Fantasma
+{Gildergreen}Verdeoro
+{Greenhand}Mano Verde
+{Greenthumb}Greenthumb
+{Greenteeth}Greenteeth
+{Greybeard}Greybeard
+{Greymane}Greymane
+{Greywave}Greywave
+{Hairy-Legs}Hairy-Legs
+{Halfhand}Halfhand
+{Hammerhand}Hammerhand
+{Hammerheart}Hammerheart
+{Hardmouth}Hardmouth
+{Heartbreaker}Heartbreaker
+{Heartfang}Heartfang
+{Hearth-healer}Hearth-healer
+{Heljarchen}of Heljarchen
+{Hexcaller}Hexcaller
+{Highlander}Highlander
+{Hjalmarch}of Hjalmarch
+{Hoarblood}Hoarblood
+{Hoarfrost}Hoarfrost
+{Hoe-Pusher}Hoe-Pusher
+{Hollowhead}Hollowhead
+{Horsebreaker}Horsebreaker
+{Horsemouth}Horsemouth
+{Horkerbane}Horkerbane
+{Huskarl}Huskarl
+{Ice-child}Ice-child
+{Icefist}Icefist
+{Ice-Veins}Ice-Veins
+{Ironblood}Ironblood
+{Ironhand}Ironhand
+{Ironhead}Ironhead
+{Ironhelm}Ironhelm
+{Ironside}Ironside
+{Karthspire}of Karthspire
+{Karthold}Karthold
+{Lawspeaker}Lawspeaker
+{Lightbringer}Lightbringer
+{Loathespell}Loathespell
+{Longleg}Longleg
+{Long-Nose}Long-Nose
+{Longtooth}Longtooth
+{Lonleygale}Lonleygale
+{Lorespinner}Lorespinner
+{Lute-Voice}Lute-Voice
+{Lute-Master}Lute-Master
+{Magnemar}Magnemar
+{Meadmaker}Meadmaker
+{Meadtaker}Meadtaker
+{Milk-Drinker}Milk-Drinker
+{Mumblefinger}Mumblefinger
+{Name-chaser}Name-chaser
+{Oakheart}Oakheart
+{Oakenhull}Oakenhull
+{Oakenarm}Oakenarm
+{One-eye}One-eye
+{Palechild}Palechild
+{Pale-Heart}Pale-Heart
+{Pale-Keeper}Pale-Keeper
+{Pale-Rider}Pale-Rider
+{Ravencrone}Ravencrone
+{Red-Spear}Red-Spear
+{Riverhelm}of Riverhelm
+{Riverwood}of Riverwood
+{Sablehilt}Sablehilt
+{Seachild}Seachild
+{Secretfire}Secretfire
+{Skald}Skald
+{Shadowbane}Shadowbane
+{Shadowstar}Shadowstar
+{Shattershield}Shattershield
+{Silverblood}Silverblood
+{Skyforged}Skyforged
+{Sky-Dancer}Sky-Dancer
+{Skywatcher}Skywatcher
+{Snowfall}Snowfall
+{Snowshod}Snowshod
+{Snowsong}Snowsong
+{Starkheart}Starkheart
+{Steelheart}Steelheart
+{Steelshod}Steelshod
+{Strongbow}Strongbow
+{Stonebreaker}Stonebreaker
+{Stonefist}Stonefist
+{Stone-Singer}Stone-Singer
+{Stormcaller}Stormcaller
+{Stormcrown}Stormcrown
+{Stormfist}Stormfist
+{Stormcloak}Stormcloak
+{Sweatlicker}Sweatlicker
+{Swiftsail}Swiftsail
+{Tallowhand}Tallowhand
+{Thrice-Versed}Thrice-Versed
+{Thrice-Pierced}Thrice-Pierced
+{Thorkiin}Thorkiin
+{Thorman}Thormanson
+{Thorvald}Thorvaldson
+{Timberhold}Timberhold
+{Tilvald}Tilvaldson
+{Tormund}Tormundson
+{Tor}Torson
+{Trollkin}Trollkin
+{True-steel}True-steel
+{Trueheart}Trueheart
+{Unfirth}Unfirth
+{Vexhild}Vexhild
+{Wall-taker}Wall-taker
+{Wavebreaker}Wavebreaker
+{Weatherhat}Weatherhat
+{Wetpommel}Wetpommel
+{Whetstone}Whetstone
+{Whitebeard}Whitebeard
+{White-Eye}White-Eye
+{Whitemane}Whitemane
+{Tali}Tali
+{Whiterun}of Whiterun
+{Whitewave}Whitewave
+{Whore-Killer}Whore-Killer
+{Windcaller}Windcaller
+{Windeye}Windeye
+{Windstadt}Windstadt
+{Wine-sot}Wine-sot
+{Winterbreath}Winterbreath
+{Winterfist}Winterfist
+{Winterheart}Winterheart
+{Winterhome}Winterhome
+{Winterhold}of Winterhold
+{Wolfheart}Wolfheart
+{Wolf-Runner}Wolf-Runner
+{Wolf-Killer}Wolf-Killer
+{Wulfhearth}Wulfhearth
+{Wulfsbane}Wulfsbane
+{Wulfkin}Wulfkin
+{Yoresinger}Yoresinger
+{Bitterblade}Bitterblade
+{Gap-Tooth}Gap-Tooth
+{Skald-King}Skald-King
+{Abelone}Abelone
+{Adisla}Adisla
+{Aela}Aela
+{Agnis}Agnis
+{Annekke}Annekke
+{Astrid}Astrid
+{Beitild}Beitild
+{Boti}Boti
+{Breya}Breya
+{Brina}Brina
+{Bryling}Bryling
+{Danica}Danica
+{Drifa}Drifa
+{Edith}Edith
+{Elda}Elda
+{Elisif}Elisif
+{Erdi}Erdi
+{Evette}Evette
+{Eydis}Eydes
+{Faida}Faida
+{Frabbi}Frabbi
+{Freir}Freir
+{Fridika}Fridika
+{Fruki}Fruki
+{Gerda}Gerda
+{Haelga}Haelga
+{Ingrid}Ingrid
+{Laila}Laila
+{Lami}Lami
+{Lisbet}Lisbet
+{Matlara}Matlara
+{Maven}Maven
+{Mjoll}Mjill
+{Narri}Narri
+{Nilsine}Nilsine
+{Njada}Njada
+{Nura}Nura
+{Olda}Olda
+{Orla}Orla
+{Rikke}Rikke
+{Sapphire}Sapphire
+{Sybille}Sybille
+{Tekla}Tekla
+{Tormir}Tormir
+{Tova}Tova
+{Una}Una
+{Ysolda}Ysolda
+{NhadHatta}Nhad-Hatta
+{Dagoth_Aladus}Dagoth Aldus
+{Dagoth_Araynys}Dagoth Araynys
+{Dagoth_Baler}Dagoth Baler
+{Dagoth_Delnus}Dagoth Delnus
+{Dagoth_Drals}Dagoth Dralis
+{Dagoth_Draven}Dagoth Draven
+{Dagoth_Elam}Dagoth Elam
+{Dagoth_Endus}Dagoth Endus
+{Dagoth_Fals}Dagoth Fals
+{Dagoth_Fandril}Dagoth Fandril
+{Dagoth_Felmis}Dagoth Felmis
+{Dagoth_Fervas}Dagoth Fervas
+{Dagoth_Fovon}Dagoth Fovon
+{Dagoth_Galmis}Dagoth Galmis
+{Dagoth_Gares}Dagoth Gares
+{Dagoth_Gilvoth}Dagoth Gilvoth
+{Dagoth_Girer}Dagoth Girer
+{Dagoth_Goral}Dagoth Goral
+{Dagoth_Ienas}Dagoth Ienas
+{Dagoth_Irvyn}Dagoth Irvyn
+{Dagoth_Malan}Dagoth Malan
+{Dagoth_Mendras}Dagoth Mendras
+{Dagoth_Molos}Dagoth Molos
+{Dagoth_Mulis}Dagoth Mulis
+{Dagoth_Muthes}Dagoth Muthes
+{Dagoth_Nilor}Dagoth Nilor
+{Dagoth_Odros}Dagoth Odros
+{Dagoth_Ralas}Dagoth Ralas
+{Dagoth_Rather}Dagoth Rather
+{Dagoth_Reler}Dagoth Reler
+{Dagoth_Soler}Dagoth Soler
+{Dagoth_Tanis}Dagoth Tanis
+{Dagoth_Tureynul}Dagoth Tureynul
+{Dagoth_Ulen}Dagoth Ulen
+{Dagoth_Uthol}Dagoth Uthol
+{Dagoth_Uvil}Dagoth Uvil
+{Dagoth_Ur}Dagoth Ur
+{Dagoth_Vaner}Dagoth Vaner
+{Dagoth_Velos}Dagoth Velos
+{Dagoth_Vemin}Dagoth Vemin
+{Dagoth_Hlevul}Dagoth Hlevul
+{Dagoth-Womana}Dagoth woman
+{Dagoth-Womanb}Dagoth woman
+{Dagoth-Womanc}Dagoth woman
+{Dagoth-Womand}Dagoth woman
+{Dagoth_Womane}Dagoth woman
+{Dagoth_Womanf}Dagoth woman
+{Am-Shadal}Am-Shadal
+{Alusaron}Alusaron
+{Azah}Azah
+{Adar}Adar
+{Ancola}Ancola
+{Amren}Amren
+{Ammun}Ammun
+{Ataf}Ataf
+{Ator}A'tor
+{Artago}Artago
+{Avidius}Avidius
+{Azzada}Azzada
+{Azzadal}Azzadal
+{Bhosek}Bhosek
+{Brenuin}Brenduin
+{Varus}Varus
+{Vantinius}Vantinius
+{Baral}Baral
+{Baurus}Baurus
+{Cavortius}Cavortius
+{Albuttian}Albuttian
+{Endon}Endon
+{Ennis}Ennis
+{Farvard}Farvard
+{Falion}Falion
+{Gerklit}Greklith
+{Lhotun}Lhotun
+{Rodore}Rodore
+{Fahara'jad}Fahara'jad
+{Fiada}Fiada
+{Jawanan}Jawanan
+{Husni}    Husni
+{Maramal}Maramal
+{Kameron}Kameron
+{Kane}Kane
+{Andrin}Andrin
+{Kalvyn}Kalvyn
+{Kematu}Kematu
+{Khorshad}Khorshad
+{Haldyn}Haldyn
+{Dhakir}Dhakir
+{Marimah}Marimah
+{Nazeem}Nazeem
+{Nazir}Nazir
+{Oresm}Oresm
+{Ranbiq}Ranbiq
+{Razelan}Razelan
+{Sairus}Sairus
+{Shadr}Shadr
+{Shrike}Shrike
+{Talib}Talib
+{Thoda}Thoda
+{Tassad}Tassad
+{Varnado}Varnado
+{Zaladr}Zaladr
+{Ahdan}Ahdan
+{Merric}Merric
+{Rahim}Rahim
+{Abiznaz}Abiznaz
+{Kathalir}Kathalir
+{Marbilah}Marbilah
+{Asadel}Asadel
+{Aideh}Aideh
+{Fahad}Fahad
+{Bahrah}Bahrah
+{Aradhel}Aradhel
+{Bahir}Bahir
+{Fahdah}Fahdah
+{Hahakil}Hahakil
+{Hayed}Hayed
+{Idani}Idani
+{Ilmah}Ilmah
+{Kamiran}Kamiran
+{Latif}Latif
+{Laknar}Laknar
+{Masahir}Masahir
+{Mizrad}Mizrad
+{Neenaban}Neenaban
+{Nuzah}Nuzah
+{Sayminah}Sayminah
+{Serosh}Serosh
+{Shahid}Shahid
+{Shalazad}Shalazad
+{Shalayleh}Shalayleh
+{Unishi}Unishi
+{Uthmal}Uthmal
+{Zandim}Zandim
+{Andrin}Andrin
+{Ebarah}Ebarah
+{Ramati}Ramati
+{Salida}Salida
+{Shammin}Shammin
+{Ilwan}Ilwan
+{Hosni}Hosni
+{at-Lehiel}at-Lehiel
+{at-Tarin}at-Tarin
+{al-Sentinel}al-Sentinel
+{al-Kozanset}al-Kozanset
+{al-Bergama}al-Bergama
+{af-Mubdi}af-Mubdi
+{af-Hisham}af-Hisham
+{af-Mahala}af-Mahala
+{af-Jahannif}af-Jahannif
+{al-Rihad}al-Rihad
+{at-Kalan}at-Kalan
+{af-Nazila}af-Nazila
+{af-Bazra}af-Bazra
+{af-Katayoun}af-Katayoun
+{at-Owynok}at-Owynok
+{al-Azif}al-Azif
+{at-Amil}at-Amil
+{at-Amjad}at-Amjad
+{at-Renazh}at-Renazh
+{af-Hassef}af-Hassef
+{at-Rusa}at-Rusa
+{af-Dometri}af-Dometri
+{at-Aswala}at-Aswala
+{at-Marimah}at-Marimah
+{al-Satakalaam}al-Satakalaam
+{al-Taneth}al-Taneth
+{al-Lainebon}al-Lainebon
+{al-Hegathe}al-Hegathe
+{af-Angilia}af-Angilia
+{af-Whyrdh}af-Whyrdh
+{at-Warhpal}at-Warhpal
+{af-Haba}af-Haba
+{at-Makela}at-Makela
+{at-Natedan}at-Natedan
+{at-Karim}at-Karim
+{at-Phintos}at-Phintos
+{at-Nazdar}at-Nazdar
+{at-Karim}at-Karim
+{al-Hallin}al-Hallin
+{at-Nimr}at-Nimr
+{al-Hareem}al-Hareem
+{at-Gar}at-Gar
+{al-Hallen}al-Hallen
+{at-Mardeen}at-Mardeen
+{at-Nazim}at-Nazim
+{at-Tura}at-Tura
+{Ahlam}Ahlam
+{Anwen}Anwen
+{Eriana}Eriana
+{Umana}Umana
+{LuahAlSkaven}Lu'ah
+{Ramati}Ramati
+{Sudi}Sudi
+{Salma}Salma
+{Faleen}Faleen
+{Jhonna}Jhonna
+{Kerah}Kerah
+{Atmah}Atmah
+{Yisra}Yizra
+{Saadia}Sadiah
+{Saffir}Saffir
+{Sayma}Sayma
+{Seren}Seren
+{Tonilia}Tonilia
+{Urwa}Urwa
+{Zaria}Zaria
+{Yimaan}Yman
+{An-Zaw}An-Zaw
+{Asum}Asum
+{Bunish}Bunish
+{Busheeus}Busheeus
+{Chiwish}Chiwish
+{Chulz}Chulz
+{Cood-Ai}Cood-Ai
+{Dikus}Dikus
+{Dan-Ru}Dan-Ru
+{Derkitus}Derkitus
+{Eleedal_lei}Eleedal-Lei
+{Beem-Ja}Beem-Ja
+{Gulum-Ai}Gulum-Ai
+{Gah-Julan}Gah-Julan
+{Gam-Kur}Gam-Kur
+{Geel-Lah}Geel-Lah
+{Haran}Haran
+{Hathei}Hathei
+{Heedul}Heedul
+{Jaree-Ra}Jaree-Ra
+{Jhitum-Zeih}Jhitum-Zeih
+{Jilius}Jilius
+{Madesi}Madesi
+{Neetrenaza}Neetrenaza
+{Ilas-Tei}Ilas-Tei
+{Inee}Inee
+{Itan}Itan
+{Huzei}Huzei
+{Talen-Jei}Talen-Jei
+{Tanan}Tanan
+{Tee-Lan}Tee-Lan
+{Teegla}Teegla
+{Teeba-Ei}Teeba-Ei
+{Teynaava}Teynaava
+{Veezara}Veezara
+{Veebam-Na}Veebam-Na
+{Vumeek}Vumeek
+{Ah-Meesei}Ah-Messei
+{Ahaht}Ahaht
+{Banalz}Banalz
+{Beekatan}Beektan
+{Cheesh-Meeus}Cheesh-Meeus
+{Deesh-Meeus}Deesh-Meeus
+{El-Lurasha}El-Lurasha
+{Eutei}Eutei
+{Gih-Ja}Gih-Ja
+{Gish}Gish
+{Hul}Hul
+{Jeed-Ei}Jeed-Ei
+{Kal-Ma}Kal-Ma
+{Kasa}Kasa
+{Keel-Raniur}Keel-Raniur
+{Meen-Sa}Meen-Sa
+{Nush}Nush
+{Ochiva}Ochiva
+{Okur}Okur
+{On-Wasei}On-Wasei
+{Onasha}Onasha
+{Seen-Rei}Seen-Rei
+{Tasha}Tasha
+{Wusha}Wusha
+{Necromancera}Necromancer
+{Necromancerb}Necromancer
+{Necromancerc}Necromancer
+{Necromancerd}Necromancer
+{Necromancere}Necromancer
+{Necromancerf}Necromancer
+{Necromancerg}Necromancer
+{Necromancerh}Necromancer
+{Necromancerch}Necromancer
+{Necromancerwa}Necromancer
+{Necromancerwb}Necromancer
+{Necromancerwc}Necromancer
+{Necromancerwd}Necromancer
+{Sul-Matuul}Sul-Matuul
+{Urshamusa}Urshamusa
+{Kaushad}Kaushad
+{Ulath-Pal}Ulath-Pal
+{Ababael}Ababael
+{Addammus}Addammus
+{Ahazur}Ahazur
+{Ahaz}Ahaz
+{Ainab}Ainab
+{Ashibaal}Ashibaal
+{Ashu-Ahhe}Ashu-Ahhe
+{Ashur-Dan}Ashur-Dan
+{Assemmus}Assemmus
+{Dutadalk}Dutadalk
+{Emul-Ran}Emul-Ran
+{Esar-Don}Esar-Don
+{Han-Ammu}Han-Ammu
+{Hirarend}Hirarend
+{Kashtes}Kashtes
+{Mabarrabael}Mabarrabael
+{Massarapal}Massarapal
+{Mausur}Mausur
+{Minassour}Minassour
+{Patababi}Patababi
+{Ranabi}Ranabi
+{Sakin}Sakin
+{Sakulerib}Sakulerib
+{Salattanat}Salattanat
+{Shabinbael}Shabinbael
+{Shimsun}Shimsun
+{Tinti}Tinti
+{Tubilaik}Tubilaik
+{Tussurradad}Tussurradad
+{Ulabael}Ulabael
+{Ulibabi}Ulibabi
+{Yantus}Yantus
+{Yen}Yen
+{Yenammu}Yenammu
+{Zabamund}Zabamund
+{Zallay}Zallay
+{Zallit}Zallit
+{Timsar-Dadisun}Timsar-Dadisun
+{Assunbahanammu}Assunbahanammu
+{Hansar}Hansar
+{Dunsamsi}Dunsamsi
+{Mannanalit}Mannanalit
+{Ilabael}Ilabael
+{Sanammmasour}Sanammasour
+{Mirpal}Mirpal
+{Zabamat}Zabamat
+{Mirathrernenum}Mirathrernenum
+{Shamirbasour}Shamirbasour
+{Rapli}Rapli
+{Darirnaddunumm}Darirnaddunumm
+{Subaddamael}Subaddamael
+{Ziddak}Ziddak
+{Brevasu}Brevasu
+{Ginas}Ginas
+{Broder}Broder
+{Dreyl}Dreyl
+{Ervas}Ervas
+{Hedrann}Hedrann
+{Tirinaat}Tirinaat
+{Bodani}Bodani
+{Alivus}Alivus
+{Arith-Enl}Arith-Enl
+{Draithsuul}Draithsuul
+{Harrinat}Harrinat
+{Hlandr}Hlandr
+{Issayarul}Issayarul
+{Kaid-Arbul}Kaid-Arbul
+{Kinhassur}Kinhassur
+{Marinisuu}Marinisuu
+{Minbid-Dalomo}Minbid-Dalomo
+{Munab}Munab
+{Oril}Oril
+{Dunhaki}Dunhaki
+{Helothan}Helothan
+{Givyn}Givyn
+{Rothan}Rothan
+{Kaliki}Kaliki
+{Ahemmusa}Ahemmusa
+{Urshulaku}Urshulaku
+{Vereansu}Vereansu
+{Mabrigash}Mabrigash
+{Erabenimsun}Erabenimsun
+{Zainab}Zainab
+{Kagesh}Kagesh
+{Oril}Oril
+{Addut-Lamanu}Addut-Lamanu
+{Hainab}Hainab
+{Kammu}Kammu
+{Kummu}Kummu
+{Kurapli}Kurapli
+{Kushishi}Kushishi
+{Lanabi}Lanabi
+{Maeli}Maeli
+{Mamaea}Mamaea
+{Manirai}Manirai
+{Nibani}Nibani
+{Nummu}Nummu
+{Sakiran}Sakiran
+{Sen}Sen
+{Servyn}Servyn
+{Senipu}Senipu
+{Shallath-Piremus}Shallath-Piremus
+{Shara}Shara
+{Sinnammu}Sinnammu
+{Sonummu}Sonummu
+{Tunipi}Tunipi
+{Tussi}Tussi
+{Ulibabi}Ulibabi
+{Urshamusa}Urshamusa
+{Yan-Ahhe}Yan-Ahhe
+{Zaba}Zaba
+{Zanummu}Zanummu
+{Zebba}Zebba
+{RY_A}Red Year
+{RY_B}Red Year
+{RY_C}Red Year
+{RY_D}Red Year
+{RY_E}Red Year
+{RY_F}Red Year
+{RY_G}Red Year
+{RY_H}Red Year
+{RY_I}Red Year
+{RY_J}Red Year
+{RY_K}Red Year
+{RY_L}Red Year
+{RY_M}Red Year
+{RY_N}Red Year
+{RY_O}Red Year
+{RY_P}Red Year
+{RY_Q}Red Year
+{RY_R}Red Year
+{RY_S}Red Year
+{RY_T}Red Year
+{RY_U}Red Year
+{RY_V}Red Year
+{RY_W}Red Year
+{RY_X}Red Year
+{RY_Y}Red Year
+{RY_Z}Red Year
+{n}
+{o}
+{t}
+{h}
+{i}
+{n}
+{g}
+{e}
+{l}
+{s}
+{e}
+{n}
+{o}
+{t}
+{h}
+{i}
+{n}
+{g}
+{e}
+{l}
+{s}
+{e}
+{n}
+{o}
+{t}
+{h}
+{i}
+{n}
+{g}
+{e}
+{l}
+{s}
+{e}
+{n}
+{o}
+{t}
+{h}
+{i}
+{n}
+{g}
+{e}
+{l}
+{s}
+{e}
+{n}
+{o}
+{t}
+{h}
+{i}
+{n}
+{g}
+{e}
+{l}
+{s}
+{e}
+{n}
+{o}
+{t}
+{h}
+{i}
+{n}
+{g}
+{e}
+{l}
+{s}
+{e}
+{Darkworth}Darkworth
+{Darloc}Darloc
+{Falx}Falx
+{Ezhmaar}Ezhmaar
+{Vuhon}Vuhon
+{Irrel}Irrel
+{Brindisi}Brindisi
+{Moraelyn}Moraelyn
+{Barenziah}Barenziah
+{Symmachus}Symmachus
+{Hlaren}Hlaren
+{Athyn}Athyn
+{Roris}Roris
+{Rythe}Rythe
+{Karoodil}Karoodil
+{AdaSoom_Dir-Kamal}Ada'Soom Dir-Kamal
+{Drals}Drals
+{Drayven}Drayven
+{Katarius}Katarius
+{Puril}Puril
+{Rangidil}Rangidil
+{Galdal}Galdal
+{Talen}Talen
+{Casik}Casik
+{Vaynth}Vaynth
+{Kronin}Kronin
+{Cruethys}Cruethys
+{Ephen}Ephen
+{Yoriss}Yoriss
+{Pelagius}Pelagius
+{Lian}Lian
+{Malkur}Malkur
+{Aryon}Aryon
+{Frathen}Frathen
+{Brar}Brar
+{Garis}Garis
+{Modryn}Modryn
+{Sul}Sul
+{Dorom}Dorom
+{Ramoran}Ramoran
+{Sarethi}Sarethi
+{Lythandas}Lythandas
+{Falen}Falen
+{Ketil}Ketil
+{Omayn}Omayn
+{R'Aathim}R'Aathim
+{Morgiah}Morgiah
+{Llethan}Llethan
+{Vandas}Vandas
+{Lian}Lian
+{Valos}Valos
+{Dorthran}Dorthran
+{Brandyl}Brandyl
+{Lymdrenn}Lymdrenn
+{Miner}Miner
+{Oreyn}Oreyn
+{Tiber}Tiber
+{Kyntyr}Kyntyr
+{Kantus}Kantus
+{Antiochus}Antiochus
+{Cephorus}Cephorus
+{Agnorith}Agnorith
+{Magnus}Magnus
+{Cassynder}Cassynder
+{Kastav}Kastav
+{Morihathus}Morihathus
+{Amiel}Amiel
+{Galanus}Galanus
+{Potema}Potema
+{Mantiarco}Mantiarco
+{Jolethe}Jolethe
+{Gallivere}Gallivere
+{Andorak}Andorak
+{Ulfe}Ulfe
+{Moricar}Moricar
+{Leovic}Leovic
+{Vulstaed}Vulstaed
+{Alessius}Alessius
+{Pomptinus}Pomptinus
+{Palatinus}Palatinus
+{Hannibal}Hannibal
+{Bendus}Bendus
+{Vasi}Vasi
+{Zurin}Zurin
+{Thules}Thules
+{Hierem}Hierem
+{Cuhlecain}Cuhlecain
+{Reman}Reman
+{Juilek}Juilek
+{Brazollus_Dor}Brazollus Dor
+{Belharz}Belharz
+{Morihaus}Morihaus
+{Hestrus}Hestrus
+{Marukh}Marukh
+{Gorieus}Gorieus
+{Rislav}Rislav
+{Ami-El}Ami-El
+{Fervidius}Fervidius
+{Versidue-Shaie}Versidue-Shaie
+{Savrien-Chorak}Savirien-Chorak
+{Dinieras-Ves}Dinieras-Ves
+{Mhorus}Mhorus
+{Justinius}Justinius
+{Dorald}Dorald
+{Fasil}Fasil
+{Pelinal}Pelinal
+{Haderus}Haderus
+{Crassius}Crassius
+{Pottreid}Pottreid
+{Senecus}Senecus
+{Trebonius}Trebonius
+{Prossos}Prossos
+{Takar}Takar
+{Gulan}Gulan
+{Evernal}Evernal
+{Florius}Florius
+{Pundus}Pundus
+{Remar}Remar
+{Nial}Nial
+{Tertius}Tertius
+{Ethten}Ethten
+{Arcus}Arcus
+{Brennus}Brennus
+{Falcus}Falcus
+{Aronil}Aronil
+{Arges}Arges
+{Ylver}Ylver
+{Jeril}Jeril
+{Lariat}Lariat
+{Gersen}Gersen
+{Quintilla}Quintilla
+{Traven}Traven
+{Olo}Olo
+{Richton}Richton
+{Hadrach}Hadrach
+{Arctus}Arctus
+{Larich}Larich
+{Pinder}Pinder
+{Curio}Curio
+{Goddkey}Goddkey
+{Artorius}Artorius
+{Vineben}Vineben
+{Larsus}Larsus
+{Marall}Marall
+{Sextius}Sextius
+{Ione}Ione
+{Kintyra}Kintyra
+{Katariah}Katariah
+{Morihatha}Morihatha
+{Galana}Galana
+{Potema}Potema
+{Gysilla}Gysilla
+{Magna}Magna
+{Hellena}Hellena
+{Utheilla}Utheilla
+{Bianki}Bianki
+{Thonica}Thonica
+{Calaxes}Calaxes
+{Gemile}Gemile
+{Eloisa}Eloisa
+{Lynada}Lynada
+{Belene}Belene
+{Thagore}Thagore
+{Donel}Donel
+{Anton}Anton
+{Maxevian}Maxevian
+{Bergamot}Bergamot
+{Folbert}Folbert
+{Mortyn}Mortyn
+{Gothlyr}Gothlyr
+{Tristycor}Tristycor
+{Pelin}Pelin
+{Yric}Yric
+{Blaise}Blaise
+{Senhyn}Senhyn
+{Camaron}Camaron
+{Mogref}Mogref
+{Graddock}Graddock
+{Vanech}Vanech
+{Myniser}Myniser
+{Ranser}Ranser
+{Antoiane}Antoiane
+{Brusef}Brusef
+{Gallivere}Gallivere
+{Springheel}Springheel
+{Movarth}Movarth
+{Edward}Edward
+{Othrok}Othrok
+{Tag}Tag
+{Larat}Larat
+{Flowdys}Flowdys
+{Dubois}Dubois
+{Amelion}Amelion
+{Shano}Shano
+{Jakben}Jakben
+{Piquine}Piquine
+{Hoinart}Hoinart
+{Kelmena}Kelmena
+{Annaig}Annaig
+{Golkarr}Golkarr
+{Baloth}Baloth
+{Garnag}Garnag
+{Mauloch}Mauloch
+{Thulgeg}Thulgeg
+{Urmuk}Urmuk
+{Kharag}Kharag
+{Urmug}Urmug
+{gro-Khar}gro-Khar
+{Jinninji}Jinninji
+{Zebiden}Zebiden
+{Ri'Datta}Ri'Datta
+{Vaekar}Vaekar
+{Molag_Kena}Molag Kena
+{Malivus}Malivus
+{Fyrre}Fyrre
+{Cendelin}Cendelin
+{Karoodil}Karoodil
+{Asliel}Asliel
+{Cygnus}Cygnus
+{Raven}Raven
+{Urvwen}Urvwen
+{Pelladil}Pelladil
+{Jovron}Jovron
+{Medora}Medora
+{Vorian}Vorian
+{Peregrine}Peregrine
+{Corvus}Corvus
+{Anumaril}Anumaril
+{Hadhuul}Hadhuul
+{Tjurhane}Tjurhane
+{Malborn}Malborn
+{Beech}Beech
+{Faume}Faume
+{Oreyn}Oreyn
+{Allen}Allen
+{Urken}Urken
+{Glirion}Glirion
+{Draeg}Draeg
+{Toad-Eye}Toad-Eye
+{Benoch}Benoch
+{Ysmir}Ysmir
+{Borgas}Borgas
+{Hoag}Hoag
+{Kjoric}Kjoric
+{Vrage}Vrage
+{Harald}Harald
+{Hanse}Hanse
+{Gellir}Gellir
+{Ysgramor}Ysgramor
+{Jurgen}Jurgen
+{Ylgar}Ylgar
+{Yngol}Yngol
+{Hjalti}Hjalti
+{Bathorgh}Bathorgh
+{Amodeth}Amodeth
+{Thone}Thone
+{Vhokken}Vhokken
+{Thongvor}Thongvor
+{Svartr}Svartr
+{Svargrim}Svargrim
+{Hjalmer}Hjalmer
+{Olaf}Olaf
+{Logrolf}Logrolf
+{Erling}Erling
+{Freyd}Freyd
+{Thian}Thian
+{Asurn}Asurn
+{Elgryr}Elgryr
+{Hosgunn}Hosgunn
+{Sven}Sven
+{Jonni}Jonni
+{Yngling}Yngling
+{Derek}Derek
+{Drengr}Drengr
+{Heimdall}Heimdall
+{Hranvard}Hranvard
+{Hrothmund}Hrothmund
+{Ingjaldr}Ingjaldr
+{Jofrior}Jofrior
+{Jorg}Jorg
+{Mith}Mith
+{Skorm}Skorm
+{Strom}Strom
+{Tor}Tor
+{Ulfg}Ulfg
+{Early-Beard}Early-Beard
+{Ice-Breaker}Ice-Breaker
+{Asvensen}Asvensen
+{Freydis}Freydis
+{Dagoth_Voryn}Dagoth Voryn
+{Cyrus}Cyrus
+{Yaghoub}Yaghoub
+{Thassad}Thassad
+{A'tor}A'tor
+{Akorith}Akorith
+{Caacthe}Caacthe
+{Arlimaher}Arlimaher
+{Blubamk}Blubamk
+{Frandar}Frandar
+{Xakhwan}Xakhwan
+{Haqmir}Haqmir
+{Sameer}Sameer
+{Razul}Razul
+{Tarish-Zi}Tarish-Zi
+{Tahmin}Tahmin
+{Satameh}Satameh
+{Kalam}Kalam
+{Hasar}Hasar
+{Huzar}Huzar
+{Adiar}Adiar
+{Mamireh}Mamireh
+{Akamon}Akamon
+{Roshadon}Roshadon
+{Rok'dun}Rok'dun
+{Shehai}Shehai
+{Radan}Radan
+{Halelah}Halelah
+{Majah}Majah
+{Saeel}Saeel
+{Yamanu-ko}Yamanu-ko
+{Gaiden}Gaiden
+{Shavke}Shavke
+{Cirroc}Cirroc
+{Corda}Corda
+{Af-Saryat}Af-Saryat
+{Divad}Divad
+{Hean}Hean
+{Mailic}Mailic
+{A'kor}A'kor
+{Randic}Randic
+{Sai}Sai
+{Mansel}Mansel
+{Abah}Abah
+{Hubalajad}Hubalajad
+{Derik}Derik
+{Hira}Hira
+{Fortunat}Fortunat
+{Voa}Voa
+{Yszara}Yszara
+{Volag}Volag
+{Shinji}Shinji
+{Sesnit}Sesnit
+{Torn}Torn
+{Sahan}Sahan
+{at-Aswala}at-Aswala
+{Hallin}Hallin
+{ap Dugal}ap Dugal
+{Mere-Glim}Mere-Glim
+{Amusei}Amusei
+{Bramman}Bramman
+{Derkeethus}Derkeethus
+{Gulum-Ei}Gulum-Ei
+{Tsleeixth}Tsleeixth
+{Quajalil}Quajalil
+{Xhon-Mehl}Xhon-Mehl
+{Yx}Yx
+{Ginasa}Ginasa
+{Lifts-Her-Tail}Lifts-Her-Tail
+{Ocheeva}Ocheeva
+{Durcorach}Durcorach
+{Styriche}Styriche
+{Venerien}Venerien
+{Hunding}Hunding
+{Madanach}Madanach
+{Rhel}Rhel
+{Elde}Elde
+{Troivois}Troivois
+{Branquette}Branquette
+{Moile}Moile
+{Fulvert}Fulvert
+{Falin}Falin
+{Heseph}Heseph
+{Esmark}Esmark
+{Rihad}Rihad
+{Behrouz}Behrouz
+{Zizzeen}Zizzeen
+{Ramzi}Ramzi
+{Ar-Azal}Ar-Azal
+{Ja-Fr}Ja-Fr
+{Zageeb}Zageeb
+{Ebrahim}Ebrahim
+{Murahd}Murahd
+{Makala}Makala
+{Ulbazar}Ulbazar
+{Glathis}Glathis
+{Arslan}Arslan
+{Janev}Janev
+{Hurlburt}Hurlburt
+{Phylgeon}Phylgeon
+{Janece}Janece
+{Janeve}Janeve
+{Iphilia}Iphilia
+{Xznotell}Xznotell
+{Duneir}Duneir
+{Ykal}Ykal
+{Marruz}Marruz
+{Velark}Velark
+{Druitularg}Druitularg
+{Gnilokelo}Gnilokelo
+{Kixathi}Kixathi
+{Dregas_Volar}Dregas Volar
+{Dritularg}Dritularg
+{Erunas}Erunas
+{Grexev}Grexev
+{Ifriz}Ifriz
+{Kehothar}Kehothar
+{Kyngogurth}Kyngogurth
+{Tuzunkykz}Tuzunkykz
+{Verkynvayl}Verkynvayl
+{Vregas}Vregas
+{Vyrotesn}Vyrotesn
+{Xiven}Xiven
+{Torinaan}Torinaan
+{Varaine}Varaine
+{Farangel}Farangel
+{Tristore}Tristore
+{Jiub}Jiub
+{Eddar}Eddar
+{Axius}Axius
+{Olin}Olin
+{Vel}Vel
+{Rena}Rena
+{Turpis}Turpis
+{Villius}Villius
+{Exoraeus}Exoraeus
+{Shukul}Shukul
+{Lom}Lom
+{Dumolg}Dumolg
+{Bormolg}Bormolg
+{gro-Bagol}gro-Bagol
+{gro-Agluk}gro-Agluk
+{gro-Grush}gro-Grush
+{Eplear}Eplear
+{Farangel}Farangel
+{Nightingale}Nightingale
+{Wulfharth}Wulfharth
+{Torradan}Torradan
+{al-Natedan}al-Natedan
+{ap_Dugal}ap Dugal
+{Phyllocid}Phyllocid
+{Fereshtah}Fereshtah
+{Arlimahera}Arlimahera
+{Fanesh}Fanesh
+{Za-Rifah}Za-Rifah
+{Ghol}Ghol
+{Sonnummu}Sonnummu
+{Primus}Primus
+{Sextus}Sextus
+{Spartacus}Spartacus
+{Solomon}Solomon
+{Pontius}Pontius
+{Abraham}Abraham
+{Isaac}Isaac
+{Esau}Esau
+{Moses}Moses
+{Aaron}Aaron
+{Nautius}Nautius
+{Oxynta}Oxynta
+{Juva}Juva
+{Jubal}Jubal
+{Abdimilki}Abdimilki
+{Abascantus}Abascantus
+{Decemius}Decemius
+{Posthumus}Posthumus
+{Dentupes}Dentupes
+{Deopus}Deopus
+{Desakenthos}Desakenthos
+{Dita}Dita
+{Diazelmis}Diazelmis
+{Diazenis}Diazenis
+{Rhaskos}Rhaskos
+{Rhaskuporis}Rhaskuporis
+{Rescuturme}Rescuturme
+{Rhesus}Rhesus
+{Satres}Satres
+{Sautes}Sautes
+{Skaris}Skaris
+{Skílas}Skílas
+{Beth}Beth
+{Rebecca}Rebecca
+{Bendis}Bendis
+{Serapia}Serapia
+{Dana}Dana
+{Afina}Afina
+{Birkita}Birkita
+{Branka}Branka
+{Devnet}Devnet
+{Fallon}Fallon
+{Hestia}Hestia
+{Karia}Karia
+{Bendidora}Bendidora
+{Cerzula}Cerzula
+{Dentysyka}Dentysyka
+{Eptarys}Eptarys
+{Eptesyka}Eptesyka
+{Ketripora}Ketripora
+{Mokasokos}Mokasokos
+{Aengvir}Aengvir
+{Thaurron}Thaurron
+{Angulion}Angulion
+{Flyte}Flyte
+{Coulder}Coulder
+{Eno}Eno
+{Relen}Relen
+{Caius}Caius
+{Cosades}Cosades
+{Sellus}Sellus
+{Gravius}Gravius
+{Burd}Burd
+{gro-Shagrat}gro-Shagrat
+{gro-Burgan}gro-Burgan
+{DroTassarr}DroTassarr
+{Sinyaramen}Sinyaramen
+{Orben}Orben
+{Girduin}Girduin
+{Urunil}Urunil
+{Nordinor}Nordinor
+{Orchendor}Orchendor
+{ShaggyBreeches}ShaggyBreeches
+{Rockbreaker}Rockbreaker
+{Theldyn}Theldyn
+{Rackham}Rackham
+{Harth}Harth
+{af-Tasa}af-Tasa
+{Hawker}Hawker
+{Ruuz}Ruuz
+{Moon}Moon
+{Kavar}Kavar
+{Asheeus}Asheeus
+{Baladas}Baladas
+{Demnevanni}Demnevanni
+{Sendu}Sendu
+{Vhosek}Vhosek
+{Tharsten}Tharsten
+{Marcelus}Marcelus
+{Stenric}Stenric
+{Marcelle}Marcelle
+{Tristynak}Tristynak
+{Olsien}Olsien
+{Renchant}Renchant
+{Falienne}Falienne
+{Harcon}Harcon
+{Numara}Numara
+{Hemakar}Hemakar
+{Svana}Svana
+{Svan}Svan
+{Zhar_Tuslaz}Z'har Tuslaz
+{Meric}Meric
+{Renmus}Renmus
+{Khamira}Khamira
+{Khamir}Khamir
+{Alwinarwe}Alwinarwe
+{Alwinar}Alwinar
+{Caddach}Caddach
+{Flaccus}Flaccus
+{Talemelier}Talemelier
+{Emarie}Emarie
+{Silane}Silane
+{Isran}Isran
+{High_Councillor}High Councillor
+{Dungeon}My Little Dungeon
+{Kagrenzel}Kagrenzel
+{Dungeonb}Ansilvund
+{Dungeonc}Tolvald's Cave
+{BoulderfallCave}Boulderfall Cave
+{OldOrsinium}Old Orsinium
+{EndlessStair}Endless Stair
+{PlanarVortex}Planar Vortex
+{ReaverCitadel}Reaver Citadel
+{VaultOfMadness}Vault of Madness
+{HollowCity}Hollow City
+{GreatShackle}Great Shackle
+{LightlessOubliette}Lightless Oubliette
+{MoonlessWalk}Moonless Walk
+{TowerOfLies}Tower Of Lies
+{BlackForge}Black Forge
+{AbaLoria}Aba-Loria
+{FontOfSchemes}Font Of Schemes
+{CourtOfContempt}Court Of Contempt
+{GrottoOfDepravity}Grotto Of Depravity
+{EverfullFlagon}Everfull Flagon
+{CliffsOfFailure}Cliffs Of Failure
+{VillageOfTheLost}Village Of The Lost
+{SigilTower}Sigil Tower
+{SigilKeep}Sigil Keep
+{BloodFountain}Blood Fountain
+{SigillumSanguis}Sigillum Sanguis
+{RendingHalls}Rending Halls
+{CorridorsOfDarkSalvation}Corridors Of Dark Salvation
+{DeadHalls}Dead Halls
+{DesolationsEnd}Desolations End
+{BroodingFortress}Brooding Fortress
+{ChaosStronghold}Chaos Stronghold
+{BloodFeast}Blood Feast
+{FleshSpire}Flesh Spire
+{OblivionGatea}Oblivion Gate
+{OblivionGateb}Oblivion Gate
+{OblivionGatec}Oblivion Gate
+{OblivionGated}Oblivion Gate
+{OblivionGatee}Oblivion Gate
+{OblivionGatef}Oblivion Gate
+{OblivionGateg}Oblivion Gate
+{OblivionGateh}Oblivion Gate
+{OblivionGatech}Oblivion Gate
+{OblivionGatei}Oblivion Gate
+{OblivionGatej}Oblivion Gate
+{WastenCoraldale}Wasten Coraldale
+{Karnwasten}Karnwasten
+{DirenniAcropolis}Direnni Acropolis
+{EtonNirGrotto}Eton Nir Grotto
+{Tor-Hame-Khard}Tor-Hame-Khard
+{WelenkinCove}Welenkin Cove
+{Alaxon'ald}Alaxon'ald
+{AldMora}Ald Mora
+{BanishedCells}Banished Cells
+{CastleRilis}Castle Rilis
+{Torinaan}Torinaan
+{Tanzelwil}Tanzelwil
+{Enduiin}Enduiin
+{CityOfAsh}City Of Ash
+{Hectahame}Hectahame
+{EldenHollow}Elden Hollow
+{OssuaryOfTelacar}Ossuary Of Telacar
+{Laeloria}Laeloria
+{ShadowsCrawl}Shadows Crawl
+{Jathsogur}Jathsogur
+{Ragnthar}Ragnthar
+{Abamath}Abamath
+{TempestIsland}Tempest Island
+{Grayhome}Grayhome Castle
+{MaormerCamp}Maormer Camp
+{FortSphinxmoth}Fort Sphinxmoth
+{MawOfLorkhaj}Maw of Lorkhaj
+{Moonmont}Moonmont
+{RimmenNecropolis}Rimmen Necropolis
+{FortVashr}Fort Vashr
+{Dragonhold}Dragonhold
+{DoomstoneKeep}Doomstone Keep
+{MoongraveFane}Moongrave Fane
+{Sunspire}Sunspire
+{TombOfTheSerpents}Tomb Of The Serpents
+{Norg-Tzel}Norg-Tzel
+{RuinsOfMazzatum}Ruins Of Mazzatum
+{ArxCorinium}Arx Corinium
+{AgacephTemple}Agaceph Temple
+{AtanazRuins}Atanaz Ruins
+{Loriasel}Loriasel
+{BlackrosePrison}Blackrose Prison
+{TeethOfSithis}Teeth Of Sithis
+{EldAngavar}Eld Angavar
+{Ten-Maur-Wolk}Ten-Maur-Wolk
+{CradleOfShadows}Cradle Of Shadows
+{TempleOfMiraak}Temple Of Miraak
+{Assarnatamat}Assarnatamat
+{Kvazmunduncharz}Kvazmunduncharz
+{Siridunbal}Siridunbal
+{Assarhun}Assarhun
+{Nchardumz}Nchardumz
+{Yansirramus}Yansirramus
+{AldDaedroth}Ald Daedroth
+{Endussal}Endussal
+{Ashalmawia}Ashalmawia
+{Bthuand}Bthuand
+{Nchuleftingth}Nchuleftingth
+{StonefangIsle}Stonefang Isle
+{MephalasNest}Mephala's Nest
+{FungalGrotto}Fungal Grotto
+{Bthanual}Bthanual
+{Mzithmuz}Mzithmuz
+{DarkshadeCaverns}Darkshade Caverns
+{CraneShore}Crane Shore
+{Mzinchaleft}Mzinchaleft
+{Korvanjund}Korvanjund
+{HillgrundsTomb}Hillgrund's Tomb
+{Valthume}Valthume
+{Karthspire}Karthspire
+{FortHraggstad}Fort Hraggstad
+{Ragnvald}Ragnvald
+{ForgottenVale}Forgotten Vale
+{AncientsAscent}Ancient's Ascent
+{Eyeevea}Eyeevea
+{IlesanTower}IlesanTower
+{BeldamaWyrdTree}Beldama Wyrd Tree
+{FarwatchTower}Farwatch Tower
+{CathBedraud}Cath Bedraud
+{Spindleclutch}Spindleclutch
+{Doomcrag}Doomcrag
+{LightlessRemmant}Lightless Remmant
+{Erokii}Erokii
+{CryptOfHearts}Crypt Of Hearts
+{PariahCatacombs}Pariah Catacombs
+{LorkrataFortress}Lorkrata Fortress
+{ScalecallerPeak}Scalecaller Peak
+{Rkindaleft}Rkindaleft
+{ThukhozodsSanctum}Thukhozod's Sanctum
+{BlackheartHaven}Blackheart Haven
+{FangLair}Fang Lair
+{Moriseli}Moriseli
+{NilataRuins}Nilata
+{MotalionNecropolis}Motalion Necropolis
+{HelRaCitadel}Hel Ra Citadel
+{HoonDingsWatch}Hoon Dings Watch
+{AetherianArchive}Aetherian Archive
+{SalasEn}Salas En
+{NoShiraCitadel}No Shira Citadel
+{Molavar}Molavar
+{SanctumOphidia}Sanctum Ophidia
+{BloodrootForge}Bloodroot Forge
+{Volenfell}Volenfell
+{KulatiMines}Kulati Mines
+{Rielle}Rielle
+{DeepscornHollow}Deepscorn Hollow
+{TopalIsle}Topal Isle
+{FortHorunn}Fort Horunn
+{Wenyandawik}Wenyandawik
+{FortBlackBoot}Fort Black Boot
+{Ceyatar}Ceyatar
+{FortOntus}Fort Ontus
+{Miscarcand}Miscarcand
+{Wendir}Wendir
+{FortScinia}Fort Scinia
+{Fanacas}Fanacas
+{Vahtacen}Vahtacen
+{Wendelbek}Wendelbek
+{AhemmusaTribe}Ahemmusa Tribe Camp
+{ErabenimsunTribe}Erabenimsun Tribe Camp
+{ZainabTribe}Zainab Tribe Camp
+{UrshilakuTribe}Urshilaku Tribe Camp
+{VereansuTribe}Vereansu Tribe Camp
+{MabrigashTribe}Mabrigash Tribe Camp
+{KageshTribe}Kagesh Tribe Camp
+{UlathTribe}Ulath Tribe Camp
+{Wendelbek}Wendelbek
+{al-Antiphyllos}al-Antiphyllos
+{Tosh_Raka}Tosh Raka
+{Mishaxhi}Mishaxhi
+{Beloren-Kaie}Beloren-Kaie
+{Telin-Nashae}Telin-Nashae
+{Vek-Drassi}Vek-Drassi
+{Haro-Banar}Haro-Banar
+{Kalien}Kalien
+{Lein-Bardiek}Lein-Bardiek
+{Sadineras-Kor}Sadineras-Kor
+{Sidri-Ashak}Sidri-Ashak
+{Sylaj}Sylaj
+{Vershu}Vershu
+{Xhaferi}Xhaferi
+{Feina-Darak}Feina-Darak
+{Kail-Haraka}Kail-Haraka
+{Vhysradue}Vhysradue
+{Kail-Perwa}Kail-Perwa
+{Vata}Vata
+{Bran}Bran
+{Borkul}Borkul
+{Braig}Braig
+{Dryston}Dryston
+{Duach}Duach
+{Kaie}Kaie
+{Morven}Morven
+{Nepos}Nepos
+{Odvan}Odvan
+{Tynan}Tynan
+{Uaile}Uaile
+{Uraccen}Uraccen
+{Weylin}Weylin
+{Blackdrake}of Blackdrake Clan
+{Bear-Heart}of Bear-Heart Clan
+{Black-Moon}of Black-Moon Clan
+{Bloodthorn}of Bloodthorn Clan
+{Boldclaw}of Boldclaw Clan
+{Boneshaper}of Boneshaper Clan
+{Crow-Eye}of Crow-Eye Clan
+{Cinder-Heart}of Cinder-Heart Clan
+{DarkWitness}of Dark Witness Clan
+{Deathwings}of Deathwings Clan
+{Dragonclaw}of Dragonclaw Clan
+{Doomfang}of Doomfang Clan
+{Dreadhorn}of Dreadhorn Clan
+{Eagleseer}of Eagleseer Clan
+{Ghostsong}of Ghostsong Clan
+{Grimfang}of Grimfang Clan
+{Hearteaters}of Hearteaters Clan
+{Hillhunter}of Hillhunter Clan
+{IcereachCoven}of Icereach Coven
+{KairianCoven}of Kairian Coven
+{Rageclaw}of Rageclaw Clan
+{River-Elk}of River-Elk Clan
+{Shadefeather}of Shadefeather Clan
+{Skyweaver}of Skyweaver Clan
+{Spiritblood}of Spiritblood Clan
+{Spirit-Tale}of Spirit-Tale Clan
+{Starsinger}of Starsinger Clan
+{Stag-Heart}of Stag-Heart Clan
+{Stonetalon}of Stonetalon Clan
+{Thornroot}of Thornroot Clan
+{Timberclaw}of Timberclaw Clan
+{Treeshade}of Treeshade Clan
+{Wildspear}of Wildspear Clan
+{Winterborn}of Winterborn Clan
+{Forsworn}of Forsworn Clan
+{Drascua}Drascua
+{Melka}Melka
+{Linvalor}Linvalor
+{Malleroth}Malleroth
+{Orgnum}Orgnum
+{Acamas}Acamas
+{Aluvus}Aluvus
+{Arstul}Arstul
+{Aryaamo}Aryaamo
+{Camandar}Camandar
+{Cingulnya}Cingulnya
+{Colaadron}Colaadron
+{Eilgun}Eilgun
+{Heculoa}Heculoa
+{Iphidamas}Iphidamas
+{Isanmetil}Isanmetil
+{Jyklos}Jyklos
+{Kanebar}Kanebar
+{Konnugil}Konnugil
+{Larnil}Larnil
+{Linundil}Linundil
+{Mormelcarion}Mormelcarion
+{Morteth}Morteth
+{Neiral}Neiral
+{Norevalion}Norevalion
+{Noryesar}Noryesar
+{Ohmanil}Ohmanil
+{Parondo}Parondo
+{Pelius}Pelius
+{Qraalel}Qraalel
+{Rodros}Rodros
+{Tenerive}Tenerive
+{Tildaro}Tildaro
+{Tunnanial}Tunnanial
+{Uldor}Uldor
+{Ulondil}Ulondil
+{Urlsar}Urlsar
+{Uumernenil}Uumernenil
+{Valaran}Valaran
+{Viscarne}Viscarne
+{Cectyda}Cectyda
+{Ismenida}Ismenida
+{Jahlasri}Jahlasri
+{Ohalorne}Ohalorne
+{Penanlinwe}Penanlinwe
+{Quergura}Quergura
+{Yalorasse}Yalorasse
+{Necromancers_a}Nigromantes
+{Necromancers_b}Nigromantes
+{Necromancers_c}Nigromantes
+{Necromancers_d}Nigromantes
+{Necromancers_e}Nigromantes
+{Necromancers_f}Nigromantes
+{Necromancers_g}Nigromantes
+{Necromancers_h}Nigromantes
+{Necromancers_ch}Nigromantes
+{Necromancers_i}Nigromantes
+{Necromancers_j}Nigromantes
+{Necromancers_k}Nigromantes
+{Necromancers_l}Nigromantes
+{Necromancers_m}Nigromantes
+{Necromancers_n}Nigromantes
+{Necromancers_o}Nigromantes
+{Necromancers_p}Nigromantes
+{Necromancers_r}Nigromantes
+{Necromancers_s}Nigromantes
+{Necromancers_t}Nigromantes
+{Necromancers_x}Nigromantes
+{Necromancers_xx}Nigromantes
+{Necromancers_xxx}Nigromantes
+{Necromancers_xxxx}Nigromantes
+{DaedricCultists_a}Cultistas daédricos
+{DaedricCultists_b}Cultistas daédricos
+{DaedricCultists_c}Cultistas daédricos
+{DaedricCultists_d}Cultistas daédricos
+{DaedricCultists_e}Cultistas daédricos
+{DaedricCultists_f}Cultistas daédricos
+{DaedricCultists_g}Cultistas daédricos
+{DaedricCultists_h}Cultistas daédricos
+{DaedricCultists_ch}Cultistas daédricos
+{DaedricCultists_i}Cultistas daédricos
+{DaedricCultists_j}Cultistas daédricos
+{DaedricCultists_k}Cultistas daédricos
+{DaedricCultists_l}Cultistas daédricos
+{DaedricCultists_m}Cultistas daédricos
+{DaedricCultists_n}Cultistas daédricos
+{DaedricCultists_o}Cultistas daédricos
+{DaedricCultists_p}Cultistas daédricos
+{DaedricCultists_r}Cultistas daédricos
+{DaedricCultists_s}Cultistas daédricos
+{DaedricCultists_t}Cultistas daédricos
+{DaedricCultists_x}Cultistas daédricos
+{DaedricCultists_xx}Cultistas daédricos
+{DaedricCultists_xxx}Cultistas daédricos
+{DaedricCultists_xxxx}Cultistas daédricos
+{Pirates_a}Piratas
+{Pirates_b}Piratas
+{Pirates_c}Piratas
+{Pirates_d}Piratas
+{RedguardPirates_a}Piratas guardas rojos
+{RedguardPirates_b}Piratas guardas rojos
+{RedguardPirates_c}Piratas guardas rojos
+{RedguardPirates_d}Piratas guardas rojos
+{MaormerPirates}Hueste de maormer
+{AkaviriPirates}Piratas akaviri
+{AkaviriRemmants_a}Remanentes akaviri
+{AkaviriRemmants_b}Remanentes akaviri
+{AkaviriRemmants_c}Remanentes akaviri
+{AkaviriRemmants_d}Remanentes akaviri
+{Vampires_a}Vampiros
+{Vampires_b}Vampiros
+{Vampires_c}Vampiros
+{Vampires_d}Vampiros
+{Vampires_e}Vampiros
+{Vampires_f}Vampiros
+{Vampires_g}Vampiros
+{Vampires_h}Vampiros
+{Vampires_ch}Vampiros
+{Vampires_i}Vampiros
+{Vampires_j}Vampiros
+{DwemerRobots_a}Máquinas dwemer
+{DwemerRobots_b}Máquinas dwemer
+{DwemerRobots_c}Máquinas dwemer
+{DwemerRobots_d}Máquinas dwemer
+{DwemerRobots_e}Máquinas dwemer
+{DwemerRobots_f}Máquinas dwemer
+{DwemerRobots_g}Máquinas dwemer
+{DwemerRobots_h}Máquinas dwemer
+{DwemerRobots_ch}Máquinas dwemer
+{DwemerRobots_i}Máquinas dwemer
+{DwemerRobots_j}Máquinas dwemer
+{AshSpawn_a}Engendros de ceniza
+{AshSpawn_b}Engendros de ceniza
+{AshSpawn_c}Engendros de ceniza
+{AshSpawn_d}Engendros de ceniza
+{AshSpawn_e}Engendros de ceniza
+{AshVampires_a}Vampiros cenicios
+{AshVampires_b}Vampiros cenicios
+{AshVampires_c}Vampiros cenicios
+{AshVampires_d}Vampiros cenicios
+{AshVampires_e}Vampiros cenicios
+{Bandits_a}Bandidos
+{Bandits_b}Bandidos
+{Bandits_c}Bandidos
+{Bandits_d}Bandidos
+{Bandits_e}Bandidos
+{Bandits_f}Bandidos
+{Bandits_g}Bandidos
+{Bandits_h}Bandidos
+{OrcBandits_a}Bandidos orsimer
+{OrcBandits_b}Clanes orsimer
+{OrcBandits_c}Clanes orsimer
+{OrcBandits_d}Nigromantes orsimer
+{GrayHost}Hueste gris
+{DakfernClan}Clan Helecho Oscuro
+{RoscreaWarriors}Hueste de Roscrea
+{MaormerPirates_b}Incursores maormer
+{MaormerPirates_c}Incursores maormer
+{AyleidRemmants_a}Remanentes ayleid
+{AyleidRemmants_b}Remanentes ayleid
+{AyleidRemmants_c}Remanentes ayleid
+{AyleidRemmants_d}Remanentes ayleid
+{AyleidRemmants_e}Remanentes ayleid
+{AyleidRemmants_f}Remanentes ayleid
+{AyleidRemmants_g}Remanentes ayleid
+{AyleidRemmants_h}Remanentes ayleid
+{AyleidRemmants_ch}Remanentes ayleid
+{AyleidRemmants_i}Remanentes ayleid
+{AyleidRemmants_j}Remanentes ayleid
+{Dro-mAthra_a}Dro-m'Athra
+{Dro-mAthra_b}Dro-m'Athra
+{Dro-mAthra_c}Dro-m'Athra
+{Dro-mAthra_d}Dro-m'Athra
+{ArgonianTribes_a}Tribu hostil argoniana
+{ArgonianTribes_b}Tribu argoniana
+{ArgonianTribes_c}Esclavos fugados argonianos
+{ArgonianTribes_d}Esclavos fugados argonianos
+{Xit-XahtTribe}Tribu Xit-Xaht
+{DragonCult}Culto del dragón
+{BrokenHosts}Factotum de la ciudad mecánica dañado
+{ReachmenClan_a}Hombres de los clanes de la cuenca hostiles
+{ReachmenClan_b}Hombres de los clanes de la cuenca hostiles
+{ReachmenClan_c}Hombres de los clanes de la cuenca hostiles
+{ReachmenClan_d}Hombres de los clanes de la cuenca hostiles
+{EyeveaHost}Hueste de Eyevea
+{BlackMarrow}Culto del Tuétano Negro
+{Anka-Ra}Anka-Ra
+{DreadhornClan}Clan Cuerno del Horror
+{Dragonsa}Dragones
+{Dragonsb}Dragones
+{Dragonsc}Dragones
+{Dragonsd}Dragones
+{Dragonse}Dragones
+{Dragonsf}Dragones
+{Dragonsg}Dragones
+{Dragonsh}Dragones
+{Dragonsch}Dragones
+{Dragonsi}Dragones
+{Dragonsj}Dragones
+{Dragonsk}Dragones
+{Aetherion}Aetherion
+{Balefire}Balefire
+{Bogdan}Bogdan
+{Djanax}Djanax
+{Iozuzzunth}Iozuzzunth
+{Iskra}Iskra
+{Ozzozachar}Ozzozachar
+{Phobbiicus}Phobbiicus
+{Qrazgoth}Qrazgoth
+{Salosuum}Salosuum
+{Sormorask}Sormorask
+{Telkor}Telkor
+{Uzuruz}Uzuruz
+{Zandadunoz}Zandadunoz
+{Zatalguch}Zatalguch
+{Kkrohziz}Kkrohziz
+{Serni}Serni
+{Vorn}Vorn
+{Amorah}Amorah
+{Anaxes}Anaxes
+{Aez}Aez
+{Bha}Bha
+{Bogtro}Bogtro
+{Ibomez}Ibomez
+{Ilambris-Athor}Ilambris-Athor
+{Ilambris-Zaven}Ilambris-Zaven
+{Medrike}Medrike
+{Moath}Moath
+{Rukhan}Rukhan
+{Tazzak}Tazzak
+{Xvarik}Xvarik
+{Khefletak}Khefletak
+{Sahrith_Dagon}Sahrith Dagon
+{Daktivus}Daktivus
+{Danrok}Danrok
+{Ebral}Ebral
+{Entekkar}Entekkar
+{Historoth}Historoth
+{Hzu-Hakan}Hzu-Hakan
+{Kazarvel}Kazarvel
+{Kelax}Kelax
+{Ketkarkux}Ketkarkux
+{Krosogar}Krosogar
+{Obb}Obb
+{Skoorn}Skoorn
+{Solkyn}Solkyn
+{Stegakyx}Stegakyx
+{Tarkatix}Tarkatix
+{Tholiakke}Tholiakke
+{Thrasotin}Thrasotin
+{Torgo-Rix}Torgo-Rix
+{Ukkawoon}Ukkawoon
+{Utt}Utt
+{Wadracki}Wadracki
+{Xobutar}Xobutar
+{Zakuryn}Zakuryn
+{Zolgar}Zolgar
+{Zulagogg}Zulagogg
+{Anhaedra}Anhaedra
+{Krazzt}Krazzt
+{Khash-Ti_Dhrur}Khash-Ti Dhrur
+{Velehk_Sain}Velehk Sain
+{Nokvroz}Nokvroz
+{Xalxorkig}Xalxorkig
+{Zexxil}Zexxil
+{Zzedenkathik}Zzedenkathik
+{Akezel}Akezel
+{Aruz}Aruz
+{Atris}Atris
+{Bogtro}Bogtro
+{Demis}Demis
+{Dezerog}Dezerog
+{Dias}Dias
+{Dogas}Dogas
+{Grel}Grel
+{Kmolag}Kmolag
+{Kothutuilk}Kothutuilk
+{Krrztrrb}Krrztrrb
+{Methats}Methats
+{Nariam}Nariam
+{Orran}Orran
+{Riparius}Riparius
+{Skoria}Skoria
+{Sumeer}Sumeer
+{Tachnim}Tachnim
+{Uldun}Uldun
+{Velehk}Velehk
+{Xykenaz}Xykenaz
+{Anexiel}Anexiel
+{Bol_Veppik}Bol Veppik
+{Brevorra}Brevorra
+{Flamespinner}Flamespinner
+{Gozzak}Gozzak
+{Kayliriax}Kayliriax
+{Kythiirix}Kythiirix
+{Malygd}Malygd
+{Mezelukhebruz}Mezelukhebruz
+{Naluroen}Naluroen
+{Ruzozuzalpamaz}Ruzozuzalpamaz
+{Sithera}Sithera 
+{Gonnar}Gonnar
+{Hjornskar}Hjornskar
+{Istar}Istar
+{Korir}Korir
+{CairnBreaker}Cairn-Breaker
+{HeadSmasher}Head-Smasher
+{OathGiver}Oath-Giver 
+{Mankar}Mankar 
+{Jonus}Jonus
+{Maximus}Maximus
+{Glallian}Glallian
+{Maraennius}Maraennius 
+{Matus}Matus
+{Mido}Mido
+{Larrius}Larrius 
+{Varro}Varro
+{Sialius}Sialius
+{Sirollus}Sirollus
+{Saccus}Saccus 
+{Banden}Banden
+{Indarys}Indarys
+{Garisa}Garisa
+{Llethri}Llethri
+{Athyn}Athyn
+{Remas}Remas 
+{Bolayn}Bolayn
+{Rethan}Rethan
+{Llaro}Llaro 
+{Gathal}Gathal 
+{Galas}Galas
+{Drenim}Drenim
+{Madalas}Madalas 
+{Raxle}Raxle
+{Berne}Berne
+{Dhaunayne}Dhaunayne
+{Aundae}Aundae
+{Volrina}Volrina
+{Quarra}Quarra
+{Mastrius}Mastrius 

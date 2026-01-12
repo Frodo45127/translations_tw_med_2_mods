@@ -1,0 +1,113 @@
+¬
+{(1V1)_100YRS_WAR_MP_DESCR}A battle for 2 players. Somewhere in Northern France the Hundred Years War between the English and the French rages on. Outside a small town these two Medieval super powers are about to come head to head.
+{(1V1)_100YRS_WAR_MP_TITLE}(1v1) Hundred Years War
+{(1V1)_BEACH_LANDING_DESCR}A Norwegian fleet has been spotted near a beach cove in Northumberland. The English are ready this time and have sallied out to meet them head on.
+{(1V1)_BEACH_LANDING_TITLE}(1v1) Beach Landing
+{(1V1)_DEATHTRACK_MP_DESCR}A battle for 2 players. The Mongols have tracked a returning Polish army to their remote village. The Polish must re-group their forces to defend against the advancing Mongols.
+{(1V1)_DEATHTRACK_MP_TITLE}(1v1) Mongol Assault
+{(1V1)_FRA_SIEGE_MP_DESCR}A siege battle for 2 players. A French castle stands between an English army and its ambitions to gain more French territory. This morning the English are launching an all out attack to take the castle. The resolute French defenders are equally determined to defend their castle.
+{(1V1)_FRA_SIEGE_MP_TITLE}(1v1) Siege in France
+{(1V1)_HIGHLANDERS_MP_DESCR}A battle for 2 players. An English army has been ambushed by Scottish troops out for blood. Can the English defend themselves as the Scottish look to drive them from their lands?
+{(1V1)_HIGHLANDERS_MP_TITLE}(1v1) Highland Vengeance
+{(1V1)_MOUNTAIN_AMBUSH_DESCR}The English are crossing into Scottish territory choosing to take a path through the mountains. The Scottish army is aware of the English advance and has organised an ambush along the mountain road.
+{(1V1)_MOUNTAIN_AMBUSH_TITLE}(1v1) Mountain Ambush
+{(1V1)_OASIS_ROCK_MP_DESCR}The Byzantines have pursued their hated enemy The Turks to this Oasis. Tired of being harassed, the Turks have turned to fight the Byzantines, hoping to use the terrain to their advantage.
+{(1V1)_OASIS_ROCK_MP_TITLE}(1v1) Oasis Rock
+{(1V1)_OUTREMER_MP_DESCR}A battle for 2 players. A French Crusading Army on its way to the Holy Land has been intercepted by a large Turkish Force. Amidst the harsh desert there can be only one victor.
+{(1V1)_OUTREMER_MP_TITLE}(1v1) Desert Conflict
+{(1V1)_SPA_SIEGE_MP_DESCR}A siege battle for 2 players. A mighty Moorish castle is besieged by a Spanish army determined to take this Moorish bastion in the name of the Reconquista.
+{(1V1)_SPA_SIEGE_MP_TITLE}(1v1) Reconquista Siege
+{(2V1)_AZTEC_GOLD_MP_DESCR}A team battle for 3 players. The Spanish have built a small village on the coastline where they plan to mine for gold. The Aztecs want their land back and have rallied an assault to destroy the Spanish village
+{(2V1)_AZTEC_GOLD_MP_TITLE}(2v1) Aztec Gold
+{(2V1)_DEATHTRACK_MP_DESCR}A team battle for 3 players. The Mongols have tracked a returning Polish army to their remote village. The Polish must re-group their forces to defend against the advancing Mongols.
+{(2V1)_DEATHTRACK_MP_TITLE}(2v1) The Mongols Are Coming!
+{(2V1)_HIGHLANDERS_MP_DESCR}A team battle for 3 players. An English army has been ambushed by Scottish troops out for blood. Can the English defend themselves as the Scottish look to drive them from their lands?
+{(2V1)_HIGHLANDERS_MP_TITLE}(2v1) Highland Vengeance
+{(2V2)_ANTIOCH_FORD_DESCR}The Crusader states of Antioch and Jerusalem face off against Egypt and Turkey. Can the Crusader states defend their entrenched position and drive off the Mighty Islamic hosts! Or will the combined might of Turkey and Egypt crush the Crusading states!
+{(2V2)_ANTIOCH_FORD_TITLE}(2v2) Antioch Ford
+{(2V2)_AZTEC_AMBUSH_DESCR}A team battle for 4 players. As a Spanish army makes haste to aid in the defense of their settlement, a Mayan army lays in wait, ready to strike their approaching foes. If the Spanish cannot overcome their ambushers quickly, their village will surely be lost.
+{(2V2)_AZTEC_AMBUSH_TITLE}(2v2) Mayan Ambush
+{(2V2)_AZTEC_GOLD_MP_DESCR}A team battle for 4 players. The Spanish have built a small village on the coastline where they plan to mine for gold. The Aztecs want their land back and have rallied an assault to destroy the Spanish village.
+{(2V2)_AZTEC_GOLD_MP_TITLE}(2v2) Aztec Gold
+{(2V2)_CRUS_SIEGE_MP_DESCR}A team siege battle for 4 players. To extend their hold on the Holy Lands, the Crusaders must take this castle. The Egyptians on the other hand are determined to resist the Crusaders at all costs.
+{(2V2)_CRUS_SIEGE_MP_TITLE}(2v2) Crusade Siege
+{(2V2)_HIGHLAND_ALLIANCE_DESCR}England and Wales have made an allied push into Scottish Territory. The armies are planning to attack a small Scottish village not far from the border. Little do the English know, Ireland has agreed to help defend the Scottish village and has surrounded the advancing armies.
+{(2V2)_HIGHLAND_ALLIANCE_TITLE}(2v2) Highland Alliance
+{(2V2)_LAKE_PEIPUS_MP_DESCR}A team battle for 4 players. The Teutonic Order and its Danish Allies have launched an attack on the Novogrod Republic. The Novogrods have strategically retreated across the Lake Peipus in the hope to commence the battle on their own terms.
+{(2V2)_LAKE_PEIPUS_MP_TITLE}(2v2) Lake Peipus
+{(2V2)_LAST_STAND_MP_DESCR}A team battle for 4 players. The Spanish have allied with the Tlaxcalans to defeat the last remaining Aztecs. The Mayans and Aztecs must fight together in this last stand against the imposing Spanish rule.
+{(2V2)_LAST_STAND_MP_TITLE}(2v2) Last Stand
+{(2V2)_QUICKSTART_DAN_DESCR}A team battle for 4 players. The Danes have launched a savage invasion of the German hinterlands, hoping to gain new land for farming. The Holy Roman Empire is equally determined to crush the invaders and protect Imperial land.
+{(2V2)_QUICKSTART_DAN_TITLE}(2v2) Norse Fury
+{(2V2)_REDOUBT_MP_DESCR}A team battle for 4 players. The Danish faction must defend a mountain position until their allies from the Holy Roman Empire arrive to help them. The attacking armies from Eastern Europe must assault the Danes before they have time to bolster their weak spots.
+{(2V2)_REDOUBT_MP_TITLE}(2v2) Mountain Redoubt
+{(2V2)_VILLAGE_VILNIUS_MP_DESCR}A team battle for 4 players. Teutonic Crusaders have targeted a small Polish village during their northern crusade against the Pagans. Lithuanian armies have rallied to help defend the Polish border from the encroaching Crusader armies.
+{(2V2)_VILLAGE_VILNIUS_MP_TITLE}(2v2) Village Vilnius
+{(3V2)_DESERT_SIEGE_DESCR}A team siege battle for 5 players. An Egyptian army prepares to retake their citadel from the French Crusaders. Meanwhile French reinforcements, pursued by Egyptian cavalry, are scrambling to relieve their beleaguered comrades before it is too late.
+{(3V2)_DESERT_SIEGE_TITLE}(2v3) Desert Sanctuary
+{(3V3)_REDOUBT_MP_DESCR}A team battle for 6 players. The Danish faction must defend a mountain position until their allies from the Holy Roman Empire arrive to help them. The attacking armies from Eastern Europe must assault the Danes before they have time to bolster their weak spots.
+{(3V3)_REDOUBT_MP_TITLE}(3v3) Mountain Redoubt
+{AGINCOURT_DESCR}By the time Henry V ascended to the English throne, England had lost a considerable share of the French lands it once held.\n\nOn the 13th August, 1415, Henry and his army landed at, and besieged, the port of Harfleur, which surrendered on the 22nd September. The siege took longer than expected so Henry launched a raiding expedition across Northern France on his way to the English-held port of Calais, where he would be able to resupply and rest his weary army over winter.\n\nHenry's army was sick, tired and hungry. Luckily, Henry was an astute and capable military commander and his men were experienced and disciplined, in contrast to the undisciplined French army. Henry, knowing waiting would only decimate his army through hunger and disease, was determined to provoke the French out of any possible waiting game.\n\nThe French leaders expected Henry to surrender, while many of the younger French nobles hoped to do battle with the English men-at-arms, intent on ignoring the English archers they deemed beneath them, so they could reap glory and riches through ransoming noble captives from what they believed would be a one-sided battle.\n\nHenry V and his beleaguered force must clear their way to Calais by destroying the French army amassed against them. Henry's survival is essential.
+{AGINCOURT_TITLE}Battle of Agincourt
+{ALPINEREDUX_DESCR}A team battle for 4 players. The Holy Roman Empire and France, along with their respective Italian allies battle it out in the picturesque Italian Alps during the Italian Wars.
+{ALPINEREDUX_TITLE}(2v2) Italian Wars
+{ARID_DUNES_TITLE}Arid Dunes
+{ARSUF_BATTLEFIELD_TITLE}Arsuf
+{ARSUF_DESCR}Following the fall of Jerusalem to Sultan Saladin, the Christian nations organized another Crusade to recapture the holy city. Amongst the most enthusiastic Crusaders was King Richard of England. Arriving in the Holy Land in 1191, he was able to capture the city Acre, and force Saladin to retreat.\n\nHe then marched along the coast to the port city of Jaffa, which would make a good base for an attack on Jerusalem. However, Saladin's army shadowed him the whole way, and on the 7th of September, near the town of Arsuf, made a serious attack on Richard's column on march.\n\nControl Richard's army, and fend off Saladin. If you succeed, the way to Jerusalem will be clear.
+{ARSUF_TITLE}Battle of Arsuf
+{BEACH_LANDING_TITLE}Beach Landing
+{BLACK_FOREST_TITLE}Black forest
+{BROKEN_TEETH_SANDS_TITLE}Broken Teeth Sands
+{CANYON_TITLE}Canyon
+{DEATHTRACK_TITLE}Deathtrack
+{DESERT_RAID_TITLE}Desert Raid
+{EDELWEIS_TITLE}Edelweis
+{ENGLISH_COUNTRY_TITLE}English Country
+{FLAT_CRUSADE_TITLE}Flat Crusade
+{FOOTHILLS_TITLE}Foothills
+{GRASSY_PLAIN_TITLE}Grassy Plain
+{HASTINGS_DESCR}Shortly after the beginning of the year 1066, King Harold Godwinson sat uneasily on the throne of England. As well as the political machinations of various powerful families within the realm, political leaders on the continent, particularly in Denmark and Normandy, also had designs on the crown. Harold's predecessor, Edward the Confessor, had been a sympathiser of William Duke of Normandy. Harold himself had been rescued from captivity in France by the Duke, and had subsequently sworn fealty to him. These two factors, coupled with support from the Papacy, gave Duke William reason to believe that when the childless Edward died, the crown of England would be his. However, amidst rumours of strong-arm tactics, Harold was crowned king on January 6th 1066, the day of Edward's death.\n\nOutraged, William began to prepare an army and invasion fleet to take by force the kingdom that he maintained was his by right. In the meantime, Harold was busy dealing with other threats to his realm. His brother Tostig joined with King Harald Hardrada of Norway in a concerted attack against York in early autumn of 1066. Harold marched the 190 miles from Wessex to York in 5 days to defeat the invaders. Duke William's Norman fleet landed shortly afterwards on the south coast. Harold set off on another forced march southwards to challenge the new invaders. On the morning of the 14th October 1066 the two armies clashed on the Santlache (sandy stream) ridge near the present day town of Battle in East Sussex. The subsequent battle and the seismic effect it was to have on the kingdom of England lead the Normans to rechristen the site Senlac Ridge, or 'Blood Lake'.
+{HASTINGS_TITLE}Battle of Hastings
+{HASTINGS_TUTORIAL_DEMO_DESCR}William, Duke of Normandy, assembled a mighty invasion fleet and sailed for England. Landing at Pevensey, he set up a base near Hastings - King Harold's personal domain. Harold had just achieved victory at Stamford Bridge, driving out the invading Vikings and their King. He now was forced to march his battle-wearied troops south to meet the Norman Invasion and defend his crown.\n\nLead the Normans in the battle for the English crown and determine the fate of England...
+{HASTINGS_TUTORIAL_DEMO_TITLE}Battle of Hastings: Tutorial Demo
+{HATTIN_BATTLEFIELD_TITLE}Hattin
+{HATTIN_DESCR}In 1187, the Crusader kingdom of Jerusalem had been established for nearly a century, and existed in an uneasy state of truce with the powerful neighboring potentate Saladin. However, persistent raiding by the Crusaders meant that open warfare soon broke out, prompting Saladin to invade the Crusader lands, and besiege the fortress of Tiberius. Ignoring advice to be cautious, the newly crowned king Guy, assembled his entire force, and set out to its relief.\n\nWith his army tired and parched from the desert heat, Guy headed for the village of Hattin, where a spring would bring relief. Anticipating this move though, Saladin sent his nephew Taqi al Din with part of his army to block the Crusaders path, while another division harassed them from the rear.\n\nControl Saladin's army, and prevent the Crusaders from reaching Hattin. If you do, then thirst will compel this powerful army to surrender, and Jerusalem will be yours for the taking.
+{HATTIN_TITLE}Battle of the Horns of Hattin
+{HIGHLAND_ALLIANCE_TITLE}Highland Alliance
+{HIGHLAND_LOCH_TITLE}Highland Loch
+{IRISH_MARSH_TITLE}Irish Marsh
+{KAMNO_MARSH_TITLE}Kamno Marsh
+{LAKE_CHOCTAW_TITLE}Lake Choctaw
+{LE_VILLAGE_TITLE}Le Village
+{MOUNTAIN_DALE_TITLE}Mountain Dale
+{OASIS_OF_DEATH_TITLE}Oasis of Death
+{OTUMBA_DESCR}Commissioned by the Governor of Cuba to lead an expedition, Hernán Cortés set sail for Mexico on January 18, 1519.\n\nAfter initial contact with Cortés, many Aztecs, including the Aztec leader Moctezuma II, believed that Cortés was, in fact, an emissary from Quetzalcoatl, the Aztec god-king, or Quetzalcoatl himself.\n\nCortés also made contact with the Tlaxcalans, who saw Cortés as a liberator who could free them from the Aztecs. Despite the Spanish having spilled much Aztec blood, Cortés and his men were greeted and housed by Moctezuma II with great pomp and ceremony at the Aztec capital of Tenochtitlan.\n\nLater, the Aztecs, resenting the Spaniards' control over Moctezuma and the city, revolted against the Spanish and their allies, who fought to escape the Aztec capital. This bloody night was to become known as La Nocha Triste - the sad night.\n\nTwo weeks following La Nocha Triste, after being shadowed and harassed all the way by vengeful Aztecs, Cortés and his allies crossed a small mountain range, only to find a vast Aztec horde waiting for them in the Otumba valley below. The Aztec force consisted of various Chieftains and their hosts, led by a formidable-looking warrior named Cihaucu.\n\nAfter solemn prayers, Cortés instructed his men to target the Aztec Chieftains, knowing that without their leaders the Aztecs were likely to lose heart, or at least become confused and disordered.\n\nThe outnumbered alliance, encouraged by Cortés and the superior technology of the Spaniards, made its way onto the plains of Otumba, ready to fight for their very lives.\n\nLead Hernán Cortés and his Spanish force to destroy the Aztec armies, Cortés' survival is essential.
+{OTUMBA_TITLE}Battle of Otumba
+{PAVIA_BATTLEFIELD_TITLE}Pavia
+{PAVIA_DESCR}In 1494, France's attempt to seize the crown of Naples had begun a cycle of conflicts known as the Italian Wars. Some 30 years later, the war still smouldered on, France's attention now turned towards the wealthiest Italian state, Milan.\n\nFrancis, the new King of France, launched a campaign headlong into the State of Milan, desperate to drive out the Imperial armies. In 1522, France suffered a bitter defeat at the hands of the Holy Roman Empire. In 1524, France returned and drove the Imperial garrison from Milan. Only one last Imperial bastion remained, the nearby city of Pavia.\n\nWith ownership of the state of Milan in sight, King Frances pauses to rest and hunt before pressing on to Pavia and a final showdown with the Imperial forces.\n\nYou must now lead the Imperial forces to stop the French domination of Italy!
+{PAVIA_TITLE}Battle of Pavia
+{PYRAMIDS_OF_PAIN_TITLE}Pyramids of Pain
+{QUARRY_CROSSING_TITLE}Quarry Crossing
+{REDOUBT_TITLE}Redoubt
+{SANCTUARY_TITLE}Sanctuary
+{SAND_AND_WATER_TITLE}Sand and Water
+{SCORPIONS_PARADISE_TITLE}Scorpion's Paradise
+{SETENIL_DESCR}The struggle against Moorish occupation of Spanish territories was old even before the famed 'Reconquista'. With the coming of the 15th century, intolerance towards Jews, heretics and Muslims began to rise dramatically throughout the Spanish kingdom. Adding to this, Crusading was back in favour with the Papacy, thus the war against Muslim Granada was viewed favourably by many Christians, with taxes being raised and volunteers urged to fight under the banners of the Spanish states Castile and Aragon. With the Christians' renewed vigour towards Reconquista, it came as little surprise that the Muslims fought for the Jihad, a holy war in the defence of their homeland. This warlike state stagnated into cross border raids and piracy with the border becoming a no man's land. All this was to change with the marriage of Isabella of Castile to Ferdinand of Aragon in 1469. With the Spanish states united and focused towards destroying the Emirate of Granada, its continuing existence viewed as an insult to the Catholic Church, Queen Isabella zealously exhorted her husband to launch a fresh wave of the Reconquista and work his way to the capital of Granada, leaving no enemy settlements behind him. Now, in the year of our lord 1484, he faces the fortress of Setenil, sitting on its rocky crag.\n\nLead Ferdinand and his Spanish army to conquer Setenil, bringing the Reconquista one step closer.
+{SETENIL_TITLE}Siege of Setenil
+{SPIRE_OF_EAGLES_TITLE}Spire of Eagles
+{TANNENBERG_BATTLEFIELD_TITLE}Tannenberg
+{TANNENBERG_DESCR}Founded during the Third Crusade in 1190, the Teutonic Order of Knights had a stronger national flavour than the other 'knights of Christ' and it maintained strong ties with the Holy Roman Empire. When events in the Holy Land began to go awry, the Order cast about for another theatre of operations. The Prussian Crusade was launched in 1222, in response to a call for help from a Polish nobleman beset by Prussian pagans.\n\nWith Papal support, they began to establish their own state in the area, building a network of castles to reinforce their authority. Growing stronger, the Order began to cast its avaricious gaze further afield to the neighbouring states of Poland and Lithuania, the latter of which was the largest surviving pagan state in Europe. The resulting series of crusades were easily the match of any previously seen in terms of barbarity on both sides.\n\nDespite increased Papal displeasure at its actions, the Order's Grand Master had no difficulties in attracting 'guest' crusaders from across Europe to aid his forces in their onslaught.\n\nAs their strength grew though, changes began to take place within the target states. In 1386 Wladyslaw Jagiello the Grand Duke of Lithuania came to the Polish throne. Beginning the conversion of Lithuania to Christianity, he was able to remove a barrier between the two peoples and create a powerful allied army.\n\nIn the summer of 1410, the allied army marched into Prussia, determined to capture the Order's headquarters at Marienburg and to destroy the Order utterly. Alerted to this threat, Grand Master Ulrich von Jungingen gathered his forces and waited for the onslaught at a prepared position near the villages of Tannenberg and Grunwald.
+{TANNENBERG_TITLE}Battle of Tannenberg
+{THE_MANY_MOSQUES_TITLE}The Many Mosques
+{TIKAL_VALLEY_TITLE}Tikal Valley
+{TOWNSHIP_TITLE}Township
+{TROPICAL_ISLAND_TITLE}Tropical Island
+{VILLAGE_VILNIUS_TITLE}Village Vilnius
+{WELSH_PASS_TITLE}Welsh Pass
+{WINTER_WAR_TITLE}Winter War
+{AMBUSH_AT_THE_BLACK_GATE_TITLE}Emboscada ante la Puerta Negra
+{AZANULBIZAR_TITLE}Azanulbizar
+{BATTLE_OF_HELMS_DEEP_TITLE}Batalla del Abismo de Helm
+{BATTLE_OF_THE_FIVE_ARMIES_TITLE}Batalla de los Cinco Ejércitos
+{FIELDS_OF_CELEBRANT_TITLE}Campos de Celebrant
+{THE_SIEGE_OF_CAIR_ANDROS_TITLE}El Asedio de Cair Andros

@@ -1,0 +1,433 @@
+_Starting Disclaimer
+Divide and Conquer is an overhaul of the 
+Third Age Total War mod ("TATW"). TATW is 
+integrated into the Divide & Conquer mod. 
+
+We give our whole hearted thanks to the 
+TATW team and all they have done for the 
+modding community of Medieval II TW. 
+
+Without you, none of this would have been 
+possible. 
+
+Thank you
+~ The Divide and Conquer Modding Council
+
+
+
+
+_Divide and Conquer Modding Council
+_Council Members
+_Present
+
+Links 
+- Divide and Conquer Secretary - 
+
+
+TheEliteDwarf 
+- Strategy Mapper and Modeller - 
+
+
+Fynn 
+- Modder Extraordinaire -
+
+
+Lerynian
+- Unit Modder -
+
+
+The CoweringComa
+- Unit Modder -
+
+Pythax 
+- UI Expert -
+
+
+Castellan of Angmar
+- Unit Modder - 
+
+
+White of the Black Cloud
+- Unit Modder -
+
+
+Callistonian
+- Coder and Scripter - 
+
+
+_Past
+
+Arachír Galudirithon 
+- Former Council Leader -
+
+
+Hummingbird 
+- Former Council Deputy and Unit Modder -
+
+
+Arkay
+- Battle Mapper - 
+
+
+Rohur
+- Traits & Ancillaries - 
+
+
+BillBaraka 
+- Unit Modder -
+
+
+
+
+_Beta Testers (Alphabetical)
+_Past and Present
+
+Arthur
+
+Augimund
+
+Ajax flameborn
+
+aTastyLunch
+
+Brasidas
+
+Caledharoch
+
+Callistonian
+
+Caunarminas
+
+Commander Sol
+
+Darth Bilbo
+
+El Monstero
+
+Enpremi
+
+Gravitas Plus
+
+Hawk
+
+Hrothgar Heavenlight
+
+Idlari
+
+Izzy
+
+Jojo00182 The Changer of Bytes
+
+JP
+
+Justrin
+
+KMan
+
+LDRL
+
+Liquidsnake
+
+Malekith
+
+Maasl
+
+Maeron
+
+Matt
+
+Matsz
+
+Medik
+
+MochiHammer
+
+Modruth
+
+Nazgul
+
+Netheriel
+
+Orclover
+
+Qsirp
+
+Sion
+
+Starfleet Command
+
+Throrgrim Dragon Hater
+
+Uniform Kilo
+
+Wicked
+
+Zardar
+
+Zeytin Yağı
+
+
+
+A massive thank you to all of the Beta Testers. 
+It is fair to say that DaC would not be where it is
+without the input, ideas and feedback from all of
+our testers, past and present. 
+
+You have our sincere thanks
+~ the Divide and Conquer Modding Council
+
+
+
+
+
+We would also like to extend our thanks to any of our 
+
+former testers, or anyone we have forgotten, who have 
+
+been called away either through
+
+choice or by commitments elsewhere. 
+
+though your names may not be recorded,
+
+your deeds are not forgotten
+
+Thank you. 
+
+
+
+
+
+
+
+
+----------------------------------
+_Old Council Members
+
+
+Emperor of Hell
+
+Caledharoch 
+
+Meebleborp 
+
+FireFreak111
+
+Zarathos
+
+Dydw i ddim yn Gymraeg
+
+gstheod
+
+Arandir Tur-Anion
+
+The Uruk
+
+cino
+
+Racer999
+
+
+_Even Older Team Members
+
+Cedriic 37
+
+ElvenKind
+
+Erutaron
+
+Grimbold
+
+Master Necromancer
+
+Squeaks
+
+Tokus*Maximus
+
+Eöl
+
+Saladin
+
+Welshmandan
+
+Aramiteus
+
+Archaon
+
+Baron Samedi
+
+Bela
+
+Flame-of-Anor
+
+Mhaedros
+
+skeleton of the west
+
+Trailhog250
+
+Kiliç Alì
+
+MasterBigAb
+
+Rgex
+
+Warman
+
+Banditks
+
+Beregond
+
+Bregil
+
+cezarip
+
+Commander Ruunu
+
+CommanderTony
+
+Glorious Gandalf
+
+Jakev
+
+Jean-a-Luc
+
+JorisofHolland
+
+Madril
+
+Makrell
+
+Nerva
+
+Poosticks7
+
+Valandur
+
+
+
+_Community Contributions:
+
+Araval - Barliman battlemodel, various
+
+"Massive Overhaul Submod"  - Ancillaries, Script Concepts, Sound Effects & Voices
+
+"Ruisichi: Total War" - Marka Barded Horse Animations, Models & Textures
+
+"The Last Days" Team - Models & Textures
+
+AdmiralThrawn - Angmar Unit Models
+
+Agart - City Strat Models
+
+Aikanár - Elven Voices
+
+alleycat - Dynamic Terrain Textures, Parts of "Turtle Mod Revolution"
+
+alreadyded - Perillicious Creatures
+
+axnsan - Unique Buildings
+
+Banzai! - Bowstring Animations
+
+baz44331 - Elite Elven Warrior Model
+
+BillBarka - Dunland and other unit visuals
+
+Cedric - New Campaign UI
+
+Chainsaw Schmalz - Traits and Ancillaries Fixes
+
+DCI Last Alliance Team - Various Assets and Umbar Battlemap
+
+Devil's Advocate - Bree Custom Settlement
+
+dIRECTOR - Models & Textures
+
+el Cid - Campaign Interfaces
+
+Elessar - Khamûl CSM and Battle Model 
+
+Elphir of Dol Amroth & Team - Vale of Anduin Faction
+
+Enpremi - The Divide and Conquer v5 Splash Screen
+
+Europa Barbarorum II Teams - Animations and Assets
+
+glassiakas - Snow Troll Model
+
+Gorthaur the Cruel - Portraits from "The Hobbit"
+
+Jarlaxe - Carrock & Weathertop Strat Models
+
+Jox25 - Models & Textures
+
+koultouras & Team - Parts of "Forgotten Realms of Middle-earth"
+
+Krekbel - v5 Nothern Dúnedain Visuals 
+
+leo.civil.uefs & Team - Parts of "Alternative Patch"
+
+Louis Lux - Many Models & Textures! 
+
+Lusted - Campaign AI
+
+Lü Bu - Models & Textures
+
+Maeron - The v5 Reunited Kingdom Tree Icon
+
+Magus - Crimson Tide Mod
+
+matko - Reworked Gondor Militia
+
+Mhaedros - Models & Textures
+
+MIKE GOLF - New Region Descriptions
+
+Ngugi - Tolkien Quotes, Sound Effects & Voices
+
+Occhi Di Davide - Better Stratwater
+
+Point Blank - Real Combat Stat System
+
+Pythax - v5 Menu UIs
+
+Special Sundae - Enedwaith, Anduin and Dol Amroth Voice Acting
+
+SigniferOne - Animations
+
+Spice Master and Mike Golf - General Names
+
+Stillers - General Strat Models
+
+T&D & Team - Parts of "Big Unit Submod"
+
+Taro-M - Parts of "New Units for Gondor & Mordor"
+
+Tsarsies - Garrison Script
+
+Wyruzzah - Orc Portraits
+
+xHolyCrusader - Faction Introduction Videos
+
+
+
+
+_Special Thanks:
+
+Creative Assembly
+
+King Kong & the "Third Age: Total War" Team
+
+DCI Last Alliance and the Europa Barbarorum II Teams
+
+The Community of Total War Center
+
+Araval and Ngugi for teaching me all I know
+and helping every single step of the way! - AG
+
+Finally, you the players! For encouraging us, 
+reporting bugs, providing feedback, and 
+enjoying and sharing our mod! 
+
+~ The Divide and Conquer Modding Council

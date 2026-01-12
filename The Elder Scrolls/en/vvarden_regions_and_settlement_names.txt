@@ -1,0 +1,152 @@
+¬
+{Ascadian_Isles1}		Ascadian Isles - Ebonheart
+{Ebonheart}			Ebonheart
+{West_Gash2}			West Gash - Gnisis
+{Gnisis}			Gnisis
+{Ashlands1}			Ashlands - Ald'ruhn
+{Aldruhn}			Ald'ruhn
+{West_Gash1}			West Gash - Balmora
+{Balmora}			Balmora
+{Zafirbel_Bay}			Zafirbel Bay - Sadrith Mora
+{Sadrith_Mora}			Sadrith Mora	
+{Ascadian_Isles2}		Ascadian Isles - Vivec
+{Vivec}				Vivec City
+{Grazelands1}			Grazelands - Ahemmusa Camp
+{Ahemmusa_Camp}			Ahemmusa Camp
+{Molag_Amur}			Molag Amur - Erabenimsun Camp
+{Erabenimsun_Camp}		Erabenimsun Camp
+{Ashlands3}			Ashlands - Urshilaku Camp
+{Urshilaku_Camp}		Urshilaku Camp
+{Grazelands2}			Grazelands - Zainab Camp
+{Zainab_Camp}			Zainab Camp
+{West_Gash3}			West Gash - Fort Moonmoth
+{Fort_Moonmoth}			Fort Moonmoth
+{Ashlands2}			Ashlands - Fort Buckmoth
+{Fort_Buckmoth}			Fort Buckmoth
+{Zafirbel_Bay2}			Zafirbel Bay - Wolverine Hall
+{Wolverine_Hall}		Wolverine Hall
+{Red_Mountain1}			Red Mountain - Dagoth Ur
+{Dagoth_Ur}			Dagoth Ur
+{West_Gash4}			West Gash - Ald Velothi
+{Ald_Velothi}			Ald Velothi
+{West_Gash5}			West Gash - Caldera
+{Caldera}			Caldera
+{Sheogorad1}			Sheogorad - Dagon Fel
+{Dagon_Fel}			Dagon Fel
+{Bitter_Coast1}			Bitter Coast - Gnaar Mok
+{Gnaar_Mok}			Gnaar Mok
+{Bitter_Coast2}			Bitter Coast - Hla Oad
+{Hla_Oad}			Hla Oad
+{West_Gash6}			West Gash - Khuul
+{Khuul}				Khuul
+{Ashlands4}			Ashlands - Maar Gan
+{Maar_Gan}			Maar Gan
+{Molag_Amur2}			Molag Amur - Molag Mar
+{Molag_Mar}			Molag Mar
+{Ascadian_Isles3}		Ascadian Isles - Pelagiad
+{Pelagiad}			Pelagiad
+{Ascadian_Isles4}		Ascadian Isles - Suran
+{Suran}				Suran
+{Bitter_Coast3}			Bitter Coast - Seyda Neen
+{Seyda_Neen}			Seyda Neen
+{Zafirbel_Bay3}			Zafirbel Bay - Tel Aruhn
+{Tel_Aruhn}			Tel Aruhn
+{Azuras_Coast1}			Azura's Coast - Tel Branora
+{Tel_Branora}			Tel Branora
+{Zafirbel_Bay4}			Zafirbel Bay - Tel Fyr
+{Tel_Fyr}			Tel Fyr
+{Azuras_Coast2}			Azura's Coast - Tel Mora
+{Tel_Mora}			Tel Mora
+{Grazelands3}			Grazelands - Tel Vos
+{Tel_Vos}			Tel Vos
+{Grazelands4}			Grazelands - Vos
+{Vos}				Vos
+{West_Gash7}			West Gash - Andasreth
+{Andasreth}			Andasreth
+{West_Gash8}			West Gash - Berandas
+{Berandas}			Berandas
+{Ashlands5}			Ashlands - Falasmaryon
+{Falasmaryon}			Falasmaryon
+{Grazelands5}			Grazelands - Falensarano
+{Falensarano}			Falensarano
+{Bitter_Coast4}			Bitter Coast - Hlormaren
+{Hlormaren}			Hlormaren
+{Grazelands6}			Grazelands - Indoranyon
+{Indoranyon}			Indoranyon
+{Ashlands6}			Ashlands - Kogoruhn
+{Kogoruhn}			Kogoruhn
+{Molag_Amur3}			Molag Amur - Marandus
+{Marandus}			Marandus
+{Sheogorad2}			Sheogorad - Rotheran
+{Rotheran}			Rotheran
+{Molag_Amur4}			Molag Amur - Telasero
+{Telasero}			Telasero
+{Ashlands7}			Ashlands - Valenvaryon
+{Valenvaryon}			Valenvaryon
+{Ashland7}			Ashlands - Indarys Manor
+{Indarys_Manor}			Indarys Manor
+{Bitter_Coast5}			Bitter Coast - Rethan Manor
+{Rethan_Manor}			Rethan Manor
+{Molag_Amur5}			Molag Amur - Tel Uvirith
+{Tel_Uvirith}			Tel Uvirith
+{Bitter_Coast6}			Bitter Coast - Aleft
+{Aleft}				Aleft
+{Molag_Amur6}			Molag Amur - Arkngthand
+{Arkngthand}			Arkngthand
+{West_Gash9}			West Gash - Arkngthunch-Sturdumz
+{Arkngthunch_Sturdumz}		Arkngthunch-Sturdumz
+{Ashlands8}			Ashlands - Bthungthumz
+{Bthungthumz}			Bthungthumz
+{Ashlands10}			Ashlands - Bthuand
+{Bthuand}			Bthuand
+{Ashlands9}			Ashlands - Druscashti
+{Druscashti}			Druscashti
+{Molag_Amur7}			Molag Amur - Galom Daeus
+{Galom_Daeus}			Galom Daeus
+{Ascadian_Isles5}		Ascadian Isles - Mzahnch
+{Mzahnch}			Mzahnch
+{Molag_Amur8}			Molag Amur - Mzanchend
+{Mzanchend}			Mzanchend
+{Sheogorad3}			Sheogorad - Mzuleft
+{Mzuleft}			Mzuleft
+{Sheogorad4}			Sheogorad - Nchardahrk
+{Nchardahrk}			Nchardahrk
+{Molag_Amur9}			Molag Amur - Nchardumz
+{Nchardumz}			Nchardumz
+{Grazelands7}			Grazelands - Nchuleft
+{Nchuleft}			Nchuleft
+{Molag_Amur10}			Molag Amur - Nchuleftingth
+{Nchuleftingth}			Nchuleftingth
+{Azuras_Coast3}			Azura's Coast - Nchurdamz
+{Nchurdamz}			Nchurdamz
+{Red_Mountain2}			Red Mountain - Bthanchend
+{Bthanchend}			Bthanchend
+{Red_Mountain3}			Red Mountain - Endusal
+{Endusal}			Endusal
+{Red_Mountain4}			Red Mountain - Odrosal
+{Odrosal}			Odrosal
+{Red_Mountain5}			Red Mountain - Tureynulal
+{Tureynulal}			Tureynulal
+{Red_Mountain6}			Red Mountain - Vemynal
+{Vemynal}			Vemynal
+{Ghostfence_Of_Yesteryear}	Ghostfence Of Yesteryear
+{Ghostgate}			Ghostgate
+{Ascadian_Isles6}		Ascadian Isles - Bal Fell
+{Bal_Fell}			Bal Fell
+{Ascadian_Isles7}		Ascadian Isles - Ald Sotha
+{Ald_Sotha}			Ald Sotha
+{Azuras_Coast4}			Azura's Coast - Ald Daedroth
+{Ald_Daedroth}			Ald Daedroth
+{Sheogorad5}			Sheogorad - Ashmelech
+{Ashmelech}			Ashmelech
+{Dungeon_Province}	Dungeon Region
+{Dungeon}			Dungeon Region 
+{Cyrodiil}of Cyrodiil
+{Skyrim}of Skyrim
+{HighRock}of High Rock
+{Hammerfell}of Hammerfell
+{Summerset}of Summerset Isles
+{Valenwood}of Valenwood
+{Elsweyr}of Elsweyr
+{Blackmarsh}of Blackmarsh
+{Morrowind}of Morrowind 

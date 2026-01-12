@@ -1,0 +1,3 @@
+¬
+{G5Script2_Text_01_Text1}G5 Battle AI script is being launched automatically now.
+{G5Script2_Text_01_Title}Launching.

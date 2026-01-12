@@ -1,0 +1,2009 @@
+¬##########################
+¬##### Hero Abilities #####
+¬##########################
+{EMT_HERO_SPECIAL_ABILITY_DEFAULT_NORMAL}Habilidad de héroe
+{EMT_HERO_SPECIAL_ABILITY_DEFAULT_SELECTED}Habilidad de héroe (Activa)
+{EMT_HERO_SPECIAL_ABILITY_DEFAULT_DISABLED}Habilidad de héroe (60s)
+{EMT_BALROG_NORMAL}Fire of Udûn\n• Duration: 30s (1 USE)\n• Effect: 50% Chance to Stun Disengaged Enemy Units for 5-10s, -4 Enemy Troops Morale
+{EMT_BALROG_SELECTED}Fire of Udûn 30s (Active) 50% Chance to Stun Disengaged Enemy Units for 5-10s, -4 Enemy Troops Morale
+{EMT_BALROG_DISABLED}Llama de Udûn (No disponible)
+{EMT_BEORN_NORMAL}Furious Charge\n• Duration: 30s (1 USE)\n• Effect: +150% Own Army Combat Effectiveness, Locks Own Army Morale (Impetuous), Rallies Own Routing Troops (Impetuous)
+{EMT_BEORN_SELECTED}Furious Charge 30s (Active) +150% Own Army Combat Effectiveness, Locks Own Army Morale (Impetuous), Rallies Own Routing Troops (Impetuous)
+{EMT_BEORN_DISABLED}Carga furiosa (No disponible)
+{EMT_CAPTAIN_NORMAL}Leadership\n• Duration: 30s (1 USE)\n• Effect: +50% Own and Allied Army Combat Effectiveness, Locks Own Army Morale (Firm)
+{EMT_CAPTAIN_SELECTED}Leadership 30s (Active) +50% Own and Allied Army Combat Effectiveness, Locks Own Army Morale (Firm)
+{EMT_CAPTAIN_DISABLED}Liderazgo (60s)
+{EMT_CHARGE_NORMAL}For Death and Glory!\n• Duration: 60s (1 USE)\n• Effect: +100% Own Army Combat Effectiveness, Locks Own Army Morale (Firm)
+{EMT_CHARGE_SELECTED}For Death and Glory! 60s (Active) +100% Own Army Combat Effectiveness, Locks Own Army Morale (Firm)
+{EMT_CHARGE_DISABLED}¡Por la Muerte y la Gloria! (120s)
+{EMT_DEAD_NORMAL}Fulfilling the Oath\n• Duration: 3600s (2 USES)\n• Effect: -4 Enemy Troop Morale, -100% Enemy Combat Effectiveness
+{EMT_DEAD_SELECTED}Fulfilling the Oath 3600s (Active) -4 Enemy Troop Morale, -100% Enemy Combat Effectiveness
+{EMT_DEAD_DISABLED}Cumpliendo el juramento (10s)
+{EMT_DWARVES_NORMAL}Stubbornness Of Dwarves\n• Duration: 60s (1 USE)\n• Effect: Locks Own Army Morale (Impetuous), Rallies Own Routing Troops (Impetuous), -750 Own Army Fatigue (Temporary)
+{EMT_DWARVES_SELECTED}Terquedad enana (Activa):\n- -750 fatiga del ejército propio (Temporal)\n- Bloquea la moral del ejército propio (Impetuosa)\n- Llama de vuelta a las unidades propias huyendo (Impetuosa)
+{EMT_DWARVES_DISABLED}Terquedad enana (No disponible)
+{EMT_ELROND_NORMAL}Power of the Eldar\n• Duration: 60s (1 USE)\n• Effect: +200% Own Army Combat Effectiveness, -500 Own Army Fatigue (Temporary)
+{EMT_ELROND_SELECTED}Power of the Eldar 60s (Active) +200% Own Army Combat Effectiveness, -500 Own Army Fatigue (Temporary)
+{EMT_ELROND_DISABLED}Poder de los Eldar (No disponible)
+{EMT_ENTS_NORMAL}Ent Rage\n• Duration: 30s (1 USE)\n• Effect: Rallies Own Routing Troops (High), Rallies Allied Routing Troops (High)
+{EMT_ENTS_SELECTED}Ent Rage 30s (Active) Rallies Own Routing Troops (High), Rallies Allied Routing Troops (High)
+{EMT_ENTS_DISABLED}Furia de los Ent (No disponible)
+{EMT_GANDALF_NORMAL}Flame of Anor\n• Duration: 30s (2 USES)\n• Effect: Locks Own Army Morale (High), Rallies Own Routing Troops (High), 30% Chance to Stun Disengaged Enemy Units for 5-10s
+{EMT_GANDALF_SELECTED}Flame of Anor 30s (Active) Locks Own Army Morale (High), Rallies Own Routing Troops (High), 30% Chance to Stun Disengaged Enemy Units for 5-10s
+{EMT_GANDALF_DISABLED}Llama de Anor (120s)
+{EMT_IRON_FIST_NORMAL}Iron Fist\n• Duration: 30s (2 USES)\n• Effect: +100% Own Army Combat Effectiveness, -500 Own Army Fatigue (Temporary)
+{EMT_IRON_FIST_SELECTED}Puño de hierro (Activa):\n- +100% efectividad en combate propia\n- -500 fatiga del ejército propio (Temporal)
+{EMT_IRON_FIST_DISABLED}Puño de hierro (180s)
+{EMT_LEGION_NORMAL}Legion Unleashed\n• Duration: 60s (1 USE)\n• Effect: +50% Own Army Combat Effectiveness, +3 Own Troop Morale
+{EMT_LEGION_SELECTED}Legión desatada (Activa):\n- +50% efectividad de combate propia\n- +3 moral del ejército propio
+{EMT_LEGION_DISABLED}Legión desatada (60s)
+{EMT_LIGHT_OF_THE_FAITH_NORMAL}Light of Elbereth\n• Duration: 30s (2 USES)\n• Effect: +5 Own and Allied Troop Morale, +50% Own Army Combat Effectiveness
+{EMT_LIGHT_OF_THE_FAITH_SELECTED}Light of Elbereth 30s (Active) +5 Own and Allied Troop Morale, +50% Own Army Combat Effectiveness
+{EMT_LIGHT_OF_THE_FAITH_DISABLED}Luz de Elbereth (120s)
+{EMT_ORC_DRAUGHT_NORMAL}Orc Draught\n• Duration: 30s (2 USES)\n• Effect: -250 Own Army Fatigue (Temporary), Locks Own Army Morale (Impetuous)
+{EMT_ORC_DRAUGHT_SELECTED}Orc Draught 30s (Active) -250 Own Army Fatigue (Temporary), Locks Own Army Morale (Impetuous)
+{EMT_ORC_DRAUGHT_DISABLED}Brebaje orco (120s)
+{EMT_SAURON_NORMAL}Wrath of Sauron\n• Duration: 60s (2 USES)\n• Effect: +250% Own Army Combat Effectiveness, 100% Chance to Stun Disengaged Enemy Units for 10-20s, -4 Enemy Troop Morale, +30 Own Troop Morale, Rallies Own Routing Troops (High), -800 Own Army Fatigue (Permanent)
+{EMT_SAURON_SELECTED}Wrath of Sauron 60s (Active) +250% Own Army Combat Effectiveness, 100% Chance to Stun Disengaged Enemy Units for 10-20s, -4 Enemy Troop Morale, +30 Own Troop Morale, Rallies Own Routing Troops (High), -800 Own Army Fatigue (Permanent)
+{EMT_SAURON_DISABLED}Ira de Sauron (120s)
+{EMT_SHIELD_NORMAL}Defensive Stance\n• Duration: 60s (1 USE)\n• Effect: -50% Enemy Army Combat Effectiveness, Locks Own Army Morale (Firm)
+{EMT_SHIELD_SELECTED}Actitud defensiva (Activa):\n- -50% efectividad de combate enemiga\n- Bloquea la moral del ejército propio (Firme)
+{EMT_SHIELD_DISABLED}Actitud defensiva (120s)
+{EMT_SILVAN_NORMAL}Swiftness\n• Duration: 20s (1 USE)\n• Effect: -500 Own Army Fatigue (Temporary), +50% Own and Allied Army Combat Effectiveness
+{EMT_SILVAN_SELECTED}Swiftness 20s (Active) -500 Own Army Fatigue (Temporary), +50% Own and Allied Army Combat Effectiveness
+{EMT_SILVAN_DISABLED}Agilidad (No disponible)
+{EMT_STRIDER_NORMAL}Chief of the Dúnedain\n• Duration: 60s (2 USES)\n• Effect: -250 Own Army Fatigue (Permanent)
+{EMT_STRIDER_SELECTED}Chief of the Dúnedain (Active) -250 Own Army Fatigue (Permanent)
+{EMT_STRIDER_DISABLED}Chief of the Dúnedain (180s)
+{EMT_TERROR_OF_THE_NAZGUL_NORMAL}Terror of the Nazgûl\n• Duration: 30s (1 USE)\n• Effect: 45% Chance to Stun Disengaged Enemy Units for 15-20s
+{EMT_TERROR_OF_THE_NAZGUL_SELECTED}Terror of the Nazgûl 30s (Active) 45% Chance to Stun Disengaged Enemy Units for 15-20s
+{EMT_TERROR_OF_THE_NAZGUL_DISABLED}Terror de los Nazgûl (180s)
+{EMT_TERROR_OF_THE_WITCH_KING_NORMAL}Terror of the Witch-king\n• Duration: 30s (1 USE)\n• Effect: 50% Chance to Stun Disengaged Enemy Units for 20-25s, -4 Enemy Troop Morale
+{EMT_TERROR_OF_THE_WITCH_KING_SELECTED}Terror of the Witch-king 30s (Active) 50% Chance to Stun Disengaged Enemy Units for 20-25s, -4 Enemy Troop Morale
+{EMT_TERROR_OF_THE_WITCH_KING_DISABLED}Terror del Rey Brujo (180s)
+{EMT_THE_VOICE_NORMAL}The Voice Of Saruman\n• Duration: 60s (1 USE)\n• Effect: +500 Enemy Army Fatigue (Permanent), 50% Chance to Stun Disengaged Enemy Units for 10-15s
+{EMT_THE_VOICE_SELECTED}The Voice Of Saruman 60s (Active) +500 Enemy Army Fatigue (Permanent), 50% Chance to Stun Disengaged Enemy Units for 10-15s
+{EMT_THE_VOICE_DISABLED}La Voz de Saruman (No disponible)
+{EMT_URUK_HAI_NORMAL}Uruk Tide\n• Duration: 30s (2 USES)\n• Effect: +100% Own Army Combat Effectiveness, -750 Own Army Fatigue (Temporary)
+{EMT_URUK_HAI_SELECTED}Uruk Tide 30s (Active) +100% Own Army Combat Effectiveness, -750 Own Army Fatigue (Temporary)
+{EMT_URUK_HAI_DISABLED}Marea Uruk (60s)
+{EMT_VENOM_NORMAL}Serpent Elixir\n• Duration: 60s (1 USE)\n• Effect: +150% Own Army Combat Effectiveness, 75% Chance to Stun Disengaged Enemy Units for 3-5s
+{EMT_VENOM_SELECTED}Serpent Elixir 60s (Active) +150% Own Army Combat Effectiveness, 75% Chance to Stun Disengaged Enemy Units for 3-5s
+{EMT_VENOM_DISABLED}Elixir de serpiente (No disponible)
+{EMT_NUMENOR_NORMAL}Númenórean Warcry\n• Duration: 30s (1 USE)\n• Effect: -500 Own Army Fatigue (Permanent), +150% Own and Allied Army Combat Effectiveness
+{EMT_NUMENOR_SELECTED}Númenórean Warcry (Active) -500 Own Army Fatigue (Permanent), +150% Own and Allied Army Combat Effectiveness
+{EMT_NUMENOR_DISABLED}Grito de guerra de Númenor (No disponible)
+{EMT_WHIPING_NORMAL}Whipping\n• Duration: 30s (2 USES)\n• Effect: Locks Own Army Morale (High), Rallies Own Routing Troops (High)
+{EMT_WHIPING_SELECTED}Whipping 30s (Active) Locks Own Army Morale (High), Rallies Own Routing Troops (High)
+{EMT_WHIPING_DISABLED}Whipping (60s)
+{EMT_WHITE_GANDALF_NORMAL}First of the Istari\n• Duration: 60s (1 USE)\n• Effect: Locks Own and Allied Army Morale (High), Rallies Own and Allied Troops (High), 50% Chance to Stun Disengaged Enemy Units for 5-10s
+{EMT_WHITE_GANDALF_SELECTED}First of the Istari 60s (Active) Locks Own and Allied Army Morale (High), Rallies Own and Allied Troops (High), 50% Chance to Stun Disengaged Enemy Units for 5-10s
+{EMT_WHITE_GANDALF_DISABLED}Primero de los Istari (No disponible)
+{EMT_WRATH_NORMAL}Red Wrath\n• Duration: 45s (2 USES)\n• Effect: +100% Own Army Combat Effectiveness, -300 Own Army Fatigue (Temporary)
+{EMT_WRATH_SELECTED}Ira roja (Activa):\n- +100% efectividad de combate propia\n- -300 fatiga del ejército propio (Temporal)
+{EMT_WRATH_DISABLED}Ira roja (120s)
+{EMT_ALATAR_NORMAL}Fury of the East\n• Duration: 30s (2 USES)\n• Effect: +150% Own Army Combat Effectiveness, -2 Enemy Troop Morale
+{EMT_ALATAR_SELECTED}Fury of the East 30s (Active) +150% Own Army Combat Effectiveness, -2 Enemy Troop Morale
+{EMT_ALATAR_DISABLED}Furia oriental (180s)
+{EMT_PALLANDO_NORMAL}Wisdom of the East\n• Duration: 30s (2 USES)\n• Effect: -1000 Own Army Fatigue (Temporary), +3 Own Troop Morale, Rallies Own Routing Troops (High)
+{EMT_PALLANDO_SELECTED}Sabiduría oriental (Activa):\n- -1000 fatiga del ejército propio (Temporal)\n- +3 moral del ejército propio\n- Llama de vuelta a las unidades propias huyendo (Alta)
+{EMT_PALLANDO_DISABLED}Sabiduría oriental (180s)
+{EMT_ANCANTAR_NORMAL}Black Hand of Mordor\n• Duration: 30s (1 USE)\n• Effect: -1 Enemy Troop Morale, Locks Own Army Morale (High)
+{EMT_ANCANTAR_SELECTED}Black Hand of Mordor 30s (Active) -1 Enemy Troop Morale, Locks Own Army Morale (High)
+{EMT_ANCANTAR_DISABLED}Mano negra de Mordor (180s)
+{EMT_VINTAGE_RESERVES_NORMAL}Vintage Reserves\n• Duration: 60s (1 USE)\n• Effect: Locks Own Army Morale, Rallies Own Routing Troops
+{EMT_VINTAGE_RESERVES_SELECTED}Vintage Reserves: Only the finest for the men of Dorwinion!
+{EMT_VINTAGE_RESERVES_DISABLED}Vintage Reserves: 30s
+{EMT_BOROMIR_NORMAL}Son of Gondor\n• Duration: 120s (1 USE)\n• Effect: -500 Own Army Fatigue (Permanent), +50% Own Army Combat Effectiveness, +2 Own Army Morale
+{EMT_BOROMIR_SELECTED}Son of Gondor 120s (Active) -500 Own Army Fatigue (Permanent), +50% Own Army Combat Effectiveness, +2 Own Army Morale
+{EMT_BOROMIR_DISABLED}Son of Gondor (Unavailable)
+{EMT_FARAMIR_NORMAL}The Gentle Warrior 60s (2 USES)\n• Effect: -150 Own Army Fatigue (Permanent), -25% Enemy Army Combat Effectiveness
+{EMT_FARAMIR_SELECTED}The Gentle Warrior 60s (Active) -150 Own Army Fatigue (Permanent), -25% Enemy Army Combat Effectiveness
+{EMT_FARAMIR_DISABLED}The Gentle Warrior (60s)
+
+¬##########################
+¬##### Named Generals #####
+¬##########################
+{EMT_AZTECS_NAMED_GENERAL_3}Yagthak
+{EMT_BYZANTIUM_NAMED_GENERAL_3}Leofthiuda Chieftain
+{EMT_BYZANTIUM_NAMED_CHARACTER_3}Leofthiuda Chieftain
+{EMT_SAXONS_NAMED_GENERAL_3}Círdan
+{EMT_SAXONS_NAMED_CHARACTER_3}Círdan
+{EMT_SAXONS_NAMED_GENERAL_4}Glorfindel
+{EMT_SAXONS_NAMED_CHARACTER_4}Glorfindel
+{EMT_SAXONS_NAMED_GENERAL_5}Hijo de Elrond
+{EMT_SAXONS_NAMED_CHARACTER_5}Son of Elrond
+{EMT_SAXONS_NAMED_GENERAL_6}Miembro de familia noldorina
+{EMT_SAXONS_NAMED_CHARACTER_6}Miembro de familia noldorina
+{EMT_SAXONS_NAMED_GENERAL_7}Elrond
+{EMT_SAXONS_NAMED_CHARACTER_7}Elrond
+{EMT_SAXONS_NAMED_GENERAL_8}Miembro de familia sindarina
+{EMT_SAXONS_NAMED_CHARACTER_8}Miembro de familia sindarina
+{EMT_SAXONS_NAMED_GENERAL_9}Herrero de Eregion
+{EMT_SAXONS_NAMED_CHARACTER_9}Herrero de Eregion
+{EMT_SAXONS_NAMED_GENERAL_10}Gildor Inglorion
+{EMT_SAXONS_NAMED_CHARACTER_10}Gildor Inglorion
+{EMT_ENGLAND_NAMED_GENERAL_3}Khamûl
+{EMT_ENGLAND_NAMED_GENERAL_4}Rey Brujo
+{EMT_ENGLAND_NAMED_GENERAL_5}Nazgûl
+{EMT_ENGLAND_NAMED_CHARACTER_5}Nazgûl
+{EMT_ENGLAND_NAMED_GENERAL_6}Gothmog
+{EMT_ENGLAND_NAMED_GENERAL_7}Sauron
+{EMT_ENGLAND_NAMED_GENERAL_8}Ancântar the Inquisitor
+{EMT_ENGLAND_NAMED_CHARACTER_8}Ancântar the Inquisitor
+{EMT_FRANCE_NAMED_GENERAL_3}Khamûl
+{EMT_FRANCE_NAMED_CHARACTER_3}Khamûl
+{EMT_FRANCE_NAMED_GENERAL_4}Rey Brujo
+{EMT_FRANCE_NAMED_CHARACTER_4}Witch-king
+{EMT_FRANCE_NAMED_GENERAL_5}Nazgûl
+{EMT_FRANCE_NAMED_CHARACTER_5}Nazgûl
+{EMT_FRANCE_NAMED_GENERAL_6}Saruman
+{EMT_FRANCE_NAMED_GENERAL_7}Lurtz
+{EMT_FRANCE_NAMED_CHARACTER_7}Lurtz
+{EMT_FRANCE_NAMED_GENERAL_8}Saruman
+{EMT_FRANCE_NAMED_CHARACTER_8}Saruman
+{EMT_FRANCE_NAMED_GENERAL_9}Uglúk
+{EMT_FRANCE_NAMED_CHARACTER_9}Uglúk
+{EMT_FRANCE_NAMED_GENERAL_10}Medio orco
+{EMT_FRANCE_NAMED_CHARACTER_10}Medio orco
+{EMT_HRE_NAMED_GENERAL_3}Balrog
+{EMT_IRELAND_NAMED_GENERAL_3}Celeborn
+{EMT_IRELAND_NAMED_GENERAL_4}Thranduil
+{EMT_IRELAND_NAMED_GENERAL_5}Légolas
+{EMT_IRELAND_NAMED_GENERAL_6}Berangrim
+{EMT_IRELAND_NAMED_GENERAL_7}General de Lórien
+{EMT_IRELAND_NAMED_GENERAL_8}Mariscal de los elfos
+{EMT_IRELAND_NAMED_GENERAL_9}Centinela de los elfos
+{EMT_IRELAND_NAMED_CHARACTER_3}Celeborn
+{EMT_IRELAND_NAMED_CHARACTER_4}Thranduil
+{EMT_IRELAND_NAMED_CHARACTER_5}Légolas
+{EMT_IRELAND_NAMED_CHARACTER_6}Berangrim
+{EMT_IRELAND_NAMED_CHARACTER_7}General de Lórien
+{EMT_IRELAND_NAMED_CHARACTER_8}Mariscal de los elfos
+{EMT_IRELAND_NAMED_CHARACTER_9}Centinela de los elfos
+{EMT_KHAND_NAMED_GENERAL_3}PLACEHOLDER
+{EMT_KHAND_NAMED_GENERAL_4}Alatar
+{EMT_KHAND_NAMED_CHARACTER_4}Alatar
+{EMT_KHAND_NAMED_GENERAL_5}Pallando
+{EMT_KHAND_NAMED_CHARACTER_5}Pallando
+{EMT_KHAND_NAMED_GENERAL_6}Ancântar the Inquisitor
+{EMT_KHAND_NAMED_CHARACTER_6}Ancântar the Inquisitor
+{EMT_KHAND_NAMED_GENERAL_7}Ancântar the Inquisitor
+{EMT_KHAND_NAMED_CHARACTER_7}Ancântar the Inquisitor
+{EMT_MILAN_NAMED_GENERAL_3}Théoden
+{EMT_MILAN_NAMED_CHARACTER_4}Dunforgoil Warlord
+{EMT_MILAN_NAMED_GENERAL_4}Dunforgoil Warlord
+{EMT_MILAN_NAMED_GENERAL_5}Gamling
+{EMT_MILAN_NAMED_CHARACTER_5}Gamling
+{EMT_MILAN_NAMED_GENERAL_6}Hama
+{EMT_MILAN_NAMED_CHARACTER_6}Hama
+{EMT_MILAN_NAMED_GENERAL_7}Éowyn
+{EMT_MILAN_NAMED_CHARACTER_7}Éowyn
+{EMT_MILAN_NAMED_CHARACTER_8}Éomer
+{EMT_MILAN_NAMED_GENERAL_8}Éomer
+{EMT_MONGOLS_NAMED_GENERAL_3}Légolas
+{EMT_MONGOLS_NAMED_GENERAL_4}Thranduil
+{EMT_MONGOLS_NAMED_GENERAL_5}Celeborn
+{EMT_MONGOLS_NAMED_GENERAL_6}Haldir
+{EMT_MONGOLS_NAMED_GENERAL_7}Berangrim
+{EMT_MONGOLS_NAMED_GENERAL_8}Mariscal de los elfos
+{EMT_MONGOLS_NAMED_GENERAL_9}Centinela de los elfos
+{EMT_MONGOLS_NAMED_GENERAL_10}Ent of Fangorn
+{EMT_MONGOLS_NAMED_CHARACTER_3}Legolas
+{EMT_MONGOLS_NAMED_CHARACTER_4}Thranduil
+{EMT_MONGOLS_NAMED_CHARACTER_5}Celeborn
+{EMT_MONGOLS_NAMED_CHARACTER_6}Haldir
+{EMT_MONGOLS_NAMED_CHARACTER_7}Berangrim
+{EMT_MONGOLS_NAMED_CHARACTER_8}Mariscal de los elfos
+{EMT_MONGOLS_NAMED_CHARACTER_9}Centinela de los elfos
+{EMT_MONGOLS_NAMED_CHARACTER_10}Ent of Fangorn
+{EMT_MOORS_NAMED_GENERAL_3}Gimli
+{EMT_MOORS_NAMED_CHARACTER_3}Gimli
+{EMT_POLAND_NAMED_GENERAL_3}Khamûl
+{EMT_POLAND_NAMED_CHARACTER_3}Khamûl
+{EMT_POLAND_NAMED_GENERAL_4}Rey Brujo
+{EMT_POLAND_NAMED_CHARACTER_4}Rey Brujo
+{EMT_POLAND_NAMED_GENERAL_5}Nazgûl
+{EMT_POLAND_NAMED_CHARACTER_5}Nazgûl
+{EMT_POLAND_NAMED_GENERAL_6}Úlairon el Visionario
+{EMT_POLAND_NAMED_CHARACTER_6}Úlairon el Visionario
+{EMT_SICILY_NAMED_GENERAL}General gondoriano
+{EMT_SICILY_NAMED_GENERAL_3}Duinhir
+{EMT_SICILY_NAMED_CHARACTER_3}Duinhir
+{EMT_SICILY_NAMED_GENERAL_4}Faramir
+{EMT_SICILY_NAMED_CHARACTER_4}Faramir
+{EMT_SICILY_NAMED_GENERAL_5}Boromir
+{EMT_SICILY_NAMED_CHARACTER_5}Boromir
+{EMT_SICILY_NAMED_GENERAL_6}Denethor
+{EMT_SICILY_NAMED_GENERAL_7}Orodreth de Pelargir
+{EMT_SICILY_NAMED_CHARACTER_7}Orodreth de Pelargir
+{EMT_SICILY_NAMED_GENERAL_8}Forlong el Gordo
+{EMT_SICILY_NAMED_CHARACTER_8}Forlong el Gordo
+{EMT_SICILY_NAMED_GENERAL_9}Hirluin el Justo
+{EMT_SICILY_NAMED_CHARACTER_9}Hirluin el Justo
+{EMT_SICILY_NAMED_CHARACTER_10}Angbor el Intrépido
+{EMT_SICILY_NAMED_GENERAL_10}Angbor el Intrépido
+{EMT_SLAVE_NAMED_GENERAL_3}Sharkey
+{EMT_SLAVE_NAMED_CHARACTER_3}Sharkey
+{EMT_SLAVE_NAMED_GENERAL_4}Alatar
+{EMT_SLAVE_NAMED_CHARACTER_4}Alatar
+{EMT_SLAVE_NAMED_GENERAL_5}Pallando
+{EMT_SLAVE_NAMED_CHARACTER_5}Pallando
+{EMT_SLAVE_NAMED_GENERAL_6}Tumulario
+{EMT_SLAVE_NAMED_CHARACTER_6}Tumulario
+{EMT_SLAVE_NAMED_GENERAL_7}Great Spiders
+{EMT_SLAVE_NAMED_CHARACTER_7}Great Spiders
+{EMT_SLAVE_NAMED_GENERAL_8}Leales a Mordor
+{EMT_SLAVE_NAMED_CHARACTER_8}Leales a Mordor
+{EMT_TURKS_GENERAL}Ejército dúnedain
+{EMT_TURKS_NAMED_CHARACTER}Miembro de familia dúnedain
+{EMT_TURKS_NAMED_GENERAL_3}Aragorn
+{EMT_TURKS_NAMED_CHARACTER_3}Aragorn
+{EMT_TURKS_NAMED_GENERAL_4}Gandalf el Grís
+{EMT_TURKS_NAMED_CHARACTER_4}Gandalf el Grís
+{EMT_TURKS_NAMED_GENERAL_5}Gandalf el Blanco
+{EMT_TURKS_NAMED_CHARACTER_5}Gandalf el Blanco
+{EMT_TURKS_NAMED_GENERAL_6}Rey de los muertos
+{EMT_TURKS_NAMED_CHARACTER_6}Rey de los muertos
+{EMT_TURKS_NAMED_GENERAL_7}Halbarad
+{EMT_TURKS_NAMED_CHARACTER_7}Halbarad
+{EMT_TURKS_NAMED_GENERAL_8}Faramir
+{EMT_TURKS_NAMED_CHARACTER_8}Faramir
+{EMT_TURKS_NAMED_GENERAL_9}Boromir
+{EMT_TURKS_NAMED_CHARACTER_9}Boromir
+{EMT_TURKS_NAMED_GENERAL_10}Denethor
+{EMT_TURKS_NAMED_CHARACTER_10}Denethor
+{EMT_TIMURIDS_NAMED_GENERAL_3}Capitán hobbit
+{EMT_TIMURIDS_NAMED_CHARACTER_3}Capitán hobbit
+{EMT_NORMANS_NAMED_GENERAL}General de Bree
+{EMT_NORMANS_NAMED_GENERAL_3}Capitán hobbit
+{EMT_NORMANS_NAMED_GENERAL_4}Brathor
+{EMT_NORMANS_NAMED_GENERAL_5}Sharkey
+{EMT_NORMANS_NAMED_GENERAL_6}Ted Arenas
+{EMT_NORMANS_NAMED_GENERAL_7}Aldaron de Lindon
+{EMT_NORMANS_NAMED_GENERAL_8}Reginard de Dorwinion
+{EMT_NORMANS_NAMED_GENERAL_9}Frodo Bolsón
+{EMT_NORMANS_NAMED_CHARACTER}Miembro de familia de Bree
+{EMT_NORMANS_NAMED_CHARACTER_3}Capitán hobbit
+{EMT_NORMANS_NAMED_CHARACTER_4}Brathor
+{EMT_NORMANS_NAMED_CHARACTER_5}Sharkey
+{EMT_NORMANS_NAMED_CHARACTER_6}Ted Arenas
+{EMT_NORMANS_NAMED_CHARACTER_7}Aldaron
+{EMT_NORMANS_NAMED_CHARACTER_8}Reginard
+{EMT_NORMANS_NAMED_CHARACTER_9}Frodo Bolsón
+{EMT_HUNGARY_NAMED_CHARACTER_3}Miembro del clan Barbas de Fuego
+{EMT_HUNGARY_NAMED_GENERAL_3}Miembro del clan Barbas de Fuego
+{EMT_HUNGARY_NAMED_CHARACTER}Miembro de familia de las Ered Luin
+{EMT_HUNGARY_NAMED_GENERAL}General de las Ered Luin
+{EMT_HUNGARY_NAMED_CHARACTER_4}Miembro del clan Barbas Largas
+{EMT_HUNGARY_NAMED_GENERAL_4}Miembro del clan Barbas Largas
+{EMT_HUNGARY_NAMED_CHARACTER_5}General de las Ered Luin
+{EMT_HUNGARY_NAMED_GENERAL_5}General de las Ered Luin
+{EMT_HUNGARY_NAMED_CHARACTER_6}Líder de los sombríos
+{EMT_HUNGARY_NAMED_GENERAL_6}Líder de los sombríos
+{EMT_NORWAY_NAMED_CHARACTER_6}Alto Señor Balin
+{EMT_NORWAY_NAMED_GENERAL_6}Alto Señor Balin
+{EMT_NORWAY_NAMED_CHARACTER_7}General de Khazad-dûm
+{EMT_NORWAY_NAMED_GENERAL_7}General de Khazad-dûm
+{EMT_NORWAY_NAMED_CHARACTER_5}Miembro del clan Barbas Largas
+{EMT_NORWAY_NAMED_GENERAL_5}Miembro del clan Barbas Largas
+{EMT_PORTUGAL_NAMED_GENERAL_3}Morholt de las colinas
+{EMT_PORTUGAL_NAMED_CHARACTER_3}Morholt de las colinas
+{EMT_PORTUGAL_NAMED_CHARACTER_4}Rey Brujo de Angmar
+{EMT_PORTUGAL_NAMED_GENERAL_4}Rey Brujo de Angmar
+{EMT_PORTUGAL_NAMED_CHARACTER_5}Agandaûr, teniente de Mordor
+{EMT_PORTUGAL_NAMED_GENERAL_5}Agandaûr, teniente de Mordor
+{EMT_PORTUGAL_NAMED_GENERAL_6}Drangu, jefe del monte Gram
+{EMT_PORTUGAL_NAMED_CHARACTER_6}Drangu, jefe del monte Gram
+{EMT_PORTUGAL_NAMED_CHARACTER_7}Hûnvorn el espectro
+{EMT_PORTUGAL_NAMED_GENERAL_7}Hûnvorn el espectro
+{EMT_VENICE_NAMED_CHARACTER_3}Miembro del clan Daritai
+{EMT_VENICE_NAMED_GENERAL_3}Miembro del clan Daritai
+{EMT_VENICE_NAMED_CHARACTER_4}Miembro del clan Arulad
+{EMT_VENICE_NAMED_GENERAL_4}Miembro del clan Arulad
+{EMT_VENICE_NAMED_CHARACTER_5}Miembro del clan Balchoth
+{EMT_VENICE_NAMED_GENERAL_5}Miembro del clan Balchoth
+{EMT_VENICE_NAMED_CHARACTER_6}Miembro del clan Khandish
+{EMT_VENICE_NAMED_GENERAL_6}Miembro del clan Khandish
+{EMT_ENGLAND_NAMED_CHARACTER_9}General haradrim
+{EMT_ENGLAND_NAMED_GENERAL_9}General haradrim
+{EMT_POLAND_NAMED_CHARACTER_8}Guardia sombría de Dol Guldur
+{EMT_POLAND_NAMED_GENERAL_8}Guardia sombría de Dol Guldur
+{EMT_GUNDABAD_NAMED_CHARACTER_3}Rey Mazog
+{EMT_GUNDABAD_NAMED_GENERAL_3}Rey Mazog
+{EMT_GUNDABAD_NAMED_CHARACTER_4}Heredero de Gundabad
+{EMT_GUNDABAD_NAMED_GENERAL_4}Heredero de Gundabad
+{EMT_GUNDABAD_NAMED_CHARACTER_5}General de Gundabad
+{EMT_GUNDABAD_NAMED_GENERAL_5}General de Gundabad
+{EMT_GUNDABAD_NAMED_CHARACTER_6}General de Gundabad
+{EMT_GUNDABAD_NAMED_GENERAL_6}General de Gundabad
+{EMT_GUNDABAD_NAMED_CHARACTER_7}General de Gundabad
+{EMT_GUNDABAD_NAMED_GENERAL_7}General de Gundabad
+{EMT_SPAIN_NAMED_CHARACTER_3}Señor Serpiente de Harad
+{EMT_SPAIN_NAMED_GENERAL_3}Señor Serpiente de Harad
+{EMT_TEUTONIC_ORDER_NAMED_CHARACTER_3}Warrior of Minhiriath
+{EMT_TEUTONIC_ORDER_NAMED_GENERAL_3}Guerrero de Minhiriath
+{EMT_TEUTONIC_ORDER_NAMED_CHARACTER_4}Guardian of Enedwaith
+{EMT_TEUTONIC_ORDER_NAMED_GENERAL_4}Guardián de Enedwaith
+{EMT_BYZANTIUM_NAMED_CHARACTER_4}Kugathi Nobleman
+{EMT_BYZANTIUM_NAMED_GENERAL_4}Kugathi Nobleman
+{EMT_SLAVE_NAMED_CHARACTER_7}Araña del Bosque Negro
+{EMT_SLAVE_NAMED_GENERAL_7}Araña del Bosque Negro
+{EMT_ENGLAND_NAMED_CHARACTER_10}Custodio del templo
+{EMT_ENGLAND_NAMED_GENERAL_10}Custodio del templo
+{EMT_SCOTLAND_NAMED_CHARACTER_3}Barón de Dale
+{EMT_SCOTLAND_NAMED_GENERAL_3}Barón de Dale
+{EMT_SCOTLAND_NAMED_CHARACTER_4}Príncipe de Dale
+{EMT_SCOTLAND_NAMED_GENERAL_4}Príncipe de Dale
+{EMT_SCOTLAND_NAMED_CHARACTER_6}Señor de Esgaroth
+{EMT_SCOTLAND_NAMED_GENERAL_6}Señor de Esgaroth
+{EMT_SCOTLAND_NAMED_GENERAL_5}Montaraz de Athala
+{EMT_SCOTLAND_NAMED_CHARACTER_5}Montaraz de Athala
+{EMT_BYZANTIUM_NAMED_CHARACTER_5}Avari Noble
+{EMT_BYZANTIUM_NAMED_GENERAL_5}Avari Noble
+{EMT_BYZANTIUM_NAMED_CHARACTER_6}Avarin Héruvi
+{EMT_BYZANTIUM_NAMED_GENERAL_6}Avarin Héruvi
+{EMT_BYZANTIUM_NAMED_CHARACTER_7}Vinefleet Captain
+{EMT_BYZANTIUM_NAMED_GENERAL_7}Vinefleet Captain
+{EMT_RUSSIA_NAMED_CHARACTER_4}Montaraz de Berúthiel
+{EMT_RUSSIA_NAMED_GENERAL_4}Montaraz de Berúthiel
+{EMT_MOORS_NAMED_CHARACTER_5}Miembro del clan Nalgudos
+{EMT_MOORS_NAMED_GENERAL_5}Miembro del clan Nalgudos
+{EMT_MOORS_NAMED_CHARACTER_6}Martilladores de Gundabad
+{EMT_MOORS_NAMED_GENERAL_6}Martilladores de Gundabad
+{EMT_SPAIN_NAMED_CHARACTER_4}Hasharii
+{EMT_SPAIN_NAMED_GENERAL_4}Hasharii
+{EMT_SPAIN_NAMED_CHARACTER_5}Hombre trol
+{EMT_SPAIN_NAMED_GENERAL_5}Hombre trol
+{EMT_HRE_NAMED_CHARACTER_5}Orco de montaña
+{EMT_HRE_NAMED_GENERAL_5}Orco de montaña
+{EMT_HRE_NAMED_CHARACTER_6}Tumulario
+{EMT_HRE_NAMED_GENERAL_6}Tumulario
+{EMT_PORTUGAL_NAMED_CHARACTER_8}General angmarino
+{EMT_PORTUGAL_NAMED_GENERAL_8}General angmarino
+
+
+
+
+
+
+¬ Generated by localisation spreadsheet
+{EMT_SICILY_NAMED_CHARACTER_3}Miembro de familia gondoriana
+{EMT_SICILY_NAMED_CHARACTER_4}Miembro de familia gondoriana
+{TIMURIDS}Valle del Anduin
+{VENICE}Orientales de Rhûn
+{KHAND}Variags de Khand
+{SICILY}Reino de Gondor
+{MILAN}Reino de Rohan
+{PAPAL_STATES}Señor Oscuro de Mordor
+{DENMARK}Principado de Dol Amroth
+{SCOTLAND}Reino de Dale
+{AZTECS}Dunlendinos
+{MONGOLS}Reino del Bosque Negro
+{TURKS}Montaraces del Norte
+{FRANCE}Dominio de Isengard
+{HRE}Trasgos de Moria
+{ENGLAND}Mordor
+{TEUTONIC_ORDER}Clanes de Enedwaith
+{NORWAY}Balin's Expedition
+{IRELAND}Reino de Lothlórien
+{PORTUGAL}Reino brujo de Angmar
+{POLAND}Dol Guldur
+{BYZANTIUM}Dorwinion
+{MOORS}Enanos de Erebor
+{RUSSIA}Ar-Adûnâim
+{SPAIN}Tribus haradrim
+{HUNGARY}Enanos de las Ered Luin
+{SCRIPTS}Spawning Pool
+{SLAVE}Reinos Independientes
+{SAXONS}Altos Elfos
+{NORMANS}Bree
+{GUNDABAD}Orcos de Gundabad
+{UNITED}Reino Reunido
+{GONDOR}Gondor
+{SOUTHERN_EUROPEAN}Enanos
+{NORTHERN_EUROPEAN}Hombres del norte
+{MESOAMERICAN}Hombres medios
+{GREEK}Elfos
+{EASTERN_EUROPEAN}Orcos
+{MIDDLE_EASTERN}Hombres del este
+{EMT_VENICE_SPY}Explorador oriental
+{EMT_VENICE_ASSASSIN}Asesino oriental
+{EMT_VENICE_DIPLOMAT}Diplomático oriental
+{EMT_VENICE_ADMIRAL}Armada oriental
+{EMT_VENICE_GENERAL}Ejército oriental
+{EMT_VENICE_NAMED_CHARACTER}Miembro de familia oriental
+{EMT_VENICE_NAMED_GENERAL}General oriental
+{EMT_VENICE_PRINCESS}Princesa oriental
+{EMT_VENICE_MERCHANT_1}Visión
+{EMT_VENICE_MERCHANT}Mercander oriental
+{EMT_VENICE_PRIEST}Sacerdote oriental
+{EMT_VENICE_PRIEST_1}Obispo oriental
+{EMT_VENICE_PRIEST_2}Cardenal oriental
+{EMT_SICILY_SPY}Espía gondoriano
+{EMT_SICILY_ASSASSIN}Asesino gondoriano
+{EMT_SICILY_DIPLOMAT}Diplomático gondoriano
+{EMT_SICILY_ADMIRAL}Armada gondoriana
+{EMT_SICILY_GENERAL}Ejército gondoriano
+{EMT_SICILY_NAMED_CHARACTER}Miembro de familia gondoriana
+{EMT_SICILY_PRINCESS}Princesa gondoriana
+{EMT_SICILY_MERCHANT_1}Visión
+{EMT_SICILY_MERCHANT}Mercander gondoriano
+{EMT_SICILY_PRIEST}Sacerdote gondoriano
+{EMT_SICILY_PRIEST_1}Obispo gondoriano
+{EMT_SICILY_PRIEST_2}Cardenal gondoriano
+{EMT_MILAN_SPY}Espía rohírrico
+{EMT_MILAN_ASSASSIN}Asesino rohírrico
+{EMT_MILAN_DIPLOMAT}Diplomático rohírrico
+{EMT_MILAN_ADMIRAL}Armada rohírrica
+{EMT_MILAN_GENERAL}Ejército rohírrico
+{EMT_MILAN_NAMED_CHARACTER_3}Miembro de familia rohírrica
+{EMT_MILAN_NAMED_CHARACTER}Miembro de familia rohírrica
+{EMT_MILAN_NAMED_GENERAL}General rohírrico
+{EMT_MILAN_PRINCESS}Princesa rohírrica
+{EMT_MILAN_MERCHANT}Mercander rohírrico
+{EMT_MILAN_PRIEST}Sacerdote rohírrico
+{EMT_MILAN_PRIEST_1}Obispo rohírrico
+{EMT_MILAN_PRIEST_2}Cardenal rohírrico
+{EMT_PAPAL_STATES_SPY}Espía de Sauron
+{EMT_PAPAL_STATES_ASSASSIN}Asesino de Sauron
+{EMT_PAPAL_STATES_DIPLOMAT}Diplomático de Sauron
+{EMT_PAPAL_STATES_ADMIRAL}Armada de Sauron
+{EMT_PAPAL_STATES_GENERAL}Ejército de Sauron
+{EMT_PAPAL_STATES_NAMED_CHARACTER}Miembro de familia de Sauron
+{EMT_PAPAL_STATES_NAMED_GENERAL}General de Sauron
+{EMT_PAPAL_STATES_PRINCESS}Princesa de Sauron
+{EMT_PAPAL_STATES_MERCHANT}Mercander de Sauron
+{EMT_PAPAL_STATES_PRIEST}Sacerdote de Sauron
+{EMT_PAPAL_STATES_PRIEST_1}Obispo de Sauron
+{EMT_PAPAL_STATES_PRIEST_2}Cardenal de Sauron
+{EMT_DENMARK_SPY}Espía amrothiano
+{EMT_DENMARK_ASSASSIN}Asesino amrothiano
+{EMT_DENMARK_DIPLOMAT}Diplomático amrothiano
+{EMT_DENMARK_ADMIRAL}Armada amrothiana
+{EMT_DENMARK_GENERAL}Ejército amrothiano
+{EMT_DENMARK_NAMED_CHARACTER}Miembro de familia amrothiana
+{EMT_DENMARK_NAMED_GENERAL}General amrothiano
+{EMT_DENMARK_PRINCESS}Princesa amrothiana
+{EMT_DENMARK_MERCHANT}Mercander amrothiano
+{EMT_DENMARK_PRIEST}Sacerdote amrothiano
+{EMT_DENMARK_PRIEST_1}Obispo amrothiano
+{EMT_DENMARK_PRIEST_2}Cardenal amrothiano
+{EMT_SCOTLAND_SPY}Espía daliano
+{EMT_SCOTLAND_ASSASSIN}Asesino daliano
+{EMT_SCOTLAND_DIPLOMAT}Diplomático daliano
+{EMT_SCOTLAND_ADMIRAL}Armada daliana
+{EMT_SCOTLAND_GENERAL}Ejército daliano
+{EMT_SCOTLAND_NAMED_CHARACTER}Miembro de familia daliana
+{EMT_SCOTLAND_NAMED_GENERAL}General daliano
+{EMT_SCOTLAND_PRINCESS}Princesa daliana
+{EMT_SCOTLAND_MERCHANT}Mercander daliano
+{EMT_SCOTLAND_PRIEST}Sacerdote daliano
+{EMT_SCOTLAND_PRIEST_1}Obispo daliano
+{EMT_SCOTLAND_PRIEST_2}Cardenal daliano
+{EMT_AZTECS_SPY}Espía dunledino
+{EMT_AZTECS_ASSASSIN}Asesino dunledino
+{EMT_AZTECS_DIPLOMAT}Diplomático dunledino
+{EMT_AZTECS_ADMIRAL}Armada dunledina
+{EMT_AZTECS_GENERAL}Ejército dunledino
+{EMT_AZTECS_NAMED_CHARACTER}Miembro de familia dunledina
+{EMT_AZTECS_NAMED_GENERAL}General dunledino
+{EMT_AZTECS_NAMED_CHARACTER_4}Dunforgoil Warlord
+{EMT_AZTECS_NAMED_GENERAL_4}Dunforgoil Warlord
+{EMT_AZTECS_NAMED_CHARACTER_5}Frekkalingir Noble
+{EMT_AZTECS_NAMED_GENERAL_5}Frekkalingir Noble
+{EMT_AZTECS_NAMED_CHARACTER_6}Isendraich Councillor
+{EMT_AZTECS_NAMED_GENERAL_6}Isendraich Councillor
+{EMT_AZTECS_PRINCESS}Princesa dunledina
+{EMT_AZTECS_MERCHANT}Mercander dunledino
+{EMT_AZTECS_PRIEST}Sacerdote dunledino
+{EMT_AZTECS_PRIEST_1}Obispo dunledino
+{EMT_AZTECS_PRIEST_2}Cardenal dunledino
+{EMT_MONGOLS_SPY}Explorador del reino del Bosque Negro
+{EMT_MONGOLS_ASSASSIN}Asesino del reino del Bosque Negro
+{EMT_MONGOLS_DIPLOMAT}Diplomático del reino del Bosque Negro
+{EMT_MONGOLS_ADMIRAL}Armada del reino del Bosque Negro
+{EMT_MONGOLS_GENERAL}Ejército del reino del Bosque Negro
+{EMT_MONGOLS_NAMED_CHARACTER_3}Miembro de familia del reino del Bosque Negro
+{EMT_MONGOLS_NAMED_CHARACTER_4}Miembro de familia del reino del Bosque Negro
+{EMT_MONGOLS_NAMED_CHARACTER}Miembro de familia del reino del Bosque Negro
+{EMT_MONGOLS_NAMED_GENERAL}General del reino del Bosque Negro
+{EMT_MONGOLS_PRINCESS}Princesa del reino del Bosque Negro
+{EMT_MONGOLS_MERCHANT}Mercander del reino del Bosque Negro
+{EMT_MONGOLS_PRIEST}Imam del reino del Bosque Negro
+{EMT_MONGOLS_PRIEST_1}Obispo del reino del Bosque Negro
+{EMT_MONGOLS_PRIEST_2}Cardenal del reino del Bosque Negro
+{EMT_TIMURIDS_SPY}Espía del valle del Anduin
+{EMT_TIMURIDS_ASSASSIN}Asesino del valle del Anduin
+{EMT_TIMURIDS_DIPLOMAT}Diplomático del valle del Anduin
+{EMT_TIMURIDS_DIPLOMAT_2}Diplomático del valle del Anduin
+{EMT_TIMURIDS_DIPLOMAT_3}Diplomático del valle del Anduin
+{EMT_TIMURIDS_ADMIRAL}Armada del valle del Anduin
+{EMT_TIMURIDS_GENERAL}Ejército del valle del Anduin
+{EMT_TIMURIDS_NAMED_CHARACTER}General del valle del Anduin
+{EMT_TIMURIDS_NAMED_GENERAL}General del valle del Anduin
+{EMT_TIMURIDS_PRINCESS}Princesa del valle del Anduin
+{EMT_TIMURIDS_MERCHANT}Mercader del valle del Anduin
+{EMT_TIMURIDS_PRIEST}Imam del valle del Anduin
+{EMT_TIMURIDS_PRIEST_1}Obispo del valle del Anduin
+{EMT_TIMURIDS_PRIEST_2}Cardenal del valle del Anduin
+{EMT_TURKS_SPY_1}Espía dúnedain
+{EMT_TURKS_SPY_2}Espía dúnedain
+{EMT_TURKS_SPY_3}Espía dúnedain
+{EMT_TURKS_SPY}Espía dúnedain
+{EMT_TURKS_ASSASSIN_1}Espía dúnedain
+{EMT_TURKS_ASSASSIN_2}Espía dúnedain
+{EMT_TURKS_ASSASSIN_3}Espía dúnedain
+{EMT_TURKS_ASSASSIN}Asesino dúnedain
+{EMT_TURKS_DIPLOMAT_1}Diplomático dúnedain
+{EMT_TURKS_DIPLOMAT_2}Diplomático dúnedain
+{EMT_TURKS_DIPLOMAT_3}Diplomático dúnedain
+{EMT_TURKS_DIPLOMAT}Diplomático dúnedain
+{EMT_TURKS_ADMIRAL}Armada dúnedain
+
+{EMT_TURKS_NAMED_GENERAL}General dúnedain
+{EMT_TURKS_PRINCESS}Princesa dúnedain
+{EMT_TURKS_MERCHANT}Mercander dúnedain
+{EMT_TURKS_PRIEST}Imam dúnedain
+{EMT_TURKS_PRIEST_1}Gran imam dúnedain
+{EMT_TURKS_PRIEST_2}Magnífico imam dúnedain
+{EMT_FRANCE_SPY}Explorador de Isengard
+{EMT_FRANCE_ASSASSIN}Asesino de Isengard
+{EMT_FRANCE_DIPLOMAT_1}Isengard Emissary
+{EMT_FRANCE_DIPLOMAT_2}Isengard Emissary
+{EMT_FRANCE_DIPLOMAT_3}Isengard Emissary
+{EMT_FRANCE_DIPLOMAT}Isengard Emissary
+{EMT_FRANCE_ADMIRAL}Armada de Isengard
+{EMT_FRANCE_GENERAL}Ejército de Isengard
+{EMT_FRANCE_NAMED_CHARACTER_3}General de Isengard
+{EMT_FRANCE_NAMED_CHARACTER_4}General de Isengard
+{EMT_FRANCE_NAMED_CHARACTER_5}General de Isengard
+{EMT_FRANCE_NAMED_CHARACTER}General de Isengard
+{EMT_FRANCE_NAMED_GENERAL}General de Isengard
+{EMT_FRANCE_PRINCESS}Princesa de Isengard
+{EMT_FRANCE_MERCHANT}Mercander de Isengard
+{EMT_FRANCE_PRIEST}Sacerdote de Isengard
+{EMT_FRANCE_PRIEST_1}Obispo de Isengard
+{EMT_FRANCE_PRIEST_2}Cardenal de Isengard
+{EMT_HRE_SPY}Explorador trasgo
+{EMT_HRE_ASSASSIN}Asesino trasgo
+{EMT_HRE_DIPLOMAT}Goblin Emissary
+{EMT_HRE_ADMIRAL}Armada trasgo
+{EMT_HRE_GENERAL}Ejército trasgo
+{EMT_HRE_NAMED_CHARACTER_3}General trasgo
+{EMT_HRE_NAMED_CHARACTER}General trasgo
+{EMT_HRE_NAMED_GENERAL}General trasgo
+{EMT_HRE_PRINCESS}Princesa trasgo
+{EMT_HRE_MERCHANT}Mercander trasgo
+{EMT_HRE_PRIEST}Sacerdote trasgo
+{EMT_HRE_PRIEST_1}Obispo trasgo
+{EMT_HRE_PRIEST_2}Cardenal trasgo
+{EMT_ENGLAND_SPY}Explorador de Mordor
+{EMT_ENGLAND_ASSASSIN}Asesino de Mordor
+{EMT_ENGLAND_DIPLOMAT_1}Mordor Emissary
+{EMT_ENGLAND_DIPLOMAT_2}Mordor Emissary
+{EMT_ENGLAND_DIPLOMAT_3}Mordor Emissary
+{EMT_ENGLAND_DIPLOMAT}Mordor Emissary
+{EMT_ENGLAND_ADMIRAL}Armada de Mordor
+{EMT_ENGLAND_GENERAL}Ejército de Mordor
+{EMT_ENGLAND_NAMED_CHARACTER_3}General de Mordor
+{EMT_ENGLAND_NAMED_CHARACTER_4}General de Mordor
+{EMT_ENGLAND_NAMED_CHARACTER_5}General de Mordor
+{EMT_ENGLAND_NAMED_CHARACTER_6}General de Mordor
+{EMT_ENGLAND_NAMED_CHARACTER}General de Mordor
+{EMT_ENGLAND_NAMED_GENERAL}General de Mordor
+{EMT_ENGLAND_PRINCESS}Princesa de Mordor
+{EMT_ENGLAND_MERCHANT}Mercander de Mordor
+{EMT_ENGLAND_PRIEST}Sacerdote de Mordor
+{EMT_ENGLAND_PRIEST_1}Obispo de Mordor
+{EMT_ENGLAND_PRIEST_2}Cardenal de Mordor
+{EMT_TEUTONIC_ORDER_SPY}Explorador de Enedwaith
+{EMT_TEUTONIC_ORDER_ASSASSIN}Asesino de Enedwaith
+{EMT_TEUTONIC_ORDER_DIPLOMAT}Diplomático de Enedwaith
+{EMT_TEUTONIC_ORDER_ADMIRAL}Armada de Enedwaith
+{EMT_TEUTONIC_ORDER_GENERAL}Ejército de Enedwaith
+{EMT_TEUTONIC_ORDER_NAMED_CHARACTER_3}General de Enedwaith
+{EMT_TEUTONIC_ORDER_NAMED_CHARACTER_4}General de Enedwaith
+{EMT_TEUTONIC_ORDER_NAMED_CHARACTER_5}General de Enedwaith
+{EMT_TEUTONIC_ORDER_NAMED_CHARACTER}General de Enedwaith
+{EMT_TEUTONIC_ORDER_NAMED_GENERAL}General de Enedwaith
+{EMT_TEUTONIC_ORDER_PRINCESS}Princesa de Enedwaith
+{EMT_TEUTONIC_ORDER_MERCHANT}Mercander de Enedwaith
+{EMT_TEUTONIC_ORDER_PRIEST}Sacerdote de Enedwaith
+{EMT_TEUTONIC_ORDER_PRIEST_1}Obispo de Enedwaith
+{EMT_TEUTONIC_ORDER_PRIEST_2}Cardenal de Enedwaith
+{EMT_IRELAND_ADMIRAL}Armada de Lórien
+{EMT_IRELAND_ASSASSIN}Asesino de Lórien
+{EMT_IRELAND_CAPITAL}Capital de Lórien
+{EMT_IRELAND_CASTLE}Castillo de Lórien
+{EMT_IRELAND_CITY}Ciudad de Lórien
+{EMT_IRELAND_DIPLOMAT}Diplomático de Lórien
+{EMT_IRELAND_DOCK}Embarcaderos de Lórien
+{EMT_IRELAND_FACTION_HEIR_NAME}Alto Mariscal %S
+{EMT_IRELAND_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_IRELAND_FACTION_HEIR}Heredero de facción de Lórien
+{EMT_IRELAND_FACTION_LEADER_NAME}Señor %S
+{EMT_IRELAND_FACTION_LEADER_TITLE}Líder de facción
+{EMT_IRELAND_FACTION_LEADER}Líder de Lórien
+{EMT_IRELAND_FISHING_VILLAGE}Aldea pesquera de Lórien
+{EMT_IRELAND_FORMER_FACTION_LEADER_TITLE}Líder de Lórien
+{EMT_IRELAND_FORT}Fuerte de Lórien
+{EMT_IRELAND_FORTRESS}Ciudadela de Lórien
+{EMT_IRELAND_GENERAL}Ejército de Lórien
+{EMT_IRELAND_HUGE_CITY}Ciudad enorme de Lórien
+{EMT_IRELAND_LARGE_CASTLE}Fortaleza de Lórien
+{EMT_IRELAND_LARGE_CITY}Ciudad grande de Lórien
+{EMT_IRELAND_LARGE_TOWN}Pueblo grande de Lórien
+{EMT_IRELAND_MERCHANT}Mercander de Lórien
+{EMT_IRELAND_NAMED_CHARACTER}Miembro de familia de Lórien
+{EMT_IRELAND_NAMED_GENERAL}General de Lórien
+{EMT_IRELAND_PORT}Puerto de Lórien
+{EMT_IRELAND_PRIEST_1}Obispo de Lórien
+{EMT_IRELAND_PRIEST_2}Cardenal de Lórien
+{EMT_IRELAND_PRIEST}Sacerdote de Lórien
+{EMT_IRELAND_PRINCESS}Princesa de Lórien
+{EMT_IRELAND_SPY}Espía de Lórien
+{EMT_IRELAND_STAR_FORT}Fortaleza estrella de Lórien
+{EMT_IRELAND_STONE_KEEP}Castillo de madera de Lórien
+{EMT_IRELAND_TOWN}Pueblo de Lórien
+{EMT_IRELAND_VILLAGE}Aldea de Lórien
+{EMT_IRELAND_WATCHTOWER}Atalaya de Lórien
+{EMT_IRELAND_WOODEN_CASTLE}Mota y liza de Lórien
+{EMT_PORTUGAL_SPY}Espía angmarino
+{EMT_PORTUGAL_ASSASSIN}Asesino angmarino
+{EMT_PORTUGAL_DIPLOMAT}Diplomático angmarino
+{EMT_PORTUGAL_ADMIRAL}Armada angmarina
+{EMT_PORTUGAL_GENERAL}Ejército angmarino
+{EMT_PORTUGAL_NAMED_CHARACTER}General angmarino
+{EMT_PORTUGAL_NAMED_GENERAL}General angmarino
+{EMT_PORTUGAL_PRINCESS}Princesa angmarina
+{EMT_PORTUGAL_MERCHANT}Mercander angmarino
+{EMT_PORTUGAL_PRIEST}Sacerdote angmarino
+{EMT_PORTUGAL_PRIEST_1}Obispo angmarino
+{EMT_PORTUGAL_PRIEST_2}Cardenal angmarino
+{EMT_POLAND_SPY}Espía de Dol Guldur
+{EMT_POLAND_ASSASSIN}Asesino de Dol Guldur
+{EMT_POLAND_DIPLOMAT}Dol Guldur Emissary
+{EMT_POLAND_ADMIRAL}Armada de Dol Guldur
+{EMT_POLAND_GENERAL}Ejército de Dol Guldur
+{EMT_POLAND_NAMED_CHARACTER}Miembro de familia de Dol Guldur
+{EMT_POLAND_NAMED_GENERAL}General de Dol Guldur
+{EMT_POLAND_NAMED_CHARACTER_3}General de Dol Guldur
+{EMT_POLAND_PRINCESS}Princesa de Dol Guldur
+{EMT_POLAND_MERCHANT}Mercander de Dol Guldur
+{EMT_POLAND_PRIEST}Sacerdote de Dol Guldur
+{EMT_POLAND_PRIEST_1}Obispo de Dol Guldur
+{EMT_POLAND_PRIEST_2}Cardenal de Dol Guldur
+{EMT_BYZANTIUM_SPY}Espía de Dorwinion
+{EMT_BYZANTIUM_ASSASSIN}Asesino de Dorwinion
+{EMT_BYZANTIUM_DIPLOMAT}Diplomático de Dorwinion
+{EMT_BYZANTIUM_ADMIRAL}Armada de Dorwinion
+{EMT_BYZANTIUM_GENERAL}Ejército de Dorwinion
+{EMT_BYZANTIUM_NAMED_CHARACTER}Miembro de familia de Dorwinion
+{EMT_BYZANTIUM_NAMED_GENERAL}General de Dorwinion
+{EMT_BYZANTIUM_PRINCESS}Princesa de Dorwinion
+{EMT_BYZANTIUM_MERCHANT}Mercander de Dorwinion
+{EMT_BYZANTIUM_PRIEST}Sacerdote de Dorwinion
+{EMT_BYZANTIUM_PRIEST_1}Obispo de Dorwinion
+{EMT_BYZANTIUM_PRIEST_2}Cardenal de Dorwinion
+{EMT_MOORS_SPY}Espía enano
+{EMT_MOORS_ASSASSIN}Asesino enano
+{EMT_MOORS_DIPLOMAT}Diplomático enano
+{EMT_MOORS_ADMIRAL}Armada enana
+{EMT_MOORS_GENERAL}Ejército enano
+{EMT_MOORS_NAMED_CHARACTER_3}Miembro de familia enana
+{EMT_MOORS_NAMED_CHARACTER}Miembro de familia enana
+{EMT_MOORS_NAMED_GENERAL}General enano
+{EMT_MOORS_PRINCESS}Princesa enana
+{EMT_MOORS_MERCHANT}Mercander enano
+{EMT_MOORS_PRIEST}Imam enano
+{EMT_MOORS_PRIEST_1}Gran imam enano
+{EMT_MOORS_PRIEST_2}Magnífico imam enano
+{EMT_RUSSIA_SPY}Espía adûnâim
+{EMT_RUSSIA_ASSASSIN}Asesino adûnâim
+{EMT_RUSSIA_DIPLOMAT}Diplomático adûnâim
+{EMT_RUSSIA_ADMIRAL}Armada adûnâim
+{EMT_RUSSIA_GENERAL}Ejército adûnâim
+{EMT_RUSSIA_NAMED_CHARACTER}Miembro de familia adûnâim
+{EMT_RUSSIA_NAMED_GENERAL}General adûnâim
+{EMT_RUSSIA_PRINCESS}Princesa adûnâim
+{EMT_RUSSIA_MERCHANT}Mercander adûnâim
+{EMT_RUSSIA_PRIEST}Sacerdote adûnâim
+{EMT_RUSSIA_PRIEST_1}Obispo adûnâim
+{EMT_RUSSIA_PRIEST_2}Cardenal adûnâim
+{EMT_SPAIN_SPY}Explorador haradrim
+{EMT_SPAIN_ASSASSIN}Hasharii Assassin
+{EMT_SPAIN_DIPLOMAT}Diplomático haradrim
+{EMT_SPAIN_ADMIRAL}Armada haradrim
+{EMT_SPAIN_GENERAL}Ejército haradrim
+{EMT_SPAIN_NAMED_CHARACTER}Miembro de familia haradrim
+{EMT_SPAIN_NAMED_GENERAL}General haradrim
+{EMT_SPAIN_PRINCESS}Princesa haradrim
+{EMT_SPAIN_MERCHANT}Mercander haradrim
+{EMT_SPAIN_PRIEST}Sacerdote haradrim
+{EMT_SPAIN_PRIEST_1}Obispo haradrim
+{EMT_SPAIN_PRIEST_2}Cardenal haradrim
+{EMT_HUNGARY_SPY}Espía de las Ered Luin
+{EMT_HUNGARY_ASSASSIN}Asesino de las Ered Luin
+{EMT_HUNGARY_DIPLOMAT}Diplomático de las Ered Luin
+{EMT_HUNGARY_ADMIRAL}Armada de las Ered Luin
+{EMT_HUNGARY_GENERAL}Ejército de las Ered Luin
+{EMT_HUNGARY_PRINCESS}Princesa de las Ered Luin
+{EMT_HUNGARY_MERCHANT}Mercander de las Ered Luin
+{EMT_HUNGARY_PRIEST}Sacerdote de las Ered Luin
+{EMT_HUNGARY_PRIEST_1}Obispo de las Ered Luin
+{EMT_HUNGARY_PRIEST_2}Cardenal de las Ered Luin
+{EMT_HERETIC}Gríma Lengua de Serpiente
+{EMT_WITCH_1}Nota
+{EMT_WITCH_2}Nota
+{EMT_WITCH_3}Nota
+{EMT_WITCH}Misión
+{EMT_INQUISITOR}Sirviente de Sauron
+{EMT_INQUISITOR_1}Selector de vista de Palantír
+{EMT_SOUTHERN_EUROPEAN_PRIEST}Sacerdote
+{EMT_NORTHERN_EUROPEAN_PRIEST}Sacerdote
+{EMT_MESOAMERICAN_PRIEST}Sacerdote
+{EMT_GREEK_PRIEST}Sacerdote
+{EMT_EASTERN_EUROPEAN_PRIEST}Sacerdote
+{EMT_MIDDLE_EASTERN_PRIEST}Imam
+{EMT_SOUTHERN_EUROPEAN_PRIEST_1}Obispo
+{EMT_NORTHERN_EUROPEAN_PRIEST_1}Obispo
+{EMT_MESOAMERICAN_PRIEST_1}Obispo
+{EMT_GREEK_PRIEST_1}Obispo
+{EMT_EASTERN_EUROPEAN_PRIEST_1}Obispo
+{EMT_MIDDLE_EASTERN_PRIEST_1}Gran imam
+{EMT_SOUTHERN_EUROPEAN_PRIEST_2}Cardenal
+{EMT_NORTHERN_EUROPEAN_PRIEST_2}Cardenal
+{EMT_MESOAMERICAN_PRIEST_2}Cardenal
+{EMT_GREEK_PRIEST_2}Cardenal
+{EMT_EASTERN_EUROPEAN_PRIEST_2}Cardenal
+{EMT_MIDDLE_EASTERN_PRIEST_2}Magnífico Imam
+{EMT_SLAVE_SPY}Espía independiente
+{EMT_SLAVE_ASSASSIN}Asesino independiente
+{EMT_SLAVE_DIPLOMAT}Diplomático independiente
+{EMT_SLAVE_ADMIRAL}Armada independiente
+{EMT_SLAVE_GENERAL}Ejército independiente
+{EMT_SLAVE_NAMED_CHARACTER_3}Miembro de familia independiente
+{EMT_SLAVE_NAMED_GENERAL_3}Capitán rebelde
+{EMT_SLAVE_NAMED_CHARACTER}Miembro de familia independiente
+{EMT_SLAVE_NAMED_GENERAL}General independiente
+{EMT_VENICE_VILLAGE}Aldea oriental
+{EMT_VENICE_TOWN}Pueblo oriental
+{EMT_VENICE_LARGE_TOWN}Pueblo grande oriental
+{EMT_VENICE_CITY}Ciudad oriental
+{EMT_VENICE_LARGE_CITY}Ciudad grande oriental
+{EMT_VENICE_HUGE_CITY}Ciudad enorme oriental
+{EMT_SICILY_VILLAGE}Aldea gondoriana
+{EMT_SICILY_TOWN}Pueblo gondoriano
+{EMT_SICILY_LARGE_TOWN}Pueblo grande gondoriano
+{EMT_SICILY_CITY}Ciudad gondoriana
+{EMT_SICILY_LARGE_CITY}Ciudad grande gondoriana
+{EMT_SICILY_HUGE_CITY}Ciudad enorme gondoriana
+{EMT_MILAN_VILLAGE}Aldea rohírrica
+{EMT_MILAN_TOWN}Pueblo rohírrico
+{EMT_MILAN_LARGE_TOWN}Pueblo grande rohírrico
+{EMT_MILAN_CITY}Ciudad rohírrica
+{EMT_MILAN_LARGE_CITY}Ciudad grande rohírrica
+{EMT_MILAN_HUGE_CITY}Ciudad enorme rohírrica
+{EMT_PAPAL_STATES_VILLAGE}Aldea de Sauron
+{EMT_PAPAL_STATES_TOWN}Pueblo de Sauron
+{EMT_PAPAL_STATES_LARGE_TOWN}Pueblo grande de Sauron
+{EMT_PAPAL_STATES_CITY}Ciudad de Sauron
+{EMT_PAPAL_STATES_LARGE_CITY}Ciudad grande de Sauron
+{EMT_PAPAL_STATES_HUGE_CITY}Ciudad enorme de Sauron
+{EMT_DENMARK_VILLAGE}Aldea amrothiana
+{EMT_DENMARK_TOWN}Pueblo amrothiano
+{EMT_DENMARK_LARGE_TOWN}Pueblo grande amrothiano
+{EMT_DENMARK_CITY}Ciudad amrothiana
+{EMT_DENMARK_LARGE_CITY}Ciudad grande amrothiana
+{EMT_DENMARK_HUGE_CITY}Ciudad enorme amrothiana
+{EMT_SCOTLAND_VILLAGE}Aldea daliana
+{EMT_SCOTLAND_TOWN}Pueblo daliano
+{EMT_SCOTLAND_LARGE_TOWN}Pueblo grande daliano
+{EMT_SCOTLAND_CITY}Ciudad daliana
+{EMT_SCOTLAND_LARGE_CITY}Ciudad grande daliana
+{EMT_SCOTLAND_HUGE_CITY}Ciudad enorme daliana
+{EMT_AZTECS_VILLAGE}Aldea dunledina
+{EMT_AZTECS_TOWN}Pueblo dunledino
+{EMT_AZTECS_LARGE_TOWN}Pueblo grande dunledino
+{EMT_AZTECS_CITY}Ciudad dunledina
+{EMT_AZTECS_LARGE_CITY}Ciudad grande dunledina
+{EMT_AZTECS_HUGE_CITY}Ciudad enorme dunledina
+{EMT_MONGOLS_VILLAGE}Aldea del reino del Bosque Negro
+{EMT_MONGOLS_TOWN}Pueblo del reino del Bosque Negro
+{EMT_MONGOLS_LARGE_TOWN}Pueblo grande del reino del Bosque Negro
+{EMT_MONGOLS_CITY}Ciudad del reino del Bosque Negro
+{EMT_MONGOLS_LARGE_CITY}Ciudad grande del reino del Bosque Negro
+{EMT_MONGOLS_HUGE_CITY}Ciudad enorme del reino del Bosque Negro
+{EMT_TIMURIDS_VILLAGE}Aldea del valle del Anduin
+{EMT_TIMURIDS_TOWN}Pueblo del valle del Anduin
+{EMT_TIMURIDS_LARGE_TOWN}Pueblo grande del valle del Anduin
+{EMT_TIMURIDS_CITY}Ciudad del valle del Anduin
+{EMT_TIMURIDS_LARGE_CITY}Ciudad grande del valle del Anduin
+{EMT_TIMURIDS_HUGE_CITY}Ciudad enorme del valle del Anduin
+{EMT_TURKS_VILLAGE}Aldea dúnedain
+{EMT_TURKS_TOWN}Pueblo dúnedain
+{EMT_TURKS_LARGE_TOWN}Pueblo grande dúnedain
+{EMT_TURKS_CITY}Ciudad dúnedain
+{EMT_TURKS_LARGE_CITY}Ciudad grande dúnedain
+{EMT_TURKS_HUGE_CITY}Ciudad enorme dúnedain
+{EMT_FRANCE_VILLAGE}Aldea de Isengard
+{EMT_FRANCE_TOWN}Pueblo de Isengard
+{EMT_FRANCE_LARGE_TOWN}Pueblo grande de Isengard
+{EMT_FRANCE_CITY}Ciudad de Isengard
+{EMT_FRANCE_LARGE_CITY}Ciudad grande de Isengard
+{EMT_FRANCE_HUGE_CITY}Ciudad enorme de Isengard
+{EMT_HRE_VILLAGE}Aldea trasgo
+{EMT_HRE_TOWN}Pueblo trasgo
+{EMT_HRE_LARGE_TOWN}Pueblo grande trasgo
+{EMT_HRE_CITY}Ciudad trasgo
+{EMT_HRE_LARGE_CITY}Ciudad grande trasgo
+{EMT_HRE_HUGE_CITY}Ciudad enorme trasgo
+{EMT_ENGLAND_VILLAGE}Aldea de Mordor
+{EMT_ENGLAND_TOWN}Pueblo de Mordor
+{EMT_ENGLAND_LARGE_TOWN}Pueblo grande de Mordor
+{EMT_ENGLAND_CITY}Ciudad de Mordor
+{EMT_ENGLAND_LARGE_CITY}Ciudad grande de Mordor
+{EMT_ENGLAND_HUGE_CITY}Ciudad enorme de Mordor
+{EMT_TEUTONIC_ORDER_VILLAGE}Aldea de Enedwaith
+{EMT_TEUTONIC_ORDER_TOWN}Pueblo de Enedwaith
+{EMT_TEUTONIC_ORDER_LARGE_TOWN}Pueblo grande de Enedwaith
+{EMT_TEUTONIC_ORDER_CITY}Ciudad de Enedwaith
+{EMT_TEUTONIC_ORDER_LARGE_CITY}Ciudad grande de Enedwaith
+{EMT_TEUTONIC_ORDER_HUGE_CITY}Ciudad enorme de Enedwaith
+{EMT_PORTUGAL_VILLAGE}Aldea angmarina
+{EMT_PORTUGAL_TOWN}Pueblo angmarino
+{EMT_PORTUGAL_LARGE_TOWN}Pueblo grande angmarino
+{EMT_PORTUGAL_CITY}Ciudad angmarina
+{EMT_PORTUGAL_LARGE_CITY}Ciudad grande angmarina
+{EMT_PORTUGAL_HUGE_CITY}Ciudad enorme angmarina
+{EMT_POLAND_VILLAGE}Aldea de Dol Guldur
+{EMT_POLAND_TOWN}Pueblo de Dol Guldur
+{EMT_POLAND_LARGE_TOWN}Pueblo grande de Dol Guldur
+{EMT_POLAND_CITY}Ciudad de Dol Guldur
+{EMT_POLAND_LARGE_CITY}Ciudad grande de Dol Guldur
+{EMT_POLAND_HUGE_CITY}Ciudad enorme de Dol Guldur
+{EMT_BYZANTIUM_VILLAGE}Aldea de Dorwinion
+{EMT_BYZANTIUM_TOWN}Pueblo de Dorwinion
+{EMT_BYZANTIUM_LARGE_TOWN}Pueblo grande de Dorwinion
+{EMT_BYZANTIUM_CITY}Ciudad de Dorwinion
+{EMT_BYZANTIUM_LARGE_CITY}Ciudad grande de Dorwinion
+{EMT_BYZANTIUM_HUGE_CITY}Ciudad enorme de Dorwinion
+{EMT_MOORS_VILLAGE}Aldea enana
+{EMT_MOORS_TOWN}Pueblo enano
+{EMT_MOORS_LARGE_TOWN}Pueblo grande enano
+{EMT_MOORS_CITY}Ciudad enana
+{EMT_MOORS_LARGE_CITY}Ciudad grande enana
+{EMT_MOORS_HUGE_CITY}Ciudad enorme enana
+{EMT_RUSSIA_VILLAGE}Aldea adûnâim
+{EMT_RUSSIA_TOWN}Pueblo adûnâim
+{EMT_RUSSIA_LARGE_TOWN}Pueblo grande adûnâim
+{EMT_RUSSIA_CITY}Ciudad adûnâim
+{EMT_RUSSIA_LARGE_CITY}Ciudad grande adûnâim
+{EMT_RUSSIA_HUGE_CITY}Ciudad enorme adûnâim
+{EMT_SPAIN_VILLAGE}Aldea haradrim
+{EMT_SPAIN_TOWN}Pueblo haradrim
+{EMT_SPAIN_LARGE_TOWN}Pueblo grande haradrim
+{EMT_SPAIN_CITY}Ciudad haradrim
+{EMT_SPAIN_LARGE_CITY}Ciudad grande haradrim
+{EMT_SPAIN_HUGE_CITY}Ciudad enorme haradrim
+{EMT_HUNGARY_VILLAGE}Aldea enana de las Ered Luin
+{EMT_HUNGARY_TOWN}Pueblo enano de las Ered Luin
+{EMT_HUNGARY_LARGE_TOWN}Pueblo grande enano de las Ered Luin
+{EMT_HUNGARY_CITY}Ciudad enana de las Ered Luin
+{EMT_HUNGARY_LARGE_CITY}Ciudad grande enana de las Ered Luin
+{EMT_HUNGARY_HUGE_CITY}Ciudad enorme enana de las Ered Luin
+{EMT_SLAVE_VILLAGE}Aldea independiente
+{EMT_SLAVE_TOWN}Pueblo independiente
+{EMT_SLAVE_LARGE_TOWN}Pueblo grande independiente
+{EMT_SLAVE_CITY}Ciudad independiente
+{EMT_SLAVE_LARGE_CITY}Ciudad grande independiente
+{EMT_SLAVE_HUGE_CITY}Ciudad enorme independiente
+{EMT_VENICE_WOODEN_CASTLE}Mota y liza oriental
+{EMT_VENICE_STONE_KEEP}Castillo de madera oriental
+{EMT_VENICE_CASTLE}Castillo oriental
+{EMT_VENICE_LARGE_CASTLE}Fortaleza oriental
+{EMT_VENICE_FORTRESS}Ciudadela oriental
+{EMT_VENICE_STAR_FORT}Fortaleza estrella oriental
+{EMT_SICILY_WOODEN_CASTLE}Mota y liza gondoriana
+{EMT_SICILY_STONE_KEEP}Castillo de madera gondoriano
+{EMT_SICILY_CASTLE}Castillo gondoriano
+{EMT_SICILY_LARGE_CASTLE}Fortaleza gondoriana
+{EMT_SICILY_FORTRESS}Ciudadela gondoriana
+{EMT_SICILY_STAR_FORT}Fortaleza estrella gondoriana
+{EMT_MILAN_WOODEN_CASTLE}Mota y liza rohírrica
+{EMT_MILAN_STONE_KEEP}Castillo de madera rohírrico
+{EMT_MILAN_CASTLE}Castillo rohírrico
+{EMT_MILAN_LARGE_CASTLE}Fortaleza rohírrica
+{EMT_MILAN_FORTRESS}Ciudadela rohírrica
+{EMT_MILAN_STAR_FORT}Fortaleza estrella rohírrica
+{EMT_PAPAL_STATES_WOODEN_CASTLE}Mota y liza de Sauron
+{EMT_PAPAL_STATES_STONE_KEEP}Castillo de madera de Sauron
+{EMT_PAPAL_STATES_CASTLE}Castillo de Sauron
+{EMT_PAPAL_STATES_LARGE_CASTLE}Fortaleza de Sauron
+{EMT_PAPAL_STATES_FORTRESS}Ciudadela de Sauron
+{EMT_PAPAL_STATES_STAR_FORT}Fortaleza estrella de Sauron
+{EMT_DENMARK_WOODEN_CASTLE}Mota y liza amrothiana
+{EMT_DENMARK_STONE_KEEP}Castillo de madera amrothiano
+{EMT_DENMARK_CASTLE}Castillo amrothiano
+{EMT_DENMARK_LARGE_CASTLE}Fortaleza amrothiana
+{EMT_DENMARK_FORTRESS}Ciudadela amrothiana
+{EMT_DENMARK_STAR_FORT}Fortaleza estrella amrothiana
+{EMT_SCOTLAND_WOODEN_CASTLE}Mota y liza daliana
+{EMT_SCOTLAND_STONE_KEEP}Castillo de madera daliano
+{EMT_SCOTLAND_CASTLE}Castillo daliano
+{EMT_SCOTLAND_LARGE_CASTLE}Fortaleza daliana
+{EMT_SCOTLAND_FORTRESS}Ciudadela daliana
+{EMT_SCOTLAND_STAR_FORT}Fortaleza estrella daliana
+{EMT_AZTECS_WOODEN_CASTLE}Mota y liza dunledina
+{EMT_AZTECS_STONE_KEEP}Castillo de madera dunledino
+{EMT_AZTECS_CASTLE}Castillo dunledino
+{EMT_AZTECS_LARGE_CASTLE}Fortaleza dunledina
+{EMT_AZTECS_FORTRESS}Ciudadela dunledina
+{EMT_AZTECS_STAR_FORT}Fortaleza estrella dunledina
+{EMT_MONGOLS_WOODEN_CASTLE}Mota y liza del reino del Bosque Negro
+{EMT_MONGOLS_STONE_KEEP}Castillo de madera del reino del Bosque Negro
+{EMT_MONGOLS_CASTLE}Castillo del reino del Bosque Negro
+{EMT_MONGOLS_LARGE_CASTLE}Fortaleza del reino del Bosque Negro
+{EMT_MONGOLS_FORTRESS}Ciudadela del reino del Bosque Negro
+{EMT_MONGOLS_STAR_FORT}Fortaleza estrella del reino del Bosque Negro
+{EMT_TIMURIDS_WOODEN_CASTLE}Mota y liza del valle del Anduin
+{EMT_TIMURIDS_STONE_KEEP}Castillo de madera del valle del Anduin
+{EMT_TIMURIDS_CASTLE}Castillo del valle del Anduin
+{EMT_TIMURIDS_LARGE_CASTLE}Fortaleza del valle del Anduin
+{EMT_TIMURIDS_FORTRESS}Ciudadela del valle del Anduin
+{EMT_TIMURIDS_STAR_FORT}Fortaleza estrella del valle del Anduin
+{EMT_TURKS_WOODEN_CASTLE}Mota y liza dúnedain
+{EMT_TURKS_STONE_KEEP}Castillo de madera dúnedain
+{EMT_TURKS_CASTLE}Castillo dúnedain
+{EMT_TURKS_LARGE_CASTLE}Fortaleza dúnedain
+{EMT_TURKS_FORTRESS}Ciudadela dúnedain
+{EMT_TURKS_STAR_FORT}Fortaleza estrella dúnedain
+{EMT_FRANCE_WOODEN_CASTLE}Mota y liza de Isengard
+{EMT_FRANCE_STONE_KEEP}Castillo de madera de Isengard
+{EMT_FRANCE_CASTLE}Castillo de Isengard
+{EMT_FRANCE_LARGE_CASTLE}Fortaleza de Isengard
+{EMT_FRANCE_FORTRESS}Ciudadela de Isengard
+{EMT_FRANCE_STAR_FORT}Fortaleza estrella de Isengard
+{EMT_HRE_WOODEN_CASTLE}Mota y liza trasgo
+{EMT_HRE_STONE_KEEP}Castillo de madera trasgo
+{EMT_HRE_CASTLE}Castillo trasgo
+{EMT_HRE_LARGE_CASTLE}Fortaleza trasgo
+{EMT_HRE_FORTRESS}Ciudadela trasgo
+{EMT_HRE_STAR_FORT}Fortaleza estrella trasgo
+{EMT_ENGLAND_WOODEN_CASTLE}Mota y liza de Mordor
+{EMT_ENGLAND_STONE_KEEP}Castillo de madera de Mordor
+{EMT_ENGLAND_CASTLE}Castillo de Mordor
+{EMT_ENGLAND_LARGE_CASTLE}Fortaleza de Mordor
+{EMT_ENGLAND_FORTRESS}Ciudadela de Mordor
+{EMT_ENGLAND_STAR_FORT}Fortaleza estrella de Mordor
+{EMT_TEUTONIC_ORDER_WOODEN_CASTLE}Mota y liza de Enedwaith
+{EMT_TEUTONIC_ORDER_STONE_KEEP}Castillo de madera de Enedwaith
+{EMT_TEUTONIC_ORDER_CASTLE}Castillo de Enedwaith
+{EMT_TEUTONIC_ORDER_LARGE_CASTLE}Fortaleza de Enedwaith
+{EMT_TEUTONIC_ORDER_FORTRESS}Ciudadela de Enedwaith
+{EMT_TEUTONIC_ORDER_STAR_FORT}Fortaleza estrella de Enedwaith
+{EMT_PORTUGAL_WOODEN_CASTLE}Mota y liza angmarina
+{EMT_PORTUGAL_STONE_KEEP}Castillo de madera angmarino
+{EMT_PORTUGAL_CASTLE}Castillo angmarino
+{EMT_PORTUGAL_LARGE_CASTLE}Fortaleza angmarina
+{EMT_PORTUGAL_FORTRESS}Ciudadela angmarina
+{EMT_PORTUGAL_STAR_FORT}Fortaleza estrella angmarina
+{EMT_POLAND_WOODEN_CASTLE}Mota y liza de Dol Guldur
+{EMT_POLAND_STONE_KEEP}Castillo de madera de Dol Guldur
+{EMT_POLAND_CASTLE}Castillo de Dol Guldur
+{EMT_POLAND_LARGE_CASTLE}Fortaleza de Dol Guldur
+{EMT_POLAND_FORTRESS}Ciudadela de Dol Guldur
+{EMT_POLAND_STAR_FORT}Fortaleza estrella de Dol Guldur
+{EMT_BYZANTIUM_WOODEN_CASTLE}Mota y liza de Dorwinion
+{EMT_BYZANTIUM_STONE_KEEP}Castillo de madera de Dorwinion
+{EMT_BYZANTIUM_CASTLE}Castillo de Dorwinion
+{EMT_BYZANTIUM_LARGE_CASTLE}Fortaleza de Dorwinion
+{EMT_BYZANTIUM_FORTRESS}Ciudadela de Dorwinion
+{EMT_BYZANTIUM_STAR_FORT}Fortaleza estrella de Dorwinion
+{EMT_MOORS_WOODEN_CASTLE}Mota y liza enana
+{EMT_MOORS_STONE_KEEP}Castillo de madera enano
+{EMT_MOORS_CASTLE}Castillo enano
+{EMT_MOORS_LARGE_CASTLE}Fortaleza enana
+{EMT_MOORS_FORTRESS}Ciudadela enana
+{EMT_MOORS_STAR_FORT}Fortaleza estrella enana
+{EMT_RUSSIA_WOODEN_CASTLE}Mota y liza adûnâim
+{EMT_RUSSIA_STONE_KEEP}Castillo de madera adûnâim
+{EMT_RUSSIA_CASTLE}Castillo adûnâim
+{EMT_RUSSIA_LARGE_CASTLE}Fortaleza adûnâim
+{EMT_RUSSIA_FORTRESS}Ciudadela adûnâim
+{EMT_RUSSIA_STAR_FORT}Fortaleza estrella adûnâim
+{EMT_SPAIN_WOODEN_CASTLE}Mota y liza haradrim
+{EMT_SPAIN_STONE_KEEP}Castillo de madera haradrim
+{EMT_SPAIN_CASTLE}Castillo haradrim
+{EMT_SPAIN_LARGE_CASTLE}Fortaleza haradrim
+{EMT_SPAIN_FORTRESS}Ciudadela haradrim
+{EMT_SPAIN_STAR_FORT}Fortaleza estrella haradrim
+{EMT_HUNGARY_WOODEN_CASTLE}Mota y liza enana de las Ered Luin
+{EMT_HUNGARY_STONE_KEEP}Castillo de madera enano de las Ered Luin
+{EMT_HUNGARY_CASTLE}Castillo enano de las Ered Luin
+{EMT_HUNGARY_LARGE_CASTLE}Fortaleza enana de las Ered Luin
+{EMT_HUNGARY_FORTRESS}Ciudadela enana de las Ered Luin
+{EMT_HUNGARY_STAR_FORT}Fortaleza estrella enana de las Ered Luin
+{EMT_SLAVE_WOODEN_CASTLE}Mota y liza independiente
+{EMT_SLAVE_STONE_KEEP}Castillo de madera independiente
+{EMT_SLAVE_CASTLE}Castillo independiente
+{EMT_SLAVE_LARGE_CASTLE}Fortaleza independiente
+{EMT_SLAVE_FORTRESS}Ciudadela independiente
+{EMT_SLAVE_STAR_FORT}Fortaleza estrella independiente
+{EMT_VENICE_CAPITAL}Capital oriental
+{EMT_SICILY_CAPITAL}Capital gondoriana
+{EMT_MILAN_CAPITAL}Capital rohírrica
+{EMT_PAPAL_STATES_CAPITAL}Capital de Sauron
+{EMT_DENMARK_CAPITAL}Capital amrothiana
+{EMT_SCOTLAND_CAPITAL}Capital daliana
+{EMT_AZTECS_CAPITAL}Capital dunledina
+{EMT_MONGOLS_CAPITAL}Capital del reino del Bosque Negro
+{EMT_TIMURIDS_CAPITAL}Capital del valle del Anduin
+{EMT_TURKS_CAPITAL}Capital dúnedain
+{EMT_FRANCE_CAPITAL}Capital de Isengard
+{EMT_HRE_CAPITAL}Capital trasgo
+{EMT_ENGLAND_CAPITAL}Capital de Mordor
+{EMT_TEUTONIC_ORDER_CAPITAL}Capital de Enedwaith
+{EMT_PORTUGAL_CAPITAL}Capital angmarina
+{EMT_POLAND_CAPITAL}Capital de Dol Guldur
+{EMT_BYZANTIUM_CAPITAL}Capital de Dorwinion
+{EMT_MOORS_CAPITAL}Capital enana
+{EMT_RUSSIA_CAPITAL}Capital Ar-Adûnâim
+{EMT_SPAIN_CAPITAL}Capital haradrim
+{EMT_HUNGARY_CAPITAL}Capital enana de las Ered Luin
+{EMT_SLAVE_CAPITAL}Capital independiente
+{EMT_VENICE_FORT}Fuerte oriental
+{EMT_SICILY_FORT}Fuerte gondoriano
+{EMT_MILAN_FORT}Fuerte rohírrico
+{EMT_PAPAL_STATES_FORT}Fuerte de Sauron
+{EMT_DENMARK_FORT}Fuerte amrothiano
+{EMT_SCOTLAND_FORT}Fuerte daliano
+{EMT_AZTECS_FORT}Fuerte dunledino
+{EMT_MONGOLS_FORT}Fuerte del reino del Bosque Negro
+{EMT_TIMURIDS_FORT}Fuerte del valle del Anduin
+{EMT_TURKS_FORT}Fuerte dúnedain
+{EMT_FRANCE_FORT}Fuerte de Isengard
+{EMT_HRE_FORT}Fuerte trasgo
+{EMT_ENGLAND_FORT}Fuerte de Mordor
+{EMT_TEUTONIC_ORDER_FORT}Fuerte de Enedwaith
+{EMT_PORTUGAL_FORT}Fuerte angmarino
+{EMT_POLAND_FORT}Fuerte de Dol Guldur
+{EMT_BYZANTIUM_FORT}Fuerte de Dorwinion
+{EMT_MOORS_FORT}Fuerte enano
+{EMT_RUSSIA_FORT}Fuerte adûnâim
+{EMT_SPAIN_FORT}Fuerte haradrim
+{EMT_HUNGARY_FORT}Fuerte enano de las Ered Luin
+{EMT_SLAVE_FORT}Fuerte independiente
+{EMT_VENICE_PORT}Puerto oriental
+{EMT_SICILY_PORT}Puerto gondoriano
+{EMT_MILAN_PORT}Puerto rohírrico
+{EMT_PAPAL_STATES_PORT}Puerto de Sauron
+{EMT_DENMARK_PORT}Puerto amrothiano
+{EMT_SCOTLAND_PORT}Puerto daliano
+{EMT_AZTECS_PORT}Puerto dunledino
+{EMT_MONGOLS_PORT}Puerto del reino del Bosque Negro
+{EMT_TIMURIDS_PORT}Puerto del valle del Anduin
+{EMT_TURKS_PORT}Puerto dúnedain
+{EMT_FRANCE_PORT}Puerto de Isengard
+{EMT_HRE_PORT}Puerto trasgo
+{EMT_ENGLAND_PORT}Puerto de Mordor
+{EMT_TEUTONIC_ORDER_PORT}Puerto de Enedwaith
+{EMT_PORTUGAL_PORT}Puerto angmarino
+{EMT_POLAND_PORT}Puerto de Dol Guldur
+{EMT_BYZANTIUM_PORT}Puerto de Dorwinion
+{EMT_MOORS_PORT}Puerto enano
+{EMT_RUSSIA_PORT}Puerto adûnâim
+{EMT_SPAIN_PORT}Puerto haradrim
+{EMT_HUNGARY_PORT}Puerto de las Ered Luin
+{EMT_SLAVE_PORT}Puerto independiente
+{EMT_VENICE_DOCK}Embarcaderos orientales
+{EMT_SICILY_DOCK}Embarcaderos gondorianos
+{EMT_MILAN_DOCK}Embarcaderos rohírricos
+{EMT_PAPAL_STATES_DOCK}Embarcaderos de Sauron
+{EMT_DENMARK_DOCK}Embarcaderos amrothianos
+{EMT_SCOTLAND_DOCK}Embarcaderos dalianos
+{EMT_AZTECS_DOCK}Embarcaderos dunledinos
+{EMT_MONGOLS_DOCK}Embarcaderos del reino del Bosque Negro
+{EMT_TIMURIDS_DOCK}Embarcaderos del valle del Anduin
+{EMT_TURKS_DOCK}Embarcaderos dúnedain
+{EMT_FRANCE_DOCK}Embarcaderos de Isengard
+{EMT_HRE_DOCK}Embarcaderos trasgos
+{EMT_ENGLAND_DOCK}Embarcaderos de Mordor
+{EMT_TEUTONIC_ORDER_DOCK}Embarcaderos de Enedwaith
+{EMT_PORTUGAL_DOCK}Embarcaderos angmarinos
+{EMT_POLAND_DOCK}Embarcaderos de Dol Guldur
+{EMT_BYZANTIUM_DOCK}Embarcaderos de Dorwinion
+{EMT_MOORS_DOCK}Embarcaderos enanos
+{EMT_RUSSIA_DOCK}Embarcaderos adûnâim
+{EMT_SPAIN_DOCK}Embarcaderos haradrim
+{EMT_HUNGARY_DOCK}Embarcaderos enanos de las Ered Luin
+{EMT_SLAVE_DOCK}Embarcaderos independiente
+{EMT_VENICE_FISHING_VILLAGE}Aldea pesquera oriental
+{EMT_SICILY_FISHING_VILLAGE}Aldea pesquera gondoriana
+{EMT_MILAN_FISHING_VILLAGE}Aldea pesquera rohírrica
+{EMT_PAPAL_STATES_FISHING_VILLAGE}Aldea pesquera de Sauron
+{EMT_DENMARK_FISHING_VILLAGE}Aldea pesquera amrothiana
+{EMT_SCOTLAND_FISHING_VILLAGE}Aldea pesquera daliana
+{EMT_AZTECS_FISHING_VILLAGE}Aldea pesquera dunledina
+{EMT_MONGOLS_FISHING_VILLAGE}Aldea pesquera del reino del Bosque Negro
+{EMT_TIMURIDS_FISHING_VILLAGE}Aldea pesquera del valle del Anduin
+{EMT_TURKS_FISHING_VILLAGE}Aldea pesquera dúnedain
+{EMT_FRANCE_FISHING_VILLAGE}Aldea pesquera de Isengard
+{EMT_HRE_FISHING_VILLAGE}Aldea pesquera trasgo
+{EMT_ENGLAND_FISHING_VILLAGE}Aldea pesquera de Mordor
+{EMT_TEUTONIC_ORDER_FISHING_VILLAGE}Aldea pesquera de Enedwaith
+{EMT_PORTUGAL_FISHING_VILLAGE}Aldea pesquera angmarina
+{EMT_POLAND_FISHING_VILLAGE}Aldea pesquera de Dol Guldur
+{EMT_BYZANTIUM_FISHING_VILLAGE}Aldea pesquera de Dorwinion
+{EMT_MOORS_FISHING_VILLAGE}Aldea pesquera enana
+{EMT_RUSSIA_FISHING_VILLAGE}Aldea pesquera adûnâim
+{EMT_SPAIN_FISHING_VILLAGE}Aldea pesquera haradrim
+{EMT_HUNGARY_FISHING_VILLAGE}Aldea pesquera enana de las Ered Luin
+{EMT_SLAVE_FISHING_VILLAGE}Aldea pesquera independiente
+{EMT_VENICE_WATCHTOWER}Atalaya oriental
+{EMT_SICILY_WATCHTOWER}Atalaya gondoriana
+{EMT_MILAN_WATCHTOWER}Atalaya rohírrica
+{EMT_PAPAL_STATES_WATCHTOWER}Atalaya de Sauron
+{EMT_DENMARK_WATCHTOWER}Atalaya amrothiana
+{EMT_SCOTLAND_WATCHTOWER}Atalaya daliana
+{EMT_AZTECS_WATCHTOWER}Atalaya dunledina
+{EMT_MONGOLS_WATCHTOWER}Atalaya del reino del Bosque Negro
+{EMT_TIMURIDS_WATCHTOWER}Atalaya del valle del Anduin
+{EMT_TURKS_WATCHTOWER}Atalaya dúnedain
+{EMT_FRANCE_WATCHTOWER}Atalaya de Isengard
+{EMT_HRE_WATCHTOWER}Atalaya trasgo
+{EMT_ENGLAND_WATCHTOWER}Atalaya de Mordor
+{EMT_TEUTONIC_ORDER_WATCHTOWER}Atalaya de Enedwaith
+{EMT_PORTUGAL_WATCHTOWER}Atalaya angmarina
+{EMT_POLAND_WATCHTOWER}Atalaya de Dol Guldur
+{EMT_BYZANTIUM_WATCHTOWER}Atalaya de Dorwinion
+{EMT_MOORS_WATCHTOWER}Atalaya enana
+{EMT_RUSSIA_WATCHTOWER}Atalaya adûnâim
+{EMT_SPAIN_WATCHTOWER}Atalaya haradrim
+{EMT_HUNGARY_WATCHTOWER}Atalaya enana de las Ered Luin
+{EMT_SLAVE_WATCHTOWER}Atalaya independiente
+{EMT_VENICE_FACTION_LEADER}Líder de facción oriental
+{EMT_SICILY_FACTION_LEADER}Líder de facción gondoriano
+{EMT_MILAN_FACTION_LEADER}Líder de facción rohírrico
+{EMT_PAPAL_STATES_FACTION_LEADER}Sauron
+{EMT_DENMARK_FACTION_LEADER}Líder de facción amrothiano
+{EMT_SCOTLAND_FACTION_LEADER}Líder de facción daliano
+{EMT_AZTECS_FACTION_LEADER}Líder de facción dunledino
+{EMT_MONGOLS_FACTION_LEADER}Líder de facción del reino del Bosque Negro
+{EMT_TIMURIDS_FACTION_LEADER}Líder del valle del Anduin
+{EMT_TURKS_FACTION_LEADER}Líder de facción dúnedain
+{EMT_FRANCE_FACTION_LEADER}Líder de facción de Isengard
+{EMT_HRE_FACTION_LEADER}Líder de facción de Moria
+{EMT_ENGLAND_FACTION_LEADER}Líder de facción de Mordor
+{EMT_TEUTONIC_ORDER_FACTION_LEADER}Líder de facción de Enedwaith
+{EMT_PORTUGAL_FACTION_LEADER}Líder de facción angmarino
+{EMT_POLAND_FACTION_LEADER}Líder de facción de Dol Guldur
+{EMT_BYZANTIUM_FACTION_LEADER}Líder de facción de Dorwinion
+{EMT_MOORS_FACTION_LEADER}Líder de facción enano
+{EMT_RUSSIA_FACTION_LEADER}Líder de facción Ar-Adûnâim
+{EMT_SPAIN_FACTION_LEADER}Líder de facción haradrim
+{EMT_HUNGARY_FACTION_LEADER}Líder de facción de las Ered Luin
+{EMT_SLAVE_FACTION_LEADER}Líder de facción independiente
+{EMT_VENICE_FACTION_HEIR}Heredero de facción oriental
+{EMT_SICILY_FACTION_HEIR}Heredero de facción gondoriano
+{EMT_MILAN_FACTION_HEIR}Heredero de facción rohírrico
+{EMT_PAPAL_STATES_FACTION_HEIR}Heredero de facción de Sauron
+{EMT_DENMARK_FACTION_HEIR}Heredero de facción amrothiano
+{EMT_SCOTLAND_FACTION_HEIR}Heredero de facción daliano
+{EMT_AZTECS_FACTION_HEIR}Heredero de facción dunledino
+{EMT_MONGOLS_FACTION_HEIR}Heredero de facción del reino del Bosque Negro
+{EMT_TIMURIDS_FACTION_HEIR}Heredero de facción del valle del Anduin
+{EMT_TURKS_FACTION_HEIR}Heredero de facción dúnedain
+{EMT_FRANCE_FACTION_HEIR}Primer Capitán de Isengard
+{EMT_HRE_FACTION_HEIR}Cacique Teniente de Moria
+{EMT_ENGLAND_FACTION_HEIR}Primer Teniente de Mordor
+{EMT_TEUTONIC_ORDER_FACTION_HEIR}Heredero de facción de Enedwaith
+{EMT_PORTUGAL_FACTION_HEIR}Primer Teniente angmarino
+{EMT_POLAND_FACTION_HEIR}Primer Teniente de Dol Guldur
+{EMT_BYZANTIUM_FACTION_HEIR}Heredero de facción de Dorwinion
+{EMT_MOORS_FACTION_HEIR}Heredero de facción enano
+{EMT_RUSSIA_FACTION_HEIR}Heredero de facción Ar-Adûnâim
+{EMT_SPAIN_FACTION_HEIR}Heredero de facción haradrim
+{EMT_HUNGARY_FACTION_HEIR}Heredero de facción de las Ered Luin
+{EMT_SLAVE_FACTION_HEIR}Primer Teniente independiente
+{EMT_VENICE_FACTION_LEADER_TITLE}Líder de facción
+{EMT_SICILY_FACTION_LEADER_TITLE}Líder de facción
+{EMT_MILAN_FACTION_LEADER_TITLE}Líder de facción
+{EMT_PAPAL_STATES_FACTION_LEADER_TITLE}Líder
+{EMT_DENMARK_FACTION_LEADER_TITLE}Líder de facción
+{EMT_SCOTLAND_FACTION_LEADER_TITLE}Líder de facción
+{EMT_AZTECS_FACTION_LEADER_TITLE}Líder de facción
+{EMT_MONGOLS_FACTION_LEADER_TITLE}Líder de facción
+{EMT_TIMURIDS_FACTION_LEADER_TITLE}Líder de facción
+{EMT_TURKS_FACTION_LEADER_TITLE}Líder de facción
+{EMT_FRANCE_FACTION_LEADER_TITLE}Líder de facción
+{EMT_HRE_FACTION_LEADER_TITLE}Líder de facción
+{EMT_ENGLAND_FACTION_LEADER_TITLE}Líder de facción
+{EMT_TEUTONIC_ORDER_FACTION_LEADER_TITLE}Líder de facción
+{EMT_PORTUGAL_FACTION_LEADER_TITLE}Líder de facción
+{EMT_POLAND_FACTION_LEADER_TITLE}Líder de facción
+{EMT_BYZANTIUM_FACTION_LEADER_TITLE}Líder de facción
+{EMT_MOORS_FACTION_LEADER_TITLE}Líder de facción
+{EMT_RUSSIA_FACTION_LEADER_TITLE}Líder de facción
+{EMT_SPAIN_FACTION_LEADER_TITLE}Líder de facción
+{EMT_HUNGARY_FACTION_LEADER_TITLE}Líder de facción
+{EMT_SLAVE_FACTION_LEADER_TITLE}Líder de facción
+{EMT_VENICE_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_SICILY_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_MILAN_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_PAPAL_STATES_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_DENMARK_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_SCOTLAND_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_AZTECS_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_MONGOLS_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_TIMURIDS_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_TURKS_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_FRANCE_FACTION_HEIR_TITLE}Primer Capitán
+{EMT_HRE_FACTION_HEIR_TITLE}Cacique Teniente
+{EMT_ENGLAND_FACTION_HEIR_TITLE}Primer Teniente
+{EMT_TEUTONIC_ORDER_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_PORTUGAL_FACTION_HEIR_TITLE}Primer Teniente
+{EMT_POLAND_FACTION_HEIR_TITLE}Primer Teniente
+{EMT_BYZANTIUM_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_MOORS_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_RUSSIA_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_SPAIN_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_HUNGARY_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_SLAVE_FACTION_HEIR_TITLE}!DO NOT TRANSLATE! PLAYER SHOULD NOT SEE THIS!
+{EMT_VENICE_FACTION_LEADER_NAME}Lôke-Khan %S
+{EMT_SICILY_FACTION_LEADER_NAME}Senescal %S
+{EMT_MILAN_FACTION_LEADER_NAME}Rey %S
+{EMT_PAPAL_STATES_FACTION_LEADER_NAME}%S
+{EMT_DENMARK_FACTION_LEADER_NAME}Príncipe %S
+{EMT_SCOTLAND_FACTION_LEADER_NAME}Rey %S
+{EMT_AZTECS_FACTION_LEADER_NAME}Cacique %S
+{EMT_MONGOLS_FACTION_LEADER_NAME}Rey %S
+{EMT_TIMURIDS_FACTION_LEADER_NAME}Maestro Cazador %S
+{EMT_TURKS_FACTION_LEADER_NAME}Capitán %S
+{EMT_FRANCE_FACTION_LEADER_NAME}Señor %S
+{EMT_HRE_FACTION_LEADER_NAME}Alto Cacique %S
+{EMT_ENGLAND_FACTION_LEADER_NAME}%S
+{EMT_TEUTONIC_ORDER_FACTION_LEADER_NAME}Señor de la Asamblea %S
+{EMT_PORTUGAL_FACTION_LEADER_NAME}Señor Supremo %S
+{EMT_POLAND_FACTION_LEADER_NAME}Señor %S
+{EMT_BYZANTIUM_FACTION_LEADER_NAME}Vintner-Regent %S
+{EMT_MOORS_FACTION_LEADER_NAME}Rey %S
+{EMT_RUSSIA_FACTION_LEADER_NAME}Ar-%S
+{EMT_SPAIN_FACTION_LEADER_NAME}Señor Serpiente %S
+{EMT_HUNGARY_FACTION_LEADER_NAME}Señor del Clan %S
+{EMT_VENICE_FACTION_HEIR_NAME}Khan %S
+{EMT_SICILY_FACTION_HEIR_NAME}Capitán General %S
+{EMT_MILAN_FACTION_HEIR_NAME}Príncipe %S
+{EMT_PAPAL_STATES_FACTION_HEIR_NAME}!DO NOT TRANSLATE! PLAYER SHOULD NOT SEE THIS!
+{EMT_DENMARK_FACTION_HEIR_NAME}Señor %S
+{EMT_SCOTLAND_FACTION_HEIR_NAME}Príncipe %S
+{EMT_AZTECS_FACTION_HEIR_NAME}Maestro Cazador %S
+{EMT_MONGOLS_FACTION_HEIR_NAME}Príncipe %S
+{EMT_TIMURIDS_FACTION_HEIR_NAME}%S
+{EMT_TURKS_FACTION_HEIR_NAME}Capitán Montaraz %S
+{EMT_FRANCE_FACTION_HEIR_NAME}Primer Capitán %S
+{EMT_HRE_FACTION_HEIR_NAME}Cacique Teniente %S
+{EMT_ENGLAND_FACTION_HEIR_NAME}Primer Teniente %S
+{EMT_TEUTONIC_ORDER_FACTION_HEIR_NAME}Cacique %S
+{EMT_PORTUGAL_FACTION_HEIR_NAME}Primer Teniente %S
+{EMT_POLAND_FACTION_HEIR_NAME}Primer Teniente %S
+{EMT_BYZANTIUM_FACTION_HEIR_NAME}First Councillor %S
+{EMT_MOORS_FACTION_HEIR_NAME}Señor %S
+{EMT_RUSSIA_FACTION_HEIR_NAME}Señor %S
+{EMT_SPAIN_FACTION_HEIR_NAME}Señor de la Guerra %S
+{EMT_HUNGARY_FACTION_HEIR_NAME}Heraldo del Clan %S
+{EMT_SLAVE_FACTION_HEIR_NAME}!DO NOT TRANSLATE! PLAYER SHOULD NOT SEE THIS!
+{EMT_VENICE_FORMER_FACTION_LEADER_TITLE}Caudillo
+{EMT_SICILY_FORMER_FACTION_LEADER_TITLE}Senescal
+{EMT_MILAN_FORMER_FACTION_LEADER_TITLE}Rey
+{EMT_PAPAL_STATES_FORMER_FACTION_LEADER_TITLE}Señor Oscuro
+{EMT_DENMARK_FORMER_FACTION_LEADER_TITLE}Príncipe
+{EMT_SCOTLAND_FORMER_FACTION_LEADER_TITLE}Rey
+{EMT_AZTECS_FORMER_FACTION_LEADER_TITLE}Cacique
+{EMT_MONGOLS_FORMER_FACTION_LEADER_TITLE}Rey
+{EMT_TIMURIDS_FORMER_FACTION_LEADER_TITLE}Líder
+{EMT_TURKS_FORMER_FACTION_LEADER_TITLE}Capitán
+{EMT_FRANCE_FORMER_FACTION_LEADER_TITLE}Señor
+{EMT_HRE_FORMER_FACTION_LEADER_TITLE}Alto Cacique
+{EMT_ENGLAND_FORMER_FACTION_LEADER_TITLE}Señor
+{EMT_TEUTONIC_ORDER_FORMER_FACTION_LEADER_TITLE}Cacique
+{EMT_PORTUGAL_FORMER_FACTION_LEADER_TITLE}Capitán
+{EMT_POLAND_FORMER_FACTION_LEADER_TITLE}Señor
+{EMT_BYZANTIUM_FORMER_FACTION_LEADER_TITLE}Rey
+{EMT_MOORS_FORMER_FACTION_LEADER_TITLE}Rey
+{EMT_RUSSIA_FORMER_FACTION_LEADER_TITLE}Maestro del Puerto
+{EMT_SPAIN_FORMER_FACTION_LEADER_TITLE}Señor Serpiente
+{EMT_HUNGARY_FORMER_FACTION_LEADER_TITLE}Líder del Clan
+{EMT_SLAVE_FORMER_FACTION_LEADER_TITLE}!DO NOT TRANSLATE! PLAYER SHOULD NOT SEE THIS!
+{EMT_YOUR_FORCES_ATTACK_ARMY_VENICE}Tus fuerzas están atacando a un ejército de orientales
+{EMT_YOUR_FORCES_ATTACK_ARMY_SICILY}Tus fuerzas están atacando a un ejército de Gondor
+{EMT_YOUR_FORCES_ATTACK_ARMY_MILAN}Tus fuerzas están atacando a un ejército de Rohan
+{EMT_YOUR_FORCES_ATTACK_ARMY_PAPAL_STATES}Tus fuerzas están atacando a un ejército de Sauron
+{EMT_YOUR_FORCES_ATTACK_ARMY_DENMARK}Tus fuerzas están atacando a un ejército de Dol Amroth
+{EMT_YOUR_FORCES_ATTACK_ARMY_SCOTLAND}Tus fuerzas están atacando a un ejército de Dale
+{EMT_YOUR_FORCES_ATTACK_ARMY_AZTECS}Tus fuerzas están atacando a un ejército de Dunland
+{EMT_YOUR_FORCES_ATTACK_ARMY_MONGOLS}Tus fuerzas están atacando a un ejército del Reino del Bosque Negro
+{EMT_YOUR_FORCES_ATTACK_ARMY_TIMURIDS}Tus fuerzas están atacando a un ejército del Valle del Anduin
+{EMT_YOUR_FORCES_ATTACK_ARMY_TURKS}Tus fuerzas están atacando a un ejército dúnedain
+{EMT_YOUR_FORCES_ATTACK_ARMY_FRANCE}Tus fuerzas están atacando a un ejército de Isengard
+{EMT_YOUR_FORCES_ATTACK_ARMY_HRE}Tus fuerzas están atacando a un ejército de Trasgos de Moria
+{EMT_YOUR_FORCES_ATTACK_ARMY_ENGLAND}Tus fuerzas están atacando a un ejército de Mordor
+{EMT_YOUR_FORCES_ATTACK_ARMY_TEUTONIC_ORDER}Tus fuerzas están atacando a un ejército de Enedwaith
+{EMT_YOUR_FORCES_ATTACK_ARMY_IRELAND}Tus fuerzas están atacando a un ejército de Lórien
+{EMT_YOUR_FORCES_ATTACK_ARMY_PORTUGAL}Tus fuerzas están atacando a un ejército de los Remanentes de Angmar
+{EMT_YOUR_FORCES_ATTACK_ARMY_POLAND}Tus fuerzas están atacando a un ejército de Dol Guldur
+{EMT_YOUR_FORCES_ATTACK_ARMY_BYZANTIUM}Tus fuerzas están atacando a un ejército de Dorwinion
+{EMT_YOUR_FORCES_ATTACK_ARMY_MOORS}Tus fuerzas están atacando a un ejército de enanos
+{EMT_YOUR_FORCES_ATTACK_ARMY_RUSSIA}Tus fuerzas están atacando a un ejército de los Ar-Adûnâim
+{EMT_YOUR_FORCES_ATTACK_ARMY_SPAIN}Tus fuerzas están atacando a un ejército de Harad
+{EMT_YOUR_FORCES_ATTACK_ARMY_HUNGARY}Tus fuerzas están atacando a un ejército de enanos de las Ered Luin
+{EMT_YOUR_FORCES_ATTACK_ARMY_SLAVE}Tus fuerzas están atacando a un ejército independiente
+{EMT_YOUR_FORCES_ATTACK_NAVY_VENICE}Tus fuerzas están atacando a una armada de orientales
+{EMT_YOUR_FORCES_ATTACK_NAVY_SICILY}Tus fuerzas están atacando a una armada de Gondor
+{EMT_YOUR_FORCES_ATTACK_NAVY_MILAN}Tus fuerzas están atacando a una armada de Rohan
+{EMT_YOUR_FORCES_ATTACK_NAVY_PAPAL_STATES}Tus fuerzas están atacando a una armada de Sauron
+{EMT_YOUR_FORCES_ATTACK_NAVY_DENMARK}Tus fuerzas están atacando a una armada de Dol Amroth
+{EMT_YOUR_FORCES_ATTACK_NAVY_SCOTLAND}Tus fuerzas están atacando a una armada de Dale
+{EMT_YOUR_FORCES_ATTACK_NAVY_AZTECS}Tus fuerzas están atacando a una armada de Dunland
+{EMT_YOUR_FORCES_ATTACK_NAVY_MONGOLS}Tus fuerzas están atacando a una armada del Reino del Bosque Negro
+{EMT_YOUR_FORCES_ATTACK_NAVY_TIMURIDS}Tus fuerzas están atacando a una armada del Valle del Anduin
+{EMT_YOUR_FORCES_ATTACK_NAVY_TURKS}Tus fuerzas están atacando a una armada dúnedain
+{EMT_YOUR_FORCES_ATTACK_NAVY_FRANCE}Tus fuerzas están atacando a una armada de Isengard
+{EMT_YOUR_FORCES_ATTACK_NAVY_HRE}Tus fuerzas están atacando a una armada de Trasgos de Moria
+{EMT_YOUR_FORCES_ATTACK_NAVY_ENGLAND}Tus fuerzas están atacando a una armada de Mordor
+{EMT_YOUR_FORCES_ATTACK_NAVY_TEUTONIC_ORDER}Tus fuerzas están atacando a una armada de Enedwaith
+{EMT_YOUR_FORCES_ATTACK_NAVY_NORWAY}Your forces attack a navy of the Khazad-dûm dwarves
+{EMT_YOUR_FORCES_ATTACK_NAVY_IRELAND}Tus fuerzas están atacando a una armada de Lórien
+{EMT_YOUR_FORCES_ATTACK_NAVY_PORTUGAL}Tus fuerzas están atacando a una armada de los Remanentes de Angmar
+{EMT_YOUR_FORCES_ATTACK_NAVY_POLAND}Tus fuerzas están atacando a una armada de la Sombra del Bosque Negro
+{EMT_YOUR_FORCES_ATTACK_NAVY_BYZANTIUM}Tus fuerzas están atacando a una armada de Dorwinion
+{EMT_YOUR_FORCES_ATTACK_NAVY_MOORS}Tus fuerzas están atacando a una armada de enanos
+{EMT_YOUR_FORCES_ATTACK_NAVY_RUSSIA}Tus fuerzas están atacando a una armada de corsarios
+{EMT_YOUR_FORCES_ATTACK_NAVY_SPAIN}Tus fuerzas están atacando a una armada de Harad
+{EMT_YOUR_FORCES_ATTACK_NAVY_HUNGARY}Tus fuerzas están atacando a una armada de enanos de las Ered Luin
+{EMT_YOUR_FORCES_ATTACK_NAVY_SLAVE}Tus fuerzas están atacando a una armada independiente
+{EMT_YOUR_FORCES_AMBUSH_ARMY_VENICE}Tus fuerzas están emboscando a un ejército de orientales
+{EMT_YOUR_FORCES_AMBUSH_ARMY_SICILY}Tus fuerzas están emboscando a un ejército de Gondor
+{EMT_YOUR_FORCES_AMBUSH_ARMY_MILAN}Tus fuerzas están emboscando a un ejército de Rohan
+{EMT_YOUR_FORCES_AMBUSH_ARMY_PAPAL_STATES}Tus fuerzas están emboscando a un ejército de Sauron
+{EMT_YOUR_FORCES_AMBUSH_ARMY_DENMARK}Tus fuerzas están emboscando a un ejército de Dol Amroth
+{EMT_YOUR_FORCES_AMBUSH_ARMY_SCOTLAND}Tus fuerzas están emboscando a un ejército de Dale
+{EMT_YOUR_FORCES_AMBUSH_ARMY_AZTECS}Tus fuerzas están emboscando a un ejército de Dunland
+{EMT_YOUR_FORCES_AMBUSH_ARMY_MONGOLS}Tus fuerzas están emboscando a un ejército del Reino del Bosque Negro
+{EMT_YOUR_FORCES_AMBUSH_ARMY_TIMURIDS}Tus fuerzas están emboscando a un ejército del Valle del Anduin
+{EMT_YOUR_FORCES_AMBUSH_ARMY_TURKS}Tus fuerzas están emboscando a un ejército dúnedain
+{EMT_YOUR_FORCES_AMBUSH_ARMY_FRANCE}Tus fuerzas están emboscando a un ejército de Isengard
+{EMT_YOUR_FORCES_AMBUSH_ARMY_HRE}Tus fuerzas están emboscando a un ejército de Trasgos de Moria
+{EMT_YOUR_FORCES_AMBUSH_ARMY_ENGLAND}Tus fuerzas están emboscando a un ejército de Mordor
+{EMT_YOUR_FORCES_AMBUSH_ARMY_TEUTONIC_ORDER}Tus fuerzas están emboscando a un ejército de Enedwaith
+{EMT_YOUR_FORCES_AMBUSH_ARMY_IRELAND}Tus fuerzas están emboscando a un ejército de Lórien
+{EMT_YOUR_FORCES_AMBUSH_ARMY_PORTUGAL}Tus fuerzas están emboscando a un ejército de los Remanentes de Angmar
+{EMT_YOUR_FORCES_AMBUSH_ARMY_POLAND}Tus fuerzas están emboscando a un ejército de la Sombra del Bosque Negro
+{EMT_YOUR_FORCES_AMBUSH_ARMY_BYZANTIUM}Tus fuerzas están emboscando a un ejército de Dorwinion
+{EMT_YOUR_FORCES_AMBUSH_ARMY_MOORS}Tus fuerzas están emboscando a un ejército de enanos
+{EMT_YOUR_FORCES_AMBUSH_ARMY_RUSSIA}Tus fuerzas están emboscando a un ejército de los Ar-Adûnâim
+{EMT_YOUR_FORCES_AMBUSH_ARMY_SPAIN}Tus fuerzas están emboscando a un ejército de Harad
+{EMT_YOUR_FORCES_AMBUSH_ARMY_HUNGARY}Tus fuerzas están emboscando a un ejército de enanos de las Ered Luin
+{EMT_YOUR_FORCES_AMBUSH_ARMY_SLAVE}Tus fuerzas están emboscando a un ejército independiente
+{EMT_YOUR_FORCES_ATTACKED_ARMY_VENICE}Tus fuerzas han sido atacadas por un ejército de orientales
+{EMT_YOUR_FORCES_ATTACKED_ARMY_SICILY}Tus fuerzas han sido atacadas por un ejército de Gondor
+{EMT_YOUR_FORCES_ATTACKED_ARMY_MILAN}Tus fuerzas han sido atacadas por un ejército de Rohan
+{EMT_YOUR_FORCES_ATTACKED_ARMY_PAPAL_STATES}Tus fuerzas han sido atacadas por un ejército de Sauron
+{EMT_YOUR_FORCES_ATTACKED_ARMY_DENMARK}Tus fuerzas han sido atacadas por un ejército de Dol Amroth
+{EMT_YOUR_FORCES_ATTACKED_ARMY_SCOTLAND}Tus fuerzas han sido atacadas por un ejército de Dale
+{EMT_YOUR_FORCES_ATTACKED_ARMY_AZTECS}Tus fuerzas han sido atacadas por un ejército de Dunland
+{EMT_YOUR_FORCES_ATTACKED_ARMY_MONGOLS}Tus fuerzas han sido atacadas por un ejército del Reino del Bosque Negro
+{EMT_YOUR_FORCES_ATTACKED_ARMY_TIMURIDS}Tus fuerzas han sido atacadas por un ejército del Valle del Anduin
+{EMT_YOUR_FORCES_ATTACKED_ARMY_TURKS}Tus fuerzas han sido atacadas por un ejército dúnedain
+{EMT_YOUR_FORCES_ATTACKED_ARMY_FRANCE}Tus fuerzas han sido atacadas por un ejército de Isengard
+{EMT_YOUR_FORCES_ATTACKED_ARMY_HRE}Tus fuerzas han sido atacadas por un ejército de Trasgos de Moria
+{EMT_YOUR_FORCES_ATTACKED_ARMY_ENGLAND}Tus fuerzas han sido atacadas por un ejército de Mordor
+{EMT_YOUR_FORCES_ATTACKED_ARMY_TEUTONIC_ORDER}Tus fuerzas han sido atacadas por un ejército de Enedwaith
+{EMT_YOUR_FORCES_ATTACKED_ARMY_IRELAND}Tus fuerzas han sido atacadas por un ejército de Lórien
+{EMT_YOUR_FORCES_ATTACKED_ARMY_PORTUGAL}Tus fuerzas han sido atacadas por un ejército de los Remanentes de Angmar
+{EMT_YOUR_FORCES_ATTACKED_ARMY_POLAND}Tus fuerzas han sido atacadas por un ejército de Dol Guldur
+{EMT_YOUR_FORCES_ATTACKED_ARMY_BYZANTIUM}Tus fuerzas han sido atacadas por un ejército de Dorwinion
+{EMT_YOUR_FORCES_ATTACKED_ARMY_MOORS}Tus fuerzas han sido atacadas por un ejército de enanos
+{EMT_YOUR_FORCES_ATTACKED_ARMY_RUSSIA}Tus fuerzas han sido atacadas por un ejército de los Ar-Adûnâim
+{EMT_YOUR_FORCES_ATTACKED_ARMY_SPAIN}Tus fuerzas han sido atacadas por un ejército de Harad
+{EMT_YOUR_FORCES_ATTACKED_ARMY_HUNGARY}Tus fuerzas han sido atacadas por un ejército de enanos
+{EMT_YOUR_FORCES_ATTACKED_ARMY_SLAVE}Tus fuerzas han sido atacadas por un ejército independiente
+{EMT_YOUR_FORCES_ATTACKED_NAVY_VENICE}Tus fuerzas han sido atacadas por una armada de orientales
+{EMT_YOUR_FORCES_ATTACKED_NAVY_SICILY}Tus fuerzas han sido atacadas por una armada de Gondor
+{EMT_YOUR_FORCES_ATTACKED_NAVY_MILAN}Tus fuerzas han sido atacadas por una armada de Rohan
+{EMT_YOUR_FORCES_ATTACKED_NAVY_PAPAL_STATES}Tus fuerzas han sido atacadas por una armada de Sauron
+{EMT_YOUR_FORCES_ATTACKED_NAVY_DENMARK}Tus fuerzas han sido atacadas por una armada de Dol Amroth
+{EMT_YOUR_FORCES_ATTACKED_NAVY_SCOTLAND}Tus fuerzas han sido atacadas por una armada de Dale
+{EMT_YOUR_FORCES_ATTACKED_NAVY_AZTECS}Tus fuerzas han sido atacadas por una armada de Dunland
+{EMT_YOUR_FORCES_ATTACKED_NAVY_MONGOLS}Tus fuerzas han sido atacadas por una armada del Reino del Bosque Negro
+{EMT_YOUR_FORCES_ATTACKED_NAVY_TIMURIDS}Tus fuerzas han sido atacadas por una armada del Valle del Anduin
+{EMT_YOUR_FORCES_ATTACKED_NAVY_TURKS}Tus fuerzas han sido atacadas por una armada dúnedain
+{EMT_YOUR_FORCES_ATTACKED_NAVY_FRANCE}Tus fuerzas han sido atacadas por una armada de Isengard
+{EMT_YOUR_FORCES_ATTACKED_NAVY_HRE}Tus fuerzas han sido atacadas por una armada de Trasgos de Moria
+{EMT_YOUR_FORCES_ATTACKED_NAVY_ENGLAND}Tus fuerzas han sido atacadas por una armada de Mordor
+{EMT_YOUR_FORCES_ATTACKED_NAVY_TEUTONIC_ORDER}Tus fuerzas han sido atacadas por una armada de Enedwaith
+{EMT_YOUR_FORCES_ATTACKED_NAVY_IRELAND}Tus fuerzas han sido atacadas por una armada de Lórien
+{EMT_YOUR_FORCES_ATTACKED_NAVY_PORTUGAL}Tus fuerzas han sido atacadas por una armada de los Remanentes de Angmar
+{EMT_YOUR_FORCES_ATTACKED_NAVY_POLAND}Tus fuerzas han sido atacadas por una armada de la Sombra del Bosque Negro
+{EMT_YOUR_FORCES_ATTACKED_NAVY_BYZANTIUM}Tus fuerzas han sido atacadas por una armada de Dorwinion
+{EMT_YOUR_FORCES_ATTACKED_NAVY_MOORS}Tus fuerzas han sido atacadas por una armada de enanos
+{EMT_YOUR_FORCES_ATTACKED_NAVY_RUSSIA}Tus fuerzas han sido atacadas por una armada de los Ar-Adûnâim
+{EMT_YOUR_FORCES_ATTACKED_NAVY_SPAIN}Tus fuerzas han sido atacadas por una armada de Harad
+{EMT_YOUR_FORCES_ATTACKED_NAVY_HUNGARY}Tus fuerzas han sido atacadas por una armada de enanos
+{EMT_YOUR_FORCES_ATTACKED_NAVY_SLAVE}Tus fuerzas han sido atacadas por una armada independiente
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_VENICE}Tus fuerzas han sido emboscadas por un ejército de orientales
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_SICILY}Tus fuerzas han sido emboscadas por un ejército de Gondor
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_MILAN}Tus fuerzas han sido emboscadas por un ejército de Rohan
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_PAPAL_STATES}Tus fuerzas han sido emboscadas por un ejército de Sauron
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_DENMARK}Tus fuerzas han sido emboscadas por un ejército de Dol Amroth
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_SCOTLAND}Tus fuerzas han sido emboscadas por un ejército de Dale
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_AZTECS}Tus fuerzas han sido emboscadas por un ejército de Dunland
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_MONGOLS}Tus fuerzas han sido emboscadas por un ejército del Reino del Bosque Negro
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_TIMURIDS}Tus fuerzas han sido emboscadas por un ejército del Valle del Anduin
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_TURKS}Tus fuerzas han sido emboscadas por un ejército dúnedain
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_FRANCE}Tus fuerzas han sido emboscadas por un ejército de Isengard
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_HRE}Tus fuerzas han sido emboscadas por un ejército de Trasgos de Moria
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_ENGLAND}Tus fuerzas han sido emboscadas por un ejército de Mordor
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_TEUTONIC_ORDER}Tus fuerzas han sido emboscadas por un ejército de Enedwaith
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_IRELAND}Tus fuerzas han sido emboscadas por un ejército de Lórien
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_PORTUGAL}Tus fuerzas han sido emboscadas por un ejército de los Remanentes de Angmar
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_POLAND}Tus fuerzas han sido emboscadas por un ejército de Dol Guldur
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_BYZANTIUM}Tus fuerzas han sido emboscadas por un ejército de Dorwinion
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_MOORS}Tus fuerzas han sido emboscadas por un ejército de enanos
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_RUSSIA}Tus fuerzas han sido emboscadas por un ejército de los Ar-Adûnâim
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_SPAIN}Tus fuerzas han sido emboscadas por un ejército de Harad
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_HUNGARY}Tus fuerzas han sido emboscadas por un ejército de enanos
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_SLAVE}Tus fuerzas han sido emboscadas por un ejército independiente
+{EMT_VICTORY_TIMURIDS}La comunidad ha logrado obtener la victoria
+{EMT_VICTORY_VENICE}Los orientales de Rhûn han logrado obtener la victoria
+{EMT_VICTORY_SICILY}Gondor ha logrado obtener la victoria
+{EMT_VICTORY_MILAN}Rohan ha logrado obtener la victoria
+{EMT_VICTORY_PAPAL_STATES}El Señor Oscuro de Mordor ha logrado obtener la victoria
+{EMT_VICTORY_DENMARK}Dol Amroth ha logrado obtener la victoria
+{EMT_VICTORY_SCOTLAND}Dale ha logrado obtener la victoria
+{EMT_VICTORY_AZTECS}Los hombres salvajes de las Tierras Brunas han logrado obtener la victoria
+{EMT_VICTORY_MONGOLS}El reino del Bosque Negro ha logrado obtener la victoria
+{EMT_VICTORY_TURKS}Los dúnedain han logrado obtener la victoria
+{EMT_VICTORY_FRANCE}Isengard ha logrado obtener la victoria
+{EMT_VICTORY_HRE}The Goblins of Moria are Victorious
+{EMT_VICTORY_ENGLAND}Mordor ha logrado obtener la victoria
+{EMT_VICTORY_TEUTONIC_ORDER}Enedwaith ha logrado obtener la victoria
+{EMT_VICTORY_IRELAND}El reino de Lothlórien ha logrado obtener la victoria
+{EMT_VICTORY_PORTUGAL}Los remanentes de Angmar han logrado obtener la victoria
+{EMT_VICTORY_POLAND}La Sombra del Bosque Negro ha logrado obtener la victoria
+{EMT_VICTORY_BYZANTIUM}The Vintner Court of Dorwinion are Victorious
+{EMT_VICTORY_MOORS}Los enanos han logrado obtener la victoria
+{EMT_VICTORY_RUSSIA}Los Ar-Adûnâim han logrado obtener la victoria
+{EMT_VICTORY_SPAIN}Los Haradrim ha logrado obtener la victoria
+{EMT_VICTORY_HUNGARY}Los enanos ha logrado obtener la victoria
+{EMT_VICTORY_SLAVE}Los reinos independientes han logrado obtener la victoria
+{EMT_VICTORY_DESCR_SLAVE}<<< PLACEHOLDER TEXT >>>
+{EMT_DEFEATED_BY_SLAVE}<<< PLACEHOLDER TEXT >>>
+{VENICE_STRENGTH} Well-Rounded Faction \n Fiery Missiles \n Dragon relics\n Unite the Tribes
+{VENICE_WEAKNESS} Lôke-Innas Rim\n Süri'ut Chariots\n Dragon's Wrath Swiftblades
+{SICILY_STRENGTH} Infantry Focused Faction\n Beacons of Gondor\n Large Starting Domain\n Denethor's madness
+{SICILY_WEAKNESS} Fountain Guard\n Osgiliath Veterans\n Ithilien Rangers \n Trebuchets\n Knights of Anorien
+{MILAN_STRENGTH} Cavalry Focused Faction\n Dwarves of the Glittering Caves\n Gondorian reinforcements\n Powerful Enemy
+{MILAN_WEAKNESS} Royal Guard\n Meduseld Doorwards\n Guard of the Caves
+{PAPAL_STATES_STRENGTH} Useful for AI only campaigns\n\nSelect only this faction and enter the command 'control papal_states' or Press CTRL+SHIFT+A to relinquish control of the Papal States to the AI.
+{PAPAL_STATES_WEAKNESS} Not playable
+{DENMARK_STRENGTH} Centrada en infantería\nCaballería pesada excelente\nUnidades caras\nMúltiples enemigos
+{DENMARK_WEAKNESS} Caballeros del cisne de plata\nCaballeros de Tirith Aear\nCaballeros de Edhellond\nTrebuchets
+{SCOTLAND_STRENGTH} Centrada en proyectiles\nBuenos arqueros\nLista de unidades versatil\nEconomía inicial muy pobre
+{SCOTLAND_WEAKNESS} Hearthguard\n Earls\n Athala Rangers\n Aihwothiuda Horseguards\n Barding Hird
+{AZTECS_STRENGTH} Infantry Focused Faction\n Isengard influence\n Custom bodyguards\n Raiding\n Reforms
+{AZTECS_WEAKNESS} Wulfingir\n Frekkalingir
+{MONGOLS_STRENGTH} Ranged Focused Faction\n Excellent Archers\n Eryn Lasgalen Creation\n Very Slow Recruitment
+{MONGOLS_WEAKNESS} Hin e-Daur\nAredhirith\nEnts
+{TURKS_STRENGTH} Ranged Focused Faction\n Aragorn's journey\n Beacon of Hope Recruitment System\n Arnor restoration & Reunited Kingdom\n Gandalf
+{TURKS_WEAKNESS} Dúnedain Steelbowmen\n Arthedain Royal Guard\n Dúnedain Rangers\n Sons of Númenor
+{FRANCE_STRENGTH} Infantry Focused Faction\n Well-Armoured Roster\n One Ring Mechanics\n Fangorn Deforestation\n Scouring of the Shire
+{FRANCE_WEAKNESS} Orthanc Guard\n Nazg-hai\n Berserkers
+{HRE_STRENGTH} Khazad-dûm Expedition\n Cheap Units\n Very Large Unit Size \n Monster and Siege Units \n Bonuses to Looting and Raiding
+{HRE_WEAKNESS} Azog's Defilers\n Mountain Uruks\n Flame Wrangler\n Drummers of the Deep\n Warg Pack\n Cave Trolls
+{GUNDABAD_STRENGTH} Infantry Focused Faction\n Strong Offensive Units\n Scavenged Dwarven Armour\n Can Subjugate Other Orcs
+{GUNDABAD_WEAKNESS} Bolg's Champions\n Snow Trolls\n Pale Uruks\n Half-Trolls\n Orc Avengers
+{ENGLAND_STRENGTH} Infantry Focused Faction\n Strong Starting Settlements\n Sauron’s Return\n Respawning Nazgûl
+{ENGLAND_WEAKNESS} Temple Knights\n Olog-Hai\n Great Beasts\n Morgul units
+{TEUTONIC_ORDER_STRENGTH} Ranged Focused Faction\n Poor Melee Units\n Strong Javelin Units\n Ambush Specialists
+{TEUTONIC_ORDER_WEAKNESS} Guardians of Enedwaith\n Foresters of Haleth\n War Wagons\n War Maidens
+{IRELAND_STRENGTH} Ranged Focused Faction\n Generally Strong Roster\n Eryn Lasgalen Creation\n Very Slow Recruitment\n Rumil and Orophin
+{IRELAND_WEAKNESS} Berio-I-Ngelaidh\nGûrveleg\nEnts
+{PORTUGAL_STRENGTH} Well-Rounded Faction\n The Witch-king of Angmar\n Multiple Enemies\n Armour Piercing Specialists
+{PORTUGAL_WEAKNESS} Guardians of Carn Dûm \n Barrow-Wights\n Darkblades\n Northguard
+{POLAND_STRENGTH} Ranged Focused Faction\n Poisoned Missiles\n Úlairi Generals\n Spiders
+{POLAND_WEAKNESS} Castellans of Dol Guldur\n Goblin Headhunters\n Khamûl’s Shadow Rangers\n Spiders
+{BYZANTIUM_STRENGTH} Well-Rounded Faction\n Avari\n Strong Economy\n Kantor buildings\n Regentsmen Reforms
+{BYZANTIUM_WEAKNESS} Grapevine-Lancers\n Vintner-Court Nobles\n Avarin Heruvi\n Kugathi Rátha
+{MOORS_STRENGTH} Infantry Focused Faction\n Strong Offensive Units and Morale \n Strong Enemies \n No Dedicated Cavalry\n Dwarven Grudges
+{MOORS_WEAKNESS} Matadragones\nGuardia de hierro\nGuardia de hacheros de Erebor\nCatapulta enana
+{RUSSIA_STRENGTH} Infantry Focused Faction\n Restricted Cavalry Recruitment\n Begins as a Horde\n Subjugation Recruitment System\n Pillar of Umbar
+{RUSSIA_WEAKNESS} Naru n'Aru Royal Guard\n Naru n'Aru Royal Knights\n Ar-Pharazôn's Faithful\n Alcarondas Sunderers
+{SPAIN_STRENGTH} Hasharii Assassins\n Strong Offensive Units\n Unite the Tribes\n Empire of the Haradwaith\n Landmark Buildings\n Poorly Armoured Units
+{SPAIN_WEAKNESS} Mûmakil\n Troll-Men Champions\n Serpent Guard\n Hasharii Shadows
+{HUNGARY_STRENGTH} Infantry Focused faction\n Excellent Pikemen and Crossbowmen \n Safe Starting Location\n No Dedicated Cavalry\n Dwarven Rings Choice\n Dwarven Relics
+{HUNGARY_WEAKNESS} Broadbeam Marksmen\n Grimborn Reavers\n Gabilgathol Guard\n Azaghâl's Tomb Protectors
+{TIMURIDS_STRENGTH} Skin-Changers\n Multiple Enemies\n Strong Bodyguards\n Keep The Roads Safe \n Clear Mirkwood
+{TIMURIDS_WEAKNESS} Silvan Marchwardens \n Carrock Guard\n Greenwood Foresters\n Skin-Changers
+{SLAVE_STRENGTH}Las unidades que pueden reunir las fuerzas rebeldes dependen del lugar en que se encuentren.
+{SLAVE_WEAKNESS}Las unidades que pueden reunir las fuerzas rebeldes dependen del lugar en que se encuentren.
+{POPE_MISSION_SOURCE}El Señor Oscuro de Mordor
+{POPE_MISSION_GIVEN}El Señor Oscuro de Mordor tiene una misión para su lacayo
+{POPE_MISSION_SUCCESS}Has tenido éxito en la misión encargada por el Señor Oscuro de Mordor
+{POPE_MISSION_EXPIRE}La misión del Señor Oscuro de Mordor ha sido anulada
+{POPE_MISSION_FAIL}Has fracasado en la misión encargada por el Señor Oscuro de Mordor
+{COUNCIL_MISSION_SOURCE}Consejo de Guerra
+{COUNCIL_MISSION_GIVEN}Una Propuesta del Consejo de Guerra
+{COUNCIL_MISSION_SUCCESS}Éxito en la Propuesta del Consejo de Guerra
+{COUNCIL_MISSION_EXPIRE}Propuesta del Consejo de Guerra anulada
+{COUNCIL_MISSION_FAIL}Fracaso en la Propuesta del Consejo de Guerra
+{EXPLORERS_GUILD_MISSION_SOURCE}Gremio de Exploradores
+{EXPLORERS_GUILD_MISSION_GIVEN}Una Petición del Gremio de Exploradores
+{EXPLORERS_GUILD_MISSION_SUCCESS}Éxito en petición del Gremio de Exploradores
+{EXPLORERS_GUILD_MISSION_EXPIRE}Petición del Gremio de Exploradores anulada
+{EXPLORERS_GUILD_MISSION_FAIL}Fracaso en petición del Gremio de Exploradores
+{ASSASSINS_GUILD_MISSION_SOURCE}Gremio de Asesinos
+{ASSASSINS_GUILD_MISSION_GIVEN}Una Petición del Gremio de Asesinos
+{ASSASSINS_GUILD_MISSION_SUCCESS}Éxito en petición del Gremio de Asesinos
+{ASSASSINS_GUILD_MISSION_EXPIRE}Petición del Gremio de Asesinos anulada
+{ASSASSINS_GUILD_MISSION_FAIL}Fracaso en petición del Gremio de Asesinos
+{MERCHANTS_GUILD_MISSION_SOURCE}Gremio de Mercaderes
+{MERCHANTS_GUILD_MISSION_GIVEN}Una Petición del Gremio de Mercaderes
+{MERCHANTS_GUILD_MISSION_SUCCESS}Éxito en petición del Gremio de Mercaderes
+{MERCHANTS_GUILD_MISSION_EXPIRE}Petición del Gremio de Mercaderes anulada
+{MERCHANTS_GUILD_MISSION_FAIL}Fracaso en petición del Gremio de Mercaderes
+{MASONS_GUILD_MISSION_SOURCE}Gremio de Canteros
+{MASONS_GUILD_MISSION_GIVEN}Una Petición del Gremio de Canteros
+{MASONS_GUILD_MISSION_SUCCESS}Éxito en petición del Gremio de Canteros
+{MASONS_GUILD_MISSION_EXPIRE}Petición del Gremio de Canteros anulada
+{MASONS_GUILD_MISSION_FAIL}Fracaso en petición del Gremio de Canteros
+{FACTION_MISSION_GIVEN}Una misión para vuestra facción
+{FACTION_MISSION_SUCCESS}Éxito en misión de facción
+{FACTION_MISSION_EXPIRE}Misión de facción vencida
+{FACTION_MISSION_FAIL}Fracaso en misión de facción
+{LARGE_PAPAL_STANDING_PENALTY_DESCR}Vuestra reputación ante el Señor Oscuro de Mordor se ha resentido enormemente.
+{LARGE_PAPAL_STANDING_PENALTY_PRE_DESCR}Vuestra reputación ante el Señor Oscuro de Mordor se resentirá enormemente.
+{MED_PAPAL_STANDING_PENALTY_DESCR}Vuestra reputación ante el Señor Oscuro de Mordor se ha resentido considerablemente.
+{MED_PAPAL_STANDING_PENALTY_PRE_DESCR}Vuestra reputación ante el Señor Oscuro de Mordor se resentirá considerablemente.
+{SMALL_PAPAL_STANDING_PENALTY_DESCR}Vuestra reputación ante el Señor Oscuro de Mordor ya no es lo que era.
+{SMALL_PAPAL_STANDING_PENALTY_PRE_DESCR}Vuestra reputación ante el Señor Oscuro de Mordor no será lo que era.
+{SMALL_PAPAL_STANDING_REWARD_DESCR}Vuestra reputación ante el Señor Oscuro de Mordor ha mejorado levemente.
+{SMALL_PAPAL_STANDING_REWARD_PRE_DESCR}Vuestra reputación ante el Señor Oscuro de Mordor mejorará levemente.
+{MED_PAPAL_STANDING_REWARD_DESCR}Vuestra reputación ante el Señor Oscuro de Mordor ha mejorado.
+{MED_PAPAL_STANDING_REWARD_PRE_DESCR}Vuestra reputación ante el Señor Oscuro de Mordor mejorará.
+{LARGE_PAPAL_STANDING_REWARD_DESCR}Vuestra reputación ante el Señor Oscuro de Mordor ha mejorado considerablemente.
+{LARGE_PAPAL_STANDING_REWARD_PRE_DESCR}Vuestra reputación ante el Señor Oscuro de Mordor mejorará considerablemente.
+{HUGE_PAPAL_STANDING_REWARD_DESCR}Vuestra reputación ante el Señor Oscuro de Mordor ha mejorado enormemente.
+{HUGE_PAPAL_STANDING_REWARD_PRE_DESCR}Vuestra reputación ante el Señor Oscuro de Mordor mejorará enormemente.
+{VNV_ADORED_BY_POPE_DESCR}El Señor Oscuro de Mordor considera a vuestro líder uno de sus mayores aliados.
+{VNV_ADORED_BY_POPE_PRE_DESCR}Vuestro líder se convertirá en uno de los mayores aliados del Señor Oscuro de Mordor.
+{VNV_POPES_ENFORCER_DESCR}Vuestro líder es el Puño de Acero del Señor Oscuro de Mordor.
+{VNV_POPES_ENFORCER_PRE_DESCR}Vuestro líder va camino de convertirse en el Puño de Acero del Señor Oscuro de Mordor.
+{PLACE_OF_WORSHIP_REWARD_DESCR}El gremio de constructores ha construido un lugar de culto.
+{PLACE_OF_WORSHIP_REWARD_PRE_DESCR}El gremio de albañiles se ha ofrecido para construiros un lugar de culto.
+{MOD_MERCHANTS_GUILD_POINTS_REWARD_DESCR}El gremio de mercaderes os da las gracias.
+{MOD_MERCHANTS_GUILD_POINTS_REWARD_PRE_DESCR}El gremio de mercaderes os dará las gracias.
+{MOD_MERCHANTS_GUILD_POINTS_PENALTY_DESCR}El gremio de mercaderes os admira.
+{MOD_MERCHANTS_GUILD_POINTS_PENALTY_PRE_DESCR}El gremio de mercaderes os admirará.
+{MIN_MERCHANTS_GUILD_POINTS_REWARD_DESCR}El gremio de mercaderes agradece vuestros esfuerzos.
+{MIN_MERCHANTS_GUILD_POINTS_REWARD_PRE_DESCR}El gremio de mercaderes agradecerá vuestros esfuerzos.
+{MIN_MERCHANTS_GUILD_POINTS_PENALTY_DESCR}Habéis decepcionado al gremio de mercaderes.
+{MIN_MERCHANTS_GUILD_POINTS_PENALTY_PRE_DESCR}Decepcionaréis al gremio de mercaderes.
+{MAJOR_EXPLORERS_GUILD_POINTS_REWARD_DESCR}El gremio de exploradores está muy contento con vos.
+{MAJOR_EXPLORERS_GUILD_POINTS_REWARD_PRE_DESCR}El gremio de exploradores estará muy contento con vos.
+{MAJOR_EXPLORERS_GUILD_POINTS_PENALTY_DESCR}Habéis decepcionado en gran medida al gremio de exploradores.
+{MAJOR_EXPLORERS_GUILD_POINTS_PENALTY_PRE_DESCR}Decepcionaréis en gran medida al gremio de exploradores.
+{MIN_ASSASSINS_GUILD_POINTS_REWARD_DESCR}El gremio de asesinos agradece vuestros esfuerzos.
+{MIN_ASSASSINS_GUILD_POINTS_REWARD_PRE_DESCR}El gremio de asesinos os ignora a pesar de con vuestros inútiles esfuerzos.
+{MIN_ASSASSINS_GUILD_POINTS_PENALTY_PRE_DESCR}No vais a impresionar con vuestros esfuerzos al gremio de asesinos.
+{FACTION_STANDING_REWARD_DESCR}Habéis mejorado estrechado lazos con esta facción.
+{FACTION_STANDING_REWARD_PRE_DESCR}Mejoraréis las relaciones con esta facción.
+{FACTION_STANDING_PENALTY_DESCR}Habéis defraudado a esta facción.
+{FACTION_STANDING_PENALTY_PRE_DESCR}Decepcionaréis a esta facción.
+{EMT_WEATHER_PATTERN_CLEAR}Despejado
+{EMT_WEATHER_PATTERN_CLEAR_ARID}Despejado
+{EMT_WEATHER_PATTERN_CLEAR_WINTER}Despejado
+{EMT_WEATHER_PATTERN_RAIN}Lluvia
+{EMT_WEATHER_PATTERN_STORM}Tormenta
+{EMT_WEATHER_PATTERN_SNOW}Nieve
+{EMT_WEATHER_PATTERN_BLIZZARD}Ventisca
+{EMT_WEATHER_PATTERN_CLOUDY}Nublado
+{EMT_WEATHER_PATTERN_CLOUDY_ARID}Nublado
+{EMT_WEATHER_PATTERN_CLOUDY_WINTER}Nublado
+{EMT_WEATHER_PATTERN_LIGHT_FOG}Niebla suave
+{EMT_WEATHER_PATTERN_HEAVY_FOG}Niebla densa
+{EMT_WEATHER_PATTERN_FORODWAITH}Forodwaith
+{EMT_WEATHER_PATTERN_MORDOR}Mordor
+{EMT_WEATHER_PATTERN_LIGHT_FOG_WINTER}Niebla suave
+{EMT_WEATHER_PATTERN_HEAVY_FOG_WINTER}Niebla densa
+{EMT_WEATHER_PATTERN_MORIA}Montañas
+{EMT_WEATHER_PATTERN_DUSTY}Tormenta de arena
+{ENGLAND_UNIT}Olog-Hai
+{TEUTONIC_ORDER_UNIT}Forestales de Haleth
+{IRELAND_UNIT}Mariscales de Lórien
+{SCOTLAND_UNIT}Tiradones bardinos
+{FRANCE_UNIT}Troles de la mano blanca
+{HRE_UNIT}Troles de cueva
+{SPAIN_UNIT}Mûmakil
+{VENICE_UNIT}Lôke-Innas Rim
+{SICILY_UNIT}Guardia de la fuente
+{MILAN_UNIT}Guardia real
+{BYZANTIUM_UNIT}Piqueros avari
+{RUSSIA_UNIT}Guardia real Naru n'Aru
+{MOORS_UNIT}Matadragones de las Ered Mithrin
+{TURKS_UNIT}Arqueros con arco de acero dúnedain
+{DENMARK_UNIT}Caballeros del cisne de plata
+{PORTUGAL_UNIT}Troles de las nieves
+{POLAND_UNIT}Castellanos de Dol Guldur
+{HUNGARY_UNIT}Guardia Martillo dorada
+{PAPAL_STATES_UNIT}Boca de Sauron
+{AZTECS_UNIT}Isendraich Towersworn
+{MONGOLS_UNIT}Hin e-Daur
+{TIMURIDS_UNIT}Caballería éothéod
+{EMT_ARMOUR_LEVEL_0}Ninguno
+{EMT_ARMOUR_LEVEL_1}Cuero mejorado
+{EMT_ARMOUR_LEVEL_2}Cuero maestro
+{EMT_ARMOUR_LEVEL_3}Hierro mejorado
+{EMT_ARMOUR_LEVEL_4}Acero mejorado
+{EMT_ARMOUR_LEVEL_5}Acero superior
+{EMT_ARMOUR_LEVEL_6}Tecnología avanzada
+{EMT_ARMOUR_LEVEL_7}Tecnología maestra
+¬{EMT_SOUTHERN_EUROPEAN_ARMOUR_LEVEL_1}Improved Leather-craft
+¬{EMT_SOUTHERN_EUROPEAN_ARMOUR_LEVEL_2}Master Leather-craft
+¬{EMT_SOUTHERN_EUROPEAN_ARMOUR_LEVEL_3}Improved Iron
+¬{EMT_SOUTHERN_EUROPEAN_ARMOUR_LEVEL_4}Improved Steel
+¬{EMT_SOUTHERN_EUROPEAN_ARMOUR_LEVEL_5}Telcharin Craft
+¬{EMT_SOUTHERN_EUROPEAN_ARMOUR_LEVEL_6}Aulëan Craft
+¬{EMT_SOUTHERN_EUROPEAN_ARMOUR_LEVEL_7}Mithril Craft
+¬{EMT_GREEK_ARMOUR_LEVEL_3}Elven Iron-craft
+¬{EMT_GREEK_ARMOUR_LEVEL_4}Elven Steel-craft
+¬{EMT_GREEK_ARMOUR_LEVEL_5}Noldorin Craft
+¬{EMT_GREEK_ARMOUR_LEVEL_6}Celebrimborian Craft
+¬{EMT_SCOTLAND_ARMOUR_LEVEL_4}Dwarven Crafted
+¬{EMT_MILAN_ARMOUR_LEVEL_4}Master Crafted
+¬{EMT_KHAND_ARMOUR_LEVEL_4}Tribal Master craft
+¬{EMT_SPAIN_ARMOUR_LEVEL_4}Tribal Master craft
+¬{EMT_ENGLAND_ARMOUR_LEVEL_4}Morgul Craft
+¬{EMT_POLAND_ARMOUR_LEVEL_4}Morgul Craft
+¬{EMT_HRE_ARMOUR_LEVEL_4}Morgul Craft
+¬{EMT_GUNDABAD_ARMOUR_LEVEL_4}Scavenged Dwarven Craft
+¬{EMT_FRANCE_ARMOUR_LEVEL_5}White Hand Craft
+¬{EMT_PORTUGAL_ARMOUR_LEVEL_5}Black-Iron Crafted
+¬{EMT_BYZANTIUM_ARMOUR_LEVEL_5}Avarin Crafted
+¬{EMT_VENICE_ARMOUR_LEVEL_5}Master crafted
+¬{EMT_RUSSIA_ARMOUR_LEVEL_5}Númenórean Craft
+¬{EMT_SICILY_ARMOUR_LEVEL_5}Dúnedain Craft
+¬{EMT_DENMARK_ARMOUR_LEVEL_5}Dúnedain Craft
+¬{EMT_TURKS_ARMOUR_LEVEL_5}Dúnedain Craft
+¬{EMT_RUSSIA_ARMOUR_LEVEL_6}Advanced Tech
+¬{EMT_SICILY_ARMOUR_LEVEL_6}Advanced Tech
+¬{EMT_DENMARK_ARMOUR_LEVEL_6}Advanced Tech
+¬{EMT_TURKS_ARMOUR_LEVEL_6}Númenórean Craft
+{EMT_GONDOR_PRIEST}Sacerdote
+{EMT_GONDOR_PRIEST_1}Obispo
+{EMT_GONDOR_PRIEST_2}Cardenal
+{Khazad}Khazad-dûm
+{East_Moria}Khazad-dûm East
+{West_Moria}Khazad-dûm West
+{Morgul-Vale}Minas Morgul
+{Minas-Ithil}Minas Ithil
+{Deep-Mirkwood}Dol Guldur
+{Goblin-town}Ciudad de los Trasgos
+{High-Pass}Paso Alto
+{Amon-Lanc}Amon Lanc
+{Gorthad}Tyrn Goerthaid
+{Fornost}Fornost Erain
+{East_Moria_Goblins}Moria East
+{West_Moria_Goblins}Moria West
+
+{IC_TAKE_SOURCE}Executive order from Orthanc
+{isengard_rohan_mission_EXPIRY_ALLIED}An alliance has been forged with this settlement, the Tower of Orthanc no longer requires you to take it.
+{isengard_rohan_mission_EXPIRY_LOST}Another has taken this settlement, the Tower of Orthanc no longer requires you to take it.
+{isengard_rohan_mission_FAILURE}You have failed to take this settlement; the White Wizard is disappointed with this lack of ambition.
+{isengard_rohan_mission_PROPOSAL}The Wizard Saruman asks us to launch an attack into the land of the Horse lords, which could not fit our interests better. For are they not our hated enemies that stole our land, and many in our tribes are yet filled with revenge for Wulf and for our ancestors. The task is clear, we storm the Westfold over the river Isen and take the city that lies there. Then one day, maybe just maybe we may yet see another Dunlending in the Golden Hall of Meduseld.
+{isengard_rohan_mission_SUCCESS}Congratulations, you have successfully taken this settlement; the White Wizard is pleased.
+{isengard_rohan_mission_TITLE}Take Rohirric Settlement
+{isengard_enedwaith_mission_EXPIRY_ALLIED}An alliance has been forged with this settlement, the Tower of Orthanc no longer requires you to take it.
+{isengard_enedwaith_mission_EXPIRY_LOST}Another has taken this settlement, the Tower of Orthanc no longer requires you to take it.
+{isengard_enedwaith_mission_FAILURE}You have failed to take this settlement; the White Wizard is disappointed with this lack of ambition.
+{isengard_enedwaith_mission_PROPOSAL}The Wizard Saruman asks us to launch an attack into the neighboring lands of our kin, the Hîrwaith. According to his spies, the elders there are gathering a host. A host, he says, that will soon cross into the lands of our ancestors and defile our people. It is hard to believe, I know, but if what he speaks is true, we would be foolish to sit idly by and let them strike first. The Huntmasters have been consulted but their divinations are clouded and murky. The future is unclear. Whatever you decide, Chieftain, decide carefully. Once this path to war is trod, there is likely no turning back.
+{isengard_enedwaith_mission_SUCCESS}Congratulations, you have successfully taken this settlement; the White Wizard is pleased.
+{isengard_enedwaith_mission_TITLE}Take Enedwaith Settlement
+{isengard_gondor_mission_EXPIRY_ALLIED}An alliance has been forged with this settlement, the Tower of Orthanc no longer requires you to take it.
+{isengard_gondor_mission_EXPIRY_LOST}Another has taken this settlement, the Tower of Orthanc no longer requires you to take it.
+{isengard_gondor_mission_FAILURE}You have failed to take this settlement; the White Wizard is disappointed with this lack of ambition.
+{isengard_gondor_mission_PROPOSAL}The Wizard Saruman asks us to launch an attack into the lands of Gondor. Long have their people wallowed in the shadow of their ancestors. They devote their time to petty politics and squabble over who can truly deal with the threat of the shadow that looms ever closer. Soon there will be another shadow, one cast by a horde of our people, flooding over the Isen into their Western lands. The White Tree shall burn and along with it, their women, their homes and any hope that still remains.
+{isengard_gondor_mission_SUCCESS}Congratulations, you have successfully taken this settlement; the White Wizard is pleased.
+{isengard_gondor_mission_TITLE}Take Gondorian Settlement
+
+{EMT_NORWAY_SPY}Espía de Khazad-dûm
+{EMT_NORWAY_ASSASSIN}Asesino de Khazad-dûm
+{EMT_NORWAY_DIPLOMAT}Diplomático de Khazad-dûm
+{EMT_NORWAY_ADMIRAL}Armada de Khazad-dûm
+{EMT_NORWAY_GENERAL}Ejército de Khazad-dûm
+{EMT_NORWAY_NAMED_CHARACTER_4}Tharkûn
+{EMT_NORWAY_NAMED_GENERAL_4}Tharkûn
+{EMT_NORWAY_NAMED_CHARACTER}Miembro de familia de Khazad-dûm
+{EMT_NORWAY_NAMED_GENERAL}General de Khazad-dûm
+{EMT_NORWAY_PRINCESS}Princesa de Khazad-dûm
+{EMT_NORWAY_MERCHANT}Mercander de Khazad-dûm
+{EMT_NORWAY_PRIEST}Sacerdote de Khazad-dûm
+{EMT_NORWAY_PRIEST_1}Obispo de Khazad-dûm
+{EMT_NORWAY_PRIEST_2}Cardenal de Khazad-dûm
+{EMT_NORWAY_VILLAGE}Aldea de Khazad-dûm
+{EMT_NORWAY_TOWN}Pueblo de Khazad-dûm
+{EMT_NORWAY_LARGE_TOWN}Pueblo grande de Khazad-dûm
+{EMT_NORWAY_CITY}Ciudad de Khazad-dûm
+{EMT_NORWAY_LARGE_CITY}Ciudad grande de Khazad-dûm
+{EMT_NORWAY_HUGE_CITY}Ciudad enorme de Khazad-dûm
+{EMT_NORWAY_WOODEN_CASTLE}Mota y liza de Khazad-dûm
+{EMT_NORWAY_STONE_KEEP}Castillo de madera de Khazad-dûm
+{EMT_NORWAY_CASTLE}Castillo de Khazad-dûm
+{EMT_NORWAY_LARGE_CASTLE}Fortaleza de Khazad-dûm
+{EMT_NORWAY_FORTRESS}Ciudadela de Khazad-dûm
+{EMT_NORWAY_STAR_FORT}Fortaleza estrella de Khazad-dûm
+{EMT_NORWAY_CAPITAL}Capital de Khazad-dûm
+{EMT_NORWAY_FORT}Fuerte de Khazad-dûm
+{EMT_NORWAY_PORT}Puerto de Khazad-dûm
+{EMT_NORWAY_DOCK}Embarcaderos de Khazad-dûm
+{EMT_NORWAY_FISHING_VILLAGE}Aldea pesquera de Khazad-dûm
+{EMT_NORWAY_WATCHTOWER}Atalaya de Khazad-dûm
+{EMT_NORWAY_FACTION_LEADER}Líder de facción de Khazad-dûm
+{EMT_NORWAY_FACTION_HEIR}Heredero de facción de Khazad-dûm
+{EMT_NORWAY_FACTION_LEADER_TITLE}Alto Señor
+{EMT_NORWAY_FACTION_HEIR_TITLE}Señor
+{EMT_NORWAY_FACTION_LEADER_NAME}Alto Señor %S
+{EMT_NORWAY_FACTION_HEIR_NAME}Señor %S
+{EMT_NORWAY_FORMER_FACTION_LEADER_TITLE}Señor
+{EMT_YOUR_FORCES_ATTACK_ARMY_NORWAY}Tus fuerzas están atacando a un ejército de los enanos de Khazad-dûm
+{EMT_YOUR_FORCES_ATTACK_NAVY_NORWAY}Tus fuerzas están atacando a una armada de los enanos de Khazad-dûm
+{EMT_YOUR_FORCES_AMBUSH_ARMY_NORWAY}Tus fuerzas están emboscando a un ejército de los enanos de Khazad-dûm
+{EMT_YOUR_FORCES_ATTACKED_ARMY_NORWAY}Tus fuerzas han sido atacadas por un ejército de los enanos de Khazad-dûm
+{EMT_YOUR_FORCES_ATTACKED_NAVY_NORWAY}Tus fuerzas han sido atacadas por una armada de los enanos de Khazad-dûm
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_NORWAY}Tus fuerzas han sido emboscadas por un ejército de los enanos de Khazad-dûm
+{EMT_VICTORY_NORWAY}Los enanos de Khazad-dûm han logrado obtener la victoria
+{NORWAY_STRENGTH} Infantry Focused Faction\nExcellent Armour and Morale\nExplore and rebuild Khazad-dûm\nHail the seven Dwarven Clans\nExplore the Vault of Uruktharbūn
+{NORWAY_WEAKNESS} Legión Primera\nLegión de la Guardia Escudo\nGuardianes de Khazad-dûm\nCatapulta enana
+{NORWAY_UNIT}Legión Primera
+
+{EMT_NORMANS_SPY}Espía de Bree
+{EMT_NORMANS_ASSASSIN}Asesino de Bree
+{EMT_NORMANS_DIPLOMAT}Diplomático de Bree
+{EMT_NORMANS_ADMIRAL}Armada de Bree
+{EMT_NORMANS_GENERAL}Ejército de Bree
+{EMT_NORMANS_PRINCESS}Princesa de Bree
+{EMT_NORMANS_MERCHANT}Mercander de Bree
+{EMT_NORMANS_PRIEST}Sacerdote de Bree
+{EMT_NORMANS_PRIEST_1}Obispo de Bree
+{EMT_NORMANS_PRIEST_2}Cardenal de Bree
+{EMT_NORMANS_VILLAGE}Aldea de Bree
+{EMT_NORMANS_TOWN}Pueblo de Bree
+{EMT_NORMANS_LARGE_TOWN}Pueblo grande de Bree
+{EMT_NORMANS_CITY}Ciudad de Bree
+{EMT_NORMANS_LARGE_CITY}Ciudad grande de Bree
+{EMT_NORMANS_HUGE_CITY}Ciudad enorme de Bree
+{EMT_NORMANS_WOODEN_CASTLE}Mota y liza de Bree
+{EMT_NORMANS_STONE_KEEP}Castillo de madera de Bree
+{EMT_NORMANS_CASTLE}Castillo de Bree
+{EMT_NORMANS_LARGE_CASTLE}Fortaleza de Bree
+{EMT_NORMANS_FORTRESS}Ciudadela de Bree
+{EMT_NORMANS_STAR_FORT}Fortaleza estrella de Bree
+{EMT_NORMANS_CAPITAL}Capital de Bree
+{EMT_NORMANS_FORT}Fuerte de Bree
+{EMT_NORMANS_PORT}Puerto de Bree
+{EMT_NORMANS_DOCK}Embarcaderos de Bree
+{EMT_NORMANS_FISHING_VILLAGE}Aldea pesquera de Bree
+{EMT_NORMANS_WATCHTOWER}Atalaya de Bree
+{EMT_NORMANS_FACTION_LEADER}Bree-land's First Commander
+{EMT_NORMANS_FACTION_HEIR}Primer Capitán de la Guardia de Bree
+{EMT_NORMANS_FACTION_LEADER_TITLE}First Commander
+{EMT_NORMANS_FACTION_HEIR_TITLE}Primer Capitán de la Guardia
+{EMT_NORMANS_FACTION_LEADER_NAME}First Commander %S
+{EMT_NORMANS_FACTION_HEIR_NAME}Primer Capitán de la Guardia %S
+{EMT_NORMANS_FORMER_FACTION_LEADER_TITLE}First Commander
+{EMT_YOUR_FORCES_ATTACK_ARMY_NORMANS}Tus fuerzas están atacando a un ejército de Bree
+{EMT_YOUR_FORCES_ATTACK_NAVY_NORMANS}Tus fuerzas están atacando a una armada de Bree
+{EMT_YOUR_FORCES_AMBUSH_ARMY_NORMANS}Tus fuerzas están emboscando a un ejército de Bree
+{EMT_YOUR_FORCES_ATTACKED_ARMY_NORMANS}Tus fuerzas han sido atacadas por un ejército de Bree
+{EMT_YOUR_FORCES_ATTACKED_NAVY_NORMANS}Tus fuerzas han sido atacadas por una armada de Bree
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_NORMANS}Tus fuerzas han sido emboscadas por un ejército de Bree
+{EMT_VICTORY_NORMANS}Las gentes libres de Bree y la Comarca han logrado obtener la victoria
+{NORMANS_STRENGTH} Create A Custom Commander\nRebuild the Forsaken Inn\nScouring of the Shire\nRanged Focused Faction\nStrong Economy\nGenerally Weak Units\nMilitary-Mercantile Choice
+{NORMANS_WEAKNESS} Gate Keepers\nMerchant Infantry\nGreenway Riders\nShire Bounders
+{NORMANS_UNIT}Defensores de las puertas
+
+{EMT_GUNDABAD_SPY}Espía de los Orcos de Gundabad
+{EMT_GUNDABAD_ASSASSIN}Asesino de los Orcos de Gundabad
+{EMT_GUNDABAD_DIPLOMAT}Snow-Orc Emissary
+{EMT_GUNDABAD_ADMIRAL}Armada de los Orcos de Gundabad
+{EMT_GUNDABAD_GENERAL}Ejército de los Orcos de Gundabad
+{EMT_GUNDABAD_NAMED_CHARACTER}Miembro de familia de los Orcos de Gundabad
+{EMT_GUNDABAD_NAMED_GENERAL}General de los Orcos de Gundabad
+{EMT_GUNDABAD_PRINCESS}Princesa de los Orcos de Gundabad
+{EMT_GUNDABAD_MERCHANT}Mercander de los Orcos de Gundabad
+{EMT_GUNDABAD_PRIEST}Sacerdote de los Orcos de Gundabad
+{EMT_GUNDABAD_PRIEST_1}Obispo de los Orcos de Gundabad
+{EMT_GUNDABAD_PRIEST_2}Cardenal de los Orcos de Gundabad
+{EMT_GUNDABAD_VILLAGE}Aldea de los Orcos de Gundabad
+{EMT_GUNDABAD_TOWN}Pueblo de los Orcos de Gundabad
+{EMT_GUNDABAD_LARGE_TOWN}Pueblo grande de los Orcos de Gundabad
+{EMT_GUNDABAD_CITY}Ciudad de los Orcos de Gundabad
+{EMT_GUNDABAD_LARGE_CITY}Ciudad grande de los Orcos de Gundabad
+{EMT_GUNDABAD_HUGE_CITY}Ciudad enorme de los Orcos de Gundabad
+{EMT_GUNDABAD_WOODEN_CASTLE}Mota y liza de los Orcos de Gundabad
+{EMT_GUNDABAD_STONE_KEEP}Castillo de madera de los Orcos de Gundabad
+{EMT_GUNDABAD_CASTLE}Castillo de los Orcos de Gundabad
+{EMT_GUNDABAD_LARGE_CASTLE}Fortaleza de los Orcos de Gundabad
+{EMT_GUNDABAD_FORTRESS}Ciudadela de los Orcos de Gundabad
+{EMT_GUNDABAD_STAR_FORT}Fortaleza estrella de los Orcos de Gundabad
+{EMT_GUNDABAD_CAPITAL}Capital de los Orcos de Gundabad
+{EMT_GUNDABAD_FORT}Fuerte de los Orcos de Gundabad
+{EMT_GUNDABAD_PORT}Puerto de los Orcos de Gundabad
+{EMT_GUNDABAD_DOCK}Embarcaderos de los Orcos de Gundabad
+{EMT_GUNDABAD_FISHING_VILLAGE}Aldea pesquera de los Orcos de Gundabad
+{EMT_GUNDABAD_WATCHTOWER}Atalaya de los Orcos de Gundabad
+{EMT_GUNDABAD_FACTION_LEADER}Líder de facción de los Orcos de Gundabad
+{EMT_GUNDABAD_FACTION_HEIR}Heredero de facción de los Orcos de Gundabad
+{EMT_GUNDABAD_FACTION_LEADER_TITLE}Líder de facción
+{EMT_GUNDABAD_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_GUNDABAD_FACTION_LEADER_NAME}Rey %S
+{EMT_GUNDABAD_FACTION_HEIR_NAME}Jefe Merodeador %S
+{EMT_GUNDABAD_FORMER_FACTION_LEADER_TITLE}Señor de la Guerra
+{EMT_YOUR_FORCES_ATTACK_ARMY_GUNDABAD}Tus fuerzas están atacando a un ejército de los Orcos de Gundabad
+{EMT_YOUR_FORCES_ATTACK_NAVY_GUNDABAD}Tus fuerzas están atacando a una armada de los Orcos de Gundabad
+{EMT_YOUR_FORCES_AMBUSH_ARMY_GUNDABAD}Tus fuerzas están emboscando a un ejército de los Orcos de Gundabad
+{EMT_YOUR_FORCES_ATTACKED_ARMY_GUNDABAD}Tus fuerzas han sido atacadas por un ejército de los Orcos de Gundabad
+{EMT_YOUR_FORCES_ATTACKED_NAVY_GUNDABAD}Tus fuerzas han sido atacadas por una armada de los Orcos de Gundabad
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_GUNDABAD}Tus fuerzas han sido emboscadas por un ejército de los Orcos de Gundabad
+{EMT_VICTORY_GUNDABAD}Los Orcos de Gundabad han logrado obtener la victoria
+{ENTS_STRENGTH}Unidad principal extremadamente fuerte.
+{ENTS_WEAKNESS}Unidades de una sola entidad, recrutamiento limitado.
+{ENTS_UNIT}Ents
+
+{EMT_KHAND_SPY}Espía de los Variag de Khand
+{EMT_KHAND_ASSASSIN}Asesino de los Variag de Khand
+{EMT_KHAND_DIPLOMAT}Diplomático de los Variag de Khand
+{EMT_KHAND_ADMIRAL}Armada de los Variag de Khand
+{EMT_KHAND_GENERAL}Ejército de los Variag de Khand
+{EMT_KHAND_NAMED_CHARACTER}Miembro de familia de los Variag de Khand
+{EMT_KHAND_NAMED_GENERAL}General de los Variag de Khand
+{EMT_KHAND_PRINCESS}Princesa de los Variag de Khand
+{EMT_KHAND_MERCHANT}Mercander de los Variag de Khand
+{EMT_KHAND_PRIEST}Sacerdote de los Variag de Khand
+{EMT_KHAND_PRIEST_1}Obispo de los Variag de Khand
+{EMT_KHAND_PRIEST_2}Cardenal de los Variag de Khand
+{EMT_KHAND_VILLAGE}Aldea de los Variag de Khand
+{EMT_KHAND_TOWN}Pueblo de los Variag de Khand
+{EMT_KHAND_LARGE_TOWN}Pueblo grande de los Variag de Khand
+{EMT_KHAND_CITY}Ciudad de los Variag de Khand
+{EMT_KHAND_LARGE_CITY}Ciudad grande de los Variag de Khand
+{EMT_KHAND_HUGE_CITY}Ciudad enorme de los Variag de Khand
+{EMT_KHAND_WOODEN_CASTLE}Mota y liza de los Variag de Khand
+{EMT_KHAND_STONE_KEEP}Castillo de madera de los Variag de Khand
+{EMT_KHAND_CASTLE}Castillo de los Variag de Khand
+{EMT_KHAND_LARGE_CASTLE}Fortaleza de los Variag de Khand
+{EMT_KHAND_FORTRESS}Ciudadela de los Variag de Khand
+{EMT_KHAND_STAR_FORT}Fortaleza estrella de los Variag de Khand
+{EMT_KHAND_CAPITAL}Capital de los Variag de Khand
+{EMT_KHAND_FORT}Fuerte de los Variag de Khand
+{EMT_KHAND_PORT}Puerto de los Variag de Khand
+{EMT_KHAND_DOCK}Embarcaderos de los Variag de Khand
+{EMT_KHAND_FISHING_VILLAGE}Aldea pesquera de los Variag de Khand
+{EMT_KHAND_WATCHTOWER}Atalaya de los Variag de Khand
+{EMT_KHAND_FACTION_LEADER}Líder de facción de los Variag de Khand
+{EMT_KHAND_FACTION_HEIR}Heredero de facción de los Variag de Khand
+{EMT_KHAND_FACTION_LEADER_TITLE}Líder de facción
+{EMT_KHAND_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_KHAND_FACTION_LEADER_NAME}Great Khan %S
+{EMT_KHAND_FACTION_HEIR_NAME}Señor de la Guerra %S
+{EMT_KHAND_FORMER_FACTION_LEADER_TITLE}Señor de la Guerra
+{EMT_YOUR_FORCES_ATTACK_ARMY_KHAND}Tus fuerzas están atacando a un ejército de los Variags de Khand
+{EMT_YOUR_FORCES_ATTACK_NAVY_KHAND}Tus fuerzas están atacando a una armada de los Variags de Khand
+{EMT_YOUR_FORCES_AMBUSH_ARMY_KHAND}Tus fuerzas están emboscando a un ejército de los Variags de Khand
+{EMT_YOUR_FORCES_ATTACKED_ARMY_KHAND}Tus fuerzas han sido atacadas por un ejército de los Variags de Khand
+{EMT_YOUR_FORCES_ATTACKED_NAVY_KHAND}Tus fuerzas han sido atacadas por una armada de los Variags de Khand
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_KHAND}Tus fuerzas han sido emboscadas por un ejército de los Variags de Khand
+{EMT_VICTORY_KHAND}Los Variags de Khand han logrado obtener la victoria
+{KHAND_STRENGTH} Centrada en caballería\nFuertes arqueros a caballo\nTerritorio inicial seguro\nElección del los Magos Azules
+{KHAND_WEAKNESS} Windriders of Khand\n Warlord's Kataphracts\n Warlord's Kataphract Archers\n Variag Veterans
+{KHAND_UNIT}Hermandad del arco
+
+{EMT_UNITED_SPY}Espía del Reino Reunido
+{EMT_UNITED_ASSASSIN}Asesino del Reino Reunido
+{EMT_UNITED_DIPLOMAT}Diplomático del Reino Reunido
+{EMT_UNITED_ADMIRAL}Armada del Reino Reunido
+{EMT_UNITED_GENERAL}Ejército del Reino Reunido
+{EMT_UNITED_NAMED_CHARACTER}Miembro de familia del Reino Reunido
+{EMT_UNITED_NAMED_GENERAL}General del Reino Reunido
+{EMT_UNITED_PRINCESS}Princesa del Reino Reunido
+{EMT_UNITED_MERCHANT}Mercander del Reino Reunido
+{EMT_UNITED_PRIEST}Sacerdote del Reino Reunido
+{EMT_UNITED_PRIEST_1}Obispo del Reino Reunido
+{EMT_UNITED_PRIEST_2}Cardenal del Reino Reunido
+{EMT_UNITED_VILLAGE}Aldea del Reino Reunido
+{EMT_UNITED_TOWN}Pueblo del Reino Reunido
+{EMT_UNITED_LARGE_TOWN}Pueblo grande del Reino Reunido
+{EMT_UNITED_CITY}Ciudad del Reino Reunido
+{EMT_UNITED_LARGE_CITY}Ciudad grande del Reino Reunido
+{EMT_UNITED_HUGE_CITY}Ciudad enorme del Reino Reunido
+{EMT_UNITED_WOODEN_CASTLE}Mota y liza del Reino Reunido
+{EMT_UNITED_STONE_KEEP}Castillo de madera del Reino Reunido
+{EMT_UNITED_CASTLE}Castillo del Reino Reunido
+{EMT_UNITED_LARGE_CASTLE}Fortaleza del Reino Reunido
+{EMT_UNITED_FORTRESS}Ciudadela del Reino Reunido
+{EMT_UNITED_STAR_FORT}Fortaleza estrella del Reino Reunido
+{EMT_UNITED_CAPITAL}Capital del Reino Reunido
+{EMT_UNITED_FORT}Fuerte del Reino Reunido
+{EMT_UNITED_PORT}Puerto del Reino Reunido
+{EMT_UNITED_DOCK}Embarcaderos del Reino Reunido
+{EMT_UNITED_FISHING_VILLAGE}Aldea pesquera del Reino Reunido
+{EMT_UNITED_WATCHTOWER}Atalaya del Reino Reunido
+{EMT_UNITED_FACTION_LEADER}Líder de facción del Reino Reunido
+{EMT_UNITED_FACTION_HEIR}Heredero de facción del Reino Reunido
+{EMT_UNITED_FACTION_LEADER_TITLE}Líder de facción
+{EMT_UNITED_FACTION_HEIR_TITLE}Heredero de facción
+{EMT_UNITED_FACTION_LEADER_NAME}Alto Rey %S
+{EMT_UNITED_FACTION_HEIR_NAME}Señor %S
+{EMT_UNITED_FORMER_FACTION_LEADER_TITLE}Alto Rey
+{EMT_YOUR_FORCES_ATTACK_ARMY_UNITED}Tus fuerzas están atacando a un ejército del Reino Reunido
+{EMT_YOUR_FORCES_ATTACK_NAVY_UNITED}Tus fuerzas están atacando a una armada del Reino Reunido
+{EMT_YOUR_FORCES_AMBUSH_ARMY_UNITED}Tus fuerzas están emboscando a un ejército del Reino Reunido
+{EMT_YOUR_FORCES_ATTACKED_ARMY_UNITED}Tus fuerzas han sido atacadas por un ejército del Reino Reunido
+{EMT_YOUR_FORCES_ATTACKED_NAVY_UNITED}Tus fuerzas han sido atacadas por una armada del Reino Reunido
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_UNITED}Tus fuerzas han sido emboscadas por un ejército del Reino Reunido
+{EMT_VICTORY_UNITED}El Reino Reunido ha logrado obtener la victoria
+{UNITED_STRENGTH}Unidades generalmente buenas.
+{UNITED_WEAKNESS}Le falta todo al principio... porque le falta todo.
+{UNITED_UNIT}Guardia de la fuente
+
+{EMT_SAXONS_SPY}Explorador de los Altos Elfos
+{EMT_SAXONS_ASSASSIN}Asesino de los Altos Elfos
+{EMT_SAXONS_DIPLOMAT}Diplomático de los Altos Elfos
+{EMT_SAXONS_ADMIRAL}Armada de los Altos Elfos
+{EMT_SAXONS_GENERAL}Ejército de los Altos Elfos
+{EMT_SAXONS_NAMED_CHARACTER_3}Miembro de familia de los Altos Elfos
+{EMT_SAXONS_NAMED_CHARACTER_4}Miembro de familia de los Altos Elfos
+{EMT_SAXONS_NAMED_CHARACTER_5}Miembro de familia de los Altos Elfos
+{EMT_SAXONS_NAMED_CHARACTER}Miembro de familia de los Altos Elfos
+{EMT_SAXONS_NAMED_GENERAL}General de los Altos Elfos
+{EMT_SAXONS_PRINCESS}Princesa de los Altos Elfos
+{EMT_SAXONS_MERCHANT}Mercander de los Altos Elfos
+{EMT_SAXONS_PRIEST}Imam de los Altos Elfos
+{EMT_SAXONS_PRIEST_1}Gran imam de los Altos Elfos
+{EMT_SAXONS_PRIEST_2}Magnífico imam de los Altos Elfos
+{EMT_SAXONS_VILLAGE}Aldea de los Altos Elfos
+{EMT_SAXONS_TOWN}Pueblo de los Altos Elfos
+{EMT_SAXONS_LARGE_TOWN}Pueblo grande de los Altos Elfos
+{EMT_SAXONS_CITY}Ciudad de los Altos Elfos
+{EMT_SAXONS_LARGE_CITY}Ciudad grande de los Altos Elfos
+{EMT_SAXONS_HUGE_CITY}Ciudad enorme de los Altos Elfos
+{EMT_SAXONS_WOODEN_CASTLE}Mota y liza de los Altos Elfos
+{EMT_SAXONS_STONE_KEEP}Castillo de madera de los Altos Elfos
+{EMT_SAXONS_CASTLE}Castillo de los Altos Elfos
+{EMT_SAXONS_LARGE_CASTLE}Fortaleza de los Altos Elfos
+{EMT_SAXONS_FORTRESS}Ciudadela de los Altos Elfos
+{EMT_SAXONS_STAR_FORT}Fortaleza estrella de los Altos Elfos
+{EMT_SAXONS_CAPITAL}Capital de los Altos Elfos
+{EMT_SAXONS_FORT}Fuerte de los Altos Elfos
+{EMT_SAXONS_PORT}Puerto de los Altos Elfos
+{EMT_SAXONS_DOCK}Embarcaderos de los Altos Elfos
+{EMT_SAXONS_FISHING_VILLAGE}Aldea pesquera de los Altos Elfos
+{EMT_SAXONS_WATCHTOWER}Atalaya de los Altos Elfos
+{EMT_SAXONS_FACTION_LEADER}Líder de facción de los Altos Elfos
+{EMT_SAXONS_FACTION_HEIR}Heredero de facción de los Altos Elfos
+{EMT_SAXONS_FACTION_LEADER_TITLE}Alto Señor
+{EMT_SAXONS_FACTION_HEIR_TITLE}Señor
+{EMT_SAXONS_FACTION_LEADER_NAME}Alto Señor %S
+{EMT_SAXONS_FACTION_HEIR_NAME}Señor %S
+{EMT_SAXONS_FORMER_FACTION_LEADER_TITLE}Alto Señor
+{EMT_YOUR_FORCES_ATTACK_ARMY_SAXONS}Tus fuerzas están atacando a un ejército de los Altos Elfos
+{EMT_YOUR_FORCES_ATTACK_NAVY_SAXONS}Tus fuerzas están atacando a una armada de los Altos Elfos
+{EMT_YOUR_FORCES_AMBUSH_ARMY_SAXONS}Tus fuerzas están emboscando a un ejército de los Altos Elfos
+{EMT_YOUR_FORCES_ATTACKED_ARMY_SAXONS}Tus fuerzas han sido atacadas por un ejército de los Altos Elfos
+{EMT_YOUR_FORCES_ATTACKED_NAVY_SAXONS}Tus fuerzas han sido atacadas por una armada de los Altos Elfos
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_SAXONS}Tus fuerzas han sido emboscadas por un ejército de los Altos Elfos
+{EMT_VICTORY_SAXONS}Los Altos Elfos de Lindon e Imladris ha logrado obtener la victoria
+{SAXONS_STRENGTH} House of the Mírdain\n Glorfindel’s Uncloaking\n Elladan and Elrohir\n Galdor's Dream\n Strong but Expensive Roster\n Very Slow Recruitment
+{SAXONS_WEAKNESS} Mithlond Nobles\n Gwaith-i-Mírdain\n Eldarinwë Roquen
+{SAXONS_UNIT}Nobles de Mithlond

@@ -1,0 +1,44 @@
+¬
+{acquire}Clic derecho para adquirir los activos del mercader.
+{already_equipped}No se puede usar equipo de asedio mientras ya está equipado.
+{alt_to_set_rally_point}Mantén ALT y haz clic derecho para establecer un punto de reunión en esta posición.
+{armies_cannot_attack_navies}Los ejércitos no pueden atacar a las armadas.
+{armies_cannot_attack_ports}Los ejércitos no pueden atacar puertos.
+{armies_cannot_go_on_sea}Los ejércitos no pueden viajar por agua a menos que viajen en una flota naval.
+{artillery_cannot_sap}Las unidades de artillería no pueden pasar por puntos de zapadores.
+{assassination_mission}Haz clic derecho para asesinar al objetivo.
+{assassination_sabotage_mission}Haz clic derecho para elegir una misión de asesinato o sabotaje.
+{attack_from_settlement}Haz clic derecho para atacar al enemigo con toda la guarnición.
+{cannot_attack_rome_yet}IF YOU CAN SEE THIS THERE'S SOMETHING WRONG - TELL DAN T YOU SAW A cursor_action_tooltip PROBLEM.
+{cannot_enter_sieged_fort}No se puede entrar en fuertes bajo asedio.
+{cannot_enter_sieged_settlement}No se puede entrar en asentamientos bajo asedio.
+{cannot_break_alliance}¡No se puede atacar a los aliados! Primero debe enviar un diplomático e informarles de sus malas intenciones.
+{cannot_leave_settlement}No es posible abandonar un asentamiento o fuerte bajo asedio.
+{cannot_perform_mission}No se puede realizar la misión en este personaje.
+{cannot_perform_mission_on_sieged_fort}No se pueden realizar misiones en fuertes bajo asedio.
+{cannot_perform_mission_on_sieged_settlement}No puede realizar misiones en asentamientos bajo asedio.
+{cannot_select_enemy_piece}Esto pertenece a otra facción.
+{cannot_set_rally_point_on_enemy}No se puede establecer un punto de reunión en una posición enemiga.
+{cavalry_cannot_sap}Las unidades de caballería no pueden pasar por puntos de zapadores.
+{characters_cannot_go_on_sea}Los personajes no pueden viajar por agua a menos que viajen en una flota naval.
+{cowards_cannot_action}No se pueden dar órdenes a unidades en retirada.
+{denounce}Haga clic derecho para denunciar a este individuo blasfemo.
+{diplomacy_mission}Haga clic derecho para entrar en negociaciones diplomáticas.
+{disembark_army}Haz clic derecho para desembarcar el ejército transportado.
+{embark_army}Haz clic derecho para transferir el ejército a esta flota.
+{embark_character}Haz clic botón derecho para agregar un personaje como pasajero en esta flota.
+{embark_character_in_port}Haz clic botón derecho para agregar un personaje como pasajero en la flota en este puerto.
+{enter_fort}Haz clic derecho para moverte al fuerte.
+{enter_settlement}Haz clic derecho para moverte al asentamiento.
+{fleet_offshore}Para mover ejércitos a una flota, la flota debe estar al lado de una playa o puerto.
+{impassable_forest}Este bosque es intransitable. No puedes entrar en él.
+{impassable_mountains}Estas montañas son intransitable. No puedes entrar en ellas.
+{marry_diplomacy}Haz clic derecho para proponer matrimonio o entrar en negociaciones diplomáticas.
+{marry_merge}Haz clic derecho para proponer matrimonio o unirte a este ejército.
+{navies_cannot_attack_land_based}Las armadas no pueden atacar elementos terrestres.
+{navies_cannot_move_on_land}Las armadas no pueden moverse en tierra.
+{no_artillery_on_platforms}La artillería no se puede subir a las murallas.
+{no_cavalry_on_platforms}La caballería no se puede subir a las murallas.
+{no_equipment_on_platforms}El equipo de asedio no se puede subir a las murallas.
+{rclick_to_blockade}Haz clic derecho para bloquear el puerto.
+{spy_mission}Haga clic derecho para espiar al objetivo.

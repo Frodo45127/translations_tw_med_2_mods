@@ -1,0 +1,611 @@
+_THE ELDER SCROLLS: TOTAL WAR V 1.4
+
+
+_Mod Developed by:
+
+LoRdNazguL (3D, scripting, 2D art, texts, stratmap)
+
+DaedraWarrior (3D, 2D art, texts)
+
+
+
+
+
+_Special Thanks
+
+Forum "Imperial" team and personal - Dart Kovu Nazgul for help with organizing TESTW subforum
+
+Haktar - Imperial owner
+
+MWTW Team for their resources
+
+VIR for his stratmap tutorials
+
+TESTW 1.3 Unofficial Patch team for their resources
+
+Sengoku for creating launcher
+
+Bethesda Game Studios for creating best game series ever!
+
+
+
+_Resoruces from over mods, games, movies
+
+Rusichi: Total War
+
+Morrowind: Total War
+
+Retrofit Mod
+
+The Elder Scrolls II Daggerfall (music)
+
+The Elder Scrolls III Morrowind (music, textures)
+
+The Elder Scrolls IV Oblivion (music, textures)
+
+The Elder Scrolls V Skyrim (music, textures)
+
+The Elder Scrolls Online (music, art)
+
+Assassin's Creed II (music)
+
+Prince of Persia: The Two Thrones (music)
+
+Prince of Persia: Sands of Time the movie
+
+
+_THANKS FOR EVERYONE!
+
+The Elder Scrolls - Total War is a non commercial product, created by fans for fans. All rights to The Elder Scrolls series brand reserved by Bethesda Softworks
+
+
+
+
+
+
+
+
+
+
+
+_THE CREATIVE ASSEMBLY'S CREDITS:
+
+_THE CREATIVE ASSEMBLY, BRISBANE AUSTRALIA
+
+
+_Project Director & Lead Designer
+
+R.T. Smith
+
+
+_Design
+
+Penny Sweetser|Dan Toose
+
+Richard Lagarto|Dan Lehtonen
+
+
+_Programming
+
+Ken Turner
+
+Craig Allsop|Andriy Doroshchuk
+
+Dmytro Dudnikov|Dan Glastonbury
+
+Artem Kulakov|Grigoriy Podgorny
+
+Martin Slater|Martin Valigursky
+
+Adam Bryant|Scott Lowther
+
+Iain McManus| 
+
+
+_Art
+
+John Carline|Jason Dalton
+
+Zaquri Foster|Brendan Rogers
+
+Nick Smith|Viktor Sylak
+
+Taamati Hanson-Pou|Denzil O'Neill
+
+Damien Paon|Simon Pennington
+
+
+_Animation
+
+David Zwierzchaczewski
+
+Andrew Bedford
+
+Shane Oakes|Mathieu Walsh
+
+
+_Music SFX & Dialog
+
+Jeff van Dyck
+
+Richard Vaughan|James Vincent
+
+
+_Additional Musicians
+
+Angela van Dyck 
+
+Terry Greisbach 
+
+Prasant Moorthy 
+
+
+_Quality Assurance
+
+Ashley Parker
+
+Kim Sellentin|Jason Turnbull
+
+William Hamilton|Kevin Stoker
+
+Ben Adams|Stephen Berg
+
+Mark Burns|Christian Carriere
+
+Simon Connolly|Sean Davidson
+
+William Davis|Thomas Doig
+
+Daniel Driscoll|Terry Greisbach
+
+Chris Harvey|Craig Hughes
+
+Rohan McAlinden|Vana Prayitno
+
+Mikhail Raspaskovski|Mathew Ray
+
+Mark Taylor|
+
+
+_Production
+
+Prasant Moorthy
+
+
+_System Administrator
+
+Matthew Pawlowski
+
+
+_Studio General Manager
+
+George Fidler
+
+
+_Special Thanks
+
+John Harmon|Paul Greasley
+
+
+
+_THE CREATIVE ASSEMBLY, SOUTHWATER UK
+
+
+_Development Director
+
+Mike Simpson
+
+
+_Design
+
+Ian Roxburgh
+
+Jeff Woods|James Whitston
+
+
+_Pre Battle Speeches
+
+Mike Brunton
+
+
+_Art
+
+Peter Brophy|Nick Tresadern
+
+Pawel Wojs|Roland MacDonald
+
+Joss Adley|Tunde Glover
+
+Ranulf Busby|Howard Rayner
+
+Paul Abbott|Yannis Ziakas 
+
+
+_Animation
+
+Ben Potts|Greg Alston
+
+
+_Testing
+
+Graham Axford|Dion Lay
+
+James Buckle|Gian Piras
+
+
+_Marketing & PR
+
+Mark Sutherns|Richie Skinner
+
+
+_IT Support
+
+Gareth Hailes
+
+Simon Allan
+
+
+_Additional Support
+
+Chris Waller|Moran Paldi
+
+Alistair Hope|Melvyn Quek
+
+Lara Sweeney|Sophie Blakemore
+
+
+_Special Thanks
+
+The entire Rome Dev Team
+
+Tim Ansell
+
+
+
+_OUTSOURCED ROLES
+
+
+_Islamic Cultural Advisors
+
+Aksaa Ltd, Management and Training Consultants
+(Specialist in Islamic Cultural Awareness Training)
+
+_Motion Capture Actors
+
+Simon Johns & Tim Klotz of YoungBlood
+
+
+_Scriptwriter
+
+Antony Zwierzchaczewski
+
+
+_FX Animator
+
+Allen McKay
+
+
+_Medieval Combat Consultants
+
+Louis Gaal, Joshua Cavalchini & Kit Cavalchini of Knight Fight
+
+
+_Voice Casting
+
+Andy Emery & Cheryl Prince of Side UK
+
+
+_Voice Direction
+
+Andy Walsh & Olivier Deslandes of Side UK
+
+
+_Sound Engineer
+
+Phil Evans of Side UK
+
+
+_Vocal Talent
+
+Tim Bentinck|Steffan Boje
+
+Walter Bonacker|Emmanuel Bonami
+
+Brian Bowles|Angelo Cola
+
+Stephane Conicord|Maria Darling
+
+David De Keyser|Olivier Deslandes
+
+Ken Drury|Chris Fairbank
+
+Javier Fernandez|Wayne Forrester
+
+Jon Glover|Framboise Gommendy
+
+Simon Greenall|Stephen Grief
+
+Stephan Grothgar|Sarah Hadland
+
+Togo Igawa|Jessica Juffre
+
+Jonathan Keeble|Jonathan Kydd
+
+Dhafer L'Abidine|Aletta Lawson
+
+Lewis Macleod|Neil McCaul
+
+Graham McTavish|Olag Mirochincov
+
+Alex Norton|Lucy Robinson
+
+Kerry Shale|Slav Shumor
+
+Philippe Smolikowski|Luis Soto
+
+Robbie Stevens|Dai Tabuchi
+
+Keith Wickham| 
+
+
+_In-Game Font
+
+Kevin King
+
+
+_Additional Thanks
+
+Andy Bagley and crew at Musiclab
+
+Liam Byrne at Creative Labs
+
+
+_Special Thanks
+
+A big thanks to the Org, all the moderators on the official forums,
+and all the fans that have helped make the online community as great as it is!
+
+And of course, endless thanks to our families and friends for their understanding
+and support throughout the entire production of Medieval II: Total War
+
+
+
+_SEGA EUROPE
+
+
+_CEO
+
+Naoya Tsurumi
+
+
+_President/COO
+
+Mike Hayes
+
+
+_Development Director
+
+Gary Dunn
+
+
+_Creative Director
+
+Matthew Woodley
+
+
+_Director of European Marketing
+
+Gary Knight 
+
+
+_Head of External Studios
+
+Jim Woods
+
+
+_Production
+
+Darius Sadeghian|Simon Mathews
+
+
+_Director of Brand Marketing 
+
+David Miller 
+
+
+_European PR
+
+Lynn Daniel|Kerry Martyn
+
+
+_Senior Brand Manager
+
+Darren Williams
+
+
+_Creative Services
+
+Alison Warfield
+
+Tom Bingle|Arnoud Tempelaere
+
+Morgan Gibbons|Akane Hiraoka
+
+
+_Head of Development Services 
+
+Mark Le Breton 
+
+
+_Localisation Manager
+
+Marta Lois Gonzalez
+
+
+_Localisation Coordinator
+
+Giuseppe Rizzo
+
+
+_QA Supervisors
+
+Marlon Grant|Stuart Arrowsmith
+
+Julie Metior
+
+
+_Master Technicians 
+
+John Hegarty|Jigar Patel
+
+
+_Mastering Group 
+
+John Hegarty 
+
+Jigar Patel 
+
+Roy Boateng 
+
+
+_Senior Team Lead 
+
+Ben Howell 
+
+
+_Lead Testers
+
+Phongtep Boonpeng
+
+Tony Langan
+
+
+_Assistant Team Lead 
+
+Jide Alabi 
+
+
+_Testers
+ 
+Herculess Bekker|Clinton LittleJohn 
+
+Paul Rogers|Faesel Saeed 
+
+Amir Hafeez|Trevor Kite 
+
+Stuart Fenn|James Cauldwell 
+
+Titus Samkubam|Andrzej Lubas 
+
+Chris Jones|Michael Beirne 
+
+Jania Moudrak|Clint Gibson 
+
+Colin Perman|Zahra Al Naib 
+
+Dean Powell|Tristan Carree 
+
+Arian Barvarz|Oliver Bennett 
+
+Robert Williamson|Jacob Barker 
+
+Jasmine Lillywhite|Samuel Morgan 
+
+Paul Kershaw|Chris Bien 
+
+Aidan Howe|Hayk Galstyan 
+
+Nahiyan Al-Muhaymeen|Hany Gohary 
+
+Bryan Fevrier|Robert Thompson 
+
+Jiten Patel|Ross Green 
+
+Adrian Daly|Andrew Sparks 
+
+
+_Language Leads
+
+Jean-Baptiste Bagot|Sven Wittmaack
+
+
+_Language Team
+
+Jaron Scholz|Tina Ferraro Caruso 
+
+Javier Fimia Vidal|Clement Hardy
+
+
+_Special Thanks 
+
+Brandon Smith
+
+Helen Camilleri 
+
+
+
+_SEGA OF JAPAN (Japanese Version)
+
+_Network Business Department Director
+
+Kazunobu Takita
+
+_PC Produce Team Manager
+
+Katsutoshi Kioka
+
+_Japanese Version Producer
+
+Joe Okabe
+
+_Translation
+
+Nanica K.K.
+Joe Okabe
+Ryosuke Nagao
+
+_Product Management
+
+Masaru Igarashi
+Miyako Hayashi
+Ken-ichi Hayashi
+
+_Public Relations
+
+Osamu Sato
+
+_Marketing
+
+Tetsuo Sasaki
+
+_Manufacturing Management
+
+Motoki Kaji
+Hitoshi Todo
+
+_Manual & Package
+
+Yoshihiro Sakuta
+Naohiko Iida
+Yoshitake Ohta
+
+_Tester 
+
+Kazuhiro Tamaoki
+Satoshi Karasawa
+Hiroaki Masuyama
+
+_Special Thanks
+
+Haruhiko Inaba (Nanica K.K.)
+Tetsuya Nozaki
+Yasuhisa Kawase
+Hideaki Fujii
+Ikuo Ishizaka
+Rie Iwami
+Hideaki Kobayashi
+Junji Kurihara
+Yasuhiro Shinohara
+Katsuki Takimoto
+Nao Tazoe
+Miki Takamure

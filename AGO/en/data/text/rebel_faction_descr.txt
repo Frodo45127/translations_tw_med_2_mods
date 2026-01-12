@@ -1,0 +1,54 @@
+¬ Region Based
+{Druedain}Drúedain
+{Orcs_Of_The_Blue_Mountains}Orcs of the Blue Mountains
+{Eriador_Ruffians}Eriador Ruffians
+{Breeland_Ruffians}Breeland Ruffians
+{Rhudaur_Hillmen}Rhudaur Hillmen
+{Angmarim_Rebels}Angmarim Rebels
+{Lossoth_Tribesmen}Lossoth Tribesmen
+{Eriador_Looters}Eriador Looters
+{Gundabad_Orcs}Orcs of Forodwaith
+{Orcs_Of_The_Misty_Mountains}Orcs of the Misty Mountains
+{Orcs_Of_The_Iron_Hills}Orcs of the Iron Hills
+{Vale_Bandits}Vale Bandits
+{Mirkwood_Raiders}Mirkwood Raiders
+{Mirkwood_Spiders}Spiders of Mirkwood
+{Daen_Raiders}Daen Raiders
+{Dunforgoil}Dunforgoil
+{Uruk_Raiders}Uruk Raiders
+{Saralainn}Saralainn
+{Firhane}Firháne
+{Dhai_Uarioch}Dhai-Uarioch
+{Tiarhlach}Tiarhlach
+{Ualfian}Ualfian
+{Morichoai}Morichoai
+{Saisen}Saisen
+{Caiad}Caiàd
+{Corsair_Raiders}Corsair Raiders
+{Mordor_Looters}Mordor Looters
+{Logathavuld_Ruffians}Logathavuld Ruffians
+{Avari_Elves}Avari Elves
+{Remnants_Of_Rhovanion}Remnants of Rhovanion
+{Arulad_Clansmen}Arulad Clansmen
+{Daritai_Tribesmen}Daritai Tribesmen
+{Balchoth_Tribes}Balchoth Tribes
+{Khandish_Raiders}Khandish Raiders
+{Tribes_Of_Harad}Tribes of Harad
+{Harondor_Rebels}Men of Harondor
+{Trollmen}Troll-men of Far Harad
+{Gondor_Rebels}Gondorian Rebels
+{Wights_Of_The_Barrow_Downs}Wraiths of the Barrow Downs
+{Blue_Wizards}Blue Wizards
+{Sapphire_Sea}Sapphire Sea Cultists
+{Leofthiuda}Leofthiuda
+{Kugathi}Kugath
+{Dorwinion_Dissenters}Dorwinion Dissenters
+{Dragon_Cult_Remnants}Dragon Cult Remnants
+{Umbar_City}City of Umbar
+{Saruman_Servants}Servants of Saruman
+
+
+¬ Non Region Based
+{gladiator_uprising}The Slave Uprising
+{brigands}Brigands
+{pirates}Pirates

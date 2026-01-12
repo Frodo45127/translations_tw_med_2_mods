@@ -1,0 +1,196 @@
+¬
+{accel}Increase Camera Speed
+{all}All menus
+{assign0}Assign selected unit group as group 1
+{assign1}Assign selected unit group as group 2
+{assign2}Assign selected unit group as group 3
+{assign3}Assign selected unit group as group 4
+{assign4}Assign selected unit group as group 5
+{assign5}Assign selected unit group as group 6
+{assign6}Assign selected unit group as group 7
+{assign7}Assign selected unit group as group 8
+{assign8}Assign selected unit group as group 9
+{assign9}Assign selected unit group as group 10
+{automerge_units}Auto-merge units
+{battle}Battle menu
+{battle_details_tool}Set Battle Details
+{battle_ed}Battle editor menu
+{battle_replay}Battle replay
+{battle_view}Battle view
+{bookmark1}Camera bookmark 01
+{bookmark10}Camera bookmark 10
+{bookmark11}Camera bookmark 11
+{bookmark12}Camera bookmark 12
+{bookmark13}Camera bookmark 13
+{bookmark14}Camera bookmark 14
+{bookmark15}Camera bookmark 15
+{bookmark16}Camera bookmark 16
+{bookmark17}Camera bookmark 17
+{bookmark18}Camera bookmark 18
+{bookmark19}Camera bookmark 19
+{bookmark2}Camera bookmark 02
+{bookmark20}Camera bookmark 20
+{bookmark21}Camera bookmark 21
+{bookmark22}Camera bookmark 22
+{bookmark3}Camera bookmark 03
+{bookmark4}Camera bookmark 04
+{bookmark5}Camera bookmark 05
+{bookmark6}Camera bookmark 06
+{bookmark7}Camera bookmark 07
+{bookmark8}Camera bookmark 08
+{bookmark9}Camera bookmark 09
+{cam_down}Camera: move down
+{highlight_units}Toggle Unit Highlight
+{sort_stack}Sort Army
+{open_eop_gui}Toggle EOP Interface
+{next_idle_unit}Go to next idle unit
+{cam_up}Camera: move up
+{camera}Camera
+{capital_zoom}Zoom to capital
+{construction_button}Open construction scroll
+{dec_formation}Decrease formation width
+{dec_rotation}Rotate unit anti-clockwise
+{dec_scale}Radar: decrease scale
+{dec_xp}Decrease Experience (-cheat enabled)
+{decel}Decrease Camera Speed
+{default}Total War Style Setup
+{delete_selected}Delete selected item
+{deployment_area_tool}Deployment Area Mode
+{deselect_all}Cards: deselect all
+{diplomacy_overview_button}Open diplomacy overview scroll
+{disband}Disband all selected units
+{dismiss_advice}Dismiss advice
+{display_standards}Display standards
+{edit_armies_tool}Create Army Mode
+{edit_units_tool}Edit Unit Mode
+{editor}Editors
+{end_battle}Quit battle
+{faction_button}Open faction overview scroll
+{faction_highlight}Highlight faction regions
+{ffwd_button}Speed Control: Double
+{finances_button}Open finances overview scroll
+{formation_1}Formation: Single Line
+{formation_2}Formation: Double Line
+{formation_3}Formation: Missiles in Front
+{formation_4}Formation: Missiles Behind
+{formation_5}Formation: Double Line, Cavalry Flanks
+{formation_6}Formation: Offensive Block
+{formation_7}Formation: Defensive Block
+{formation_8}Formation: Column
+{fov_dec}Camera: decrease field of view
+{fov_down}Field of view narrower
+{fov_inc}Camera: increase field of view
+{fov_up}Field of view wider
+{fps}FPS Style Setup
+{freelook}Free look mode
+{general_chat}Send message/Quick chat (team)
+{general_zoom}Zoom: general
+{global_chat}Quick chat (global)
+{heights_tool}Set Heights Mode
+{hide_gui}Toggle GUI
+{inc_formation}Increase formation width
+{inc_rotation}Rotate unit clockwise
+{inc_scale}Radar: increase scale
+{inc_xp}Increase Experience (-cheat enabled)
+{intellizoom}Close up of the action
+{load}Load
+{load_stratmap}Quick Load game
+{misc}Miscellaneous
+{mission_button}Open mission overview scrol
+{next_army}Select next army
+{next_brush}Select Next Brush
+{options_button}Show In-game Options
+{order_halt}Movement: halt
+{order_withdraw}Withdraw
+{orders_group}Group selected units
+{orders_ungroup}Ungroup selected units
+{overview}Overview menu
+{pause_battle}Pause game
+{pause_button}Speed Control: Pause
+{place_models_tool}Place Models Mode
+{place_settlements_tool}Place Settlements Mode
+{play_button}Speed Control: Normal
+{prev_brush}Select Previous Brush
+{quit}Quit game
+{radar_zoom_in_button}Radar: increase scale
+{radar_zoom_out_button}Radar: decrease scale
+{recruitment_button}Open recruitment scroll
+{redo}Redo previous undo
+{reset_rally_point}Reset selected settlements rally points
+{reveal_advice}Reveal/Advance advice
+{roads_tool}Edit Roads Mode
+{rot_d}Camera: rotate down
+{rot_l}Camera: rotate/strafe left
+{rot_r}Camera: rotate/strafe right
+{rot_u}Camera: rotate up
+{save}Save
+{save_stratmap}Quick Save game
+{screen_grab}Grab screenshot
+{select0}Select unit group 1
+{select1}Select unit group 2
+{select2}Select unit group 3
+{select3}Select unit group 4
+{select4}Select unit group 5
+{select5}Select unit group 6
+{select6}Select unit group 7
+{select7}Select unit group 8
+{select8}Select unit group 9
+{select9}Select unit group 10
+{select_all}Cards: select all
+{select_cavalry}Select all cavalry units
+{select_infantry}Select all infantry units
+{select_melee}Select all melee units
+{select_missile}Select all missile firing units
+{select_next}Cards: select next
+{select_next_grp}Cards: select next group
+{select_next_selected}Select next of object type selected
+{select_prev}Cards: select previous
+{select_prev_grp}Cards: select previous group
+{select_prev_selected}Select previous of object type selected
+{select_siege}Select all artillery units
+{senate_button}Open Senate overview scroll
+{show_console}Show Debug Console
+{show_help}Show help window
+{show_multi_turn_paths}Show all multi-turn paths
+{show_waypoints}Show unit destinations
+{speed_dec}Camera: decrease speed
+{speed_inc}Camera: increase speed
+{speedup_ai}Animation speed-up
+{step_bck}Camera: move backward
+{step_fwd}Camera: move forward
+{step_fwd_fast}Camera: move forward fast
+{step_l}Camera: strafe/rotate left
+{step_r}Camera: strafe/rotate right
+{stop_character}Stop Character Walking
+{strat}Strategy menu
+{strat_ed}Strategy editor menu
+{textures_tool}Set Textures Mode
+{toggle_auto_link_up}Toggle unit group AI control
+{toggle_buttons}Toggle button visibility (minimal HUD only)
+{toggle_cam_mode}Toggle between Total War camera and RTS camera
+{toggle_cards}Toggle unit card visibility (minimal HUD only)
+{toggle_character_labels}Toggle character labels
+{toggle_defend}Toggle guard mode
+{toggle_fire_at_will}Toggle fire at will
+{toggle_formation_tightness}Toggle unit formation (tight/loose)
+{toggle_hires_radar}Toggle Fullscreen Radar
+{toggle_move_fast}Toggle Camera Speed
+{toggle_overlays}Toggle Colour Overlays
+{toggle_pause_button}Toggle Pause
+{toggle_radar}Toggle radar visibility (minimal HUD only)
+{toggle_run}Toggle run
+{toggle_settlement_labels}Toggle settlement labels
+{toggle_skirmish}Toggle skirmish
+{toggle_sound}Toggle Sound
+{toggle_special_ability}Toggle special unit ability
+{toggle_speed}Toggle game speed (fast/normal)
+{toggle_unit_visibility}Toggle display of unseen units
+{ultra_ffwd_button}Speed Control: Triple
+{undo}Undo last function
+{unit_info_toggle}Toggle Unit information display
+{unit_track}Track: unit
+{unit_zoom}Zoom: unit
+{update_trees_tool}Update Vegetation
+{victory_conditions_tool}Edit Victory Conditions Dialog
+{zoom_in}Zoom in on map
+{zoom_out}Zoom out on map

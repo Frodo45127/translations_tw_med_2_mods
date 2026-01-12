@@ -1,0 +1,225 @@
+¬
+{acquisition_attempt}¡Bienes de comerciante incautados!
+{acquisition_attempt_fail}Huelgas de comerciantes extranjeros
+{acquisition_attempt_fail_and_removed}Comerciante extranjero reclutado
+{adopta_general_offer}El hombre del momento
+{adoption}Un nuevo hijo adoptado
+{adoption_failed}Adopción no completada
+{advisor_dummy_msg}Tu consejero tiene información
+{agent_detected_and_expelled}¡Agente encontrado!
+{agent_recruited}Agente reclutado
+{alliance_broken}Alianza hecha jirones
+{alliance_declared}Alianza anunciada
+{ally_declared_alliance_with_enemy}Lealtad del aliado en duda
+{approval_report}Informe del Papa
+{army_bribed}¡Ejército de traidores!
+{army_revolt}Ejército en rebelión
+{betrayed}¡Traicionado!
+{bride_available_for_family_member}Novia presentada
+{building_captured_battle}Edificio capturado
+{building_captured_by_allies}Edificio capturado por aliados
+{building_completed}Construcción completa
+{building_lost_battle}Edificio perdido
+{building_repair_complete}Reparación completa
+{building_sabotaged}¡Sabotage!
+{cardinal_dies}Cardenal muere
+{cardinal_promoted}Cardenal promovido
+{cardinal_report}Informe del cardenal
+{ceasefire_declared}Cese de hostilidades
+{character_available_for_adoption}Candidato para adopción
+{character_bribed}¡Despreciable traición!
+{character_dies_disaster}Desastre cuesta vida de figura importante
+{character_dies_executed_prisoner}Ejecutado
+{character_dies_heroic}Una muerte noble
+{character_dies_natural}Termina una vida noble
+{character_dies_suspicious}Asesinado
+{character_joins_through_rebellion}Un convertido a nuestra causa
+{character_rebels}Un traidor a nuestro pueblo
+{character_trait_gained}Rasgo incrementado
+{character_trait_lost}Rasgo reducido
+{chat_message}Llega un mensajero
+{city_gained_through_revolt}Revuelta lealista
+{city_sacked}¡Saqueado!
+{coming_of_age}Mayoría de edad
+{construction_approval}Construcción aprobada
+{construction_complete_many}Informe de construcción
+{construction_disapproval}¡La desaprobación del Papa!
+{create_guild}Gremio disponible
+{crusade_called}¡Cruzada lanzada!
+{crusade_canceled}Cruzada cancelada
+{crusade_factions_joined}Crecen los ejércitos cruzados
+{crusade_failed}Cruzada fallida
+{crusade_succeed}Cruzada exitosa
+{crusade_units_desert_warning}Rumores de deserción
+{crusade_units_deserted_no_progress}¡Deserción!
+{crusade_units_deserted_removed}¡Deserción!
+{crusade_will_end}Cruzada a punto de terminar
+{daughter_retired}Pasada la edad fértil
+{denouncement_attempt}¡Ejecutado por herejía!
+{denouncement_attempt_fail}Encontrado inocente en el juicio
+{diplomacy_report}Información diplomática
+{disaster_barbarian_horde}¡Horda bárbara avistada!
+{disaster_earthquake}¡Ataque de dragón!
+{disaster_flood}Inundación
+{disaster_plague}La muerte acecha la tierra
+{disaster_report}Desorden civil
+{disaster_riot}¡Disturbios!
+{disaster_storm}Tormenta
+{disaster_volcano}Volcán entra en erupción
+{dominant_religion}Una fe poderosa
+{eastern_shadow_faction}¿Un nuevo Imperio Romano en el este?
+{emergent_faction_appears}Surge una nueva facción
+{excommunicate}Facción excomunicada
+{exterminate_populace}¡La resistencia es inútil!
+{faction_advanced}Facción más avanzada
+{faction_defeated}Facción destruida
+{faction_defeated_by_player}Facción destruida
+{faction_largest}Facción más grande
+{faction_leader_dies}Líder de facción muere
+{faction_leader_killed}Líder de facción asesinado
+{faction_richest}Facción más rica
+{faction_strongest}Facción más fuerte
+{family_report}Anuncios de facción
+{female_dies}Tragedia familiar
+{fort_bribed}¡Guarnición de traidores!
+{games_held}Juegos celebrados
+{general_appointed}Nuevo general designado
+{general_dies}General muere
+{general_killed_ally}General aliado caído
+{general_killed_enemy}General enemigo caído
+{general_promoted}Promoción
+{hidden_agent_detected_in_settlement}Agente detectado
+{historic_event}Evento histórico
+{historic_event_movie}Evento histórico
+{horde_in_your_region}Las hordas se aproximan
+{horde_settles}Una nueva patria
+{huns_hording}¡Una tormenta del este!
+{jihad_called}Maldición del Tribunal
+{jihad_canceled}Conquista cancelada
+{jihad_factions_joined}¡Los dunmer ejecutan la voluntad del Tribunal!
+{jihad_failed}Conquista fallida
+{jihad_succeed}Conquista exitosa
+{jihad_units_desert_warning}Rumores de deserción
+{jihad_units_deserted_no_progress}¡¡Deserción!
+{jihad_units_deserted_removed}¡Deserción!
+{jihad_will_end}Yihad a punto de terminar
+{marian_reform}DO NOT TRANSLATE: THIS TEXT SHOULD BE REPLACED BY TEXT FROM ANOTHER FILE
+{marriage}Celebraciones de boda
+{marriage_attempt}Matrimonio propuesto
+{marriage_attempt_fail}Matrimonio rechazado
+{marriage_attempt_fail_and_removed}¡Princesa extranjera deshonrada!
+{mission_acquire}Adquisición exitosa
+{mission_acquire_fail}Adquisición fallida
+{mission_acquire_fail_and_removed}¡La adquisición fracasa!
+{mission_assassinate}Misión de asesinato existosa
+{mission_assassinate_fail}Asesino fracasa en su misión
+{mission_assassinate_fail_and_killed}Asesino muere en misión
+{mission_denounce}Inquisición exitosa (Evento de los Estados Papales)
+{mission_denounce_fail}Inquisición no exitosa (Evento de los Estados Papales)
+{mission_expired}Misión Expirada
+{mission_failed}Misión fallida
+{mission_gift}Regalo
+{mission_issued}Nueva misión
+{mission_marriage}Matrimonio aceptado
+{mission_marriage_fail}Matrimonio rechazado
+{mission_marriage_fail_and_removed}¡Princesa deshonrada!
+{mission_sabotage}Misión de sabotaje exitosa
+{mission_sabotage_fail}Intento de sabotaje fallido
+{mission_sabotage_fail_and_killed}Agente muere en intento de sabotaje
+{mission_spy_character}Misión de espionaje exitosa
+{mission_spy_fail}Misión de espionaje fallida
+{mission_spy_fail_and_killed}Espía muerto en misión de espionaje
+{mission_spy_settlement}Misión de espionaje exitosa
+{mission_success}Misión exitosa
+{multiturn_path_blocked}Camino bloqueado
+{naval_blockade}Puerto bloqueado
+{new_ancillary_character}El séquito se expande
+{new_barbarian_horde}Un pueblo huyendo
+{new_bouncing_baby}Nuevo miembro de la familia
+{new_eastern_ceasar}Un nuevo César para Constantinopla
+{new_eastern_emperor}Un nuevo Augustus para Constantinopla
+{new_faction_heir}Nuevo Heredero de facción
+{new_faction_leader}Nuevo lider de facción
+{new_western_ceasar}Un nuevo César para Roma
+{new_western_emperor}Un nuevo Augustus para Roma
+{papal_election}Elección Papal
+{peacy_treaty_signed}Tratado de paz promulgado
+{player_excommunicate}¡Has sido excomunicado!
+{player_faction_advanced}Facción más avanzada
+{player_faction_largest}Facción más grande
+{player_faction_richest}Facción más rica
+{player_faction_strongest}Facción más fuerte
+{player_lose_warning}¡Derrota inminente!
+{player_recommunicate}¡Has sido reconciliado!
+{players_army_destroyed}¡Derrota absoluta!
+{pope_accepts_crusade}El Papa llama a una cruzada
+{pope_assassin_caught}¡Atentado contra la vida del Papa!
+{pope_dies}El Papa ha muerto
+{pope_elected}Papa elegido
+{pope_rejects_crusade}Solicitud de cruzada rechazada
+{priest_denouncement_attempt}¡Juzgado como un hereje! (Evento rebelde)
+{priest_denouncement_attempt_fail}Sobrevive al juicio (Evento rebelde)
+{priest_denouncement_attempt_fail_and_converted}¡Hereje convierte al sacerdote! (Evento rebelde)
+{priest_denouncement_attempt_fail_and_removed}¡Bruja mata al sacerdote! (Evento rebelde)
+{priest_mission_denounce}¡Blasfemo ejecutado!
+{priest_mission_denounce_fail}Denuncia de blasfemo fallida
+{priest_mission_denounce_fail_and_converted}¡Caído ante la herejía!
+{priest_mission_denounce_fail_and_removed}Avergonzado por blasfemo
+{princess_marriage}Celebraciones de boda
+{prisoners_executed}Prisioneros ejecutados
+{prisoners_released}Prisioneros liberados
+{protectorate_established}Reino cliente establecido
+{queues_stalled}Colas estancadas
+{races_held}Carreras celebradas
+{rebel_revolt_surpressed}Guerra civil terminada
+{rebels_victorious}¡El viejo orden se derrumba!
+{recommunicate}Facción reconciliada
+{recruitment_complete_many}Informe de reclutamiento
+{reinforcements_arrived}Refuerzos
+{relations_improved}Relaciones mejoradas
+{relations_report}Informe de relaciones
+{relations_worsened}Relaciones empeoradas
+{retraining_complete}Reentrenamiento completado
+{roman_empire_reunited}¡El Imperio Romano ha renacido!
+{settlement_besieged}Asentamiento bajo asedio
+{settlement_bribed}¡Asentamiento sobornado!
+{settlement_destroyed}Asentamiento destruido
+{settlement_exterminated}Asentamiento exterminado
+{settlement_occupied}Asentamiento ocupado
+{settlement_razed}Asentamiento saqueado
+{settlement_revolts}Revuelta civil
+{settlement_sacked}Asentamiento saqueado
+{settlement_surrender}Asentamiento se rinde
+{settlement_surrenders_enemy}Asentamiento enemigo conquistado
+{settlement_surrenders_own}Nuestro asentamiento se rinde
+{settlement_taken}Asentamiento perdido
+{settlement_unrest}Disturbios civiles
+{shadow_faction_appears}Estalla una guerra civil
+{shadow_faction_destroyed}Pretendientes destruídos
+{small_army_disbands}Ejército enemigo se dispersa
+{small_army_disbands_loser}Tus fuerzas se dispersan
+{suitor_available_for_daughter}Un esposo adecuado
+{suitor_available_for_princess}Un príncipe adecuado
+{transgression}Transgresión
+{unit_completed}Reclutamiento de unidad completado
+{unit_routs_in_battle}Unidades huye
+{upgrade_guild}Mejora del gremio
+{upgrade_settlement_to_castle}Castillo de madera listo para mejorar
+{upgrade_settlement_to_citadel}Fortaleza lista para mejorar
+{upgrade_settlement_to_city}Pueblo grande listo para mejorar
+{upgrade_settlement_to_fortress}Castillo listo para mejorar
+{upgrade_settlement_to_huge_city}Ciudad grande lista para mejorar
+{upgrade_settlement_to_large_city}Ciudad lista para mejorar
+{upgrade_settlement_to_large_town}Pueblo listo para mejorar
+{upgrade_settlement_to_town}Aldea lista para mejorar
+{upgrade_settlement_to_wooden_castle}Mota y liza listos para mejorar
+{war_declared}¡¡¡Guerra!!!
+{war_declared_non_player}¡Guerra declarada!
+{war_declared_on_ally}¡Los aliados declaran la guerra!
+{western_shadow_faction}¿Un nuevo Imperio Romano occidental?
+{wonder_approval}Aprovación papal
+{wonder_captured}Maravilla capturada
+{wonder_lost}Maravilla perdida
+{year_end_report}Informe de fin de turno
+{your_machine_needs_upgrading}¿Refuerzos retrasados?
+{your_machine_needs_upgrading_ai_to_reinforce}¿Refuerzos enemigos retrasados?

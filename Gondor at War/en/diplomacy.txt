@@ -1,0 +1,692 @@
+¬
+{DDS_ACCEPT_EXTORTION}Barely Accepted
+{DDS_ACCEPT_HIGH}Happily Accepted
+{DDS_ACCEPT_LOW}Just Accepted
+{DDS_ACCEPT_MED}Accepted
+{DDS_BALANCE_BALANCED}Balanced
+{DDS_BALANCE_DEMANDING}Demanding
+{DDS_BALANCE_GENEROUS}Generous
+{DDS_BALANCE_VERY_DEMANDING}Very Demanding
+{DDS_BALANCE_VERY_GENEROUS}Very Generous
+{DDS_COUNTER_CLOSE}Almost Accepted
+{DDS_COUNTER_INSULTING}Annoyed
+{DDS_COUNTER_OPEN}Appreciative
+{DDS_COUNTER_STANDARD}Unconcerned
+{DDS_DECLARE_ANNOYED}Annoyed
+{DDS_DECLARE_UNCONCERNED}Unconcerned
+{DDS_DECLARE_UPSET}Upset
+{DDS_DECLINE_HIGH}Firmly Rejected
+{DDS_DECLINE_LOW}Just Rejected
+{DDS_DECLINE_MED}Rejected
+{DDS_NEUTRAL}Undecided
+{DDS_NEW_OFFER_BETTER}Pleased
+{DDS_NEW_OFFER_NEUTRAL}Neutral
+{DDS_NEW_OFFER_WORSE}Annoyed
+{DDS_REACTION_DISAPPOINTED}Disappointed
+{DDS_REACTION_ELATED}Elated
+{DDS_REACTION_NEUTRAL}Neutral
+{DDS_REACTION_OFFENDED}Offended
+{DDS_REACTION_PLEASED}Pleased
+{DDS_RECEIVE_ALLY}Receive Ally
+{DDS_RECEIVE_ENEMY}Receive Enemy
+{DDS_RECEIVE_NEUTRAL}Receive Neutral
+{DDS_REJECT_HIGH}Not Interested
+{DDS_REJECT_LOW}Not Interested
+{DDS_REJECT_MED}Not Interested
+{DDS_WELCOME_ALLY}Welcome Ally
+{DDS_WELCOME_ENEMY}Welcome Enemy
+{DDS_WELCOME_NEUTRAL}Welcome Neutral
+{DRT_ARABIC_ACCEPT_BRIBE}I see you are not afraid to show your appreciation. This is good.
+{DRT_ARABIC_ACCEPT_COUNTER}.
+{DRT_ARABIC_ACCEPT_DECLARATION}.
+{DRT_ARABIC_ACCEPT_GIFT}A gift is a blessing to the giver, no matter how small it may be. Our thanks to you. 
+{DRT_ARABIC_ACCEPT_PROPOSITION}.
+{DRT_ARABIC_ACCESS}The enemies of My Lord lie beyond your lands, so to honour us with passage through them would be a true blessing to us.
+{DRT_ARABIC_ACKNOWLEDGE_ACCEPTANCE}.
+{DRT_ARABIC_ACKNOWLEDGE_DECLARATION}.
+{DRT_ARABIC_ACKNOWLEDGE_DECLINE}.
+{DRT_ARABIC_ACKNOWLEDGE_REJECTION}.
+{DRT_ARABIC_ALLIANCE}Alone we are dangerous, but together in alliance we could be unstoppable.
+{DRT_ARABIC_ATTACK}The skill and prowess of your warriors is most impressive, and we would ask that they may help us defeat our most wretched enemy.
+{DRT_ARABIC_BRIBE}Your current master does not truly honour your accomplishments, but our Lord recognises your greatness, and wishes to know what it would take for you to serve him instead.
+{DRT_ARABIC_CEASEFIRE}It is time for all bloodshed to end. Let us cease our struggles. 
+{DRT_ARABIC_COUNTER_BRIBE}.
+{DRT_ARABIC_COUNTER_DEMAND}.
+{DRT_ARABIC_COUNTER_INFO}It is hoped that you will find this information of use.
+{DRT_ARABIC_COUNTER_OFFER}.
+{DRT_ARABIC_COUNTER_PROPOSITION}.
+{DRT_ARABIC_DECLINE_ACCESS}You may not find the idea of your troops moving freely through our lands offensive or worrisome, but we do.
+{DRT_ARABIC_DECLINE_ALLIANCE}My Lord does not agree that he needs to entwine his fate with yours so strongly.
+{DRT_ARABIC_DECLINE_ATTACK}The Lord fears nobody... However nor is fool enough to strike in a blind rage because another man spoke of war.
+{DRT_ARABIC_DECLINE_CEASEFIRE}If you truly wanted peace, you would have averted war in the first place. You must be made to pay for your senseless spite before we are done with you.
+{DRT_ARABIC_DECLINE_DEMAND}We will not bow to your demands.
+{DRT_ARABIC_DECLINE_GIFT}Why would you seek to bless us with this gift? Without good reason, we cannot accept it.
+{DRT_ARABIC_DECLINE_NULLIFY}The pledges we make are solemn, and it would require the will of my Lord for them to break... Your master's will has no authority here.
+{DRT_ARABIC_DECLINE_OFFER}We cannot equal this proposition and must turn it down.
+{DRT_ARABIC_DECLINE_PAYMENT_TOO_HIGH}We are not greedy people, and cannot accept this or we shall be seen as such.
+{DRT_ARABIC_DECLINE_PAYMENT_TOO_LOW}In all truth, your meagre offer falls short of being acceptable.
+{DRT_ARABIC_DECLINE_PROTECTORATE}Bowing to you as our rulers is not something we are willing to do... There would be no worth in such a life for us.
+{DRT_ARABIC_DECLINE_REGION}Have you not seen our willingness to die to defend our lands? To forsake our land for profit would be unforgivable!
+{DRT_ARABIC_DECLINE_THREAT}Threats are easily made, and we trust you will find them difficult to carry out.
+{DRT_ARABIC_DECLINE_YEARLY_PAYMENT}Not even continued tributes as you suggest would see us agree to this. 
+{DRT_ARABIC_DISHONEST_ACCESS_DEMAND}Your behaviour in the past suggests you sometimes seek a treacherous road to a quick victory, which is what your request of passage looks like to us now.
+{DRT_ARABIC_DISHONEST_ACCESS_OFFER}The only sensible reason we see you want our warriors to walk your lands is so that you would have them travel to a place you could dispose of them.
+{DRT_ARABIC_DISHONEST_ATTACK_OFFER}Perhaps your pledge is brave and noble, but who is to say you do not simply speak of helping us while it is easy to do so now? 
+{DRT_ARABIC_DISHONEST_ATTACK_THREAT}We find it to be humorous that you might believe you could defeat us, and more amusing still that you think us naive enough to believe you will honour our payment with peace.
+{DRT_ARABIC_DISHONEST_REGION_OFFER}We are not so foolish as to accept something that you will almost certainly seek to take back from us.
+{DRT_ARABIC_DISHONEST_TRIBUTE_OFFER}My Master senses that your promise of ongoing support is merely meant to entice him to agree, and that honouring the deal is not truly on your agenda.
+{DRT_ARABIC_FINISHED}.
+{DRT_ARABIC_GIFT}My Master seeks to honour you, and hopes that this gift will prove his sincerity.
+{DRT_ARABIC_INFO}Let us share our knowledge so that we may both learn of the world together.
+{DRT_ARABIC_NULLIFY_ALLIANCE}If there is a need to maintain our alliance any longer, then it is a need only you feel.
+{DRT_ARABIC_PROTECTORATE}Do not make your people suffer any longer, you can do nothing to us from conquering you. Instead, become a part of our greater destiny.
+{DRT_ARABIC_RECIPIENT_WELCOME_ALLIED}.
+{DRT_ARABIC_RECIPIENT_WELCOME_AT_WAR}.
+{DRT_ARABIC_RECIPIENT_WELCOME_NEUTRAL}.
+{DRT_ARABIC_REJECT_BRIBE}You have failed to grasp what kind of man I am. If loyalty is unfamiliar to you, then you ask me to join the poorest of people.
+{DRT_ARABIC_REJECT_NOT_INTERESTED}We have no desire to discuss this with you now at all.
+{DRT_ARABIC_REJECT_TOO_MANY_COUNTERS}The talking has gone on and on and on and on, and nothing has been settled. This negotiation is now ended and we are immensely relieved to be done with it all.
+{DRT_ARABIC_THREAT}My Lord wishes you to know that unless you honour him with this tribute, that he will ensure that your people do not live to spend the money!
+{DRT_ARABIC_TRADE}Trade is a good first step on the road to true trust, and will help both of us profit along that journey.
+{DRT_DOLAMROTH_ACCEPT_BRIBE}Knowing that you would deign to spend such a sum to secure my allegiance is all I need to be sure that you are the right master to serve.
+{DRT_DOLAMROTH_ACCEPT_BUY_VOTE}Very well, you can count on our support.
+{DRT_DOLAMROTH_ACCEPT_COUNTER}.
+{DRT_DOLAMROTH_ACCEPT_DECLARATION}.
+{DRT_DOLAMROTH_ACCEPT_GIFT}Your well-intentioned gift is welcome, and you have our gratitude.
+{DRT_DOLAMROTH_ACCEPT_OFFER_MARRIAGE_ALLIANCE}We look forward to the wedding, and our future together throughout the years.
+{DRT_DOLAMROTH_ACCEPT_PROPOSITION}.
+{DRT_DOLAMROTH_ACCEPT_REQUEST_MARRIAGE_ALLIANCE}I pray that this union between us shall be prosperous.
+{DRT_DOLAMROTH_ACCEPT_SELL_VOTE}We are grateful to be able to count on your support.
+{DRT_DOLAMROTH_ACCESS}If you would grant our armies access through your lands, it would benefit our struggle against our enemies.
+{DRT_DOLAMROTH_ACKNOWLEDGE_ACCEPTANCE}.
+{DRT_DOLAMROTH_ACKNOWLEDGE_DECLARATION}.
+{DRT_DOLAMROTH_ACKNOWLEDGE_DECLINE}.
+{DRT_DOLAMROTH_ACKNOWLEDGE_REJECTION}.
+{DRT_DOLAMROTH_ALLIANCE}Let our people enter an alliance to strengthen both of our positions. 
+{DRT_DOLAMROTH_ATTACK}Could we ask of your assistance in battle with our enemy?
+{DRT_DOLAMROTH_BRIBE}You would find yourself in a position of power and prominence should you accept this invitation to join the our number.
+{DRT_DOLAMROTH_BUY_VOTE}Perhaps we could call upon your support in the election?
+{DRT_DOLAMROTH_CEASEFIRE}Let us stop the bloodshed, and bring open hostilities to an end.
+{DRT_DOLAMROTH_COUNTER_BRIBE}.
+{DRT_DOLAMROTH_COUNTER_DEMAND}.
+{DRT_DOLAMROTH_COUNTER_INFO}Our people would like to share some information with you.
+{DRT_DOLAMROTH_COUNTER_OFFER}.
+{DRT_DOLAMROTH_COUNTER_PROPOSITION}.
+{DRT_DOLAMROTH_DECLINE_ACCESS}While you can see the need to march your soldiers through our lands, we do not. Permission must be refused at this time. 
+{DRT_DOLAMROTH_DECLINE_ALLIANCE}We do not believe an alliance would be in our best interests at this time. 
+{DRT_DOLAMROTH_DECLINE_ATTACK}Attacking these people is not in our best interests, so we must refuse. 
+{DRT_DOLAMROTH_DECLINE_BUY_VOTE}We will not be bartering over this serious moment of ascension.
+{DRT_DOLAMROTH_DECLINE_CEASEFIRE}My Lord does not share your desperate and cowardly urge to escape battle. Perhaps you now realise that you will lose this struggle?
+{DRT_DOLAMROTH_DECLINE_DEMAND}We simply do not see how to attempt to meet these demands.
+{DRT_DOLAMROTH_DECLINE_GIFT}Our people cannot trust the nature in which this gift is intended.
+{DRT_DOLAMROTH_DECLINE_NULLIFY}We are not willing to abandon our treaty with these people simply because you would wish it to happen.
+{DRT_DOLAMROTH_DECLINE_OFFER_MARRIAGE_ALLIANCE}This is too serious a union for us to consider at this moment.
+{DRT_DOLAMROTH_DECLINE_OFFER}We cannot match this offer, and must decline as a result.
+{DRT_DOLAMROTH_DECLINE_PAYMENT_TOO_HIGH}This is far too generous and we would owe you too much.
+{DRT_DOLAMROTH_DECLINE_PAYMENT_TOO_LOW}You simply do not offer enough with this.
+{DRT_DOLAMROTH_DECLINE_PROTECTORATE}Why do you think we have not surrendered yet? Maintaining our freedom is as important as maintaining our very lives.
+{DRT_DOLAMROTH_DECLINE_REGION}To give up the lands our people died to earn and defend for a pouch of coin simply would not do.
+{DRT_DOLAMROTH_DECLINE_REQUEST_MARRIAGE_ALLIANCE}We shall not consider a royal union under any doubt or duress.
+{DRT_DOLAMROTH_DECLINE_SELL_VOTE}We are not looking to buy your support like this.
+{DRT_DOLAMROTH_DECLINE_THREAT}Our people has no fear of your threats, which to be honest seem hollow.
+{DRT_DOLAMROTH_DECLINE_YEARLY_PAYMENT}We cannot agree to this, even for a steady supply of coin.
+{DRT_DOLAMROTH_DISHONEST_ACCESS_DEMAND}Our people has no desire for your armies to study the lay of our lands.
+{DRT_DOLAMROTH_DISHONEST_ACCESS_OFFER}Though that access could be useful for our people in times of war, we cannot be certain that you wouldn't change your mind once we begin to cross your lands. 
+{DRT_DOLAMROTH_DISHONEST_ATTACK_OFFER}Your promise of support is the kind that is easy to make without actually having to honour it.
+{DRT_DOLAMROTH_DISHONEST_ATTACK_THREAT}We do not believe that you will stay your swords even if we meet your demands.
+{DRT_DOLAMROTH_DISHONEST_REGION_OFFER}Your offer of land seems most generous, but there is enough reason to doubt that you wouldn't seek to take it back from us by one means or another.
+{DRT_DOLAMROTH_DISHONEST_SELL_VOTE}Your people's history is one of broken promises, I do not trust your offer.
+{DRT_DOLAMROTH_DISHONEST_TRIBUTE_OFFER}We do not believe that you are capable of honouring such a series of tributes, even if you truly intend to.
+{DRT_DOLAMROTH_FINISHED}.
+{DRT_DOLAMROTH_GIFT}Accept this gift as an example of our goodwill. 
+{DRT_DOLAMROTH_INFO}We would wish to share our knowledge of the world with you.
+{DRT_DOLAMROTH_NULLIFY_ALLIANCE}The time for our alliance's demise has come to pass. We shall both seek our own path to glory now. 
+{DRT_DOLAMROTH_OFFER_MARRIAGE_ALLIANCE}Accept my hand in marriage and unite our people in an alliance to last.
+{DRT_DOLAMROTH_PROTECTORATE}Why continue to struggle against our superior forces? Become our vassal and we shall lead you to greatness under our rule.
+{DRT_DOLAMROTH_RECIPIENT_WELCOME_ALLIED}.
+{DRT_DOLAMROTH_RECIPIENT_WELCOME_AT_WAR}.
+{DRT_DOLAMROTH_RECIPIENT_WELCOME_NEUTRAL}.
+{DRT_DOLAMROTH_REJECT_BRIBE}My loyalty is not something that you can put a price on so simply.
+{DRT_DOLAMROTH_REJECT_NOT_INTERESTED}We're simply not interested in discussing such a proposal. 
+{DRT_DOLAMROTH_REJECT_TOO_MANY_COUNTERS}We are not making sufficient progress here to suggest there is any reason to continue... These negotiations are over.
+{DRT_DOLAMROTH_REQUEST_MARRIAGE_ALLIANCE}It is time for us to seal a serious pact through a royal marriage.
+{DRT_DOLAMROTH_SELL_VOTE}Perhaps you would want our support in the election?
+{DRT_DOLAMROTH_THREAT}We can afford to spare you from our conquests, should of course you be prepared to pay tribute as such...
+{DRT_DOLAMROTH_TRADE}It would be quite profitable for both of our peoples to establish trade between us.
+{DRT_ENGLISH_ACCEPT_BRIBE}Knowing that you would deign to spend such a sum to secure my allegiance is all I need to be sure that you are the right master to serve.
+{DRT_ENGLISH_ACCEPT_BUY_VOTE}Very well, you can count on our support.
+{DRT_ENGLISH_ACCEPT_COUNTER}.
+{DRT_ENGLISH_ACCEPT_DECLARATION}.
+{DRT_ENGLISH_ACCEPT_GIFT}Your well-intentioned gift is welcome, and you have our gratitude.
+{DRT_ENGLISH_ACCEPT_OFFER_MARRIAGE_ALLIANCE}We look forward to the wedding, and our future together throughout the years.
+{DRT_ENGLISH_ACCEPT_PROPOSITION}.
+{DRT_ENGLISH_ACCEPT_REQUEST_MARRIAGE_ALLIANCE}I pray that this union between us shall be prosperous.
+{DRT_ENGLISH_ACCEPT_SELL_VOTE}We are grateful to be able to count on your support.
+{DRT_ENGLISH_ACCESS}If you would grant our armies access through your lands, it would benefit our struggle against our enemies.
+{DRT_ENGLISH_ACKNOWLEDGE_ACCEPTANCE}.
+{DRT_ENGLISH_ACKNOWLEDGE_DECLARATION}.
+{DRT_ENGLISH_ACKNOWLEDGE_DECLINE}.
+{DRT_ENGLISH_ACKNOWLEDGE_REJECTION}.
+{DRT_ENGLISH_ALLIANCE}Let our people enter an alliance to strengthen both of our positions. 
+{DRT_ENGLISH_ATTACK}Could we ask of your assistance in battle with our enemy?
+{DRT_ENGLISH_BRIBE}You would find yourself in a position of power and prominence should you accept this invitation to join the our number.
+{DRT_ENGLISH_BUY_VOTE}Perhaps we could call upon your support in the election?
+{DRT_ENGLISH_CEASEFIRE}Let us stop the bloodshed, and bring open hostilities to an end.
+{DRT_ENGLISH_COUNTER_BRIBE}.
+{DRT_ENGLISH_COUNTER_DEMAND}.
+{DRT_ENGLISH_COUNTER_INFO}Our people would like to share some information with you.
+{DRT_ENGLISH_COUNTER_OFFER}.
+{DRT_ENGLISH_COUNTER_PROPOSITION}.
+{DRT_ENGLISH_DECLINE_ACCESS}While you can see the need to march your soldiers through our lands, we do not. Permission must be refused at this time. 
+{DRT_ENGLISH_DECLINE_ALLIANCE}We do not believe an alliance would be in our best interests at this time. 
+{DRT_ENGLISH_DECLINE_ATTACK}Attacking these people is not in our best interests, so we must refuse. 
+{DRT_ENGLISH_DECLINE_BUY_VOTE}We will not be bartering over this serious moment of ascension.
+{DRT_ENGLISH_DECLINE_CEASEFIRE}My Lord does not share your desperate and cowardly urge to escape battle. Perhaps you now realise that you will lose this struggle?
+{DRT_ENGLISH_DECLINE_DEMAND}We simply do not see how to attempt to meet these demands.
+{DRT_ENGLISH_DECLINE_GIFT}Our people cannot trust the nature in which this gift is intended.
+{DRT_ENGLISH_DECLINE_NULLIFY}We are not willing to abandon our treaty with these people simply because you would wish it to happen.
+{DRT_ENGLISH_DECLINE_OFFER_MARRIAGE_ALLIANCE}This is too serious a union for us to consider at this moment.
+{DRT_ENGLISH_DECLINE_OFFER}We cannot match this offer, and must decline as a result.
+{DRT_ENGLISH_DECLINE_PAYMENT_TOO_HIGH}This is far too generous and we would owe you too much.
+{DRT_ENGLISH_DECLINE_PAYMENT_TOO_LOW}You simply do not offer enough with this.
+{DRT_ENGLISH_DECLINE_PROTECTORATE}Why do you think we have not surrendered yet? Maintaining our freedom is as important as maintaining our very lives.
+{DRT_ENGLISH_DECLINE_REGION}To give up the lands our people died to earn and defend for a pouch of coin simply would not do.
+{DRT_ENGLISH_DECLINE_REQUEST_MARRIAGE_ALLIANCE}We shall not consider a royal union under any doubt or duress.
+{DRT_ENGLISH_DECLINE_SELL_VOTE}We are not looking to buy your support like this.
+{DRT_ENGLISH_DECLINE_THREAT}Our people has no fear of your threats, which to be honest seem hollow.
+{DRT_ENGLISH_DECLINE_YEARLY_PAYMENT}We cannot agree to this, even for a steady supply of coin.
+{DRT_ENGLISH_DISHONEST_ACCESS_DEMAND}Our people has no desire for your armies to study the lay of our lands.
+{DRT_ENGLISH_DISHONEST_ACCESS_OFFER}Though that access could be useful for our people in times of war, we cannot be certain that you wouldn't change your mind once we begin to cross your lands. 
+{DRT_ENGLISH_DISHONEST_ATTACK_OFFER}Your promise of support is the kind that is easy to make without actually having to honour it.
+{DRT_ENGLISH_DISHONEST_ATTACK_THREAT}We do not believe that you will stay your swords even if we meet your demands.
+{DRT_ENGLISH_DISHONEST_REGION_OFFER}Your offer of land seems most generous, but there is enough reason to doubt that you wouldn't seek to take it back from us by one means or another.
+{DRT_ENGLISH_DISHONEST_SELL_VOTE}Your people's history is one of broken promises, I do not trust your offer.
+{DRT_ENGLISH_DISHONEST_TRIBUTE_OFFER}We do not believe that you are capable of honouring such a series of tributes, even if you truly intend to.
+{DRT_ENGLISH_FINISHED}.
+{DRT_ENGLISH_GIFT}Accept this gift as an example of our goodwill. 
+{DRT_ENGLISH_INFO}We would wish to share our knowledge of the world with you.
+{DRT_ENGLISH_NULLIFY_ALLIANCE}The time for our alliance's demise has come to pass. We shall both seek our own path to glory now. 
+{DRT_ENGLISH_OFFER_MARRIAGE_ALLIANCE}Accept my hand in marriage and unite our people in an alliance to last.
+{DRT_ENGLISH_PROTECTORATE}Why continue to struggle against our superior forces? Become our vassal and we shall lead you to greatness under our rule.
+{DRT_ENGLISH_RECIPIENT_WELCOME_ALLIED}.
+{DRT_ENGLISH_RECIPIENT_WELCOME_AT_WAR}.
+{DRT_ENGLISH_RECIPIENT_WELCOME_NEUTRAL}.
+{DRT_ENGLISH_REJECT_BRIBE}My loyalty is not something that you can put a price on so simply.
+{DRT_ENGLISH_REJECT_NOT_INTERESTED}We're simply not interested in discussing such a proposal. 
+{DRT_ENGLISH_REJECT_TOO_MANY_COUNTERS}We are not making sufficient progress here to suggest there is any reason to continue... These negotiations are over.
+{DRT_ENGLISH_REQUEST_MARRIAGE_ALLIANCE}It is time for us to seal a serious pact through a royal marriage.
+{DRT_ENGLISH_SELL_VOTE}Perhaps you would want our support in the election?
+{DRT_ENGLISH_THREAT}We can afford to spare you from our conquests, should of course you be prepared to pay tribute as such...
+{DRT_ENGLISH_TRADE}It would be quite profitable for both of our peoples to establish trade between us.
+{DRT_GERMAN_ACCEPT_BRIBE}I believe I have chosen wisely in pledging my service to the the Great Eye.
+{DRT_GERMAN_ACCEPT_BUY_VOTE}Ja, you can count on our support.
+{DRT_GERMAN_ACCEPT_COUNTER}. 
+{DRT_GERMAN_ACCEPT_DECLARATION}.
+{DRT_GERMAN_ACCEPT_GIFT}You clearly mean to honour us, your gift here proves it.
+{DRT_GERMAN_ACCEPT_OFFER_MARRIAGE_ALLIANCE}We look forward to the wedding, and our future together throughout the years.
+{DRT_GERMAN_ACCEPT_PROPOSITION}.
+{DRT_GERMAN_ACCEPT_REQUEST_MARRIAGE_ALLIANCE}I pray that this union between us shall be prosperous.
+{DRT_GERMAN_ACCEPT_SELL_VOTE}We are thankful you have the wisdom to support us.
+{DRT_GERMAN_ACCESS}Allowing us to march across your lands to attack our foes would be an act of true friendship. 
+{DRT_GERMAN_ACKNOWLEDGE_ACCEPTANCE}.
+{DRT_GERMAN_ACKNOWLEDGE_DECLARATION}.
+{DRT_GERMAN_ACKNOWLEDGE_DECLINE}.
+{DRT_GERMAN_ACKNOWLEDGE_REJECTION}.
+{DRT_GERMAN_ALLIANCE}Who could begin to fathom the might of our combined forces and ambitions? We should enter an alliance.
+{DRT_GERMAN_ATTACK}Your assistance against our enemies would be greatly appreciated.
+{DRT_GERMAN_BRIBE}My Master shows those who serve it far more respect and honour than your current ruler. Perhaps you should join us?
+{DRT_GERMAN_BUY_VOTE}Perhaps we could call upon your support in the election?
+{DRT_GERMAN_CEASEFIRE}To continue our conflict now seems pointless, and we would call an end to the bloodshed.
+{DRT_GERMAN_COUNTER_BRIBE}.
+{DRT_GERMAN_COUNTER_DEMAND}.
+{DRT_GERMAN_COUNTER_INFO}Perhaps if we shared our information, it would make a difference.
+{DRT_GERMAN_COUNTER_OFFER}.
+{DRT_GERMAN_COUNTER_PROPOSITION}.
+{DRT_GERMAN_DECLINE_ACCESS}While we understand why you wish passage through our lands, this is not something we are ready to accept as yet.
+{DRT_GERMAN_DECLINE_ALLIANCE}The Dark Lord does not seek to enter an actual alliance with your people for now.
+{DRT_GERMAN_DECLINE_ATTACK}We do not have good enough reason to attack these people with you, and must decline.
+{DRT_GERMAN_DECLINE_BUY_VOTE}No, our vote on the control of Middle-earth is not for sale.
+{DRT_GERMAN_DECLINE_CEASEFIRE}You may not be able to afford the losses of this war, but we can, and are pleased to know you are close to breaking.
+{DRT_GERMAN_DECLINE_DEMAND}My Master will not attempt to meet these demands you make.
+{DRT_GERMAN_DECLINE_GIFT}There is no sense in you giving us this gift, which makes it an offer that we cannot trust.
+{DRT_GERMAN_DECLINE_NULLIFY}We can see no rational excuse to end our alliance now. 
+{DRT_GERMAN_DECLINE_OFFER_MARRIAGE_ALLIANCE}This is too serious a union for us to consider at this moment.
+{DRT_GERMAN_DECLINE_OFFER}Without a means to offer something in return, we must decline. 
+{DRT_GERMAN_DECLINE_PAYMENT_TOO_HIGH}The Dark Lord has no need of your offerings.
+{DRT_GERMAN_DECLINE_PAYMENT_TOO_LOW}Frankly, this proposal does not offer us enough.
+{DRT_GERMAN_DECLINE_PROTECTORATE}The Great Eye has endured too many hardships to believe it will fall before the threat you pose, and will resist any attempt at replacing the Dark Lord as its ruler.
+{DRT_GERMAN_DECLINE_REGION}You jest?
+{DRT_GERMAN_DECLINE_REQUEST_MARRIAGE_ALLIANCE}We shall not consider a royal union under any doubt or duress.
+{DRT_GERMAN_DECLINE_SELL_VOTE}We are not looking to buy your support like this.
+{DRT_GERMAN_DECLINE_THREAT}The Dark Lord Sauron considers that you have overestimated the threat you pose.
+{DRT_GERMAN_DECLINE_YEARLY_PAYMENT}Unacceptable, even for your promise of ongoing tributes. 
+{DRT_GERMAN_DISHONEST_ACCESS_DEMAND}You must either be a fool, or think us one! We are not about to offer you the perfect chance to strike at our heart.
+{DRT_GERMAN_DISHONEST_ACCESS_OFFER}Your invitation to enter your lands seems strange, and until we are certain it is not a trap of some sort, must decline.
+{DRT_GERMAN_DISHONEST_ATTACK_OFFER}Your people are known too well for making promises they do not keep, and we are not willing to adopt a plan of battle where we cannot rely upon who will take the field.
+{DRT_GERMAN_DISHONEST_ATTACK_THREAT}We reject the notion that you have the intention to carry out your threat, and that you would not dismiss our agreement after you have what you have asked for.
+{DRT_GERMAN_DISHONEST_REGION_OFFER}We would appreciate these lands, but we frankly do not trust that you do not offer them without a plan to betray us and take it back.
+{DRT_GERMAN_DISHONEST_SELL_VOTE}Your people's history is one of weakness, I do not trust your offer.
+{DRT_GERMAN_DISHONEST_TRIBUTE_OFFER}Though you may appear sincere in your offer of ongoing tribute, we lack confidence in both your ability and intention to see this through.
+{DRT_GERMAN_FINISHED}.
+{DRT_GERMAN_GIFT}The Great Lord Sauron hopes that you will accept this gift with the goodwill in which it is offered to your people.
+{DRT_GERMAN_INFO}The Great Eye has knowledge that it would happily share with you.
+{DRT_GERMAN_NULLIFY_ALLIANCE}Everything has a time to live and a time to die. Our alliance has reached its time to die, so let us part. 
+{DRT_GERMAN_OFFER_MARRIAGE_ALLIANCE}Accept my hand in marriage, forming a strong alliance between our peoples to last the test of time.
+{DRT_GERMAN_PROTECTORATE}Accept that your people will be crushed by the Dark Lord unless you can forget your pride and offer yourself as a vassal of the Great Eye!
+{DRT_GERMAN_RECIPIENT_WELCOME_ALLIED}.
+{DRT_GERMAN_RECIPIENT_WELCOME_AT_WAR}.
+{DRT_GERMAN_RECIPIENT_WELCOME_NEUTRAL}.
+{DRT_GERMAN_REJECT_BRIBE}You are ignoring the fact I have a sense of loyalty, which is both arrogant and insulting.
+{DRT_GERMAN_REJECT_NOT_INTERESTED}We are just not interested in discussing this with you... Understand?
+{DRT_GERMAN_REJECT_TOO_MANY_COUNTERS}You are not sincere about reaching an agreement. This is too inefficient a way to be spending our time, and we shall end this here.
+{DRT_GERMAN_REQUEST_MARRIAGE_ALLIANCE}It is time for us to seal a serious pact through a royal marriage.
+{DRT_GERMAN_SELL_VOTE}Perhaps you would want our support in the election?
+{DRT_GERMAN_THREAT}Unless you can give us good reason to spare your lands and people, the Reich will take what it feels it needs by force.
+{DRT_GERMAN_TRADE}Establishing trade is the ideal way for our people to begin dealing with one another.
+{DRT_GONDOR_ACCEPT_BRIBE}Knowing that you would deign to spend such a sum to secure my allegiance is all I need to be sure that you are the right master to serve.
+{DRT_GONDOR_ACCEPT_BUY_VOTE}Very well, you can count on our support.
+{DRT_GONDOR_ACCEPT_COUNTER}.
+{DRT_GONDOR_ACCEPT_DECLARATION}.
+{DRT_GONDOR_ACCEPT_GIFT}Your well-intentioned gift is welcome, and you have our gratitude.
+{DRT_GONDOR_ACCEPT_OFFER_MARRIAGE_ALLIANCE}We look forward to the wedding, and our future together throughout the years.
+{DRT_GONDOR_ACCEPT_PROPOSITION}.
+{DRT_GONDOR_ACCEPT_REQUEST_MARRIAGE_ALLIANCE}I pray that this union between us shall be prosperous.
+{DRT_GONDOR_ACCEPT_SELL_VOTE}We are grateful to be able to count on your support.
+{DRT_GONDOR_ACCESS}If you would grant our armies access through your lands, it would benefit our struggle against our enemies.
+{DRT_GONDOR_ACKNOWLEDGE_ACCEPTANCE}.
+{DRT_GONDOR_ACKNOWLEDGE_DECLARATION}.
+{DRT_GONDOR_ACKNOWLEDGE_DECLINE}.
+{DRT_GONDOR_ACKNOWLEDGE_REJECTION}.
+{DRT_GONDOR_ALLIANCE}Let our people enter an alliance to strengthen both of our positions. 
+{DRT_GONDOR_ATTACK}Could we ask of your assistance in battle with our enemy?
+{DRT_GONDOR_BRIBE}You would find yourself in a position of power and prominence should you accept this invitation to join the our number.
+{DRT_GONDOR_BUY_VOTE}Perhaps we could call upon your support in the election?
+{DRT_GONDOR_CEASEFIRE}Let us stop the bloodshed, and bring open hostilities to an end.
+{DRT_GONDOR_COUNTER_BRIBE}.
+{DRT_GONDOR_COUNTER_DEMAND}.
+{DRT_GONDOR_COUNTER_INFO}Our people would like to share some information with you.
+{DRT_GONDOR_COUNTER_OFFER}.
+{DRT_GONDOR_COUNTER_PROPOSITION}.
+{DRT_GONDOR_DECLINE_ACCESS}While you can see the need to march your soldiers through our lands, we do not. Permission must be refused at this time. 
+{DRT_GONDOR_DECLINE_ALLIANCE}We do not believe an alliance would be in our best interests at this time. 
+{DRT_GONDOR_DECLINE_ATTACK}Attacking these people is not in our best interests, so we must refuse. 
+{DRT_GONDOR_DECLINE_BUY_VOTE}We will not be bartering over this serious moment of ascension.
+{DRT_GONDOR_DECLINE_CEASEFIRE}My Lord does not share your desperate and cowardly urge to escape battle. Perhaps you now realise that you will lose this struggle?
+{DRT_GONDOR_DECLINE_DEMAND}We simply do not see how to attempt to meet these demands.
+{DRT_GONDOR_DECLINE_GIFT}Our people cannot trust the nature in which this gift is intended.
+{DRT_GONDOR_DECLINE_NULLIFY}We are not willing to abandon our treaty with these people simply because you would wish it to happen.
+{DRT_GONDOR_DECLINE_OFFER_MARRIAGE_ALLIANCE}This is too serious a union for us to consider at this moment.
+{DRT_GONDOR_DECLINE_OFFER}We cannot match this offer, and must decline as a result.
+{DRT_GONDOR_DECLINE_PAYMENT_TOO_HIGH}This is far too generous and we would owe you too much.
+{DRT_GONDOR_DECLINE_PAYMENT_TOO_LOW}You simply do not offer enough with this.
+{DRT_GONDOR_DECLINE_PROTECTORATE}Why do you think we have not surrendered yet? Maintaining our freedom is as important as maintaining our very lives.
+{DRT_GONDOR_DECLINE_REGION}To give up the lands our people died to earn and defend for a pouch of coin simply would not do.
+{DRT_GONDOR_DECLINE_REQUEST_MARRIAGE_ALLIANCE}We shall not consider a royal union under any doubt or duress.
+{DRT_GONDOR_DECLINE_SELL_VOTE}We are not looking to buy your support like this.
+{DRT_GONDOR_DECLINE_THREAT}Our people has no fear of your threats, which to be honest seem hollow.
+{DRT_GONDOR_DECLINE_YEARLY_PAYMENT}We cannot agree to this, even for a steady supply of coin.
+{DRT_GONDOR_DISHONEST_ACCESS_DEMAND}Our people has no desire for your armies to study the lay of our lands.
+{DRT_GONDOR_DISHONEST_ACCESS_OFFER}Though that access could be useful for our people in times of war, we cannot be certain that you wouldn't change your mind once we begin to cross your lands. 
+{DRT_GONDOR_DISHONEST_ATTACK_OFFER}Your promise of support is the kind that is easy to make without actually having to honour it.
+{DRT_GONDOR_DISHONEST_ATTACK_THREAT}We do not believe that you will stay your swords even if we meet your demands.
+{DRT_GONDOR_DISHONEST_REGION_OFFER}Your offer of land seems most generous, but there is enough reason to doubt that you wouldn't seek to take it back from us by one means or another.
+{DRT_GONDOR_DISHONEST_SELL_VOTE}Your people's history is one of broken promises, I do not trust your offer.
+{DRT_GONDOR_DISHONEST_TRIBUTE_OFFER}We do not believe that you are capable of honouring such a series of tributes, even if you truly intend to.
+{DRT_GONDOR_FINISHED}.
+{DRT_GONDOR_GIFT}Accept this gift as an example of our goodwill. 
+{DRT_GONDOR_INFO}We would wish to share our knowledge of the world with you.
+{DRT_GONDOR_NULLIFY_ALLIANCE}The time for our alliance's demise has come to pass. We shall both seek our own path to glory now. 
+{DRT_GONDOR_OFFER_MARRIAGE_ALLIANCE}Accept my hand in marriage and unite our people in an alliance to last.
+{DRT_GONDOR_PROTECTORATE}Why continue to struggle against our superior forces? Become our vassal and we shall lead you to greatness under our rule.
+{DRT_GONDOR_RECIPIENT_WELCOME_ALLIED}.
+{DRT_GONDOR_RECIPIENT_WELCOME_AT_WAR}.
+{DRT_GONDOR_RECIPIENT_WELCOME_NEUTRAL}.
+{DRT_GONDOR_REJECT_BRIBE}My loyalty is not something that you can put a price on so simply.
+{DRT_GONDOR_REJECT_NOT_INTERESTED}We're simply not interested in discussing such a proposal. 
+{DRT_GONDOR_REJECT_TOO_MANY_COUNTERS}We are not making sufficient progress here to suggest there is any reason to continue... These negotiations are over.
+{DRT_GONDOR_REQUEST_MARRIAGE_ALLIANCE}It is time for us to seal a serious pact through a royal marriage.
+{DRT_GONDOR_SELL_VOTE}Perhaps you would want our support in the election?
+{DRT_GONDOR_THREAT}We can afford to spare you from our conquests, should of course you be prepared to pay tribute as such...
+{DRT_GONDOR_TRADE}It would be quite profitable for both of our peoples to establish trade between us.
+{DRT_QUENYA_ACCEPT_BRIBE}Knowing that you would deign to spend such a sum to secure my allegiance is all I need to be sure that you are the right master to serve.
+{DRT_QUENYA_ACCEPT_BUY_VOTE}Very well, you can count on our support.
+{DRT_QUENYA_ACCEPT_COUNTER}.
+{DRT_QUENYA_ACCEPT_DECLARATION}.
+{DRT_QUENYA_ACCEPT_GIFT}Your well-intentioned gift is welcome, and you have our gratitude.
+{DRT_QUENYA_ACCEPT_OFFER_MARRIAGE_ALLIANCE}We look forward to the wedding, and our future together throughout the years.
+{DRT_QUENYA_ACCEPT_PROPOSITION}.
+{DRT_QUENYA_ACCEPT_REQUEST_MARRIAGE_ALLIANCE}I pray that this union between us shall be prosperous.
+{DRT_QUENYA_ACCEPT_SELL_VOTE}We are grateful to be able to count on your support.
+{DRT_QUENYA_ACCESS}If you would grant our armies access through your lands, it would benefit our struggle against our enemies.
+{DRT_QUENYA_ACKNOWLEDGE_ACCEPTANCE}.
+{DRT_QUENYA_ACKNOWLEDGE_DECLARATION}.
+{DRT_QUENYA_ACKNOWLEDGE_DECLINE}.
+{DRT_QUENYA_ACKNOWLEDGE_REJECTION}.
+{DRT_QUENYA_ALLIANCE}Let our people enter an alliance to strengthen both of our positions. 
+{DRT_QUENYA_ATTACK}Could we ask of your assistance in battle with our enemy?
+{DRT_QUENYA_BRIBE}You would find yourself in a position of power and prominence should you accept this invitation to join the our number.
+{DRT_QUENYA_BUY_VOTE}Perhaps we could call upon your support in the election?
+{DRT_QUENYA_CEASEFIRE}Let us stop the bloodshed, and bring open hostilities to an end.
+{DRT_QUENYA_COUNTER_BRIBE}.
+{DRT_QUENYA_COUNTER_DEMAND}.
+{DRT_QUENYA_COUNTER_INFO}Our people would like to share some information with you.
+{DRT_QUENYA_COUNTER_OFFER}.
+{DRT_QUENYA_COUNTER_PROPOSITION}.
+{DRT_QUENYA_DECLINE_ACCESS}While you can see the need to march your soldiers through our lands, we do not. Permission must be refused at this time. 
+{DRT_QUENYA_DECLINE_ALLIANCE}We do not believe an alliance would be in our best interests at this time. 
+{DRT_QUENYA_DECLINE_ATTACK}Attacking these people is not in our best interests, so we must refuse. 
+{DRT_QUENYA_DECLINE_BUY_VOTE}We will not be bartering over this serious moment of ascension.
+{DRT_QUENYA_DECLINE_CEASEFIRE}My Lord does not share your desperate and cowardly urge to escape battle. Perhaps you now realise that you will lose this struggle?
+{DRT_QUENYA_DECLINE_DEMAND}We simply do not see how to attempt to meet these demands.
+{DRT_QUENYA_DECLINE_GIFT}Our people cannot trust the nature in which this gift is intended.
+{DRT_QUENYA_DECLINE_NULLIFY}We are not willing to abandon our treaty with these people simply because you would wish it to happen.
+{DRT_QUENYA_DECLINE_OFFER_MARRIAGE_ALLIANCE}This is too serious a union for us to consider at this moment.
+{DRT_QUENYA_DECLINE_OFFER}We cannot match this offer, and must decline as a result.
+{DRT_QUENYA_DECLINE_PAYMENT_TOO_HIGH}This is far too generous and we would owe you too much.
+{DRT_QUENYA_DECLINE_PAYMENT_TOO_LOW}You simply do not offer enough with this.
+{DRT_QUENYA_DECLINE_PROTECTORATE}Why do you think we have not surrendered yet? Maintaining our freedom is as important as maintaining our very lives.
+{DRT_QUENYA_DECLINE_REGION}To give up the lands our people died to earn and defend for a pouch of coin simply would not do.
+{DRT_QUENYA_DECLINE_REQUEST_MARRIAGE_ALLIANCE}We shall not consider a royal union under any doubt or duress.
+{DRT_QUENYA_DECLINE_SELL_VOTE}We are not looking to buy your support like this.
+{DRT_QUENYA_DECLINE_THREAT}Our people has no fear of your threats, which to be honest seem hollow.
+{DRT_QUENYA_DECLINE_YEARLY_PAYMENT}We cannot agree to this, even for a steady supply of coin.
+{DRT_QUENYA_DISHONEST_ACCESS_DEMAND}Our people has no desire for your armies to study the lay of our lands.
+{DRT_QUENYA_DISHONEST_ACCESS_OFFER}Though that access could be useful for our people in times of war, we cannot be certain that you wouldn't change your mind once we begin to cross your lands. 
+{DRT_QUENYA_DISHONEST_ATTACK_OFFER}Your promise of support is the kind that is easy to make without actually having to honour it.
+{DRT_QUENYA_DISHONEST_ATTACK_THREAT}We do not believe that you will stay your swords even if we meet your demands.
+{DRT_QUENYA_DISHONEST_REGION_OFFER}Your offer of land seems most generous, but there is enough reason to doubt that you wouldn't seek to take it back from us by one means or another.
+{DRT_QUENYA_DISHONEST_SELL_VOTE}Your people's history is one of broken promises, I do not trust your offer.
+{DRT_QUENYA_DISHONEST_TRIBUTE_OFFER}We do not believe that you are capable of honouring such a series of tributes, even if you truly intend to.
+{DRT_QUENYA_FINISHED}.
+{DRT_QUENYA_GIFT}Accept this gift as an example of our goodwill. 
+{DRT_QUENYA_INFO}We would wish to share our knowledge of the world with you.
+{DRT_QUENYA_NULLIFY_ALLIANCE}The time for our alliance's demise has come to pass. We shall both seek our own path to glory now. 
+{DRT_QUENYA_OFFER_MARRIAGE_ALLIANCE}Accept my hand in marriage and unite our people in an alliance to last.
+{DRT_QUENYA_PROTECTORATE}Why continue to struggle against our superior forces? Become our vassal and we shall lead you to greatness under our rule.
+{DRT_QUENYA_RECIPIENT_WELCOME_ALLIED}.
+{DRT_QUENYA_RECIPIENT_WELCOME_AT_WAR}.
+{DRT_QUENYA_RECIPIENT_WELCOME_NEUTRAL}.
+{DRT_QUENYA_REJECT_BRIBE}My loyalty is not something that you can put a price on so simply.
+{DRT_QUENYA_REJECT_NOT_INTERESTED}We're simply not interested in discussing such a proposal. 
+{DRT_QUENYA_REJECT_TOO_MANY_COUNTERS}We are not making sufficient progress here to suggest there is any reason to continue... These negotiations are over.
+{DRT_QUENYA_REQUEST_MARRIAGE_ALLIANCE}It is time for us to seal a serious pact through a royal marriage.
+{DRT_QUENYA_SELL_VOTE}Perhaps you would want our support in the election?
+{DRT_QUENYA_THREAT}We can afford to spare you from our conquests, should of course you be prepared to pay tribute as such...
+{DRT_QUENYA_TRADE}It would be quite profitable for both of our peoples to establish trade between us.
+{DRT_SCOTTISH_ACCEPT_BRIBE}Your wise investment in my services proves I now serve a more cunning and appreciative master. 
+{DRT_SCOTTISH_ACCEPT_BUY_VOTE}Aye, you can count on our support.
+{DRT_SCOTTISH_ACCEPT_COUNTER}.
+{DRT_SCOTTISH_ACCEPT_DECLARATION}.
+{DRT_SCOTTISH_ACCEPT_GIFT}Your well-intentioned gift is welcome of course. You have our gratitude.
+{DRT_SCOTTISH_ACCEPT_OFFER_MARRIAGE_ALLIANCE}We look forward to the wedding, and our future together throughout the years.
+{DRT_SCOTTISH_ACCEPT_PROPOSITION}.
+{DRT_SCOTTISH_ACCEPT_REQUEST_MARRIAGE_ALLIANCE}I pray that this union between us shall be prosperous.
+{DRT_SCOTTISH_ACCEPT_SELL_VOTE}We appreciate being able to count on your support.
+{DRT_SCOTTISH_ACCESS}If you would grant our armies access through your lands, it would benefit our struggle against our enemies.
+{DRT_SCOTTISH_ACKNOWLEDGE_ACCEPTANCE}.
+{DRT_SCOTTISH_ACKNOWLEDGE_DECLARATION}. 
+{DRT_SCOTTISH_ACKNOWLEDGE_DECLINE}.
+{DRT_SCOTTISH_ACKNOWLEDGE_REJECTION}.
+{DRT_SCOTTISH_ALLIANCE}An alliance between our people would strengthen both our positions. 
+{DRT_SCOTTISH_ATTACK}Could we ask of your assistance in our battle with our enemy?
+{DRT_SCOTTISH_BRIBE}You would find yourself in a position of power and prominence should you be willing to name your price to the Scottish crown.
+{DRT_SCOTTISH_BUY_VOTE}Perhaps we could call upon your support in the Papal election?
+{DRT_SCOTTISH_CEASEFIRE}Let us stop the bloodshed, and bring open hostilities to an end.
+{DRT_SCOTTISH_COUNTER_BRIBE}.
+{DRT_SCOTTISH_COUNTER_DEMAND}.
+{DRT_SCOTTISH_COUNTER_INFO}The Dwarves would like to share some information with you.
+{DRT_SCOTTISH_COUNTER_OFFER}.
+{DRT_SCOTTISH_COUNTER_PROPOSITION}.
+{DRT_SCOTTISH_DECLINE_ACCESS}Our lands are not simply a thoroughfare for others, we cannot accept.
+{DRT_SCOTTISH_DECLINE_ALLIANCE}We do not quite see the need for an alliance as yet. 
+{DRT_SCOTTISH_DECLINE_ATTACK}Attacking these people is not something in our best interests. We must refuse. 
+{DRT_SCOTTISH_DECLINE_BUY_VOTE}We shall not haggle over control of the Dark Lord this way.
+{DRT_SCOTTISH_DECLINE_CEASEFIRE}We do not share your cowardly urge to end our conflict. 
+{DRT_SCOTTISH_DECLINE_DEMAND}We simply do not see how to attempt to meet these demands.
+{DRT_SCOTTISH_DECLINE_GIFT}We cannot trust the nature in which this gift is intended.
+{DRT_SCOTTISH_DECLINE_NULLIFY}We are not willing to cancel that alliance simply because it serves your purposes. 
+{DRT_SCOTTISH_DECLINE_OFFER_MARRIAGE_ALLIANCE}This is too serious a union for us to consider at this moment.
+{DRT_SCOTTISH_DECLINE_OFFER}We cannot match this offer, and must decline as a result. 
+{DRT_SCOTTISH_DECLINE_PAYMENT_TOO_HIGH}This is far too generous and we would owe you too much.
+{DRT_SCOTTISH_DECLINE_PAYMENT_TOO_LOW}You simply do not offer enough with this.
+{DRT_SCOTTISH_DECLINE_PROTECTORATE}We Scots value freedom above all other things - Do not suggest this again, aye?
+{DRT_SCOTTISH_DECLINE_REGION}Too many sons of our people gave their lives for these lands... We cannot forsake them for a pile of coin.
+{DRT_SCOTTISH_DECLINE_REQUEST_MARRIAGE_ALLIANCE}We shall not consider a royal union under any doubt or duress.
+{DRT_SCOTTISH_DECLINE_SELL_VOTE}We are not looking to buy your support like this.
+{DRT_SCOTTISH_DECLINE_THREAT}We are willing to see if your threats are hollow.
+{DRT_SCOTTISH_DECLINE_YEARLY_PAYMENT}We cannot agree to this, even for a steady supply of coin.
+{DRT_SCOTTISH_DISHONEST_ACCESS_DEMAND}We have no desire for your armies to grow accustomed to her lands.
+{DRT_SCOTTISH_DISHONEST_ACCESS_OFFER}Though that access could be useful for the Dwarves in times of war, we cannot be certain that you wouldn't change your mind as we cross your lands. 
+{DRT_SCOTTISH_DISHONEST_ATTACK_OFFER}You are making assumptions that we want your assistance in attacking our enemies. More importantly, your promise of support is easy to make without honouring.
+{DRT_SCOTTISH_DISHONEST_ATTACK_THREAT}We do not believe that you will stay your swords even if we meet your demands.
+{DRT_SCOTTISH_DISHONEST_REGION_OFFER}Your offer of land seems most generous, but there is enough reason to doubt that you wouldn't seek to take it back from us by some means.
+{DRT_SCOTTISH_DISHONEST_SELL_VOTE}Your people's history is one of broken promises, I do not trust your offer.
+{DRT_SCOTTISH_DISHONEST_TRIBUTE_OFFER}We do not believe that you are capable of honouring such a series of tributes, or that you truly intended to.
+{DRT_SCOTTISH_FINISHED}.
+{DRT_SCOTTISH_GIFT}Accept this gift as a sign of our goodwill toward your people. 
+{DRT_SCOTTISH_INFO}If we share our knowledge of the world we will all benefit. 
+{DRT_SCOTTISH_NULLIFY_ALLIANCE}The time for our alliance's demise has to come has pass. We shall both seek our own path to glory now. 
+{DRT_SCOTTISH_OFFER_MARRIAGE_ALLIANCE}Accept my hand in marriage, forming a strong alliance between our people.
+{DRT_SCOTTISH_PROTECTORATE}Why continue to live under our constant threat? Become our vassal and we shall lead you to greatness under Scottish rule.
+{DRT_SCOTTISH_RECIPIENT_WELCOME_ALLIED}.
+{DRT_SCOTTISH_RECIPIENT_WELCOME_AT_WAR}.
+{DRT_SCOTTISH_RECIPIENT_WELCOME_NEUTRAL}.
+{DRT_SCOTTISH_REJECT_BRIBE}Our loyalty is not something that you can purchase so simply.
+{DRT_SCOTTISH_REJECT_NOT_INTERESTED}We're simply not interested in such a proposal. 
+{DRT_SCOTTISH_REJECT_TOO_MANY_COUNTERS}We have bantered too long with no result.
+{DRT_SCOTTISH_REQUEST_MARRIAGE_ALLIANCE}Would your highness accept a proposal of marriage to the Scottish royal family, uniting our great people in an alliance?
+{DRT_SCOTTISH_SELL_VOTE}Perhaps you would want our support in the Papal election?
+{DRT_SCOTTISH_THREAT}The Dwarves may agree to spare your lands, should you be prepared to pay her fitting tribute for not simply taking them as you know she could.
+{DRT_SCOTTISH_TRADE}Establishing trade between us would benefit us both. Surely you'd agree?
+{DRT_SINDARIN_ACCEPT_BRIBE}Knowing that you would deign to spend such a sum to secure my allegiance is all I need to be sure that you are the right master to serve.
+{DRT_SINDARIN_ACCEPT_BUY_VOTE}Very well, you can count on our support.
+{DRT_SINDARIN_ACCEPT_COUNTER}.
+{DRT_SINDARIN_ACCEPT_DECLARATION}.
+{DRT_SINDARIN_ACCEPT_GIFT}Your well-intentioned gift is welcome, and you have our gratitude.
+{DRT_SINDARIN_ACCEPT_OFFER_MARRIAGE_ALLIANCE}We look forward to the wedding, and our future together throughout the years.
+{DRT_SINDARIN_ACCEPT_PROPOSITION}.
+{DRT_SINDARIN_ACCEPT_REQUEST_MARRIAGE_ALLIANCE}I pray that this union between us shall be prosperous.
+{DRT_SINDARIN_ACCEPT_SELL_VOTE}We are grateful to be able to count on your support.
+{DRT_SINDARIN_ACCESS}If you would grant our armies access through your lands, it would benefit our struggle against our enemies.
+{DRT_SINDARIN_ACKNOWLEDGE_ACCEPTANCE}.
+{DRT_SINDARIN_ACKNOWLEDGE_DECLARATION}.
+{DRT_SINDARIN_ACKNOWLEDGE_DECLINE}.
+{DRT_SINDARIN_ACKNOWLEDGE_REJECTION}.
+{DRT_SINDARIN_ALLIANCE}Let our people enter an alliance to strengthen both of our positions. 
+{DRT_SINDARIN_ATTACK}Could we ask of your assistance in battle with our enemy?
+{DRT_SINDARIN_BRIBE}You would find yourself in a position of power and prominence should you accept this invitation to join the our number.
+{DRT_SINDARIN_BUY_VOTE}Perhaps we could call upon your support in the election?
+{DRT_SINDARIN_CEASEFIRE}Let us stop the bloodshed, and bring open hostilities to an end.
+{DRT_SINDARIN_COUNTER_BRIBE}.
+{DRT_SINDARIN_COUNTER_DEMAND}.
+{DRT_SINDARIN_COUNTER_INFO}Our people would like to share some information with you.
+{DRT_SINDARIN_COUNTER_OFFER}.
+{DRT_SINDARIN_COUNTER_PROPOSITION}.
+{DRT_SINDARIN_DECLINE_ACCESS}While you can see the need to march your soldiers through our lands, we do not. Permission must be refused at this time. 
+{DRT_SINDARIN_DECLINE_ALLIANCE}We do not believe an alliance would be in our best interests at this time. 
+{DRT_SINDARIN_DECLINE_ATTACK}Attacking these people is not in our best interests, so we must refuse. 
+{DRT_SINDARIN_DECLINE_BUY_VOTE}We will not be bartering over this serious moment of ascension.
+{DRT_SINDARIN_DECLINE_CEASEFIRE}My Lord does not share your desperate and cowardly urge to escape battle. Perhaps you now realise that you will lose this struggle?
+{DRT_SINDARIN_DECLINE_DEMAND}We simply do not see how to attempt to meet these demands.
+{DRT_SINDARIN_DECLINE_GIFT}Our people cannot trust the nature in which this gift is intended.
+{DRT_SINDARIN_DECLINE_NULLIFY}We are not willing to abandon our treaty with these people simply because you would wish it to happen.
+{DRT_SINDARIN_DECLINE_OFFER_MARRIAGE_ALLIANCE}This is too serious a union for us to consider at this moment.
+{DRT_SINDARIN_DECLINE_OFFER}We cannot match this offer, and must decline as a result.
+{DRT_SINDARIN_DECLINE_PAYMENT_TOO_HIGH}This is far too generous and we would owe you too much.
+{DRT_SINDARIN_DECLINE_PAYMENT_TOO_LOW}You simply do not offer enough with this.
+{DRT_SINDARIN_DECLINE_PROTECTORATE}Why do you think we have not surrendered yet? Maintaining our freedom is as important as maintaining our very lives.
+{DRT_SINDARIN_DECLINE_REGION}To give up the lands our people died to earn and defend for a pouch of coin simply would not do.
+{DRT_SINDARIN_DECLINE_REQUEST_MARRIAGE_ALLIANCE}We shall not consider a royal union under any doubt or duress.
+{DRT_SINDARIN_DECLINE_SELL_VOTE}We are not looking to buy your support like this.
+{DRT_SINDARIN_DECLINE_THREAT}Our people has no fear of your threats, which to be honest seem hollow.
+{DRT_SINDARIN_DECLINE_YEARLY_PAYMENT}We cannot agree to this, even for a steady supply of coin.
+{DRT_SINDARIN_DISHONEST_ACCESS_DEMAND}Our people has no desire for your armies to study the lay of our lands.
+{DRT_SINDARIN_DISHONEST_ACCESS_OFFER}Though that access could be useful for our people in times of war, we cannot be certain that you wouldn't change your mind once we begin to cross your lands. 
+{DRT_SINDARIN_DISHONEST_ATTACK_OFFER}Your promise of support is the kind that is easy to make without actually having to honour it.
+{DRT_SINDARIN_DISHONEST_ATTACK_THREAT}We do not believe that you will stay your swords even if we meet your demands.
+{DRT_SINDARIN_DISHONEST_REGION_OFFER}Your offer of land seems most generous, but there is enough reason to doubt that you wouldn't seek to take it back from us by one means or another.
+{DRT_SINDARIN_DISHONEST_SELL_VOTE}Your people's history is one of broken promises, I do not trust your offer.
+{DRT_SINDARIN_DISHONEST_TRIBUTE_OFFER}We do not believe that you are capable of honouring such a series of tributes, even if you truly intend to.
+{DRT_SINDARIN_FINISHED}.
+{DRT_SINDARIN_GIFT}Accept this gift as an example of our goodwill. 
+{DRT_SINDARIN_INFO}We would wish to share our knowledge of the world with you.
+{DRT_SINDARIN_NULLIFY_ALLIANCE}The time for our alliance's demise has come to pass. We shall both seek our own path to glory now. 
+{DRT_SINDARIN_OFFER_MARRIAGE_ALLIANCE}Accept my hand in marriage and unite our people in an alliance to last.
+{DRT_SINDARIN_PROTECTORATE}Why continue to struggle against our superior forces? Become our vassal and we shall lead you to greatness under our rule.
+{DRT_SINDARIN_RECIPIENT_WELCOME_ALLIED}.
+{DRT_SINDARIN_RECIPIENT_WELCOME_AT_WAR}.
+{DRT_SINDARIN_RECIPIENT_WELCOME_NEUTRAL}.
+{DRT_SINDARIN_REJECT_BRIBE}My loyalty is not something that you can put a price on so simply.
+{DRT_SINDARIN_REJECT_NOT_INTERESTED}We're simply not interested in discussing such a proposal. 
+{DRT_SINDARIN_REJECT_TOO_MANY_COUNTERS}We are not making sufficient progress here to suggest there is any reason to continue... These negotiations are over.
+{DRT_SINDARIN_REQUEST_MARRIAGE_ALLIANCE}It is time for us to seal a serious pact through a royal marriage.
+{DRT_SINDARIN_SELL_VOTE}Perhaps you would want our support in the election?
+{DRT_SINDARIN_THREAT}We can afford to spare you from our conquests, should of course you be prepared to pay tribute as such...
+{DRT_SINDARIN_TRADE}It would be quite profitable for both of our peoples to establish trade between us.
+{DRT_UNKNOWN_ACCEPT_BRIBE}It is clear you are more serious in showing your belief in my abilities than my now former master. 
+{DRT_UNKNOWN_ACCEPT_BUY_VOTE}Yes, you can count on our support.
+{DRT_UNKNOWN_ACCEPT_COUNTER}.
+{DRT_UNKNOWN_ACCEPT_DECLARATION}.
+{DRT_UNKNOWN_ACCEPT_GIFT}Your gift is welcome, and you have our gratitude.
+{DRT_UNKNOWN_ACCEPT_OFFER_MARRIAGE_ALLIANCE}We look forward to the wedding, and our future together throughout the years.
+{DRT_UNKNOWN_ACCEPT_PROPOSITION}.
+{DRT_UNKNOWN_ACCEPT_RECOMMUNICATION}The Dark Lord accepts your leader back into the shadow.
+{DRT_UNKNOWN_ACCEPT_REQUEST_MARRIAGE_ALLIANCE}I truly hope that this union between us shall be best for all of us.
+{DRT_UNKNOWN_ACCEPT_SELL_VOTE}Should you support us as you say, we shall not forget it.
+{DRT_UNKNOWN_ACCESS}If you would grant our armies access through your lands, it would benefit our struggle against our enemies.
+{DRT_UNKNOWN_ACKNOWLEDGE_ACCEPTANCE}.
+{DRT_UNKNOWN_ACKNOWLEDGE_DECLARATION}.
+{DRT_UNKNOWN_ACKNOWLEDGE_DECLINE}.
+{DRT_UNKNOWN_ACKNOWLEDGE_REJECTION}.
+{DRT_UNKNOWN_ALLIANCE}Join us in an alliance to strengthen both of our chances of realising our ambitions together, as brothers in arms.
+{DRT_UNKNOWN_ATTACK}Help us defeat this enemy of ours and we shall be extremely grateful.
+{DRT_UNKNOWN_BRIBE}Accept more power and respect than you are accustomed to by joining our cause. Just name your price. 
+{DRT_UNKNOWN_BUY_VOTE}Perhaps we could call upon your support in the Papal election?
+{DRT_UNKNOWN_CEASEFIRE}The bloodshed between us has become meaningless, let us end this warring today.
+{DRT_UNKNOWN_COUNTER_BRIBE}.
+{DRT_UNKNOWN_COUNTER_DEMAND}.
+{DRT_UNKNOWN_COUNTER_INFO}We are hoping that you would find this information of use.
+{DRT_UNKNOWN_COUNTER_OFFER}.
+{DRT_UNKNOWN_COUNTER_PROPOSITION}.
+{DRT_UNKNOWN_DECLINE_ACCESS}We are currently not willing to accept any proposal involving military passage. 
+{DRT_UNKNOWN_DECLINE_ALLIANCE}We do not feel that there is a need to enter an alliance with you.
+{DRT_UNKNOWN_DECLINE_ATTACK}We are not willing to attack as you request. Warring with these people may be your priority, but it is not ours.
+{DRT_UNKNOWN_DECLINE_BUY_VOTE}We shall not haggle over control of the Dark Lord this way.
+{DRT_UNKNOWN_DECLINE_CEASEFIRE}You are alone in wanting to find a peaceful resolution to this war. 
+{DRT_UNKNOWN_DECLINE_DEMAND}You are asking something we simply will not do.
+{DRT_UNKNOWN_DECLINE_GIFT}Not understanding why you would offer us this gift, we must decline.
+{DRT_UNKNOWN_DECLINE_NULLIFY}To us there is no valid reason to end the alliance between our two peoples. 
+{DRT_UNKNOWN_DECLINE_OFFER_MARRIAGE_ALLIANCE}This is too serious a union for us to consider at this moment.
+{DRT_UNKNOWN_DECLINE_OFFER}This is not an offer that we can match now, and must decline. 
+{DRT_UNKNOWN_DECLINE_PAYMENT_TOO_HIGH}This is far too generous, our people would owe you too much.
+{DRT_UNKNOWN_DECLINE_PAYMENT_TOO_LOW}You simply do not offer enough with this.
+{DRT_UNKNOWN_DECLINE_PROTECTORATE}There is no appeal in the idea of becoming your servants. This will not happen.
+{DRT_UNKNOWN_DECLINE_RECOMMUNICATION}Considering your leader's history, the Dark Lord is not yet convinced reconciliation is in order.
+{DRT_UNKNOWN_DECLINE_REGION}Our previous generations gave their blood and lives for the right to call these lands theirs, so we shall not dishonour their deeds by selling what they fought for.
+{DRT_UNKNOWN_DECLINE_REQUEST_MARRIAGE_ALLIANCE}This is too great a pact for us to be able to accept.
+{DRT_UNKNOWN_DECLINE_SELL_VOTE}We would prefer to leave this to God's will.
+{DRT_UNKNOWN_DECLINE_THREAT}Your threats are empty, and we will risk your supposed wrath.
+{DRT_UNKNOWN_DECLINE_YEARLY_PAYMENT}Not even honoured payments would see us agree to your proposal.
+{DRT_UNKNOWN_DISHONEST_ACCESS_DEMAND}Who is to say that you are not looking for a means to find easier plunder by lowering our border defences? It is not your place to do so.
+{DRT_UNKNOWN_DISHONEST_ACCESS_OFFER}You may let our forces into your lands, but would you let them leave? We are too uncertain here.
+{DRT_UNKNOWN_DISHONEST_ATTACK_OFFER}Since we cannot be sure you would aid us as you say you would, we cannot accept this deal.
+{DRT_UNKNOWN_DISHONEST_ATTACK_THREAT}What is to say that you are not simply trying to loot us before you actually strike as you have likely intended all along?
+{DRT_UNKNOWN_DISHONEST_REGION_OFFER}There is no reason to believe you have any true intentions of letting this land go without a plan to take it back... Not with your reputation.
+{DRT_UNKNOWN_DISHONEST_SELL_VOTE}Your people's history is one of broken promises, we can not trust your offer.
+{DRT_UNKNOWN_DISHONEST_TRIBUTE_OFFER}There is too great a question about both your willingness and ability to honour this offer of yours.
+{DRT_UNKNOWN_FINISHED}.
+{DRT_UNKNOWN_GIFT}Please, accept this gift as a symbol of our respect for your people and cause.
+{DRT_UNKNOWN_INFO}The sharing of knowledge benefits all, would you not agree? 
+{DRT_UNKNOWN_NULLIFY_ALLIANCE}There is no longer any need for us to work together in our quest for glory. We realise we shall not find it with you.
+{DRT_UNKNOWN_OFFER_MARRIAGE_ALLIANCE}Will you accept my hand in marriage, forming a strong alliance between our noble peoples?
+{DRT_UNKNOWN_PROTECTORATE}You know that you struggle in vain against inevitable defeat? Avoid this by becoming our vassal and your people will prosper under our rule.
+{DRT_UNKNOWN_RECIPIENT_WELCOME_ALLIED}.
+{DRT_UNKNOWN_RECIPIENT_WELCOME_AT_WAR}.
+{DRT_UNKNOWN_RECIPIENT_WELCOME_NEUTRAL}.
+{DRT_UNKNOWN_RECOMMUNICATION}Surely the offer of reconciling with his holiness is one that you and your people cannot afford to reject?
+{DRT_UNKNOWN_REJECT_BRIBE}Why should I not be offended that you would consider my loyalty something that is for sale?
+{DRT_UNKNOWN_REJECT_NOT_INTERESTED}This is something we are simply not interested in discussing.
+{DRT_UNKNOWN_REJECT_TOO_MANY_COUNTERS}We do not appear to be resolving much here now, and I have other things to attend to.
+{DRT_UNKNOWN_REQUEST_MARRIAGE_ALLIANCE}It is time for us to seal a serious pact through a royal marriage.
+{DRT_UNKNOWN_SELL_VOTE}Perhaps you would want our support in the Papal election?
+{DRT_UNKNOWN_THREAT}Rather than simply take your lands and loot them, perhaps you are wise enough to offer us tribute so we could direct our conquest elsewhere?
+{DRT_UNKNOWN_TRADE}Trade is the first step to mutual benefit, so let us take it together.
+{DT_ALLIED_TURNS}Allied for %d Turns
+{DT_ALLIED_TURN}Allied for %d Turn
+{DT_ASSISTANCE_PROVIDED_AGAINST}Assistance Provided Against
+{DT_ASSISTANCE_REQUESTED_AGAINST}Assistance Requested Against
+{DT_AT_WAR_TURNS}At War for %d Turns
+{DT_AT_WAR_TURN}At War for %d Turn
+{DT_BEHAVIOUR}Details & Behaviour
+{DT_DEMEANOUR}Demeanour:
+{DT_DIPLOMACY_INSTRUCTIONS}Select items listed to the left of this scroll to create a diplomatic proposal.
+{DT_MILITARY_ACCESS_GIVEN}Military Access Given
+{DT_MILITARY_ACCESS_RECEIVED}Military Access Received
+{DT_NEUTRAL_TURNS}Neutral for %d Turns
+{DT_NEUTRAL_TURN}Neutral for %d Turn
+{DT_NO_TREATIES}None
+{DT_POWER}Power:
+{DT_POWER_0}Powerless
+{DT_POWER_1}Pathetic
+{DT_POWER_2}Very Weak
+{DT_POWER_3}Weak
+{DT_POWER_4}Modest
+{DT_POWER_5}Average
+{DT_POWER_6}Capable
+{DT_POWER_7}Respectable
+{DT_POWER_8}Strong
+{DT_POWER_9}Very Strong
+{DT_POWER_10}Supreme
+{DT_PRIORITIES}Priorities:
+{DT_PRIORITY_MILITARY}Military
+{DT_PRIORITY_PEACE}Peace
+{DT_PRIORITY_TRADE}Trade
+{DT_PRIORITY_WAR}War
+{DT_PROPOSAL_BALANCE}Proposal Balance: 
+{DT_PROTECTOR}Protector
+{DT_RELATIONS}Relations:
+{DT_RELATIONS_0}Abysmal
+{DT_RELATIONS_1}Terrible
+{DT_RELATIONS_2}Very Poor
+{DT_RELATIONS_3}Poor
+{DT_RELATIONS_4}So-so
+{DT_RELATIONS_5}Reasonable
+{DT_RELATIONS_6}Amiable
+{DT_RELATIONS_7}Good
+{DT_RELATIONS_8}Very Good
+{DT_RELATIONS_9}Outstanding
+{DT_RELATIONS_10}Perfect
+{DT_REPUTATION}Reputation:
+{DT_REPUTATION_0}Despicable
+{DT_REPUTATION_1}Deceitful
+{DT_REPUTATION_2}Very Untrustworthy
+{DT_REPUTATION_3}Untrustworthy
+{DT_REPUTATION_4}Dubious
+{DT_REPUTATION_5}Mixed
+{DT_REPUTATION_6}Reliable
+{DT_REPUTATION_7}Very Reliable
+{DT_REPUTATION_8}Trustworthy
+{DT_REPUTATION_9}Very Trustworthy
+{DT_REPUTATION_10}Immaculate
+{DT_STANCES_ALLIES}Allies:
+{DT_STANCES_ENEMIES}Enemies:
+{DT_STANCES_NO_ALLIES}None
+{DT_STANCES_NO_ENEMIES}None
+{DT_STANCES}Allies & Enemies
+{DT_TRADE_RIGHTS_GRANTED}Trade Rights Granted
+{DT_TREATIES}Current Treaties:
+{DT_TRIBUTE_PAYED}Tribute Paid (%d Coins):
+{DT_TRIBUTE_RECEIVED}Tribute received (%d Coins):
+{DT_UNKNOWN_PRIORITIES}Unknown
+{DT_WEALTH}Wealth:
+{DT_WEALTH_0}Bankrupt
+{DT_WEALTH_1}Meagre
+{DT_WEALTH_2}Very Poor
+{DT_WEALTH_3}Poor
+{DT_WEALTH_4}Modest
+{DT_WEALTH_5}Reasonable
+{DT_WEALTH_6}Well Off
+{DT_WEALTH_7}Rich
+{DT_WEALTH_8}Very Rich
+{DT_WEALTH_9}Extreme
+{DT_WEALTH_10}Boundless

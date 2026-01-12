@@ -1,0 +1,1701 @@
+¬suppleant ;;;; TOLKIEN QUOTE SUBMOD 2.5.2 ;;;;
+{Author_1}Gandalf the Grey, The Council of Elrond
+{Author_2}Gandalf the Grey, The Council of Elrond
+{Author_3}Saruman the White, The Council of Elrond
+{Author_4}Gandalf the White, The Voice of Saruman
+{Author_5}Gandalf the White, The Palantír
+{Author_6}Gandalf the White, The Palantír
+{Author_7}Gandalf, The Last Debate
+{Author_8}Gandalf the Grey, The Shadow of the Past
+{Author_9}Gandalf to Frodo, Many Meetings 
+{Author_10}about the Witch-king, The Battle of the Pelennor Fields
+{Author_11}Aragorn about Gandalf, A Journey in the Dark
+{Author_12}Gandalf, The Shadow of the Past
+{Author_13}Saruman's crime, Morgoth's Ring
+{Author_14}about Sauron's fingers, The Black Gate is Closed
+{Author_15}Gandalf the White to the Hobbits, The Grey Havens
+{Author_16}Gandalf to the Balrog, The Bridge of Khazad-dûm
+{Author_17}The Lady about the Ring, The Mirror of Galadriel
+{Author_18}Aragorn about Sauron, The Passing of the Grey Company
+{Author_19}Aragorn about Sauron, The Passing of the Grey Company
+{Author_20}Unfinished Tales; The Disaster of the Gladden Fields
+{Author_21}Beregond, Citadel Guard, Minas Tirith
+{Author_22}Gandalf to Frodo, The Shadow of the Past
+{Author_23}Gandalf, Of the Rings of Power and the Third Age 
+{Author_24}Unfinished Tales; The Hunt for the Ring
+{Author_25}Gildor Inglorion of the House of Finrod, Three is Company 
+{Author_26}Gildor Inglorion of the House of Finrod, Three is Company
+{Author_27}Elrond Lord of Rivendell, Many Meetings
+{Author_28}Elrond about the Elven Rings, The Council of Elrond
+{Author_29}The Lord of Rivendell, The Council of Elrond
+{Author_30}to Gandalf, The Council of Elrond
+{Author_31}The Lord of Rivendell, The Council of Elrond
+{Author_32}Elrond Lord of Rivendell, The Council of Elrond 
+{Author_33}Gandalf about Sauron, The Last Debate
+{Author_34}The Lady of Lórien, The Mirror of Galadriel
+{Author_35}Concerning Hobbits
+{Author_36}Lord Elrond, The Rings Goes South
+{Author_37}Unfinished Tales
+{Author_38}Glorfindel, The Council of Elrond 
+{Author_39}Gimli son of Glóin, The Rings Goes South
+{Author_40}Gimli son of Glóin, The Rings Goes South
+{Author_41}Gimli son of Glóin, The Last Debate
+{Author_42}Haldir the Marchwarden, Lothlórien
+{Author_43}The Blue Wizards, Unfinished Tales
+{Author_44}Lord Celeborn, Farewell to Lórien
+{Author_45}Éomer, Third Marshal, Helm's Deep
+{Author_46}Éomer King of the Mark, The Battle of the Pelennor Fields
+{Author_47}Éomer, Third Marshal, The Riders of Rohan
+{Author_48}Éomer, Third Marshal, The Riders of Rohan
+{Author_49}Strider, A Knife in the Dark
+{Author_50}Aragorn, Captain of the Dúnedain, Helm's Deep
+{Author_51}The Passing of the Grey Company
+{Author_52}Aragorn, The Passing of the Grey Company
+{Author_53}Éothain, The Riders of Rohan
+{Author_54}Aragorn, The Riders of Rohan
+{Author_55}Aragorn, The Riders of Rohan
+{Author_56}Aragorn, Flotsam and Jetsam 
+{Author_57}Strider
+{Author_58}Aragorn, Strider
+{Author_59}Aragorn, Flight to the Ford
+{Author_60}Aragorn, The Council of Elrond
+{Author_61}Aragorn, The Riders of Rohan
+{Author_62}Boromir, Captain-General, The Council of Elrond
+{Author_63}Boromir of Gondor, The Council of Elrond
+{Author_64}Boromir of Gondor, The Council of Elrond
+{Author_65}Damrod the Ranger about Southrons, Of Herbs and Stewed Rabbit 
+{Author_66}Ranger of Ithilien about Mûmakil, Of Herbs and Stewed Rabbit 
+{Author_67}The Battle of the Pelennor Fields
+{Author_68}Haradrim's Chieftain, The Battle of the Pelennor Fields
+{Author_69}Aragorn's travels, The Council of Elrond
+{Author_70}Denethor II about the Palantír, The Pyre of Denethor
+{Author_71}Denethor II with the Palantír, The Pyre of Denethor
+{Author_72}Faramir, Captain, Of Herbs and Stewed Rabbit 
+{Author_73}Sméagol, The Black Gate is Closed
+{Author_74}The Black Gate is Closed
+{Author_75}Faramir to Éowyn, The Steward and the King 
+{Author_76}Sméagol to Frodo, The Black Gate is Closed
+{Author_77}Boromir, The Fellowship of the Ring
+{Author_78}The Breaking of the Fellowship
+{Author_79}At the Sign of The Prancing Pony
+{Author_80}Many Meetings
+{Author_81}Frodo Baggins, The Scouring of the Shire
+{Author_82}Gollum about Sauron, The Black Gate is Closed 
+{Author_83}to the Nazgûl, Flight to the Ford 
+{Author_84}Frodo to Faramir on Isildur's Bane, The Window On The West 
+{Author_85}about Morgoth, Valaquenta
+{Author_86}Samwise Gamgee, gardener, The Window On The West 
+{Author_87}Concerning Pipe-weed
+{Author_88}Pippin to Denethor II, Minas Tirith 
+{Author_89}Pippin, Minas Tirith 
+{Author_90}Quenta Silmarillion
+{Author_91}Bilbo to his guests, A Long-expected Party 
+{Author_92}words of Bilbo, Three is Company 
+{Author_93}The prince of the Woodland Realm, Lothlórien
+{Author_94}Gimli at Dunharrow, The Passing of the Grey Company
+{Author_95}Aragorn and the Grey Host, The Passing of the Grey Company
+{Author_96}The Hobbit
+{Author_97}Théoden to Aragorn, Helm's Deep
+{Author_98}Goblins, The Hobbit
+{Author_99}a Rohirrim chant by Aragorn, The King of the Golden Hall
+{Author_100}King Théoden, The Ride of the Rohirrim
+{Author_101}The Ring Goes South
+{Author_102}The Taming of Sméagol
+{Author_103}The Lady of Lórien, The Mirror of Galadriel
+{Author_104}Aragorn's grandfather, Annals of the Kings and Rulers
+{Author_105}The Peoples of Middle-earth
+{Author_106}Boromir, Captain-General, The Great River
+{Author_107}Denethor about him and Faramir, The Siege of Gondor 
+{Author_108}Denethor II, Steward of Gondor, The Siege of Gondor 
+{Author_109}Steward Denethor II, Minas Tirith
+{Author_110}The host, In the House of Tom Bombadil 
+{Author_111}Minas Tirith, Of the Rings of Power and the Third Age 
+{Author_112}Tom Bombadil, Fog on the Barrow-Downs
+{Author_113}The Lays of Beleriand
+{Author_114}Words scribed upon the One Ring in the language of Mordor
+{Author_115}Words scribed upon the One Ring in the Common tongue
+{Author_116}Aragorn at the Argonath, The Great River
+{Author_117}Denethor II, Unfinished Tales
+{Author_118}Of the Rings of Power and the Third Age
+{Author_119}The Hobbit
+{Author_120}Morgoth Bauglir, The Children of Húrin
+{Author_121}Smaug, The Hobbit
+{Author_122}Smaug, The Hobbit
+{Author_123}Dwarves fight Glaurung the Dragon, Quenta Silmarillion
+{Author_124}Gandalf about Aragorn, Strider
+{Author_125}The Battle of the Pelennor Fields
+{Author_126}Fingon High King of the Ñoldor, Quenta Silmarillion 
+{Author_127}Yavanna about Dwarves and Ents, Quenta Silmarillion
+{Author_128}Éomer, The Battle of the Pelennor Fields
+{Author_129}Gandalf, The Council of Elrond
+{Author_130}Boromir, Captain-General, The Council of Elrond
+{Author_131}Gandalf, The Bridge of Khazad-dûm 
+{Author_132}The Battle of the Pelennor Fields
+{Author_133}The Battle of the Pelennor Fields
+{Author_134}the Ram Grond, The Siege of Gondor
+{Author_135}The Book of Lost Tales Two; Fall of Gondolin
+{Author_136}'Axes of the Dwarves! The Dwarves are upon you!', Helm's Deep
+{Author_137}Ainulindale
+{Author_138}Lord Elrond, The Hobbit
+{Author_139}Grima Wormtongue, The Hunt for the Ring
+{Author_140}Sauron, The Hunt for the Ring
+{Author_141}Quenta Silmarillion
+{Author_142}Quenta Silmarillion
+{Author_143}Quenta Silmarillion
+{Author_144}Quenta Silmarillion
+{Author_145}Quenta Silmarillion
+{Author_146}Quenta Silmarillion
+{Author_147}Quenta Silmarillion
+{Author_148}Morgoth Bauglir, The Children of Húrin
+{Author_149}about Dwarves, Quenta Silmarillion
+{Author_150}Quenta Silmarillion
+{Author_151}about Dwarves, Quenta Silmarillion
+{Author_152}The Battle of the Pelennor Fields
+{Author_153}Queen Erendis of Númenor, Unfinished Tales
+{Author_154}Pippin about Beregond, Minas Tirith
+{Author_155}Easterlings, Quenta Silmarillion
+{Author_156}Gorbag about Sam, The Choices of Master Samwise
+{Author_157}Gorbag about Sam, The Choices of Master Samwise
+{Author_158}Quenta Silmarillion
+{Author_159}Quenta Silmarillion
+{Author_160}Quenta Silmarillion
+{Author_161}Quenta Silmarillion
+{Author_162}Quenta Silmarillion
+{Author_163}Ñoldor return to Middle-earth, Quenta Silmarillion
+{Author_164}Aragorn, The Passing of the Grey Company
+{Author_165}about Galadriel, Quenta Silmarillion
+{Author_166}Of the Rings of Power and the Third Age
+{Author_167}Quenta Silmarillion
+{Author_168}Quenta Silmarillion
+{Author_169}Damrod, Ithilien ranger, about Southrons, Of Herbs and Stewed Rabbit
+{Author_170}Helm's Deep
+{Author_171}Quenta Silmarillion
+{Author_172}Damrod, Ithilien ranger, Of Herbs and Stewed Rabbit
+{Author_173}the fall of Nargothrond, Quenta Silmarillion
+{Author_174}Sauron, Quenta Silmarillion
+{Author_175}Quenta Silmarillion
+{Author_176}Boromir of Gondor, The Council of Elrond
+{Author_177}Dwarves armed the Sindar, Quenta Silmarillion
+{Author_178}the Great Ram, The Siege of Gondor
+{Author_179}Gorbag, Captain of Minas Morgul, The Choices of Master Samwise
+{Author_180}Unfinished Tales; The Tradition of Isildur
+{Author_181}Quenta Silmarillion
+{Author_182}Quenta Silmarillion
+{Author_183}Unfinished Tales
+{Author_184}Gandalf the Grey, Unfinished Tales
+{Author_185}about Ñoldor, Quenta Silmarillion
+{Author_186}Dwarves attack Orcs, Quenta Silmarillion
+{Author_187}Gandalf the White, Unfinished Tales
+{Author_188}King Finrod Felagund, Quenta Silmarillion
+{Author_189}Bergil son of Beregond to Pippin, Minas Tirith
+{Author_190}Gandalf about Lórien and Rivendell, Unfinished Tales
+{Author_191}Gandalf about Hired Men, Unfinished Tales
+{Author_192}Thorin Oakenshield about his quest, Unfinished Tales
+{Author_193}the Hobbits, At the Sign of the Prancing Pony
+{Author_194}Quenta Silmarillion
+{Author_195}Quenta Silmarillion
+{Author_196}Nandor ambush Dwarves, Quenta Silmarillion
+{Author_197}Sindar compared to High Elves, Quenta Silmarillion
+{Author_198}Steward Denethor II, The Siege of Gondor 
+{Author_199}Gandalf the White, Unfinished Tales
+{Author_200}Unfinished Tales; The Hunt for the Ring
+{Author_201}The Doom of Mandos upon the Ñoldor, Quenta Silmarillion
+{Author_202}the first Dúnedain, Akallabêth
+{Author_203}about Sauron, Akallabêth - The Downfall of Númenor
+{Author_204}Akallabêth - The Downfall of Númenor
+{Author_205}the Dúnedain, Akallabêth - The Downfall of Númenor
+{Author_206}the Witch-king, The Hunt for the Ring
+{Author_207}Akallabêth - The Downfall of Númenor
+{Author_208}the Dwarves lost Mount Gundabad, The Peoples of Middle-earth
+{Author_209}Gandalf about the Balrog, The White Rider
+{Author_210}Unfinished Tales; The Hunt for the Ring
+{Author_211}Queen Erendis of Númenor, Unfinished Tales
+{Author_212}Beregond, Citadel Guard, Minas Tirith
+{Author_213}Unfinished Tales; The Hunt for the Ring
+{Author_214}Saruman the White, The Hunt for the Ring
+{Author_215}Isengard's invasion, Unfinished Tales
+{Author_216}Akallabêth - The Downfall of Númenor
+{Author_217}Akallabêth - The Downfall of Númenor
+{Author_218}about Sauron, Akallabêth - The Downfall of Númenor
+{Author_219}about Sauron, Akallabêth - The Downfall of Númenor
+{Author_220}on Sauron about Númenóreans, Akallabêth
+{Author_221}Akallabêth - The Downfall of Númenor
+{Author_222}Unfinished Tales
+{Author_223}Sauron's forces are cast out, Unfinished Tales
+{Author_224}King Ar-Pharazôn of Númenor, Akallabêth
+{Author_225}Unfinished Tales
+{Author_226}Gondor, Of the Rings of Power and the Third Age
+{Author_227}Legolas about Imrahil, The Last Debate
+{Author_228}Akallabêth - The Downfall of Númenor
+{Author_229}Isildur to his son, Unfinished Tales
+{Author_230}Unfinished Tales
+{Author_231}Unfinished Tales
+{Author_232}Unfinished Tales; The Disaster of the Gladden Fields
+{Author_233}Akallabêth - The Downfall of Númenor
+{Author_234}Éomer, Third Marshal, The Riders of Rohan
+{Author_235}Unfinished Tales; The Disaster of the Gladden Fields
+{Author_236}Uruk-hai raiders killed, The Riders of Rohan
+{Author_237}Unfinished Tales
+{Author_238}Many Partings
+{Author_239}Akallabêth - The Downfall of Númenor
+{Author_240}Akallabêth - The Downfall of Númenor
+{Author_241}Akallabêth - The Downfall of Númenor
+{Author_242}about Sauron, Akallabêth
+{Author_243}Akallabêth - The Downfall of Númenor
+{Author_244}Akallabêth - The Downfall of Númenor
+{Author_245}Treebeard about Saruman, Many Partings
+{Author_246}about Sauron, Of the Rings of Power and the Third Age 
+{Author_247}Of the Rings of Power and the Third Age 
+{Author_248}Of the Rings of Power and the Third Age 
+{Author_249}Of the Rings of Power and the Third Age 
+{Author_250}Of the Rings of Power and the Third Age 
+{Author_251}Of the Rings of Power and the Third Age 
+{Author_252}Of the Rings of Power and the Third Age 
+{Author_253}Isildur's last battle, Unfinished Tales
+{Author_254}Of the Rings of Power and the Third Age
+{Author_255}Of the Rings of Power and the Third Age
+{Author_256}Sauron and the Elves, Of the Rings of Power and the Third Age
+{Author_257}Of the Rings of Power and the Third Age
+{Author_258}Of the Rings of Power and the Third Age
+{Author_259}Of the Rings of Power and the Third Age
+{Author_260}on the seven rings of the Dwarves, Silmarillion
+{Author_261}Of the Rings of Power and the Third Age
+{Author_262}Of the Rings of Power and the Third Age
+{Author_263}Of the Rings of Power and the Third Age
+{Author_264}about Sauron, Of the Rings of Power and the Third Age
+{Author_265}Sauron's servants, Of the Rings of Power and the Third Age
+{Author_266}Southrons and Easterlings, Of the Rings of Power and the Third Age 
+{Author_267}Of the Rings of Power and the Third Age
+{Author_268}Of the Rings of Power and the Third Age
+{Author_269}about Elendil, Silmarillion
+{Author_270}Isildur and Anárion, Of the Rings of Power and the Third Age
+{Author_271}Gondor, Of the Rings of Power and the Third Age
+{Author_272}Of the Rings of Power and the Third Age
+{Author_273}Of the Rings of Power and the Third Age
+{Author_274}Of the Rings of Power and the Third Age
+{Author_275}Isildur's last battle, Unfinished Tales
+{Author_276}The Last Alliance, Silmarillion
+{Author_277}Of the Rings of Power and the Third Age
+{Author_278}Of the Rings of Power and the Third Age
+{Author_279}Of the Rings of Power and the Third Age
+{Author_280}Isildur about the One, Of the Rings of Power and the Third Age
+{Author_281}about reforging Narsil, Silmarillion
+{Author_282}Of the Rings of Power and the Third Age
+{Author_283}the Northern Dúnedain, Silmarillion
+{Author_284}Of the Rings of Power and the Third Age
+{Author_285}Of the Rings of Power and the Third Age
+{Author_286}Nazgûl, Of the Rings of Power and the Third Age
+{Author_287}Of the Rings of Power and the Third Age
+{Author_288}Of the Rings of Power and the Third Age
+{Author_289}Of the Rings of Power and the Third Age
+{Author_290}Of the Rings of Power and the Third Age
+{Author_291}Of the Rings of Power and the Third Age
+{Author_292}Of the Rings of Power and the Third Age
+{Author_293}Of the Rings of Power and the Third Age
+{Author_294}Of the Rings of Power and the Third Age
+{Author_295}Galadriel, Of the Rings of Power and the Third Age
+{Author_296}Galadriel, Of the Rings of Power and the Third Age
+{Author_297}Of the Rings of Power and the Third Age
+{Author_298}Of the Rings of Power and the Third Age
+{Author_299}Of the Rings of Power and the Third Age
+{Author_300}Of the Rings of Power and the Third Age
+{Author_301}Of the Rings of Power and the Third Age
+{Author_302}Of the Rings of Power and the Third Age
+{Author_303}Elrond, Of the Rings of Power and the Third Age
+{Author_304}about Saruman, Of the Rings of Power and the Third Age
+{Author_305}about Saruman, Of the Rings of Power and the Third Age
+{Author_306}Gandalf, Of the Rings of Power and the Third Age
+{Author_307}Of the Rings of Power and the Third Age
+{Author_308}Of the Rings of Power and the Third Age
+{Author_309}Of the Rings of Power and the Third Age
+{Author_310}Of the Rings of Power and the Third Age
+{Author_311}Círdan to Gandalf about the Red Ring, Silmarillion
+{Author_312}The Shadow of the Past
+{Author_313}Glóin, Dwarven Lord, to Frodo, Many Meetings
+{Author_314}Durin's Folk
+{Author_315}Thorin II Oakenshield, The Hobbit
+{Author_316}Thorin II Oakenshield, The Hobbit
+{Author_317}Thorin II Oakenshield, The Hobbit
+{Author_318}The Tale of Years: The Third Age
+{Author_319}Gandalf reads the record of Balin's people, The Bridge of Khazad-dûm
+{Author_320}Glóin, Dwarven Lord, The Council of Elrond
+{Author_321}Glóin, Dwarven Lord, The Council of Elrond
+{Author_322}Dáin II Ironfoot to Thorin II Oakenshield, Durin's Folk
+{Author_323}about Moria, Durin's Folk
+{Author_324}the Orcs of the Misty Mountains, The Hobbit
+{Author_325}the Orcs of the Misty Mountains, The Hobbit
+{Author_326}the Raven and Bard, The Hobbit
+{Author_327}about Bard the Bowman, The Hobbit
+{Author_328}The Hobbit
+{Author_329}Laketown, The Hobbit
+{Author_330}The Hobbit
+{Author_331}King Thranduil, The Hobbit
+{Author_332}Glóin, Dwarven Lord, to Frodo, Many Meetings
+{Author_333}Aragorn, The Riders of Rohan
+{Author_334}Glóin about Dale, The Council of Elrond
+{Author_335}The Tale of Years: The Third Age
+{Author_336}The Tale of Years: The Third Age
+{Author_337}Easterlings at Erebor, The Tale of Years: The Third Age
+{Author_338}Gandalf about Dáin II Ironfoot, Durin's Folk
+{Author_339}Thorin II Oakenshield, The Hobbit
+{Author_340}the Orc Chieftain's end, Durin's Folk
+{Author_341}Durin's Folk
+{Author_342}Many Meetings
+{Author_343}Gandalf about Glorfindel, Many Meetings
+{Author_344}Glorfindel about Nazgûl, Flight to the Ford
+{Author_345}Unfinished Tales 
+{Author_346}the Nazgûl, A Knife in the Dark
+{Author_347}Gondor and the Heirs of Anárion
+{Author_348}The Battle of the Pelennor Fields
+{Author_349}the Nazgûl, The Siege of Gondor
+{Author_350}Concerning Hobbits
+{Author_351}The Realms in Exile: The Southern Line
+{Author_352}The Peoples of Middle-earth
+{Author_353}Unfinished Tales
+{Author_354}Isildur's Arnorians, Unfinished Tales
+{Author_355}Unfinished Tales
+{Author_356}Isildur's last battle, Unfinished Tales
+{Author_357}about Elrond, Many Meetings
+{Author_358}about Elrond, The Hobbit
+{Author_359}Elrond's sons, Many Meetings
+{Author_360}Elrond to Thórin II Oakenshield, The Hobbit
+{Author_361}Elrond about the Last Alliance, The Council of Elrond
+{Author_362}about Elladan and Elrohir, The House of Eorl
+{Author_363}Gondor and the Heirs of Anárion
+{Author_364}about Denethor II, The Heirs of Elendil
+{Author_365}about Denethor II, Unfinished Tales
+{Author_366}Gandalf about Denethor II, Minas Tirith
+{Author_367}Denethor II, The Siege of Gondor
+{Author_368}Éomer about Boromir, The Riders of Rohan
+{Author_369}Boromir, The Council of Elrond
+{Author_370}The Heirs of Elendil
+{Author_371}Boromir, The Council of Elrond
+{Author_372}Beregond, Citadel Guard, Minas Tirith
+{Author_373}The Siege of Gondor
+{Author_374}The Siege of Gondor
+{Author_375}The Battle of the Pelennor Fields
+{Author_376}The Battle of the Pelennor Fields
+{Author_377}the Ent Elder, Treebeard
+{Author_378}about King Helm of Rohan, The House of Eorl
+{Author_379}Gandalf, The Bridge of Khazad-dûm
+{Author_380}The Languages and Peoples of the Third Age
+{Author_381}Grond, The Siege of Gondor
+{Author_382}Olog-hai, The Languages and Peoples of the Third Age
+{Author_383}The Black Gate Opens
+{Author_384}The Battle of the Pelennor Fields
+{Author_385}The Battle of the Pelennor Fields
+{Author_386}The Battle of the Pelennor Fields
+{Author_387}Éomer, The Battle of the Pelennor Fields
+{Author_388}Faramir to Frodo, The Window on the West
+{Author_389}Rangers of Ithilien, Of Herbs and Stewed Rabbit
+{Author_390}about Osgiliath's defence, The Siege of Gondor
+{Author_391}Minas Tirith
+{Author_392}The Battle of the Pelennor Fields
+{Author_393}Gandalf the White, The Siege of Gondor
+{Author_394}Forlong the Fat, Lord of Lossarnach, Minas Tirith
+{Author_395}Minas Tirith
+{Author_396}Beregond about the Corsairs, Minas Tirith
+{Author_397}the Corsairs of Umbar, Minas Tirith
+{Author_398}Gimli, The Last Debate
+{Author_399}Castamir the Usurper, Gondor and the Heirs of Anárion
+{Author_400}The Battle of the Pelennor Fields
+{Author_401}Éowyn, The Battle of the Pelennor Fields
+{Author_402}Death of the Southrons Lord, The Battle of the Pelennor Fields
+{Author_403}Théoden, The Ride of the Rohirrim
+{Author_404}Rohirrim's charge, The Battle of the Pelennor Fields
+{Author_405}about Thengel, The House of Eorl
+{Author_406}The House of Eorl
+{Author_407}about Thorongil (Aragorn), Gondor and the Heirs of Anárion
+{Author_408}Halbarad the Ranger to Aragorn, The Passing of the Grey Company
+{Author_409}The Siege of Gondor
+{Author_410}The Siege of Gondor
+{Author_411}The Battle of the Pelennor Fields
+{Author_412}The Council of Elrond
+{Author_413}Hirgon, errand-rider of Denethor, The Muster of Rohan
+{Author_414}Shagrat, Orc commander, The Tower of Cirith Ungol
+{Author_415}Shagrat, Orc commander, The Tower of Cirith Ungol
+{Author_416}to Éomer, Helm's Deep
+{Author_417}Gimli son of Glóin, Helm's Deep
+{Author_418}Gamling, Commander of Rohan, Helm's Deep
+{Author_419}Unfinished Tales
+{Author_420}Gandalf about Grima to Théoden, The King of the Golden Hall
+{Author_421}The King of the Golden Hall
+{Author_422}Gandalf to the Witch-king, The Siege of Gondor
+{Author_423}The Siege of Gondor
+{Author_424}the Gate of Minas Tirith, The Siege of Gondor
+{Author_425}Sauron's Horde, The Siege of Gondor
+{Author_426}The Siege of Gondor
+{Author_427}The Siege of Gondor
+{Author_428}Gandalf about Saruman, The White Rider
+{Author_429}Merry, Flotsam and Jetsam
+{Author_430}Uglúk, The Uruk-hai
+{Author_431}The Road to Isengard
+{Author_432}Éomer, Third Marshal, The Riders of Rohan
+{Author_433}Gandalf the White, The White Rider
+{Author_434}Merry to Aragorn, Flotsam and Jetsam
+{Author_435}Merry about Isengard's host, Flotsam and Jetsam
+{Author_436}Gandalf the White, The White Rider
+{Author_437}Helm's Deep
+{Author_438}Isengard's forces, Helm's Deep
+{Author_439}Uglúk about Rohirrim, The Uruk-hai
+{Author_440}The Uruk-hai
+{Author_441}The Uruk-hai
+{Author_442}The Uruk-hai
+{Author_443}The Uruk-hai
+{Author_444}Helm's Deep
+{Author_445}Helm's Deep
+{Author_446}The Ride of Eorl, Unfinished Tales
+{Author_447}Uglúk of Isengard to Grishnák of Barad-dûr, The Uruk-hai
+{Author_448}Aragorn, The Departure of Boromir
+{Author_449}Aragorn, Flotsam and Jetsam
+{Author_450}The Departure of Boromir
+{Author_451}about the Orcs, The Departure of Boromir
+{Author_452}The Departure of Boromir
+{Author_453}the Captain-General of Gondor, The Departure of Boromir
+{Author_454}Gamling about the Dunlendings, Helm's Deep
+{Author_455}Helm's Deep
+{Author_456}to the Dunlendings, The Road to Isengard
+{Author_457}The Great River
+{Author_458}Unfinished Tales
+{Author_459}Orcs fighting Isildur, Unfinished Tales
+{Author_460}Of the Rings of Power and the Third Age
+{Author_461}Gandalf, The Siege of Gondor
+{Author_462}the War of the Dwarves and Orcs, Durin's Folk
+{Author_463}the War of the Dwarves and Orcs, Durin's Folk
+{Author_464}the War of the Dwarves and Orcs, Durin's Folk
+{Author_465}the War of the Dwarves and Orcs, Durin's Folk
+{Author_466}Azog of Moria to Náin the Dwarf, Durin's Folk
+{Author_467}the Wainrider Militia, Unfinished Tales
+{Author_468}The Field of Cormallen
+{Author_469}The Black Gate Opens
+{Author_470}Trolls, The Black Gate Opens
+{Author_471}The Black Gate Opens
+{Author_472}Mount Doom
+{Author_473}The Peoples of Middle-earth
+{Author_474}Gandalf, The Bridge of Khazad-dûm
+{Author_475}Gondor helps Arnor, Gondor and the Heirs of Anárion
+{Author_476}Gondor and the Heirs of Anárion
+{Author_477}The Bridge of Khazad-dûm
+{Author_478}Gondor's northern army, The House of Eorl
+{Author_479}about Balchoth, Unfinished Tales
+{Author_480}Gondor and the Heirs of Anárion
+{Author_481}Of Herbs and Stewed Rabbit
+{Author_482}Faramir, Captain of Gondor, The Window on the West
+{Author_483}Gondor and the Heirs of Anárion
+{Author_484}the Beornings, Many Meetings
+{Author_485}about Lórien, The Tale of Years: The Third Age
+{Author_486}Dol Guldur, The Tale of Years: The Third Age
+{Author_487}gifts to the Fellowship, Farewell to Lórien
+{Author_488}the Lady of Lórien to Sam, The Mirror of Galadriel
+{Author_489}the Lady of Lórien, The Mirror of Galadriel
+{Author_490}the Lady of Lórien, The Mirror of Galadriel
+{Author_491}the Lady of Lórien, The Mirror of Galadriel
+{Author_492}Galadriel, Unfinished Tales
+{Author_493}The Breaking of the Fellowship
+{Author_494}Gimli, The Passing of the Grey Company
+{Author_495}Lothlórien
+{Author_496}Legolas about an Orc attack, The Council of Elrond
+{Author_497}in Mirkwood, The Hobbit
+{Author_498}Haldir the Marchwarden, Lothlórien
+{Author_499}about the Mouth of Sauron, The Black Gate Opens
+{Author_500}The Mirror of Galadriel
+{Author_501}Legolas, retold by Gimli, The Last Debate
+{Author_502}Gimli son of Glóin, The Last Debate
+{Author_503}Imrahil about the army of the West, The Last Debate
+{Author_504}Gandalf the White, The Last Debate
+{Author_505}Legolas about Gondor, The Last Debate
+{Author_506}Gorbag, captain of Cirith Ungol, The Choices of Master Samwise
+{Author_507}Samwise Gamgee, gardener, The Choices of Master Samwise
+{Author_508}The Black Gate Opens
+{Author_509}about an ambush, The Black Gate Opens
+{Author_510}the Mouth of Sauron, The Black Gate Opens
+{Author_511}the Tower of Cirith Ungol
+{Author_512}Minas Tirith
+{Author_513}Théoden, The King of the Golden Hall
+{Author_514}Gandalf at Moria's gate, A Journey in the Dark
+{Author_515}The Peoples of Middle-earth
+{Author_516}Legolas shoots the fell beast, The Great River
+{Author_517}The White Rider
+{Author_518}The Tale of Years: The Third Age
+{Author_519}an Orc army, Unfinished Tales
+{Author_520}The Siege of Gondor
+{Author_521}orderly retreat from Rammas Echor, The Siege of Gondor
+{Author_522}Lothlórien
+{Author_523}The Hobbit
+{Author_524}fighting Goblins, The Hobbit
+{Author_525}The Hobbit
+{Author_526}Elrond about Thorin's company's swords, The Hobbit
+{Author_527}King Eorl to Steward Cirion, Unfinished Tales
+{Author_528}Aragorn, Of the Rings of Power and the Third Age
+{Author_529}Sauron, Of the Rings of Power and the Third Age
+{Author_530}about Saruman, Of the Rings of Power and the Third Age
+{Author_531}Helm's Deep
+{Author_532}Gimli son of Glóin, The White Rider
+{Author_533}the Fellowship's flight, The Bridge of Khazad-dûm
+{Author_534}Aragorn to Samwise, Lothlórien
+{Author_535}Gimli son of Glóin, Lothlórien
+{Author_536}Legolas of the Woodland Realm, Lothlórien
+{Author_537}Lothlórien
+{Author_538}Lothlórien
+{Author_539}Lothlórien
+{Author_540}Haldir the Marchwarden, Lothlórien
+{Author_541}Gandalf about Mithril, A Journey in the Dark
+{Author_542}The Riders of Rohan 
+{Author_543}The Riders of Rohan
+{Author_544}Gandalf, Minas Tirith
+{Author_545}Gwaihir, the Eagle, about Rohirrim, The Council of Elrond
+{Author_546}Boromir of Gondor, The Council of Elrond
+{Author_547}The Breaking of the Fellowship
+{Author_548}The Breaking of the Fellowship
+{Author_549}The Breaking of the Fellowship
+{Author_550}The Breaking of the Fellowship
+{Author_551}The Breaking of the Fellowship
+{Author_552}Chieftain of the Drúedain, The Ride of the Rohirrim
+{Author_553}The Ride of the Rohirrim
+{Author_554}The Ride of the Rohirrim
+{Author_555}The Ride of the Rohirrim
+{Author_556}Shagrat, Orc commander, The Tower of Cirith Ungol
+{Author_557}Orc-driver to the disguised Sam and Frodo, The Land of Shadow
+{Author_558}the Mountains of Mordor, Mount Doom
+{Author_559}Samwise Gamgee, Mount Doom
+{Author_560}The Field of Cormallen 
+{Author_561}Gimli son of Glóin, The Field of Cormallen 
+{Author_562}Aragorn to those who fear to assault Mordor, The Black Gate Opens
+{Author_563}Aragorn to those who fear to assault Mordor, The Black Gate Opens
+{Author_564}The Scouring of the Shire
+{Author_565}The leader of Saruman's ruffians, The Scouring of the Shire
+{Author_566}Saruman's ruffians, The Scouring of the Shire
+{Author_567}Saruman to Frodo, The Scouring of the Shire
+{Author_568}to Saruman, The Scouring of the Shire
+{Author_569}Concerning Hobbits
+{Author_570}Frodo sees Rangers of Ithilien, Of Herbs and Stewed Rabbit
+{Author_571}Saruman to Gandalf, The Voice of Saruman
+{Author_572}Rhudaur, Annals of the Kings and Rulers
+{Author_573}The Hobbit
+{Author_574}Elrond with his folk, Unfinished Tales
+{Author_575}after Eregion's fall, Of the Rings of Power and the Third Age
+{Author_576}Gimli, The Voice of Saruman
+{Author_577}Dernhelm, The Muster of Rohan
+{Author_578}Éowyn Shieldmaiden, The Battle of the Pelennor Fields
+{Author_579}Gimli, The King of the Golden Hall
+{Author_580}about Dale, The Hobbit
+{Author_581}Haradrim's Chieftain, The Battle of the Pelennor Fields
+{Author_582}Legolas to Treebeard about Gimli, The Voice of Saruman
+{Author_583}Faramir, Captain of Gondor, The Window on the West
+{Author_584}Pippin drinks Orc-draught, The Uruk-hai
+{Author_585}The Battle of the Pelennor Fields
+{Author_586}The Siege of Gondor
+{Author_587}Merry, The Uruk-hai
+{Author_588}about Haradrim, War of the Ring
+{Author_589}Unfinished Tales
+{Author_590}Unfinished Tales
+{Author_591}Barliman on evil men in Bree, Homeward Bound
+{Author_592}Barliman about Bree, Homeward Bound
+{Author_593}Théoden about Erkenbrand, Helm's Deep
+{Author_594}Erkenbrand at the Hornburg, Helm's Deep
+{Author_595}Erkenbrand, Lord of Westfold, Helm's Deep
+{Author_596}Unfinished Tales; The Battles of the Fords of Isen
+{Author_597}about Isengard's forces, Unfinished Tales
+{Author_598}Rohan's Shieldwall, Unfinished Tales; The Battles of the Fords of Isen
+{Author_599}Unfinished Tales; The Battles of the Fords of Isen
+{Author_600}Gandalf the Grey, The Council of Elrond
+{Author_601}Annals of the Kings and Rulers
+{Author_602}Gandalf the Grey, The Council of Elrond
+{Author_603}Gandalf about Isengard, The Council of Elrond
+{Author_604}Pippin to Hob, The Scouring of the Shire
+{Author_605}Legolas, The Two Towers
+{Author_606}Gandalf, The Bridge of Khazad-dûm
+{Author_607}The Bridge of Khazad-dûm
+{Author_608}Gandalf, The Bridge of Khazad-dûm
+{Author_609}The Bridge of Khazad-dûm
+{Author_610}The Hobbit
+{Author_611}a Troll, The Bridge of Khazad-dûm
+{Author_612}The Departure of Boromir
+{Author_613}the Balrog, The Bridge of Khazad-dûm
+{Author_614}Gandalf, Of the Rings of Power and the Third Age
+{Author_615}Gandalf about Sauron, Unfinished Tales
+{Author_616}Gandalf about Sauron, Unfinished Tales
+{Author_617}Aragorn, Strider
+{Author_618}Aragorn, The Departure of Boromir
+{Author_619}Frodo Baggins, Of Herbs and Stewed Rabbit
+{Author_620}Of Herbs and Stewed Rabbit
+{Author_621}Sam wondering about a Haradrim, Of Herbs and Stewed Rabbit
+{Author_622}Faramir, The Window on the West
+{Author_623}Faramir, The Window on the West
+{Author_624}Faramir, The Window on the West
+{Author_625}Beregond, Citadel Guard, Minas Tirith
+{Author_626}Minas Tirith
+{Author_627}Gandalf the White, Minas Tirith
+{Author_628}Steward Denethor II, Minas Tirith
+{Author_629}Steward Denethor II, Minas Tirith
+{Author_630}The Battle of the Pelennor Fields
+{Author_631}Morgul Vale, The Stairs of Cirith Ungol
+{Author_632}the Steward of Gondor, The Pyre of Denethor
+{Author_633}Beregond, Citadel Guard, Minas Tirith
+{Author_634}Denethor II about the Ring, The Siege of Gondor
+{Author_635}the Steward of Gondor, The Pyre of Denethor
+{Author_636}The Siege of Gondor
+{Author_637}Ingold, commander of Gondor, The Siege of Gondor
+{Author_638}Gandalf the White, Minas Tirith
+{Author_639}The Siege of Gondor
+{Author_640}clouds from Mordor, The Muster of Rohan
+{Author_641}the Host, The Council of Elrond
+{Author_642}The Peoples of Middle-earth
+{Author_643}Of the Rings of Power and the Third Age 
+{Author_644}about the Pelennor wall, Minas Tirith
+{Author_645}The House of Eorl: The Kings of the Mark
+{Author_646}The Land of Shadow
+{Author_647}Gorgoroth in Mordor, The Land of Shadow
+{Author_648}Rangers meet the Black Riders, Unfinished Tales
+{Author_649}Aragorn, The Last Debate
+{Author_650}soldiers of Gondor, The Siege of Gondor
+{Author_651}Théoden about a Mordor army, The Ride of the Rohirrim
+{Author_652}The Ride of the Rohirrim
+{Author_653}Gandalf the White, Minas Tirith
+{Author_654}Aragorn, The Ring Goes South
+{Author_655}Nazgûl's Morgul blades, A Knife in the Dark 
+{Author_656}Warg Riders, The Hobbit
+{Author_657}The Hobbit
+{Author_658}The Army of Laketown, The Hobbit
+{Author_659}Roäc, Chieftain of the Ravens, The Hobbit
+{Author_660}Bilbo Baggins, The Hobbit
+{Author_661}Bilbo about Dáin's Dwarven Warriors, The Hobbit
+{Author_662}Dáin's warriors, The Hobbit
+{Author_663}Dáin's warriors, The Hobbit
+{Author_664}the Orcs of the Misty Mountains, The Hobbit
+{Author_665}The Hobbit
+{Author_666}the Silvan Elves, The Hobbit
+{Author_667}the Silvan Elves, The Hobbit
+{Author_668}the Silvan Elves, The Hobbit
+{Author_669}the Easterlings, Unfinished Tales
+{Author_670}about Beorn, The Hobbit
+{Author_671}Bilbo's goodbye to the Dwarves, The Hobbit
+{Author_672}Treebeard, Many Partings
+{Author_673}The Hobbit
+{Author_674}Pippin about fighting the Shadow, Minas Tirith
+{Author_675}The Siege of Gondor
+{Author_676}Pippin about Faramir, The Siege of Gondor
+{Author_677}Faramir, The Siege of Gondor
+{Author_678}Steward Denethor II, The Siege of Gondor
+{Author_679}Gandalf, The Siege of Gondor
+{Author_680}Denethor about Sauron, The Siege of Gondor
+{Author_681}Saruman, Many Partings
+{Author_682}Gandalf about Sauron, The Pyre of Denethor
+{Author_683}the Silvan Elves, The Hobbit
+{Author_684}the Silvan Elves, The Hobbit
+{Author_685}Gandalf, The Hobbit
+{Author_686}The Hobbit
+{Author_687}the Lord of the Eagles, The Hobbit
+{Author_688}The Hobbit
+{Author_689}Gandalf about Sauron, The Hobbit
+{Author_690}Bandobras Took, The Hobbit
+{Author_691}The Hobbit
+{Author_692}Gandalf about Sauron, The White Rider
+{Author_693}Gandalf about the Balrog, The White Rider
+{Author_694}Unfinished Tales; The Palantíri
+{Author_695}Unfinished Tales; The Palantíri
+{Author_696}The Nazgûl, Unfinished Tales
+{Author_697}The Hobbit
+{Author_698}about Sauron's palantír, Unfinished Tales
+{Author_699}Gandalf, The Hobbit
+{Author_700}2510 TA, Unfinished Tales
+{Author_701}Gimli about Pelargir, The Last Debate
+{Author_702}Gimli about Haradrim, The Last Debate
+{Author_703}Legolas Greenleaf, The Last Debate
+{Author_704}Gimli about Pelargir, The Last Debate
+{Author_705}Gimli son of Glóin, The Last Debate
+{Author_706}Imrahil and Éomer, The Last Debate
+{Author_707}Gandalf about Denethor's knowledge, The Last Debate
+{Author_708}Gandalf about Denethor's Palantír, The Last Debate
+{Author_709}Gandalf about Gondor and Rohan, The Last Debate
+{Author_710}The Black Gate Opens
+{Author_711}Gildor Inglorion of the House of Finrod, Three is Company
+{Author_712}Frodo, A Conspiracy Unmasked
+{Author_713}Bombadil about Arnor, Fog on the Barrow-Downs
+{Author_714}Bombadil about Dúnedain, Fog on the Barrow-Downs
+{Author_715}At the Sign of the Prancing Pony
+{Author_716}Dúnedain, At the Sign of the Prancing Pony
+{Author_717}Gondor and the Heirs of Anárion
+{Author_718}Gondor and the Heirs of Anárion
+{Author_719}Gondor and the Heirs of Anárion
+{Author_720}Gondor and Arnor, Gondor and the Heirs of Anárion
+{Author_721}Glorfindel about the Witch-king, Gondor and the Heirs of Anárion
+{Author_722}Gondor and the Heirs of Anárion
+{Author_723}Gondor and the Heirs of Anárion
+{Author_724}Steward Denethor II's grandfather, Gondor and the Heirs of Anárion
+{Author_725}Gondor and the Heirs of Anárion
+{Author_726}Denethor and Aragorn, Gondor and the Heirs of Anárion
+{Author_727}Gondor and the Heirs of Anárion
+{Author_728}Elrond to Aragorn, The Tale of Aragorn and Arwen
+{Author_729}Arwen, The Tale of Aragorn and Arwen
+{Author_730}The Tale of Aragorn and Arwen
+{Author_731}Elrond's demand, The Tale of Aragorn and Arwen
+{Author_732}Gilraen, his mother, The Tale of Aragorn and Arwen
+{Author_733}Erebor, Durin's Folk
+{Author_734}Orcs about killing Thrór in Moria, Durin's Folk
+{Author_735}Durin's Folk
+{Author_736}the war against the Orcs, Durin's Folk
+{Author_737}Durin's Folk
+{Author_738}the Orc chieftain Azog, Durin's Folk
+{Author_739}Thorin Oakenshield settles, Durin's Folk
+{Author_740}Durin's Ring, Durin's Folk
+{Author_741}Dwarves with Rings, Durin's Folk
+{Author_742}Orcs, The Languages and Peoples of the Third Age
+{Author_743}The Languages and Peoples of the Third Age
+{Author_744}Concerning Dwarves
+{Author_745}The Dwarves, The Hobbit
+{Author_746}Elrond about Orcrist, The Hobbit
+{Author_747}inside the Misty Mountains, The Hobbit
+{Author_748}Goblins, The Hobbit
+{Author_749}Goblins, The Hobbit
+{Author_750}Goblins, The Hobbit
+{Author_751}Thorin's sword Orcrist, The Hobbit
+{Author_752}Bilbo with Sting, The Hobbit
+{Author_753}Gollum used the Ring, The Hobbit
+{Author_754}Dori the Dwarf, The Hobbit
+{Author_755}The Hobbit
+{Author_756}Wargs, The Hobbit
+{Author_757}The Hobbit
+{Author_758}Gandalf to Beorn, The Hobbit
+{Author_759}Bard of Lake Town, The Hobbit
+{Author_760}Bard the Bowman, The Hobbit
+{Author_761}Lake Town, The Hobbit
+{Author_762}Erebor, The Hobbit
+{Author_763}about the Lake-men and Silvans, The Hobbit
+{Author_764}Bard the Bowman, The Hobbit
+{Author_765}the Arkenstone, The Hobbit
+{Author_766}Dáin's warriors, The Hobbit
+{Author_767}Dáin's warriors to the Lake-men and Silvans, The Hobbit
+{Author_768}Thranduil, The Hobbit
+{Author_769}Bard about Dwarves, The Hobbit
+{Author_770}Bard to Thranduil, The Hobbit
+{Author_771}Silvans charge, The Hobbit
+{Author_772}Dwarves of the Iron Hills, The Hobbit
+{Author_773}Goblin reinforcement appears, The Hobbit
+{Author_774}Thorin Oakenshield charges, The Hobbit
+{Author_775}The Hobbit
+{Author_776}Bilbo in battle, The Hobbit
+{Author_777}Thorin II Oakenshield, The Hobbit
+{Author_778}The Hobbit
+{Author_779}Unfinished Tales
+{Author_780}Gondor's Steward, Unfinished Tales
+{Author_781}Unfinished Tales
+{Author_782}the Spider, Shelob's Lair
+{Author_783}Bilbo sees spiders, The Hobbit
+{Author_784}Bilbo in Mirkwood, The Hobbit
+{Author_785}Ungoliant, Quenta Silmarillion
+{Author_786}in Mirkwood, The Hobbit
+{Author_787}Gandalf about Sauron, The Council of Elrond
+{Author_788}Gandalf trusts Barliman, The Council of Elrond
+{Author_789}Celeborn, Farewell to Lórien
+{Author_790}Gandalf the Grey, The Council of Elrond
+{Author_791}Aragorn, Farewell to Lórien
+{Author_792}Boromir to Frodo, Farewell to Lórien
+{Author_793}Haldir, Farewell to Lórien
+{Author_794}Galadriel, Farewell to Lórien
+{Author_795}Galadriel, Farewell to Lórien
+{Author_796}Gimli, Farewell to Lórien
+{Author_797}the Fellowship, The Great River
+{Author_798}The Great River
+{Author_799}Aragorn about Orcs, The Great River
+{Author_800}Sméagol about the dead, The Passage of the Marshes
+{Author_801}Peoples of Middle-earth, Of Dwarves and Men
+{Author_802}Durin's Folk
+{Author_803}Dwarves learn Sindar letters, Silmarillion
+{Author_804}Spears made for Northmen before Smaug came, The Hobbit
+{Author_805}Gandalf to Thorin and his men, Unfinished Tales
+{Author_806}Revenge, Unfinished Tales
+{Author_807}Gandalf about Dwarven perception, Unfinished Tales
+{Author_808}The Balrog comes, The Bridge of Khazad-dûm
+{Author_809}in the chamber of Mazarbul, The Bridge of Khazad-dûm
+{Author_810}Arwen about mortality, The Tale of Aragorn and Arwen
+{Author_811}the Stewards, The Peoples of Middle-earth
+{Author_812}Aragorn, The Tale of Aragorn and Arwen
+{Author_813}Aragorn, The Great River
+{Author_814}Gandalf, The Shadow of the Past
+{Author_815}Gandalf, The Shadow of the Past
+{Author_816}Gandalf, Many Meetings
+{Author_817}Nazgûl, Flight to the Ford
+{Author_818}The Witch King, The Battle of Pelennor Fields
+{Author_819}Faramir, The Forbidden Pool
+{Author_820}Faramir about the Nazgûl, The Forbidden Pool
+{Author_821}Gandalf about the Ring, The Shadow of the Past
+{Author_822}Faramir, The Siege of Gondor
+{Author_823}The Siege of Gondor
+{Author_824}The Witch King, Battle of the Pelennor Fields
+{Author_825}Farmer Maggot to a Nazgûl, A Shortcut to Mushrooms
+{Author_826}Glóin about the messenger from Mordor, The Council of Elrond
+{Author_827}Glóin, Dwarven Lord, The Council of Elrond
+{Author_828}Gandalf about Nazgûl, The White Rider
+{Author_829}Gorbag to Shagrat, The Choices of Master Samwise
+{Author_830}Théoden to Saruman, The Voice of Saruman
+{Author_831}Théoden to Saruman, The Voice of Saruman
+{Author_832}Saruman about the Rohirrim, The Voice of Saruman
+{Author_833}Saruman the White, The Voice of Saruman
+{Author_834}Saruman to Éomer, The Voice of Saruman
+{Author_835}Merry to Gimli about Isengard loot, The Voice of Saruman
+{Author_836}Grishnák about Nazgûl, The Uruk-hai
+{Author_837}the Raiders from Moria, The Uruk-hai
+{Author_838}the Raiders from Moria, The Uruk-hai
+{Author_839}Orcs about Merry and Pippin, The Uruk-hai
+{Author_840}Legolas to Éomer, The Riders of Rohan
+{Author_841}Aragorn to Éomer, The Riders of Rohan
+{Author_842}Éomer, The Riders of Rohan
+{Author_843}Éomer, The Riders of Rohan
+{Author_844}The Hobbit
+{Author_845}Orcs of the Misty Mountains, The Hobbit
+{Author_846}Thranduil to Thorin II, The Hobbit
+{Author_847}Gandalf, The Hobbit
+{Author_848}Treebeard
+{Author_849}Faramir, The Window On The West 
+{Author_850}Frodo, The Stairs of Cirith Ungol
+{Quote_1}'And he that breaks a thing to find out what it is has left the path of wisdom.' 
+{Quote_2}'Even the most subtle spiders may leave a weak thread.' 
+{Quote_3}'The time of the Elves is over, but our time is at hand: the World of Men, which we must rule.' 
+{Quote_4}'Often does hatred hurt itself!'
+{Quote_5}'Perilous to us, all are the devices of an art deeper than we possess ourselves.' 
+{Quote_6}'The burned hand teaches best. After that advice about fire goes to the heart.' 
+{Quote_7}'...it is not our part to master all the tides of the world, but to do what is in us for the succour of those years wherein we are set...' 
+{Quote_8}'All we have to decide is what to do with the time that is given us.'
+{Quote_9}'There are many powers in the world, for good or for evil. Some are greater than I am. Against some I have not yet been measured. But my time is coming.' 
+{Quote_10}He now was destroyed; but Gothmog, the lieutenant of Morgul, had flung them into the fray; Easterlings with axes, and Variags of Khand.
+{Quote_11}'He is surer of finding the way home in a blind night than the cats of Queen Beruthiel.'
+{Quote_12}'Many that live deserve death. Some that die deserve life. Can you give it to them, Frodo? Then do not be too eager to deal out death in judgment.' 
+{Quote_13}...the interbreeding of Orcs and Men, producing both Men-orcs large and cunning, and Orc-men treacherous and vile.
+{Quote_14}'Yes, he has only four on the Black Hand, but they are enough' said Gollum shuddering. 
+{Quote_15}'I will not say do not weep, for not all tears are an evil.'
+{Quote_16}'You cannot pass!... I am a servant of the Secret Fire, wielder of the Flame of Anor. The dark fire will not avail you, Flame of Udûn! Go back to the shadow. You cannot pass!' 
+{Quote_17}'Before you could use that power you would need to become far stronger, and to train your will to the domination of others.'
+{Quote_18}'He is not so mighty yet that he is above fear; nay, doubt ever gnaws him.'
+{Quote_19}'New in the very hour of his great designs the heir of Isildur and the Sword are revealed; for I showed the blade re-forged to him.'
+{Quote_20}...for there were certain Woodmen who got news to Thranduil by runners, and also themselves gathered a force to ambush the Orcs...
+{Quote_21}'...we bear the brunt of the chief hatred of the Dark Lord, for the hatred comes down out of the depths of time and over the deeps of the Sea.'
+{Quote_22}'There was more than one power at work, Frodo. The Ring was trying to get back to its master.'
+{Quote_23}'It is not needed that the Ring should be found, for while it abides on the Earth and is not unmade, still the power it holds will live, Sauron will grow and have hope.' 
+{Quote_24}Then Celebrimbor was put to torment, and Sauron learned from him where the Seven were bestowed.
+{Quote_25}'Seldom give unguarded advice, for advice is a dangerous gift, even from the wise to the wise, and all courses may run ill.' 
+{Quote_26}'Do not meddle with the affairs of Wizards for they are subtle and quick to anger.' 
+{Quote_27}'It is perilous to study too deeply the arts of the Enemy, for good or for ill.' 
+{Quote_28}'Those who made them did not desire strength or domination or hoarded wealth, but understanding, making, and healing, to preserve all things unstained.' 
+{Quote_29}'Fruitless did I call the victory of the Last Alliance? Not wholly so, yet it did not achieve its end. Sauron was diminished, but not destroyed. His Ring was lost but not unmade.' 
+{Quote_30}'We were all at fault,' said Elrond, 'and but for your vigilance the Darkness, maybe, would already be upon us.'
+{Quote_31}'We must take a hard road, a road unforeseen. There lies our hope, if hope it be. To walk into peril — to Mordor. We must send the Ring to the Fire.' 
+{Quote_32}'Be comforted. For there are other powers and realms that you know not, and they are hidden from you.'
+{Quote_33}'We must march out to meet him at once.'
+{Quote_34}'You saw the Eye of him that holds the Seven and the Nine.'
+{Quote_35}It is plain indeed that in spite of later estrangement, Hobbits are relatives of ours: far nearer to us than Elves, or even than Dwarves.
+{Quote_36}'The Company of the Ring shall be Nine; and the Nine Walkers shall be set against the Nine Riders that are evil' 
+{Quote_37}For Radagast, the fourth, became enamoured of the many beasts and birds that dwelt in Middle-earth, and forsook Elves and Men, and spent his days among the wild creatures.
+{Quote_38}'Yet oft in lies truth is hidden.'
+{Quote_39}'Faithless is he that says farewell when the road darkens.' 
+{Quote_40}'Yet sworn word may strengthen quaking heart.' 
+{Quote_41}'It is ever so with the things that Men begin: there is a frost in Spring, or a blight in Summer, and they fail of their promise.' 
+{Quote_42}'The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair...'
+{Quote_43}...whether they remained in the East, pursuing there the purposes for which they were sent; or perished; or as some hold were ensnared by Sauron... is not now known.
+{Quote_44}'Do not despise the lore that has come down from distant years; for often it may chance that old wives keep in memory word of things that once were needful for the wise to know.'
+{Quote_45}'I thank you, Gimli, son of Glóin... I did not know you were with us in this sortie. But oft the unbidden guest proves the best company.' 
+{Quote_46}'Hope often deceives... Yet twice blessed is help unlooked for.' 
+{Quote_47}'These are indeed strange days', he muttered. 'Dreams and legends spring to life out of the grass.' 
+{Quote_48}'So many strange things have chanced that to learn the praise of a fair lady under the loving strokes of a Dwarf's axe will seem no great wonder.' 
+{Quote_49}'...in the first days of the Northern Kingdom, they built a great watch-tower on Weathertop, Amon Sûl they called it.'
+{Quote_50}'None knows what the new day shall bring him.'
+{Quote_51}'The hasty stroke goes oft astray', said Aragorn.
+{Quote_52}'Yet deeds will not be less valiant because they are unpraised.' 
+{Quote_53}'Do we walk in legends or on the green earth in the daylight?' 
+{Quote_54}'Good and ill have not changed since yesteryear.'
+{Quote_55}'There are some things that it is better to begin than to refuse, even though the end may be dark.' 
+{Quote_56}'One who cannot cast away a treasure at need is in fetters.' 
+{Quote_57}'I am Aragorn, son of Arathorn; and if by life or death I can save you, I will.' 
+{Quote_58}'Gandalf is greater than you Shire-folk know — as a rule you can only see his jokes and toys. But this business of ours will be his greatest task.'
+{Quote_59}'There my heart is; but it is not my fate to sit in peace, even in the fair house of Elrond.'
+{Quote_60}'A new hour comes. Isildur's Bane is found. Battle is at hand. The Sword shall be reforged.'
+{Quote_61}'Gondor! Gondor!... Would that I looked on you again in happier hour! Not yet does my road lie southward to your bright streams.'
+{Quote_62}'Believe not that in the land of Gondor the blood of Númenor is spent, nor all its pride and dignity forgotten.'
+{Quote_63}'...and thus alone are peace and freedom maintained in the lands behind us, bulwark of the West.'
+{Quote_64}'It would comfort us to know that others fought also with all the means that they have.'
+{Quote_65}'The road may pass but they shall not! Not while Faramir is Captain.'
+{Quote_66}'Ware! Ware!' cried Damrod to his companion. 'May the Valar turn him aside! Mûmak! Mûmak!'
+{Quote_67}Southward beyond the road lay the main force of the Haradrim, and there their horsemen were gathered.
+{Quote_68}...displaying his standard, black serpent upon scarlet, he came...
+{Quote_69}'...and trodden many plains, even into the far countries of Rhûn and Harad...'
+{Quote_70}'Didst thou think that the eyes of the White Tower were blind? Nay, I have seen...'
+{Quote_71}'But against the Power that now arises there is no victory.'
+{Quote_72}'The praise of the praiseworthy is above all rewards.' 
+{Quote_73}'Not nice; very cruel wicked Men they look. Almost as bad as Orcs, and much bigger.'
+{Quote_74}In it was a single gate of iron, and upon its battlement sentinels paced unceasingly.
+{Quote_75}'I do not believe any darkness will endure!'
+{Quote_76}'Don't take the Precious to Him! He'll eat us all, if He gets it, eat all the world.'
+{Quote_77}'One does not simply walk into Mordor.'
+{Quote_78}... out of the East Men were moving endlessly: swordsmen, spearmen, bowmen upon horses, chariots of chieftains and laden wains.
+{Quote_79}Bree was the chief village of the Bree-land, a small inhabited region, like an island in the empty lands...
+{Quote_80}'Do you really mean that Strider is one of the people of the old Kings?' said Frodo in wonder.
+{Quote_81}'It is useless to meet revenge with revenge: it will heal nothing.' 
+{Quote_82}'And He hated Isildur's city.'
+{Quote_83}'By Elbereth and Lúthien the Fair,' said Frodo with a last effort, lifting up his sword, 'you shall have neither the Ring nor me!'
+{Quote_84}'It does not belong to any mortal, great or small; though if any could claim it, it would be Aragorn, son of Arathorn.'
+{Quote_85}Among those of his servants that have names the greatest was that spirit whom the Eldar called Sauron, or Gorthaur the Cruel.
+{Quote_86}'Fair speech may hide a foul heart.'
+{Quote_87}...it was from Bree that the art of smoking the genuine weed spread in the recent centuries among Dwarves and such other folk, Rangers, Wizards...'
+{Quote_88}'The mightiest man may be slain by one arrow', he said; 'and Boromir was pierced by many.'
+{Quote_89}'I'm no warrior at all and dislike any thought of battle; but waiting on the edge of one, I can't escape is worst of all.' 
+{Quote_90}Then Morgoth hurled aloft Grond, the Hammer of the Underworld, and swung it down like a bolt of thunder.
+{Quote_91}'I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve.'
+{Quote_92}'It's a dangerous business, Frodo, going out your door... You step into the Road, and if you don't keep your feet, there's no knowing where you might be swept off to.'
+{Quote_93}'There lie the woods of Lothlórien!' said Legolas. 'That is the fairest of all the dwellings of my people.' 
+{Quote_94}'Here is a thing unheard of!' he said. 'An Elf will go underground and a Dwarf dare not!' 
+{Quote_95}'Oathbreakers, why have ye come? 'And a voice was heard out of the night that answered... 'To fulfil our oath and have peace.'
+{Quote_96}'Murderers and Elf-friends!' the Great Goblin shouted. '... Take them away to dark holes full of snakes...'
+{Quote_97}'When dawn comes, I will bid men sound Helm's and I will ride forth.'
+{Quote_98}'Grip, grab! Pinch, nab! And down down to Goblin-town! You go, my lad!'
+{Quote_99}'Where are now the horse and the rider? Where is the horn that was blowing?... They have passed like rain on the mountain, like wind in the meadow. The days have gone down in the West behind the hills into shadow.'
+{Quote_100}'Arise, arise, Riders of Théoden! Fell deeds awake; fire and slaughter! Spear shall be shaken, shield splintered, a sword-day, a red day, ere the sun rises! Ride now, ride now! Ride to Gondor!'
+{Quote_101}No living Hobbit (save Bilbo) could remember the Fell Winter of 1311, when the white wolves invaded the Shire over the frozen Brandywine.
+{Quote_102}'Where is it: my Precious, my Precious? It's ours, it is, and we wants it. The thieves... Curse them! We hates them.'
+{Quote_103}'Your Quest stands upon the edge of a knife. Stray but a little, and it will fail, to the ruin of all. Yet hope remains while the Company is true.'
+{Quote_104}Arador was taken by Hill-trolls in the Coldfells north of Rivendell and was slain...
+{Quote_105}Orcs and Trolls occupy parts of the now empty Mines of Moria.
+{Quote_106}'...we are all too tired - except, no doubt, our sturdy Dwarf.' Gimli made no reply, he was nodding as he sat.
+{Quote_107}'No tomb! No long, slow sleep of death embalmed. We shall burn, like the heathen kings before ever a ship sailed hither from the West.' 
+{Quote_108}'Why? Why do the fools fly?' said Denethor. 'Better to burn sooner than late, for burn we must... The West has failed. Go back and burn!'
+{Quote_109}'Fealty with love, valour with honour, oath-breaking with vengeance.'
+{Quote_110}'Hey! Come Frodo, there! Where be you a-going? Old Tom Bombadil's not as blind as that yet. Take off your golden ring! Your hand's more fair without it.' 
+{Quote_111}...there the kings caused to be built in the citadel a white tower, very tall and fair, and its eye was upon many lands.
+{Quote_112}'Old Tom Bombadil is a merry fellow, bright blue his jacket is, and his boots are yellow. None have ever caught him yet, for Tom, he is the master: His songs are stronger songs, and his feet are faster.' 
+{Quote_113}...the Orcs went forth to rape and war, and Balrog captains marched before.
+{Quote_114}Ash nazg durbatulûk, ash nazg gimbatul. Ash nazg thrakatulûk agh burzum-ishi krimpatul.
+{Quote_115}One Ring to rule them all. One Ring to find them. One Ring to bring them all and in the darkness bind them. 
+{Quote_116}'Fear not!' he said. 'Long have I desired to look upon the likenesses of Isildur and Anárion, my sires of old.'
+{Quote_117}...consult the Stone... trusting his strength. His trust was not entirely unjustified. Sauron failed to dominate him and could only influence him by deceits.
+{Quote_118}That country had of old been named Lindon by the Ñoldor, and this name it bore thereafter; and many of the Eldar still dwelt there... 
+{Quote_119}'We like the dark,' said the Dwarves. 'Dark for dark business!'
+{Quote_120}'I am the Elder King: Melkor, first and mightiest of the Valar, who was before the world, and made it.'
+{Quote_121}'My armour is like tenfold shields, my teeth are swords, my claws spears, the shock of my tail a thunderbolt, my wings a hurricane, and my breath death!'
+{Quote_122}'I laid low the warriors of old and their like is not in the world today.'
+{Quote_123}But the Naugrim made a circle about him when he assailed them, and even his mighty armour was not full proof against the blows of their great axes.
+{Quote_124}From the ashes, a fire shall be woken. A light from the shadow shall spring. Renewed shall be blade that was broken. The crownless again shall be king. 
+{Quote_125}But the Rohirrim sang no more. 'Death' they cried with one voice loud and terrible...
+{Quote_126}'Utúlie'n aurë! Aiya Eldalië ar Atanatári, utúlie'n aurë! The day has come! Behold, people of the Eldar and Fathers of Men, the day has come!’
+{Quote_127}'Now let thy children beware! For there shall walk a power in the forests whose wrath they will arouse at their peril.'
+{Quote_128}'Death! Ride, ride to ruin and the world's ending!'
+{Quote_129}'I was far from Isengard, ere the Wolves and Orcs issued from the gate to pursue me.'
+{Quote_130}'The Men of Gondor are valiant, and they will never submit; but they may be beaten down.'
+{Quote_131}He staggered and fell, grasped vainly at the stone, and slid into the abyss. 'Fly, you fools!' he cried and was gone.
+{Quote_132}...the Southrons were bold men and grim, and fierce in despair; and the Easterlings were strong and war-hardened and asked for no quarter.
+{Quote_133}All were slain... and to the land of the Haradrim came only a tale from far off: a rumour of the wrath and terror of Gondor.
+{Quote_134}...its hideous head, founded of black steel, was shaped in the likeness of a ravening wolf; on it spells of ruin lay.
+{Quote_135}There stood the house of the Golden Flower who bare a rayed sun upon their shield, and their chief Glorfindel...
+{Quote_136}'Baruk Khazâd! Khazâd ai-mênu!'
+{Quote_137}When therefore Earth was yet young and full of flame Melkor coveted it, and he said to the other Valar: ‘This shall be my own kingdom; and I name it unto myself!’
+{Quote_138}'This, Gandalf, was Glamdring, Foe-hammer that the king of Gondolin once wore.'
+{Quote_139}...he hastened to bring word to Saruman that Gandalf was come to Edoras, and had warned King Théoden of the treacherous designs of Isengard.
+{Quote_140}At length he resolved that no others would serve him in this case but his mightiest servants, the Ringwraiths...
+{Quote_141}...in the tempering of steel alone of all crafts the Dwarves were never outmatched, even by the Ñoldor...
+{Quote_142}In all the deeds of Melkor the Morgoth upon Arda, in his vast works and in the deceits of his cunning, Sauron had a part, and was only less evil than his master in that for long he served another and not himself.
+{Quote_143}But the Dwarves held on their way, and... there was battle in the Thousand Caves, and many Elves and Dwarves were slain; and it has not been forgotten.
+{Quote_144}...Aulë made the Dwarves strong to endure. Therefore they are stone-hard, stubborn, fast in friendship and in enmity, and they suffer toil and hanger and hurt of body more hardily than all other speaking peoples.
+{Quote_145}...Quendi who came into the hands of Melkor... breed the hideous race of the Orcs in envy and mockery of the Elves, of whom they were afterwards the bitterest foes.
+{Quote_146}The lies that Melkor, the mighty and accursed, Morgoth Bauglir, the Power of Terror and of Hate, sowed in the hearts of Elves and Men are a seed that does not die and cannot be destroyed
+{Quote_147}Many are the songs that have been sung of the duel of Glorfindel and the Balrog upon the pinnacle of rock in that high place; and both fell into the abyss.
+{Quote_148}'The shadow of my purpose is upon Arda, and all that is in it bends slowly and surely to my will.'
+{Quote_149}...and in the making of mail of linked rings, which was first contrived by the smiths of Belegost, their work had no rival.
+{Quote_150}Sauron was become now a sorcerer of dreadful power, master of shadows and of phantoms, foul in wisdom, cruel in strength, misshaping what he touched... 
+{Quote_151}...it was their custom moreover to wear great masks in battle hideous to look upon; and those stood them in great stead against the dragons.
+{Quote_152}and the drawing of the scimitars of the Southrons was like a glitter of stars.
+{Quote_153}'But if men weary of rest and the plays of peace, soon they will go back to their great play, manslaying and war.'
+{Quote_154}...tall and proud and noble, as all the men that he had yet seen in that land; and with a glitter in his eye as he thought of the battle.
+{Quote_155}The sons of Bór were Borlad, Borlach, and Borthand; and they followed Maedhros and Maglor, and cheated the hope of Morgoth, and were faithful.
+{Quote_156}'...there's someone loose hereabouts as is more dangerous than any other damned rebel that ever walked since the bad old times, since the Great Siege.'
+{Quote_157}'By all the signs, Captain Shagrat, I'd say there's a large warrior loose, Elf most likely, with an Elf-sword anyway, and an axe as well may be...'
+{Quote_158}A warlike race of old... they would fight fiercely against whomsoever aggrieved them: servants of Melkor, or Eldar, or Avari, or wild beasts, or not seldom their own kin, Dwarves of other mansions and lordships. 
+{Quote_159}Galadriel, the only woman of the Ñoldor to stand that day tall and valiant among the contending princess... yearned to see the wide unguarded lands and to rule there a realm at her own will.
+{Quote_160}For the Orcs had life and multiplied after the manner of the Children of Ilúvatar... 
+{Quote_161}And deep in their dark hearts, the Orcs loathed the Master whom they served in fear, the maker only of their misery.
+{Quote_162}Now the Orcs that multiplied in the darkness of the earth grew strong and fell, and their dark lord filled them with a lust of ruin and death.
+{Quote_163}No tale has told what Morgoth thought in his heart at the tidings that Fëanor, his bitterest foe, had brought a host out of the West.
+{Quote_164}'We must press our Enemy, and no longer wait upon him for the move.' 
+{Quote_165}...she remained in the Hidden Kingdom, and abode with Melian, and of her learned great lore and wisdom concerning Middle-earth.
+{Quote_166}...the Haradrim, a great and cruel people that dwelt in the wide lands south of Mordor beyond the mouths of Anduin.
+{Quote_167}Thus, befell the contest of Sauron and Felagund which is renowned. For Felagund strove with Sauron in songs of power, and the power of the King was very great; but Sauron had the mastery...
+{Quote_168}...Lúthien wove two themes of words, of the sorrow of the Eldar and the grief of Men, of the Two Kindreds that were made by Ilúvatar to dwell in Arda...
+{Quote_169}'...they are gone over to Him, or back to Him - they were ever ready to His will - as have so many also in the East.' 
+{Quote_170}And then, sudden and terrible, the sound of the great horn of Helm rang out.
+{Quote_171}The light of the drawing of the swords of the Ñoldor was like a fire in a field of reeds.
+{Quote_172}'...the days of Gondor are numbered, and the walls of Minas Tirith are doomed, so great is His strength and malice.'
+{Quote_173}The Orcs had slain or driven off all that remained in arms, and were even then ransacking the great halls and chambers, plundering and destroying.
+{Quote_174}His dominion was torment.
+{Quote_175}...much is told in The Fall of Gondolin: of the battle of Ecthelion of the Fountain with Gothmog Lord of Balrogs in the very square of the King, where each slew the other...
+{Quote_176}'Valour needs first strength and then a weapon.'
+{Quote_177}...Thingol took thought for arms, which before his people had not needed, and these at first the Naugrim smithied for him; for they were greatly skilled in such work.
+{Quote_178}Grond they named it, in memory of the Hammer of the Underworld of old.
+{Quote_179}'As I said, the Big Bosses, ay,' his voice sank almost to a whisper, 'ay, even the Biggest, can make mistakes.'
+{Quote_180}...Minas Ithil was in the hands of the Nazgûl, and Ithilien was desolate; but Gondor had not relinquished its claim to them.
+{Quote_181}Many now fled to the Havens and took refuge behind Círdan's walls, and the mariners passed up and down the coast and harried the enemy with swift landings.
+{Quote_182}...the first mariners in Middle-earth and the first makers of ships. Círdan the Shipwright was their lord.
+{Quote_183}...the Oath of Eorl, and was answered by the Oath of Cirion, confirming for ever the alliance of the Kingdoms of the Rohirrim and of Gondor.
+{Quote_184}'To resist any force that Sauron might send to regain the northern passes... there were only the Dwarves of the Iron Hills'
+{Quote_185}They are the Deep Elves, the friends of Aulë; and they are renowned in song, for they fought and laboured long and grievously in the northern lands of old.
+{Quote_186}...and those that fled north from the great slaughter were waylaid by the axes of the Naugrim that issued from Mount Dolmed.
+{Quote_187}'Dwarves understand devotion to friends and gratitude to those who help them.'
+{Quote_188}...he swore an oath of abiding friendship and aid in every need to Barahir and all his kin, and in token of his vow he gave to Barahir his ring.
+{Quote_189}'The Captains of the Outlands are expected up the South Road ere sundown. Come with us and you will see.'
+{Quote_190}'And those places might have fallen, I think, if Sauron had thrown all his power against them first, and not spent more than half of it in the assault on Gondor.'
+{Quote_191}'For a reward they will go in where you dare not, or at any rate cannot, and get what you desire.'
+{Quote_192}'For I am serious also. Deadly serious, and my heart is hot within me.'
+{Quote_193}They lived mostly in Staddle though there were some in Bree itself, especially on the higher slopes of the hill, above the houses of the Men. 
+{Quote_194}And the inner fire of the Silmarils, Fëanor made of the blended light of the Trees of Valinor, which lives in them yet, though the Trees have long withered and shine no more.
+{Quote_195}...out of the pits of Angband, there issued the winged dragons, that had not before been seen.
+{Quote_196}...for as they climbed up Gelion's banks... all the woods were filled with the sound of Elven-horns, and shafts sped upon them from every side.
+{Quote_197}Only to the realm of Doriath, whose queen Melian was of the kindred of Valar, did the Sindar come near to match the Calaquendi of the Blessed Realm.
+{Quote_198}'The West has failed.'
+{Quote_199}'A small oversight; but it proved fatal. Small oversights often do.'
+{Quote_200}Thus, Sauron tested the strength and preparedness of Denethor, and found them more than he had hoped.
+{Quote_201}‘...ye shall dwell in Death’s shadow. For though Eru appointed to you to die not in Eä, and no sickness may assail you, yet slain ye may be, and slain ye shall be: by weapon and by torment...’
+{Quote_202}Eönwë came among them and taught them; and they were given wisdom and power and life more enduring than any others of mortal race have possessed.
+{Quote_203}...he strove ever for the dominion of Middle-earth, to become a king over all kings and as a god unto Men.
+{Quote_204}This was the beginning of that people that in the Grey-Elven speech are called the Dúnedain: the Númenóreans, Kings among Men.
+{Quote_205}...their years were long. Therefore they grew wise and glorious... and they were tall, taller than the tallest of the sons of Middle-earth.
+{Quote_206}But the power of the White Ring he would not defy, nor enter yet into Lórien.
+{Quote_207}For the Dúnedain became mighty in crafts, so that if they had had the mind they could easily have surpassed the evil kings of Middle-earth in the making of war and the forging of weapons.
+{Quote_208}...its occupation in the Third Age by the Orcs of Sauron was one of the chief reasons for their great hatred of the Orcs.
+{Quote_209}'His fire was quenched, but now he was a thing of slime, stronger than a strangling snake.'
+{Quote_210}The Circle of Isengard was too strong for even the Lord of Morgul and his company to assail without great force of war.
+{Quote_211}'We also are daughters of the great, and we have wills and courage of our own.'
+{Quote_212}'Here, the hammer-stroke will fall hardest.'
+{Quote_213}Such was still the power of the voice of Saruman that even the Lord of the Nazgûl did not question what it said...
+{Quote_214}He was himself so far fallen that he believed all others of the Council had each their deep and far-reaching policies for their own enhancement.
+{Quote_215}If the invasion of Westfold had begun five days earlier, there can be little doubt that the reinforcements from Edoras would never have come near Helm's Deep...
+{Quote_216}...the Elf-friends... alone came now ever to the north and the land of Gil-galad, keeping their friendship with the Elves and lending them aid against Sauron.
+{Quote_217}...the Elf-friends... haven was Pelargir above the mouths of Anduin the Great. 
+{Quote_218}...he had fortified the land of Mordor and had built there the Tower of Barad-dûr...
+{Quote_219}...nor did he forget the aid that Tar-Minastir had rendered to Gil-galad of old, in that time when the One Ring was forged and there was war between Sauron and the Elves in Eriador.
+{Quote_220}...and he feared them, lest they should invade his lands and wrest from him the dominion of the East.
+{Quote_221}Yet Sauron was ever guileful, and it is said that among those whom he ensnared with the Nine Rings, three were great lords of Númenórean race. 
+{Quote_222}Ever afterwards Moria had Sauron's hate, and all Orcs were commanded to harry Dwarves whenever they might.
+{Quote_223}Eriador was cleared of the enemy, but lay largely in ruins.
+{Quote_224}...he brooded darkly, thinking of war. For he had learned in Middle-earth of the strength of the realm of Sauron, and of his hatred of Westernesse.
+{Quote_225}Celeborn went at first to Lórien and fortified it against any further attempts of Sauron to cross the Anduin.
+{Quote_226}...and the Winged Crown of the Kings of Men was held in awe by people of many lands and tongues.
+{Quote_227}...for he saw that here indeed was one who had Elven-blood in his veins.
+{Quote_228}Then behind locked doors Sauron spoke to the King, and he lied, saying: '...his name is Melkor, Lord of All, Giver of Freedom, and he shall make you stronger than Valar.'
+{Quote_229}'Forgive me, and my pride that has brought you to this doom.' 
+{Quote_230}Thranduil, father of Legolas of the Nine Walkers, was Sindarin, and that tongue was used in his house, though not by all his folk.
+{Quote_231}In Lórien, where many of tile people were Sindar in origin, or Ñoldor, survivors from Eregion, Sindarin had become the language of all the people.
+{Quote_232}...they heard the hideous cries of Orcs, and saw them issuing from the Forest and moving down the slopes, yelling their war-cries.
+{Quote_233}...Sauron stood there upon the pinnacle and defied the lightning and was unharmed; and in that hour, men called him a god and did all that he would. 
+{Quote_234}'...and we overtook the Orcs at nightfall two days ago, near to the borders of the Entwood.'
+{Quote_235}That was the manner of Orcs, who were most often dismayed when their prey could turn and bite.
+{Quote_236}Upon a stake in the middle was set a great Goblin head; upon its shattered helm, the white badge could still be seen. 
+{Quote_237}...Éomer, had as his ward the East-mark with his base at his home, Aldburg in the Folde.
+{Quote_238}The Dunlendings fled and hid themselves, for they were afraid of Elvish Folk.
+{Quote_239}Númenor went down into the sea... and all its gardens and its halls and its towers, its tombs and its riches... and its lore: they vanished for ever. 
+{Quote_240}Nine ships there were: four for Elendil, and for Isildur three, and for Anárion two; and they fled before the black gale out of the twilight of doom into the darkness of the world.
+{Quote_241}Elendil and his sons after founded kingdoms in Middle-earth... though their lore and craft was but an echo of that which had been ere Sauron came to Númenor...
+{Quote_242}...he was robbed now of that shape in which he had wrought so great an evil, so that he could never again appear fair to the eyes of Men.
+{Quote_243}There he took up again his great Ring in Barad-dûr, and dwelt there, dark and silent, until he wrought himself a new guise, an image of malice and hatred made visible.
+{Quote_244}For Sauron himself was filled with great fear at the wrath of the Valar, and the doom that Eru laid upon sea and land.
+{Quote_245}'He always was hasty. That was his ruin.'
+{Quote_246}...for long if he willed he could still appear noble and beautiful, so as to deceive all but the most wary.
+{Quote_247}Gil-galad, son of Fingon, was Lindon's King, and with him was Elrond Half-Elven, son of Eärendil the Mariner and brother of Elros, first king of Númenor.
+{Quote_248}...survivors of Doriath and Ossiriand... established realms among the Silvan Elves in woods and mountains far from the sea, for which nonetheless they ever yearned in their hearts.
+{Quote_249}Eregion was nigh to the great mansions of the Dwarves that were named Khazad-dûm, but by the Elves Hadhodrond, and afterwards Moria. 
+{Quote_250}From Ost-in-Edhil, the city of the Elves, the highroad ran to the west gate of Khazad-dûm, for a friendship arose between Dwarves and Elves...
+{Quote_251}In Eregion, the craftsmen of the Gwaith-i-Mírdain, the People of the Jewel-smiths, surpassed in cunning all that have ever wrought, save only Fëanor himself.
+{Quote_252}And in the south and in the further east Men multiplied; and most of them turned to evil, for Sauron was at work.
+{Quote_253}The Orcs might pay five to one in this exchange, but it was too cheap.
+{Quote_254}In those days, the smiths of Ost-in-Edhil surpassed all that they had contrived before... and they made Rings of Power. But Sauron guided their labours...
+{Quote_255}Now the Elves made many rings; but secretly Sauron made One Ring to rule all the others, and their power was bound up with it, to be subject wholly to it...
+{Quote_256}...and he came against them with open war, demanding that all the rings should be delivered to him...
+{Quote_257}Now these were the Three that had last been made, and they possessed the greatest powers. Narya, Nenya, and Vilya, they were named, the Rings of Fire, and of Water, and of Air...
+{Quote_258}Sauron gathered into his hands all the remaining Rings of Power; and he dealt them out to the other peoples of Middle-earth...
+{Quote_259}Seven Rings he gave to the Dwarves; but to Men he gave nine, for Men proved in this matter as in others the readiest to his will.
+{Quote_260}They used their rings only for the getting of wealth; but wrath and an over-mastering greed of gold were kindled in their hearts, of which evil enough after came...
+{Quote_261}It is said that the foundation of each of the Seven Hoards of the Dwarf-kings of old was a golden ring; but all those hoards long ago were plundered and the Dragons devoured them...
+{Quote_262}Those who used the Nine Rings became mighty in their day, kings, sorcerers, and warriors of old.
+{Quote_263}The Nazgûl were they, the Ringwraiths, the Enemy's most terrible servants; darkness went with them, and they cried with the voices of death.
+{Quote_264}...and he gathered again under his government all the evil things of the days of Morgoth that remained on earth or beneath it, and the Orcs were at his command... 
+{Quote_265}...east and south well nigh all Men... grew strong in those days and built many towns and walls of stone, and they were numerous and fierce in war and aimed with iron.
+{Quote_266}To them, Sauron was both king and god; and they feared him exceedingly, for he surrounded his abode with fire.
+{Quote_267}The chief of these were Elendil the Tall and his sons, Isildur and Anárion. Kinsmen of the King they were, descendants of Elros...
+{Quote_268}At Fornost upon the North Downs also the Númenóreans dwelt, and in Cardolan, and in the hills of Rhudaur; and towers they raised upon Emyn Beraid and upon Amon Sûl.
+{Quote_269}...his chief city was at Annúminas beside the water of Lake Nenuial.
+{Quote_270}...and they established a realm in those lands that were after called Gondor, whereas the Northern Kingdom was named Arnor.
+{Quote_271}The chief city of this southern realm was Osgiliath, through the midst of which the Great River flowed.
+{Quote_272}Many treasures and great heirlooms of virtue and wonder the Exiles had brought from Númenor; and of these the most renowned were the Seven Stones and the White Tree.
+{Quote_273}And Sauron gathered to him great strength of his servants out of the east and the south; and among them were not a few of the high race of Númenor.
+{Quote_274}Now Elendil and Gil-galad... made that League which is called the Last Alliance, and they marched east into Middle-earth gathering a great host of Elves and Men.
+{Quote_275}At that moment there came a sudden blast of horns, and the Orcs closed in on all sides, flinging themselves against the Dúnedain with reckless ferocity.
+{Quote_276}Of the Dwarves, few fought upon either side; but the kindred of Durin of Moria fought against Sauron.
+{Quote_277}The host of Gil-galad and Elendil had the victory, for the might of the Elves was still great in those days, and the Númenóreans were strong and tall, and terrible in their wrath.
+{Quote_278}...Sauron also was thrown down, and with the hilt-shard of Narsil, Isildur cut the Ruling Ring from the hand of Sauron and took it for his own.
+{Quote_279}The Númenóreans indeed set a guard upon the land of Mordor, but none dared dwell there because of the terror of the memory of Sauron...
+{Quote_280}‘This I will have as were-gild for my father's death, and my brothers. Was it not I that dealt the Enemy his death-blow?'
+{Quote_281}And Master Elrond foretold that this would not be done until the Ruling Ring should be found again and Sauron should return.
+{Quote_282}...the Men of Westernesse, the Dúnedain of the North, became divided into petty realms and lordships, and their foes devoured them one by one.
+{Quote_283}...other men knew not their homes nor the purpose of their journeys, and save in Imladris, in the house of Elrond, their ancestry was forgotten.
+{Quote_284}In the south, the realm of Gondor endured, and for a time its splendour grew, until it recalled the wealth and majesty of Númenor ere it fell.
+{Quote_285}High towers the people of Gondor built, and strong places, and havens of many ships.
+{Quote_286}... and took Minas Ithil for their abode; and they made it a place of such dread that none dared to look upon it.
+{Quote_287}...it was called Minas Morgul, the Tower of Sorcery; and Minas Morgul was ever at war with Minas Anor in the west.
+{Quote_288}...Osgiliath, which in the waning of the people had long been deserted, became a place of ruins and a city of ghosts.
+{Quote_289}Minas Anor endured, and it was named anew Minas Tirith, the Tower of Guard.
+{Quote_290}...the remnant of the Númenóreans still defended the passage of the River against the terrors of Minas Morgul and against all the enemies of the West, Orcs and monsters and evil Men.
+{Quote_291}...when the line of the Kings failed, the Stewards of the house of Mardil the Faithful ruled the city and its ever-shrinking realm.
+{Quote_292}...the Rohirrim, the Horsemen of the North, came and dwelt in the green land of Rohan... and the Rohirrim aided the Lords of the City in their wars.
+{Quote_293}...beyond the Falls of Rauros and the Gates of Argonath, there were as yet other defences, powers more ancient of which Men knew little, against whom the things of evil did not dare to move.
+{Quote_294}In Eriador, Imladris was the chief dwelling of the High Elves; but at the Grey Havens of Lindon, there abode also a remnant of the people of Gil-galad the Elvenking.
+{Quote_295}A queen she was of the woodland Elves, the wife of Celeborn of Doriath, yet she herself was of the Ñoldor and remembered the Day before days in Valinor...
+{Quote_296}...and she was the mightiest and fairest of all the Elves that remained in Middle-earth.
+{Quote_297}Orcs there were and Trolls and dragons and fell beasts, and strange creatures old and wise in the woods whose names are forgotten.
+{Quote_298}Dwarves still laboured in the hills and wrought with patient craft works of metal and stone that none now can rival.
+{Quote_299}Then the name of the forest was changed and Mirkwood it was called, for the nightshade lay deep there... save only in the north where Thranduil’s people still held the evil at bay.
+{Quote_300}Even as the first shadows were felt in Mirkwood, there appeared in the west of Middle-earth the Istari, whom Men called the Wizards.
+{Quote_301}Of these, Curunír was the eldest and came first, and after him came Mithrandir and Radagast, and others of the Istari who went into the east of Middle-earth...
+{Quote_302}Galadriel indeed had wished that Mithrandir should be the Lead of the Council, and Saruman begrudged them that, for his pride and desire of mastery was grown great.
+{Quote_303}‘In the hour that Isildur took the Ring and would not surrender it, this doom was wrought, that Sauron should return.’
+{Quote_304}Too long he had studied the ways of Sauron in hope to defeat him, and now he envied him as a rival rather than hated his works.
+{Quote_305}...he desired that he and no other should find the Great Ring, so that he might wield it himself and order all the world to his will.
+{Quote_306}'The might of the Elves and the Elf-friends is less now than of old. Soon he will be too strong for you, even without the Great Ring.'
+{Quote_307}Orcs were mustering, and far to the east and the south the wild peoples were arming.
+{Quote_308}Then war was kindled, and in battle with Sauron, the Third Age ended even as it had begun.
+{Quote_309}He was Aragorn son of Arathorn, the nine and thirtieth heir in the right line from Isildur, and yet more like to Elendil than any before him.
+{Quote_310}In that last battle were Mithrandir, and the sons of Elrond, and the King of Rohan, and lords of Gondor, and the Heir of Isildur with the Dúnedain of the North.
+{Quote_311}‘Take now this Ring,’ he said; 'for thy labours and thy cares will be heavy, but in all it will support thee and defend thee from weariness.'
+{Quote_312}The ancient East-West Road ran through the Shire to its end at the Grey Havens, and Dwarves had always used it on their way to their mines in the Blue Mountains.
+{Quote_313}'Only in mining and building have we surpassed the old days.'
+{Quote_314}...the Grey Mountains, where most of Durin's folk were now gathering; for those mountains were rich and little explored. But there were dragons in the wastes beyond... 
+{Quote_315}'Fathers would beg us to take their sons as apprentices, and pay us handsomely, especially in food-supplies, which we never bothered to grow or find for ourselves.'
+{Quote_316}'...They grew immensely rich and famous, and my grandfather was King under the Mountain again and treated with great reverence by the mortal men.'
+{Quote_317}'So my grandfather's halls became full of armour and jewels and carvings and cups... Undoubtedly, that was what brought the dragon.'
+{Quote_318}...Easterlings had the victory. But they could not take the Gate and many, both Dwarves and Men, took refuge in Erebor...
+{Quote_319}'"We cannot get out. The end comes," and then "drums, drums in the deep." I wonder what that means. The last thing written is in a trailing scrawl of Elf-letters: "They are coming."'
+{Quote_320}'Some spoke of Moria... and they declared that now at last we had the power and numbers to return.'
+{Quote_321}'...messages reported that Moria had been entered and a great work begun there. Then there was silence, and no word has ever come from Moria since.'
+{Quote_322}'You will not enter Khazad-dûm. Only I have looked through the shadow of the Gate. Beyond the shadow it waits for you still: Durin's Bane.'
+{Quote_323}The Dwarves delved deep at that time, seeking beneath Barazinbar for mithril... Thus they roused from sleep a thing of terror...
+{Quote_324}Messengers had passed to and fro between all their cities, colonies and strongholds; for they resolved now to win the dominion of the North.
+{Quote_325}...around and beneath the great mountain Gundabad of the North, where was their capital, a vast host was assembled ready to sweep down in time of storm unawares upon the South.
+{Quote_326}Unafraid it perched by his ear and it brought him news. Marvelling, he found he could understand its tongue, for he was of the race of Dale.
+{Quote_327}He was drenched with water, his black hair hung wet over face and shoulders, and a fierce light was in his eyes.
+{Quote_328}But there was still a company of archers that held their ground among the burning houses. Their captain was Bard, grim-voiced and grim-faced... 
+{Quote_329}They still throve on the trade... but in the great days of old, when Dale in the North was rich and prosperous, they had been wealthy and powerful...
+{Quote_330}Bard at once had speedy messengers... to ask the aid of the King of the Elves of the Wood... 
+{Quote_331}...when he received the prayers of Bard, he had pity, for he was the lord of a good and kindly people.
+{Quote_332}'Nowhere are there any men so friendly to us as the Men of Dale. They are good folk, the Bardings.'
+{Quote_333}'Eorlingas kinship is with the Bardings of Dale, and with the Beornings of the Wood, among whom may still be seen many men tall and fair, as are the Riders of Rohan...'
+{Quote_334}'Already war is gathering on his eastern borders. If we make no answer, the Enemy may move Men of his rule to assail King Brand, and Dáin also.'
+{Quote_335}...a host of the allies of Sauron that had long threatened the borders of King Brand crossed the River Carnen, and Brand was driven back to Dale.
+{Quote_336}The battle lasted three days, but in the end, both King Brand of Dale and King Dáin Ironfoot were slain, and the Easterlings had the victory. 
+{Quote_337}...and the besieged came forth and routed them, and the remnant fled into the East and troubled Dale no more.
+{Quote_338}'...in his great age he could still wield his axe as mightily as they say that he did... before the Gate of Erebor until the darkness fell.'
+{Quote_339}'But go specially to my cousin Dáin in the Iron Hills, for he has many people well-armed, and dwells nearest to this place.' 
+{Quote_340}It was Dáin Ironfoot, Náin's son. Right before the doors he caught Azog, and there he slew him, and hewed off his head. 
+{Quote_341}Dáin proved a great and wise king, and the Dwarves prospered and grew strong again in his day.
+{Quote_342}Glorfindel was tall and straight; his hair was of shining gold, his face fair and young and fearless and full of joy ... On his brow sat wisdom, and in his hand was strength.
+{Quote_343}'Yes, you saw him for a moment as he is upon the other side: one of the mighty of the Firstborn. He is an Elf-lord of a house of princes.'
+{Quote_344}'Three of the servants of Sauron were upon the Bridge, but they withdrew and I pursued them westward. I came also upon two others, but they turned away southward.' 
+{Quote_345}Of Khamûl, it is said here that he was the most ready of all the Nazgûl, after the Black Captain himself, to perceive the presence of the ring...
+{Quote_346}In their white faces burned keen and merciless eyes; under their mantles were long grey robes; upon their grey hairs were helms of silver.
+{Quote_347}In the last years of Denethor I, the race of Uruks, black Orcs of great strength, first appeared out of Mordor, and in 2475 they swept across Ithilien and took Osgiliath.
+{Quote_348}A crown of steel he bore, but between rim and robe naught was there to see, save only a deadly gleam of eyes: the Lord of the Nazgûl.
+{Quote_349}...their deadly voices rent the air. More unbearable they became, not less, at each new cry.
+{Quote_350}To the last battle at Fornost with the Witch-lord of Angmar, they sent some bowmen to the aid of the King, or so they maintained, though no tales of Men record it.
+{Quote_351}But Glorfindel rode up then on his white horse, and in the midst of his laughter, the Witch-king turned to flight and passed into the shadows.
+{Quote_352}The remnants of the Dúnedain of the North become rangers and errants, living largely in hiding, but waging ceaseless war on all evil things that still are abroad in the land.
+{Quote_353}With Isildur went... his Guard of two hundred knights and soldiers, stern men of Arnor and war-hardened.
+{Quote_354}The arrows had been unavailing against the Númenórean armour. The great Men towered above the tallest Orcs, and their swords and spears far outreached the weapons of their enemies.
+{Quote_355}Isildur commanded a thangail to be drawn up, a shield-wall of two serried ranks that could be bent back at either end if outflanked, until at need it became a closed ring.
+{Quote_356}The Orcs... hurled a great mass of their chief warriors down the last slope against the Dúnedain, expecting to break up their shield-wall. But it stood firm.
+{Quote_357}Venerable he seemed as a king crowned with many winters, and yet hale as a tried warrior in the fullness of his strength.
+{Quote_358}He was as noble and as fair in face as an Elf-lord, as strong as a warrior, as wise as a wizard, as venerable as a king of Dwarves, and as kind as summer.
+{Quote_359}Elladan and Elrohir, were out upon errantry: for they rode often far afield with the Rangers of the North...
+{Quote_360}'These are... very old... This, Thorin, the runes name Orcrist, the Goblin-cleaver in the ancient tongue of Gondolin...'
+{Quote_361}'It recalled to me the glory of the Elder Days and the hosts of Beleriand, so many great princes and captains were assembled.'
+{Quote_362}In the forefront of the charge, they saw two great horsemen, clad in grey, unlike all the others, and the Orcs fled before them.
+{Quote_363}Denethor was a proud man, tall, valiant, and more kingly than any man that had appeared in Gondor for many lives of men; and he was wise also, and far-sighted, and learned in lore.
+{Quote_364}It is said that he dared to use the Palantír of the White Tower... and so saw much of the mind of Sauron... but was aged prematurely by this combat, and fell into despair.
+{Quote_365}He was proud, but this was by no means merely personal: he loved Gondor and its people, and deemed himself appointed by destiny to lead them in this desperate time.
+{Quote_366}'He is not as other men of this time, Pippin, and whatever be his descent from father to son, by some chance the blood of Westernesse runs nearly true in him.'
+{Quote_367}He stood up and cast open his long black cloak, and behold! he was clad in mail beneath, and girt with a long sword, great-hilted in a sheath of black and silver.
+{Quote_368}'That was a worthy man! All spoke his praise. He came seldom to the Mark, for he was ever in the wars on the East-borders.'
+{Quote_369}'...my brother... was eager to heed the dream and seek for Imladris; but since the way was full of doubt and danger, I took the journey upon myself.'
+{Quote_370}The sons of Denethor resisted the Ringwraiths but were defeated by the Black Captain... but they still held West Osgiliath.
+{Quote_371}'We were outnumbered, for Mordor has allied itself with the Easterlings and the cruel Haradrim.'
+{Quote_372}'Boromir it was that drove the enemy at last back from this western shore, and we hold still the near half of Osgiliath.'
+{Quote_373}Faramir was retreating to the wall of the Pelennor, rallying his men to the Causeway Forts; but he was ten times outnumbered.
+{Quote_374}There came great beasts, like moving houses in the red and fitful light, the Mûmakil of the Harad dragging through the lanes amid the fires huge towers and engines.
+{Quote_375}...from the southward fields came footmen of Harad with horsemen before them, and behind them rose the huge backs of the Mûmakil with war-towers upon them.
+{Quote_376}...both Duilin of Morthond and his brother were trampled to death when they assailed the Mûmakil, leading their bowmen close to shoot at the eyes of the monsters.
+{Quote_377}'But Trolls are only counterfeits, made by the Enemy in the Great Darkness, in mockery of Ents, as Orcs were of Elves. We are stronger than Trolls.'
+{Quote_378}...he would go out by himself, clad in white, and stalk like a Snow-troll into the camps of his enemies...
+{Quote_379}'...there is something else there. A great Cave-troll, I think, or more than one.'
+{Quote_380}...a Troll-race not before seen appeared in southern Mirkwood and in the mountain borders of Mordor. Olog-hai they were called in the Black Speech. 
+{Quote_381}...and in the midst was a huge ram... Great beasts drew it... and behind walked Mountain-trolls to wield it.
+{Quote_382}Trolls they were, but filled with the evil will of their master: a fell race, strong, agile, fierce and cunning, but harder than stone.
+{Quote_383}Then Pippin stabbed upwards, and the written blade of Westernesse pierced through the hide and went deep into the vitals of the Troll...
+{Quote_384}East rode the knights of Dol Amroth driving the enemy before them: Troll-men and Variags and Orcs that hated the sunlight.
+{Quote_385}Easterlings with axes, and Variags of Khand, Southrons in scarlet, and out of Far Harad black men like Half-trolls with white eyes and red tongues.
+{Quote_386}'The Corsairs of Umbar!' men shouted... 'The Corsairs are upon us! It is the last stroke of doom!'
+{Quote_387}For once more lust of battle was on him; and he was still unscathed, and he was young, and he was king: the lord of a fell people.
+{Quote_388}'I would not take this thing... Not were Minas Tirith falling in ruin and I alone could save her, so, using the weapon of the Dark Lord for her good and my glory.'
+{Quote_389}All were hooded and masked, and had gauntlets on their hands, and were armed like Faramir and his companions.
+{Quote_390}'It is not strong,' said Faramir. 'I have sent the company of Ithilien to strengthen it, as I have said.' 
+{Quote_391}...in the great fief of Belfalas, dwelt Prince Imrahil in his castle of Dol Amroth by the sea, and he was of high blood, and his folk also, tall men and proud with sea-grey eyes.
+{Quote_392}Aragorn and Éomer and Imrahil...  their fortune and the skill and might of their arms, and few indeed had dared to abide them or look on their faces in the hour of their wrath.
+{Quote_393}...and with him went the Prince of Dol Amroth in his shining mail. For he and his knights still held themselves like lords in whom the race of Númenor ran true...
+{Quote_394}Behind him marched proudly a dusty line of men, well-armed and bearing great battle-axes; grim-faced they were...
+{Quote_395}From the uplands of Morthond, the great Blackroot Vale, tall Duinhir with his sons, Duilin and Derufin, and five hundred bowmen.
+{Quote_396}'For this attack will draw off much of the help that we looked to have from Lebennin and Belfalas, where folk are hardy and numerous.'
+{Quote_397}They have long ceased to fear the might of Gondor, and they have allied them with the Enemy, and now make a heavy stroke in his cause. 
+{Quote_398}'...at Pelargir lay the main fleet of Umbar, fifty great ships and smaller vessels beyond count.'
+{Quote_399}...he had the greatest following of all the rebels; for he was the Captain of Ships, and was supported by the people of the coasts and of the great havens of Pelargir and Umbar.
+{Quote_400}'But no living man am I! You look upon a woman. Éowyn I am, Éomund's daughter. You stand between me and my lord and kin.'
+{Quote_401}'Begone, if you be not deathless! For living or dark undead, I will smite you, if you touch him.'
+{Quote_402}Right through the press drove Théoden Thengel's son, and his spear was shivered as he threw down their chieftain.
+{Quote_403}Fey he seemed, or the battle-fury of his fathers ran like new fire in his veins, and he was borne up on Snowmane like a god of old...
+{Quote_404}Well nigh all the northern half of the Pelennor was overrun, and there camps were blazing, Orcs were flying towards the River like herds before the hunters.
+{Quote_405}But he proved a good and wise king.
+{Quote_406}It was soon after Thengel's return that Saruman declared himself Lord of Isengard and began to give trouble to Rohan, encroaching on its borders and supporting its enemies.
+{Quote_407}At last he got leave of the Steward and gathered a small fleet, and he came to Umbar unlooked-for by night, and there burned a great part of the ships of the Corsairs.
+{Quote_408}'I have thirty with me... That is all of our kindred that could be gathered in haste; but the brethren Elladan and Elrohir have ridden with us, desiring to go to the war.'
+{Quote_409}And from the walls, an answering shout went up; for foremost on the field rode the swan-knights of Dol Amroth with their Prince and his blue banner at their head.
+{Quote_410}But about the Gate resistance still was stout, and there the knights of Dol Amroth and the hardiest of the garrison stood at bay.
+{Quote_411}...and out of the City came all the strength of men that was in it, and the silver swan of Dol Amroth was borne in the van, driving the enemy from the Gate.
+{Quote_412}There was also a strange Elf clad in green and brown, Legolas, a messenger from his father, Thranduil, the King of the Elves of Northern Mirkwood.
+{Quote_413}'It is reported to us that many kings have ridden in from the East to the service of Mordor. From the North to the field of Dagorlad there is skirmish and rumour of war.'
+{Quote_414}'You won't go again, you say? Curse you, Snaga, you little maggot!'
+{Quote_415}'Come here, and I'll squeeze your eyes out, like I did to Radbug just now.'
+{Quote_416}'Come!' said Aragorn. 'This is the hour when we draw swords together!'
+{Quote_417}'The Orcs are behind the wall.... Come, Legolas! There are enough for us both. Khazâd ai-mênu!'
+{Quote_418}'The Orcs are in the Deep!' he cried. 'Helm! Helm! Forth Helmingas.'
+{Quote_419}Oropher was of Sindarin origin, and no doubt Thranduil his son was following the example of King Thingol long before, in Doriath; though his halls were not to be compared with Menegroth.
+{Quote_420}'To slay it would be just. But it was not always as it now is. Once it was a man, and did you service in its fashion...'
+{Quote_421}'I am the doorward of Théoden,' he said. Háma is my name.'
+{Quote_422}'Go back to the abyss prepared for you! Go back! Fall into the nothingness that awaits you and your Master. Go!'
+{Quote_423}In dark Mindolluin's sides they dimly echoed. Great horns of the North wildly blowing. Rohan had come at last.
+{Quote_424}...wrought of steel and iron, and guarded with towers and bastions of indomitable stone, yet it was the key, the weakest point in all that high and impenetrable wall.
+{Quote_425}The plain was dark with their marching companies, and as far as eyes could strain in the mirk there sprouted... all about the beleaguered city great camps of tents.
+{Quote_426}But soon there were few left in Minas Tirith who had the heart to stand up and defy the hosts of Mordor.
+{Quote_427}Slowly the great siege-towers built in Osgiliath rolled forward through the dark.
+{Quote_428}'And all the time there is another danger, close at hand, which he does not see.... He has forgotten Treebeard.'
+{Quote_429}'An angry Ent is terrifying. Their fingers, and their toes, just freeze on to rock; and they tear it up like bread-crust.'
+{Quote_430}'We are the servants of Saruman the Wise, the White Hand: the Hand that gives us man's-flesh to eat.'
+{Quote_431}...that vast fortress, armoury, prison, furnace of great power, Barad-dûr, the Dark Tower, which suffered no rival...
+{Quote_432}'So suspecting what I most fear, a league between Orthanc and the Dark Tower, I led forth my éored men of my own household.'
+{Quote_433}'But Isengard cannot fight Mordor, unless Saruman first obtains the Ring. That he will never do now. He does not yet know his peril.'
+{Quote_434}'Saruman seems to have meant to finish off the king and all his men with one final blow. He emptied Isengard....'
+{Quote_435}'...endless lines of marching Orcs; and troops of them mounted on great wolves. And there were battalions of Men, too.'
+{Quote_436}'A thing is about to happen which has not happened since the Elder Days: the Ents are going to wake up and find that they are strong.'
+{Quote_437}Then the Orcs screamed, waving spear and sword, and shooting a cloud of arrows at any that stood revealed upon the battlements.
+{Quote_438}They wavered, broke, and fled back; and then charged again, broke and charged again; and each time, like the incoming sea, they halted at a higher point. 
+{Quote_439}'No good trying to charge with them. They'd just squeal and bolt, and there are more than enough of these filthy horse-boys to mop up our lot on the flat.'
+{Quote_440}'We are the fighting Uruk-hai! We slew the great warrior.'
+{Quote_441}...there was Grishnákh again, and at his back a couple of score of others like him: long-armed crook-legged Orcs. They had a red eye painted on their shields.
+{Quote_442}...Uglúk was overtaken and brought to bay at the very edge of Fangorn. There he was slain at last by Éomer, the Third Marshal of the Mark, who dismounted and fought him sword to sword.
+{Quote_443}'Who does he think he is, setting up on his own with his filthy white badges? ... I Grishnákh say this: Saruman is a fool, and a dirty treacherous fool. But the Great Eye is on him.'
+{Quote_444}'What of the dawn?' they jeered. 'We are the Uruk-hai... We come to kill, by sun or moon.'
+{Quote_445}Grappling-hooks were hurled, and ladders raised. Again and again, the Orcs gained the summit of the outer wall, and again the defenders cast them down.
+{Quote_446}'The Lady of the Golden Wood is on our side, it seems,' said Borondir.
+{Quote_447}'But unless you've got some guts for fighting, you've taken the wrong way. Lugbúrz was your road. The Whiteskins are coming.'
+{Quote_448}'Here lie many that are not folk of Mordor. Some are from the North, from the Misty Mountains, if I know anything of Orcs...'
+{Quote_449}'The Red Eye will be looking towards Isengard. But Saruman at any rate is in a cleft stick of his own cutting.'
+{Quote_450}Boromir had blown his great horn till the woods rang, and at first the Orcs had been dismayed and had drawn back; but when no answer but the echoes came, they had attacked more fierce than ever.
+{Quote_451}Then Boromir had come leaping through the trees. He had made them fight. He slew many of them and the rest fled. 
+{Quote_452}...they were attacked again, by a hundred Orcs at least, some of them very large, and they shot a rain of arrows: always at Boromir.
+{Quote_453}'I tried to take the Ring from Frodo,' he said. 'I am sorry. I have paid.'
+{Quote_454}'They are fierce folk when roused. They will not give way now... until Théoden is taken, or they themselves are slain.'
+{Quote_455}'Maybe, we have a thousand fit to fight on foot,' said Gamling... 'But most of them have seen too many winters, as I have, or too few, as my son's son here.'
+{Quote_456}'Help now to repair the evil in which you have joined,' said Erkenbrand; 'and afterwards you shall take an oath never again to pass the Fords of Isen in arms, nor to march with the enemies of Men.'
+{Quote_457}'Yrch!' said Legolas, falling into his own tongue...
+{Quote_458}The Silvan Elves were hardy and valiant, but ill-equipped with armour or weapons in comparison with the Eldar of the West.
+{Quote_459}They were silent now, and kept at a distance out of the range of the dreaded steelbows of Númenor.
+{Quote_460}Then Gil-galad and Elendil passed into Mordor and encompassed the stronghold of Sauron; and they laid siege to it for seven years...
+{Quote_461}'Fugitives from Cair Andros have already reached us. The isle has fallen. Another army comes from the Black Gate, crossing from the north-east.'
+{Quote_462}Both sides were pitiless, and there was death and cruel deeds....
+{Quote_463}When all was ready, they assailed and sacked one by one all the strongholds of the Orcs that they could from Gundabad to the Gladden.
+{Quote_464}But a great host of foes was arrayed on the slopes above them, and out of the gates poured a multitude of Orcs that had been held back by Azog for the last need.
+{Quote_465}Coming late and fresh to the field, the mailed warriors of Náin, Grór's son, drove through the Orcs to the very threshold of Moria, crying 'Azog! Azog!'
+{Quote_466}'What? Yet another beggar at my doors? Must I brand you too?'
+{Quote_467}...their youths and old men were aided by the younger women, who in that people were also gained in arms and fought fiercely in defence of their homes and their children.
+{Quote_468}But the Men of Rhûn and of Harad, Easterling and Southron... were deepest and longest in evil servitude, hating the West, and yet were men proud and bold...
+{Quote_469}Down from the hills on either side of the Morannon poured Orcs innumerable.
+{Quote_470}Like a storm they broke upon the line of the Men of Gondor, and beat upon helm and head, and arm and shield as smiths hewing the hot bending iron.
+{Quote_471}The Orcs hindered by the mires that lay before the hills halted and poured their arrows into the defending ranks.
+{Quote_472}...the Dark Lord had almost completed the movement of his forces, and even in the fastness of his own realm, he sought the secrecy of night...
+{Quote_473}Orcs again multiply in secret and occupy many deep places (especially those anciently made by the Dwarves) in the Misty Mountains.
+{Quote_474}'There are Orcs, very many of them,' he said. 'And some are large and evil: black Uruks of Mordor.'
+{Quote_475}Most of all, the horses were praised, for many of them came from the Vales of Anduin, and with them were riders tall and fair, and proud princes of Rhovanion.
+{Quote_476}...an army of power, with munition and provision for a war of great kings. Or so it seemed to the people of the North, though this was but a small sending-force of the whole might of Gondor.
+{Quote_477}...a rolling Boom that seemed to come from depths far below, and to tremble in the stone at their feet. They sprang towards the door in alarm. Doom, doom it rolled again...
+{Quote_478}Defeated in the Wold and cut off from the south... and was then suddenly assailed by the Orc-host that pressed it towards the Anduin.
+{Quote_479}But what they lacked in gear of war they made up in numbers, so far as could be guessed.
+{Quote_480}Eorl the Young came with his riders and swept away the enemy, and pursued the Balchoth to the death over the fields of Calenardhon.
+{Quote_481}Rangers of Ithilien... were descended from folk who lived in Ithilien at one time, before it was overrun.
+{Quote_482}'And we of Gondor grow like other Men, like the men of Rohan; for even they, who are the foes of the Dark Lord, shun the Elves and speak of the Golden Wood with dread.'
+{Quote_483}Though war never ceased on their borders, for more than a thousand years the Dúnedain of the South grew in wealth and power by land and sea...
+{Quote_484}Grimbeorn the Old, son of Beorn, was now the lord of many sturdy men, and to their land between the Mountains and Mirkwood neither Orc nor wolf dared to go.
+{Quote_485}...but besides the valour of the Elven people of that land, the power that dwelt there was too great for any to overcome, unless Sauron had come there himself.
+{Quote_486}...and Galadriel threw down its walls and laid bare its pits, and the forest was cleansed.
+{Quote_487}For each they had provided a hood and cloak, made according to his size, of the light but warm silken stuff that the Galadhrim wove.
+{Quote_488}'For this is what your folk would call magic, I believe... they seem also to use the same word of the deceits of the Enemy.'
+{Quote_489}'I perceive the Dark Lord and know his mind, or all of his mind that concerns the Elves. And he gropes ever to see me and my thought. But still the door is closed!'
+{Quote_490}'The love of the Elves for their land and their works is deeper than the deeps of the Sea... Yet they will cast all away rather than submit to Sauron: for they know him now.'
+{Quote_491}'In place of the Dark Lord you will set up a Queen. And I shall not be dark, but beautiful and terrible as the Morning and the Night!... All shall love me and despair!'
+{Quote_492}...all that she had desired in her youth came to her hand, the Ring of Power and the dominion of Middle-earth which she had dreamed... Her wisdom was full grown and she rejected it...
+{Quote_493}Under the boughs of Mirkwood, there was deadly strife of Elves and Men and fell beasts. 
+{Quote_494}'Now why did not we wish for some of our own kinsfolk, Legolas?' 'They have no need to ride to war; war already marches on their own lands.'
+{Quote_495}'But there are some of us still who go abroad for the gathering of news and the watching of our enemies, and they speak the languages of other lands. I am one. Haldir is my name.'
+{Quote_496}'They were many and fierce, but they came from over the mountains, and were unused to the woods.'
+{Quote_497}In a great hall with pillars hewn out of the living stone sat the Elvenking on a chair of carven wood.
+{Quote_498}'In the midst upon a stony height stands Dol Guldur, where long the hidden Enemy had his dwelling. We fear that now it is inhabited again, and with power sevenfold.'
+{Quote_499}...and because of his cunning, he grew ever higher in the Lord's favour; and he learned great sorcery, and knew much of the mind of Sauron; and he was more cruel than any Orc.
+{Quote_500}‘It was a Balrog of Morgoth,’ said Legolas; ‘of all Elf-banes the most deadly, save the One who sits in the Dark Tower.’
+{Quote_501}'Up with your beard, Durin's son!' he said. 'For thus is it spoken: Oft hope is born, when all is forlorn.'
+{Quote_502}'But men are better than gates, and no gate will endure against our Enemy if men desert it.'
+{Quote_503}'...this is the greatest jest in all the history of Gondor: that we should ride with seven thousands, scarce as many as the vanguard of its army in the days of its power...'
+{Quote_504}'And there are names among us that are worth more than a thousand mail-clad knights apiece.'
+{Quote_505}'...we came to Linhir... there men of Lamedon contested the fords with fell folk of Umbar and Harad who sailed up the river.'
+{Quote_506}'...the enemies don't love us any more than they love Him, and if they get topside on Him, we're done too.'
+{Quote_507}'Don't trust your head, Samwise, it is not the best part of you.'
+{Quote_508}Dust arose smothering the air, as from nearby there marched up an army of Easterlings that had waited for the signal...
+{Quote_509}But the Captains of the West were well warned by their scouts, skilled men from Henneth Annûn...
+{Quote_510}'These are the terms... The rabble of Gondor and its deluded allies shall withdraw at once... taking oaths never again to assail Sauron the Great in arms...'
+{Quote_511}...the Tower of Cirith Ungol in all its strength. The horn that he had seen from the other side was only its topmost turret.
+{Quote_512}...the Guarded City, with its seven walls of stone so strong and old that it seemed to have been not build but carved by giants out of the bones of the earth.
+{Quote_513}'But in Dunharrow the people may long defend themselves, and if the battle go ill, thither will come to escape.'
+{Quote_514}'Those were happier days, when there was still close friendship at times between folk of different race, even between Dwarves and Elves.'
+{Quote_515}...the Isle of Tolfalas was almost destroyed, and was left at last like a barren and lonely mountain in the water not far from the issue of the River.
+{Quote_516}Suddenly the great bow of Lórien sang. Shrill went the arrow from the Elven-string.
+{Quote_517}'I am Gandalf, Gandalf the White, but Black is mightier still.'
+{Quote_518}...Celeborn came forth and led the host of Lórien over Anduin in many boats. They took Dol Guldur...
+{Quote_519}Thranduil they had let pass, for even his diminished army was far too strong for them...
+{Quote_520}The lines of fire became flowing torrents, file upon file of Orcs bearing flames, and wild Southron men with red banners, shouting with harsh tongues, surging up, overtaking the retreat.
+{Quote_521} 'Faramir must be there,' they said. 'He can govern man and beast. He will make it yet.'
+{Quote_522}'You are come to Cerin Amroth,' said Haldir. 'For this is the heart of the ancient realm as it was long ago...'
+{Quote_523}...the Orcs came down upon Erebor as soon as they heard of the return of the Dwarves; and they were led by Bolg, son of that Azog whom Dáin slew in his youth.
+{Quote_524}...the assault from the Mountain was renewed with redoubled force, and upon either side men and Elves were being slowly beaten down.
+{Quote_525}A Goblin's head was stuck outside the gate and a Warg-skin was nailed to a tree just beyond. Beorn was a fierce enemy.
+{Quote_526}'They were made in Gondolin for the Goblin-wars. They must have come from a dragon's hoard or Goblin plunder, for dragons and Goblins destroyed that city many ages ago.'
+{Quote_527}'...the main force shall remain in the North-east to guard above all the place where the Balchoth made a crossing of the Anduin out of the Brown Lands.'
+{Quote_528}...the Heir of Isildur arose in the North, and he took the shards of the sword of Elendil, and in Imladris they were reforged; and he went then to war, a great captain of Men.
+{Quote_529}...and ere the Wise could prevent him he re-entered his kingdom in Mordor and reared once again the dark towers of Barad-dûr.
+{Quote_530}He gathered a great host of spies, and many of these were birds; for Radagast lent him his aid, divining naught of his treachery...
+{Quote_531}But the Orcs laughed with loud voices; and a hail of darts and arrows whistled over the wall...
+{Quote_532}'Your bow, Legolas! Bend it! Get Ready! It is Saruman. Do not let him speak, or put a spell upon us! Shoot first!'
+{Quote_533}They did not halt until they were out of bowshot from the walls.
+{Quote_534}'Many have received worse than this in payment for the slaying of their first Orc. The cut is not poisoned, as the wounds of Orc-blades too often are.'
+{Quote_535}'...Orcs will often pursue foes for many leagues into the plain, if they have a fallen captain to avenge.'
+{Quote_536}'...the Elves of Lórien... dwell in the trees, and maybe it is so still. Therefore they were called the Galadhrim, the Tree-people.'
+{Quote_537}'Yes, they are Elves', said Legolas; 'and they say that you breathe so loud that they could shoot you in the dark.'
+{Quote_538}'A Dwarf!' said Haldir. 'That is not well. We have not had dealings with the Dwarves since the Dark Days. They are not permitted in our lands.'
+{Quote_539}A marching host of Elves had come up silently: they were hastening toward the northern borders to guard against any attack from Moria.
+{Quote_540}'None of the Orcs will ever return out of Lórien. And there will be many Elves hidden on the northern border...'
+{Quote_541}'It could be beaten like copper, and polished like glass; and the Dwarves could make of it a metal, light and yet harder than tempered steel.'
+{Quote_542}A thicket of spears were pointed towards the strangers; and some of the horsemen had bows in hand, and their arrows were already fitted to the string.
+{Quote_543}'I would cut off your head, beard and all, Master Dwarf, if it stood but a little higher from the ground' said Éomer.
+{Quote_544}'For not all the tidings that I bring are evil. But leave your trowels and sharpen your swords!'
+{Quote_545}'But if Saruman has become evil, as you say, then their doom cannot be long delayed.'
+{Quote_546}'I know the Men of Rohan; true and valiant, our allies, dwelling still in the lands that we gave them long ago.'
+{Quote_547}The Misty Mountains were crawling like anthills; Orcs were issuing out of a thousand holes.
+{Quote_548}The land of the Beornings was aflame; a cloud was over Moria; smoke rose on the borders of Lórien.
+{Quote_549}From the havens of Harad, ships of war put out to sea.
+{Quote_550}All the power of the Dark Lord was in motion.
+{Quote_551}There was an eye in the Dark Tower that did not sleep.
+{Quote_552}'Kill gorgûn! Kill Orc-folk! No other words please Wild Men' answered Ghân.
+{Quote_553}'Alas!' said Théoden. 'Then Denethor has heard no news of our riding and will despair of our coming.'
+{Quote_554}'Need brooks no delay, yet late is better than never', said Éomer.
+{Quote_555}And then all the host of Rohan burst into song, and they sang as they slew, for the joy of battle was on them...
+{Quote_556}'Curse you Snaga, you little maggot! If you think I'm so damaged that it's safe to flout me, you're mistaken.'
+{Quote_557}'Where there's a whip there's a will, my slugs.'
+{Quote_558}Yet still before it there stretched a wide region of fuming, barren, ash-ridden land.
+{Quote_559}His will was set, and only death would break it.
+{Quote_560}The onslaught of Mordor broke like a wave on the beleaguered hills, voices roaring like a tide amid the wreck and crash of arms.
+{Quote_561}'Mortals cannot go drinking ent-draughts and expect no more to come of them than a pot of beer.'
+{Quote_562}'Take your way south-west till you come to Cair Andros, and if it is still held by enemies, as I think, then re-take it, if you can.'
+{Quote_563}'...and hold Cair Andros to the last in defence of Gondor and Rohan!'
+{Quote_564}...Hobbits had crept out of the shadows. There was nearly two hundred of them, all holding some weapon.
+{Quote_565}He aimed a savage blow at Merry who stood in his way. He fell dead with four arrows in him.
+{Quote_566}...the Hobbits were obliged to shoot many of them or hew them with axes.
+{Quote_567}'Yes, you have grown very much. You are wise, and cruel. You have robbed my revenge of sweetness...'
+{Quote_568}A look of wild hatred came into Wormtongue's red eyes. 'You told me to; you made me do it.'
+{Quote_569}...the Battle of Greenfields, S.R. 1147, in which Bandobras Took routed an invasion of Orcs.
+{Quote_570}...he knew then that they must be Dúnedain of the South, men of the line of the Lords of Westernesse.
+{Quote_571}'Later! Yes, when you also have the Keys of Barad-dûr itself, I suppose; and the crowns of seven kings; and the rods of the Five Wizards...'
+{Quote_572}...the Dúnedain were few, and power had been seized by an evil lord of the Hill-men, who was in secret league with Angmar.
+{Quote_573}...there were still some people who had both Elves and heroes of the North for ancestors, and Elrond the master of the house was their chief.
+{Quote_574}He would indeed have been overwhelmed had not Sauron's host been attacked in the rear; for Durin sent out a force of Dwarves from Khazad-dûm...
+{Quote_575}In that time the stronghold and refuge of Imladris, that Men called Rivendell, was founded by Elrond Half-Elven; and long it endured.
+{Quote_576}'In the language of Orthanc help means ruin, and saving means slaying, that is plain.'
+{Quote_577}...it was the face of one without hope who goes in search of death.
+{Quote_578}Her eyes grey as the sea were hard and fell...
+{Quote_579}'Men need many words before deeds. My axe is restless in my hands.'
+{Quote_580}...there had been fleets of boats on the waters, and some were filled with gold and some with warriors in armour, and there had been wars and deeds which were now only a legend.
+{Quote_581}Then he was filled with a red wrath and shouted aloud...
+{Quote_582}'His axe is not for trees, but for Orc necks...'
+{Quote_583}'It is not said that evil arts were ever practised in Gondor, or that the Nameless One was ever named in honour there.'
+{Quote_584}...he felt a hot fierce glow flow through him. The pain in his legs and ankles vanished.
+{Quote_585}Horns were blown and trumpets were braying, and the Mûmakil were bellowing as they were goaded to war.
+{Quote_586}...and wild Southron men with red banners, shouting with harsh tongues, surging up, overtaking the retreat.
+{Quote_587}'Lembas does put heart into you!'
+{Quote_588}...grim folk, and not easily daunted by shade or blade.
+{Quote_589}...the dreadful Orcish wolfriders, feared by horses.
+{Quote_590}...fierce Uruks, heavily armed but trained to move at great speed for many miles.
+{Quote_591}'And that was after we showed them the gates and pushed them out...'
+{Quote_592}'Why, we had a real set-to, and there were some folk killed, killed dead!'
+{Quote_593}'He was a mighty man. In him lived again the valour of Helm the Hammerhand.'
+{Quote_594}As the days darkened with threat of war, being wise, he had repaired the wall and made the fastness strong.
+{Quote_595}Amid them strode a man tall and strong. His shield was red. As he came to the valley's brink, he set to his lips a great black horn and blew a ringing blast.
+{Quote_596}...Rohirrim charged the enemy to the north and south of the camp... Grimbold himself remained on foot with a rearguard of picked men...
+{Quote_597}A great company of bowmen might have made them rue the light of their torches, but Grimbold had only a handful of archers.
+{Quote_598}...since the Orcs were of less avail in such fighting because of their stature, fierce companies of the Dunlendish hillmen were thrown against Rohan's shieldwall.
+{Quote_599}...any man that could break out and escape southwards would be more useful, though he might seem inglorious.
+{Quote_600}'...things are now moving which will require the union of all our strength.'
+{Quote_601}These Balchoth were constantly increased by others of like kind that came in from the east...
+{Quote_602}'Wolves and Orcs were housed in Isengard, for Saruman was mustering a great force on his own account...'
+{Quote_603}'I looked on it and saw that, whereas it had once been green and fair, it was now filled with pits and forges.'
+{Quote_604}'Well now, what about a smoke, while you tell us what has been happening in the Shire?'
+{Quote_605}'They are taking the Hobbits to Isengard!'
+{Quote_606}'So ended the attempt to retake Moria!'
+{Quote_607}There was a horn-blast and a rush of feet, and Orcs one after another leaped into the chamber.
+{Quote_608} 'Let us go, before the Troll returns!'
+{Quote_609}...a huge Orc-chieftain, almost man-high, clad in black mail from head to foot, leaped into the chamber...
+{Quote_610}Ever since the fall of the Great Goblin of the Misty Mountains, the hatred of their race for the Dwarves had been rekindled to fury.
+{Quote_611}Boromir leaped forward and hewed at the arm with all his might; but his sword rang, glanced aside, and fell from his shaken hand.
+{Quote_612}His horn cloven in two was at his side. Many Orcs lay slain, piled all about him and at his feet.
+{Quote_613}...and a power and terror seemed to be in it and to go before it.
+{Quote_614}'It is Sauron himself who has taken shape again and now grows apace.'
+{Quote_615}'...I... persuaded the Council to attack Dol Guldur first, before he attacked Lórien.'
+{Quote_616}'...to attack Lórien and Rivendell, as soon as he was strong enough was his original plan.' 
+{Quote_617}'Well, I have rather a rascally look, have I not?'
+{Quote_618}'The Orcs in the service of the Barad-dûr use the sign of the Red Eye.'
+{Quote_619}'...I am a friend of all enemies of the One Enemy.'
+{Quote_620}It was Sam's first view of a battle of Men against Men, and he did not like it much.
+{Quote_621}...if he really was evil of hearth, or what lies or threats had led him on the long march from his home.
+{Quote_622}'It is long since we had any hope.'
+{Quote_623}'For as the Rohirrim do, we now love war and valour as things good in themselves...'
+{Quote_624}'Men now fear and misdoubt the Elves...'
+{Quote_625}'...a man of arms of the Guard of the Tower of Gondor is held worthy in the City...'
+{Quote_626}...the Guards of the Citadel before the Court of the Fountain where the White Tree once had grown.
+{Quote_627}'Hail, Lord and Steward of Minas Tirith, Denethor son of Ecthelion!'
+{Quote_628}'But I know already sufficient of these deeds for my own counsel against the menace of the East.'
+{Quote_629}'Pride would be folly that disdained help and counsel at need.'
+{Quote_630}The axes hewed Forlong as he fought alone and unhorsed.
+{Quote_631}So great an army had never issued from that vale since the days of Isildur's might... and yet it was but one and not the greatest of the hosts that Mordor now sent forth.
+{Quote_632}'Go forth and fight! Vanity. For a little space you may triumph on the field, for a day.'
+{Quote_633}'This is a great war long-planned, and we are but one piece in it, whatever pride may say.'
+{Quote_634}'The Enemy has found it, and now his power waxes; he sees our very thoughts, and all we do is ruinous.'
+{Quote_635}'All the East is moving.'
+{Quote_636}The field was strewn with stricken Orcs and Men, and a reek arose of torches cast away, sputtering out in swirling smoke.
+{Quote_637}'They are strong: battalions of Orcs of the Eye, and countless companies of Men of a new sort that we have not met before.'
+{Quote_638}'Courage will now be your best defence against the storm that is at hand...'
+{Quote_639}Far above a great cloud streamed slowly westward from the Black Land, devouring light, borne upon a wind of war.
+{Quote_640}All the lands were grey and still; and ever the shadow deepened before them, and hope waned in every heart.
+{Quote_641}'I beheld the last combat on the slopes of Orodruin, where Gil-galad died, and Elendil fell, and Narsil broke beneath him...'
+{Quote_642}The new realms of Arnor and Gondor lasted about 110 years before Sauron made his first attacks on them.
+{Quote_643}But Sauron also was thrown down, and with the hilt-shard of Narsil, Isildur cut the Ruling Ring from the hand of Sauron and took it for his own.
+{Quote_644}...Rammas Echor... men of Gondor called the out wall that they had built with great labour, after Ithilien fell under the shadow of their Enemy.
+{Quote_645}Orcs began to raid in the eastern regions and slay or steal horses.
+{Quote_646}...and there now their Lord was gathering in haste great forces to meet the onslaught of the Captains of the West.
+{Quote_647}Here in the northward regions were the mines and forges, and the musterings of long-planned war.
+{Quote_648}Some fled northward, hoping to bear news to Aragorn, but they were pursued and slain or driven away into the wild.
+{Quote_649}'Four thousands I sent marching from Pelargir through Lossarnach two days ago.'
+{Quote_650}'While we yet live? How long? He has a weapon that has brought low many strong places since the world began. Hunger.'
+{Quote_651}'And our scouts say that they have cast trenches and stakes across the road. We cannot sweep them away in sudden onset.'
+{Quote_652}Orcs were roving in the hills and woods along the roadside.
+{Quote_653}'The beacons of Gondor are alight, calling for aid. War is kindled.'
+{Quote_654}'They are not natives here; they are crebain out of Fangorn and Dunland... I think they are spying out the land.'
+{Quote_655}...both the knife and the hand that held it glowed with a pale light.
+{Quote_656}Ere long the vanguard swirled round the spur's end and came rushing into Dale.
+{Quote_657}Already a host of the Elves is on the way, and carrion birds are with them hoping for battle and slaughter.
+{Quote_658}So it was that Bard's messengers found him now marching with many spearmen and bowmen.
+{Quote_659}'We would see peace once more among Dwarves and Men and Elves after the long desolation.'
+{Quote_660}'Dáin, I may tell you, is now less than two days' march off, and has at least five hundred grim Dwarves with him...
+{Quote_661}'...a good many of them have had experience in the dreadful Dwarf and Goblin wars, of which you have no doubt heard.'
+{Quote_662}Their caps where of iron and they were shod with iron and their faces were grim.
+{Quote_663}In battle they wielded heavy two-handed mattocks; but each of them had also a short sword and a round shield slung on his back.
+{Quote_664}Their banners were countless, black and red, and they came on like a tide in fury and disorder.
+{Quote_665}The Elves were the first to charge. Their hatred for the Goblins is cold and bitter.
+{Quote_666}Their spears and swords shone in the gloom with a gleam of chill flame, so deadly was the wrath of the hands that held them.
+{Quote_667}Behind the arrows a thousand of their spearmen leapt down and charged.
+{Quote_668}As soon as the host of their enemies was dense in the valley, they sent against it a shower of arrows, and each flickered as it fled as if with stinging fire.
+{Quote_669}Cruel wars raged among them, from which some were withdrawing west­ward, with minds filled with hatred, regarding all that dwelt in the West as enemies to be slain and plundered.
+{Quote_670}He scattered the bodyguard and pulled down Bolg himself and crushed him. The dismay fell on the Goblins and they fled in all directions.
+{Quote_671}'May your beard never grow thin!'
+{Quote_672}'For the world is changing: I feel it in the water, I feel it in the earth, and I smell it in the air.'
+{Quote_673}Bard had rebuilt the town in Dale and men had gathered to him from the Lake and from South and West...
+{Quote_674}'We may stand, if only on one leg, or at least be left still upon our knees.'
+{Quote_675}...the air was still and breathless, as if all the Vale of Anduin waited for the onset of a ruinous storm.
+{Quote_676}He was a captain that men would follow, that he would follow, even under the shadow of the black wings.
+{Quote_677}'Yestereve I lay at Cair Andros, the long isle in the River northward which we hold in defence; and horses are kept on the hither bank.'
+{Quote_678}'And where will other men look for help, if Gondor falls?'
+{Quote_679}'There are evil days ahead.'
+{Quote_680}'He uses others as his weapons. So do all great lords, if they are wise...'
+{Quote_681}'Still, a beggar must be grateful, if a thief returns him even a morsel of his own.'
+{Quote_682}'Such deeds he loves; friend at war with friend; loyalty divided in confusion of hearts.'
+{Quote_683}They differed from the High Elves of the West, and were more dangerous and less wise.
+{Quote_684}Though their magic was strong, even in those days they were wary.
+{Quote_685}'...round Mirkwood in the North you would be right among the slopes of the Grey Mountains, and they are simply stiff with Goblins...'
+{Quote_686}...the glint of the moon on Goblin spears and helmets, as long lines of the wicked folk crept down the hillside from their gate...
+{Quote_687}'I hear wolves voices! Are the Goblin's at mischief in the woods?'
+{Quote_688}...the Goblins had spread in secret after the battle of the Mines of Moria.
+{Quote_689}'He is an enemy quite beyond the powers of all the Dwarves put together...'
+{Quote_690}He charged the ranks of the Goblins of Mount Gram in the Battle of the Green Fields and knocked their king Golfimbuls head clean off with a wooden club.
+{Quote_691}...with them came the bodyguard of Bolg, Goblins of huge size with scimitars of steel.
+{Quote_692}'That we should wish to cast him down and have no one in his place is not a thought that occurs to his mind.'
+{Quote_693}'Long I fell, and he fell with me... We fought far under the living earth, where time is not counted.'
+{Quote_694}If the Steward thought of the Stone when he gave Orthanc to Saruman, he probably thought that it could be in no safer hands than those of the head of the Council opposed to Sauron.
+{Quote_695}It was Sauron who made them sinister, and instruments of domination and deceit.
+{Quote_696}...they came to Sarn Ford and the southernmost borders of the Shire. They found them guarded for the Rangers barred their way.
+{Quote_697}These were the swiftest wolf-riders, and already their cries and howls rent the air afar.
+{Quote_698}It was not his way to commit such instruments to the use of subordinates; nor had he any servant whose mental power were superior to Saruman's or even Denethor's.
+{Quote_699}'As I was saying I met two of Elrond's people. They were hurrying along for fear of the Trolls.'
+{Quote_700}In the days of Cirion the Steward, there came a great assault by the Balchoth, who allied with Orcs crossed the Anduin into the Wold...
+{Quote_701}'But the Haradrim, being now driven to the brink, turned at bay, and they were fierce in despair.'
+{Quote_702}'Reckless we rode among our fleeing foes, driving them like leaves, until we came to the shore.'
+{Quote_703}'...I looked on Aragorn and thought how great and terrible a Lord he might have become in the strength of his will, had he taken the Ring to himself.'
+{Quote_704}'...away in the North we saw a red glow under the cloud, and Aragorn said: "Minas Tirith is burning."'
+{Quote_705}'Yet whatever is still to do, I hope to have a part in it, for the honour of the folk of the Lonely Mountain.'
+{Quote_706}And there they took counsel together with Gandalf and Aragorn and the sons of Elrond.
+{Quote_707}'The Stones of Seeing do not lie, and not even the Lord of Barad-dûr can make them do so.'
+{Quote_708}'Nonetheless it cannot be doubted that when Denethor saw great forces arrayed against him in Mordor, and more still being gathered, he saw that which truly is.'
+{Quote_709}'Hardly has our strength sufficed to beat off the first great assault. The next will be greater.'
+{Quote_710}The host of Orcs and Easterlings had turned back out of Anórien, but harried and scattered by the Rohirrim they had broken and fled with little fighting towards Cair Andros.
+{Quote_711}'Courage is found in unlikely places.'
+{Quote_712}'There is a connexion with Bilbo's old adventures, and the Riders are looking, or perhaps one ought to say searching, for him or for me.'
+{Quote_713}...they were foes of the Dark Lord, but they were overcome by the Evil King of Carn Dûm in the Land of Angmar.
+{Quote_714}'...yet still some go wandering, sons of forgotten kings walking in loneliness, guarding from evil things folk that are heedless.'
+{Quote_715}The Men of Bree were brown-haired, broad, and rather short, cheerful and independent: they belonged to nobody but themselves.
+{Quote_716}The Bree-folk called them Rangers, and knew nothing of their origin.
+{Quote_717}Umbar remained at war with Gondor for many lives of men, a threat to its coastlands and to all traffic on the sea.
+{Quote_718}...and the region of South Gondor became a debatable land between the Corsairs and the Kings.
+{Quote_719}...Eldacar showed favour to the Northmen... and the people of Gondor were replenished by great numbers that came from Rhovanion.
+{Quote_720}For at last they perceived that some single power and will was directing the assault from many quarters upon the survivors of Númenor.
+{Quote_721}'Far off yet is his doom, and not by the hand of man will he fall.'
+{Quote_722}Three great fleets, long prepared, came up from Umbar and the Harad, and assailed the coasts of Gondor in great force.
+{Quote_723}It was Túrin that built secret refuges for his soldiers in Ithilien, of which Henneth Annûn was the longest guarded and manned.
+{Quote_724}But his chief peril lay in the south, where the Haradrim had occupied South Gondor, and there was much fighting along the Poros.
+{Quote_725}Then the Barad-dûr was raised once more, and Mount Doom burst into flame, and the last of the folk of Ithilien fled far away.
+{Quote_726}Indeed he was as like to Thorongil as to one of nearest kin...
+{Quote_727}...for the Stone of Minas Tirith was the Palantír of Anárion, most close in accord with the one that Sauron possessed.
+{Quote_728}'Here is the ring of Barahir,' he said, 'the token of our kinship from afar.'
+{Quote_729}'I have dwelt for a time in the land of my mother's kin, in far Lothlórien.'
+{Quote_730}He rode in the host of the Rohirrim, and fought for the Lord of Gondor by land and by sea.
+{Quote_731}'She shall not be the bride of any Man less than the King of both Gondor and Arnor.'
+{Quote_732}'I gave Hope to the Dúnedain, I have kept no hope for myself.'
+{Quote_733}For they made not only things of wonder and beauty but weapons and armour of great worth.
+{Quote_734}'If any of your people poke their foul beards in here again, they will fare the same.'
+{Quote_735}That was the beginning of the War of the Dwarves and the Orcs, which was long and deadly, and fought for the most part in deep places beneath the earth.
+{Quote_736}Durin's Folk gathered all their host, and they were joined by great forces sent from the Houses of other Fathers.
+{Quote_737}...Orcs that fled before them were gathered in Moria, and the Dwarf-host in pursuit came to Azanulbizar.
+{Quote_738}For he saw that all his host in the valley was in a rout, and the Dwarves went this way and that slaying as they would...
+{Quote_739}'The hammer will at least keep the arms strong, until they can wield sharper tools again.'
+{Quote_740}...they say that it was given to the King of Khazad-dûm, Durin III, by the Elven-smiths themselves and not by Sauron...
+{Quote_741}Though they could be slain or broken, they could not be reduced to shadows enslaved to another will.
+{Quote_742}It is said that they had no language of their own, but took what they could of other tongues and perverted it to their own liking.
+{Quote_743}Trolls therefore took such language as they could master from the Orcs.
+{Quote_744}But in the Third Age close friendship still was found in many places between Men and Dwarves.
+{Quote_745}For some Elves tease them and laugh at them, and most of all at their beards.
+{Quote_746}'May it soon cleave Goblins once again!'
+{Quote_747}It was deep, deep, dark, such as only Goblins that have taken to living in the heart of the mountains can see through.
+{Quote_748}They can tunnel and mine as well as any but the most skilled Dwarves, when they take the trouble, though they are usually untidy and dirty.
+{Quote_749}Hammers, axes, swords, daggers, pickaxes, tongs, and also instruments of torture, they make very well, or get other people to make to their design, prisoners and slaves...
+{Quote_750}...in some parts, wicked Dwarves had even made alliances with them. But they had a special grudge against Thorin's people, because of the war which you have heard mentioned...
+{Quote_751}It had killed hundreds of Goblins in its time, when the fair Elves of Gondolin hunted them in the hills or did battle before their walls.
+{Quote_752}It was rather splendid to be wearing a blade made in Gondolin for the Goblin-wars of which so many songs had sung.
+{Quote_753}Only a few hours ago he had worn it, and caught a small Goblin-imp. How it squeaked! He still had a bone or two left to gnaw, but he wanted something softer.
+{Quote_754}'Goblins fighting and biting in the dark, everybody falling over bodies and hitting one another!'
+{Quote_755}Even magic rings are not much use against wolves - especially against the evil packs that lived under the shadow of the Goblin-infested mountains.
+{Quote_756}These they guarded too, while all the rest (hundreds and hundreds it seemed) went and sat in a great circle in the glade.
+{Quote_757}Now it seemed that a great Goblin-raid had been planned for that very night.
+{Quote_758}'I have heard of you, if you have not heard of me; but perhaps you have heard of my good cousin Radagast who lives near the Southern borders of Mirkwood?'
+{Quote_759}Now he shot with a great yew bow, till all his arrows but one were spent.
+{Quote_760}He thought of the Master's words, and of Dale rebuilt, and filled with golden bells, if he could but find the men.
+{Quote_761}But all the men of arms who were still able, and the most of the Elvenking's array, got ready to march north to the Mountain.
+{Quote_762}So now they began to labour hard in fortifying the main entrance, and in remaking the road that led from it.
+{Quote_763}'They have come!' called Balin. 'And their camp is very great.'
+{Quote_764}'Moreover the wealthy may have pity beyond right on the needy that befriended them when they were in want.'
+{Quote_765}The Elvenking himself, whose eyes were used to things of wonder and beauty, stood up in amazement.
+{Quote_766}The Dwarves are exceedingly strong for their height, but most of these were strong even for Dwarves.
+{Quote_767}'You have no business here. We are going on, so make way or we shall fight you!'
+{Quote_768}'Long will I tarry, ere I begin this war for gold.'
+{Quote_769}'They do not understand war above ground, whatever they may know of battle in the mines.'
+{Quote_770}'There are many of our archers and spearmen now hidden in the rocks upon their right flank.'
+{Quote_771}The yells were deafening. The rocks were stained black with Goblin blood.
+{Quote_772}...and beside them came the men of the Lake with long swords.
+{Quote_773}Victory now vanished from hope. They had only stemmed the first onslaught of the black tide.
+{Quote_774}'To me! To me! Elves and Men! To me! O my kinsfolk!' he cried, and his voice shook like a horn in the valley.
+{Quote_775}Once again, the Goblins were stricken in the valley; and they were piled in heaps till Dale was dark and hideous with their corpses.
+{Quote_776}'I have heard songs of many battles, and I have always understood that defeat may be glorious. It seems very uncomfortable, not to say distressing.'
+{Quote_777}'If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.'
+{Quote_778}...there is no knowing what a Dwarf will not dare and do for revenge or the recovery of his own.
+{Quote_779}...and after plundering and harrying, the Easterlings drew back northwards.
+{Quote_780}Calimehtar, son of Narmacil II, helped by a revolt in Rhovanion, avenged his father with a great victory over the Easterlings upon Dagorlad...
+{Quote_781}...attacks on Gondor from the East were renewed, and Orcs and Easterlings overran Calenardhon and besieged the forts, which would not have long held out.
+{Quote_782}...out of the upper exit from her lair, she moved with a horrible speed, now running on her creaking legs, now making a sudden bound.
+{Quote_783}'Insect eyes,' he thought, 'not animal eyes, only they are much too big.'
+{Quote_784}Suddenly he saw, too, that there were spiders huge and horrible sitting in the branches above him...
+{Quote_785}...she would into the forgotten south of the world, her offspring abode there and wove their hideous webs.
+{Quote_786}...the spiders suddenly gave it up, and followed them no more, but went back disappointed to their dark colony.
+{Quote_787}'It was by the devices of Saruman that we drove him from Dol Guldur.'
+{Quote_788}'But fat men who sell ale have many calls to answer; and the power of Sauron is still less than fear makes it.'
+{Quote_789}'And are not the bridges of Osgiliath broken down and all the landings held now by the Enemy?'
+{Quote_790}'For Saruman the White is the greatest of my order.'
+{Quote_791}His own plan, while Gandalf remained with them, had been to go with Boromir, and with his sword help to deliver Gondor.
+{Quote_792}'But if you wish to destroy the armed might of the Dark Lord, then it is folly to go without force into his domain; and folly to throw away.'
+{Quote_793}'I have returned from the Northern Fences,' said the Elf, `and I am sent now to be your guide again.'
+{Quote_794}To Legolas, she gave a bow such as the Galadhrim used, longer and stouter than the bows of Mirkwood, and strung with a string of Elf-hair.
+{Quote_795}`I do not foretell, for all foretelling is now vain: on the one hand lies darkness, and on the other only hope.'
+{Quote_796}'Torment in the dark was the danger that I feared, and it did not hold me back.'
+{Quote_797}It was dark, but not too dark for the night-eyes of Orcs, and in the star-glimmer they must have offered their cunning foes some mark...
+{Quote_798}'Seldom in my life has any boat come out of the North, and the Orcs prowl on the east-shore,' said Boromir.
+{Quote_799}'...and of late, it is said, they have dared to cross the water and raid the herds and studs of Rohan.'
+{Quote_800}'It was a great battle. Tall Men with long swords, and terrible Elves, and Orcses shrieking. They fought on the plain for days and months at the Black Gates.'
+{Quote_801}No Dwarf would ever mount a horse willingly, nor did any ever harbour animals, not even dogs.
+{Quote_802}But those who fell in Azanulbizar were honoured in memory, and to this day a Dwarf will say proudly of one of his sires: 'He was a burned Dwarf', and that is enough.
+{Quote_803}By the Naugrim, the Cirth were taken east over the mountains and passed into the knowledge of many peoples.
+{Quote_804}...each had a thrice-forged head and their shafts were inlaid with cunning gold, but they were never delivered or paid for.
+{Quote_805}'...I chose Mr. Baggins. Just let any one say I chose the wrong man or the wrong house, and you can stop at thirteen and have all the bad luck you like, or go back to digging coal.'
+{Quote_806}'Dwarves take such duties very seriously.'
+{Quote_807}'...no one can have or make anything 'of value' save them­selves, and that all fine things in other hands must have been got, if not stolen, from the Dwarves at some time...'
+{Quote_808}But it was not the Trolls that had filled the Elf with terror. The ranks of the Orcs had opened, and they crowded away, as if they themselves were afraid.
+{Quote_809}How many there were the Company could not count. The affray was sharp, but the Orcs were dismayed by the fierceness of the defence.
+{Quote_810}'For if this is indeed, as the Eldar say, the gift of the One to Men, it is bitter to receive.'
+{Quote_811}...were of Númenórean blood hardly less pure than that of the kings, and undoubtedly had some share in the actual blood of Elendil and Anárion.
+{Quote_812}...he passed out of the knowledge of Men of the West, and went alone far into the East and deep into the South, exploring the hearts of Men, both evil and good...
+{Quote_813}'Far away down in the Bay of Belfalas, to which Anduin runs, it is warm and merry, maybe, or would be but for the Enemy.'
+{Quote_814}'Mordor draws all wicked things, and the Dark Power was bending all its will to gather them there.'
+{Quote_815}'And all folk were whispering then of the new Shadow in the South, and its hatred of the West.'
+{Quote_816}'There are Orcs and Trolls, there are Wargs and Werewolves; and there have been and still are many Men, warriors and kings, that walk alive under the Sun, and yet are under his sway.'
+{Quote_817}Swords were naked in their pale hands; helms were on their heads. Their cold eyes glittered, and they called to him with fell voices.
+{Quote_818}...now he was come again, bringing ruin, turning hope to despair, and victory to death.
+{Quote_819}'As you know, that city was once a strong place, proud and fair, Minas Ithil, the twin sister to our own city.'
+{Quote_820}'It is said that their lords were men of Númenor who had fallen into dark wickedness; to them the Enemy had given rings of power, and he had devoured them...'
+{Quote_821}'Yes, sooner or later - later, if he is strong or well-meaning to begin with, but neither strength nor good purpose will last - sooner or later, the dark power will devour him.'
+{Quote_822}'But it is the Black Captain who defeats us. Few will stand and abide even the rumour of his coming. His own folk quail at him, and they would slay themselves at his bidding.'
+{Quote_823}Now silently the host of Rohan moved forward into the field of Gondor, pouring in slowly but steadily, like the rising tide through breaches in the dike that men had thought secure.
+{Quote_824}But it was no brigand or Orc-chieftain that led the assault upon the Lord of Mordor's greatest foe.
+{Quote_825}'You'll go back where you belong, double quick. I give you one minute before I call all my dogs.'
+{Quote_826}'The Lord Sauron the Great, so he said, wished for our friendship. Rings he would give for it, such as he gave of old.'
+{Quote_827}'...for we knew already that the power that has re-entered Mordor has not changed, and ever it betrayed us of old.'
+{Quote_828}'Soon their terror will overshadow the last armies of our friends, cutting off the sun.'
+{Quote_829}'...if we get a chance, you and me'll slip off and set up somewhere on our own... somewhere where there's good loot nice and handy, and no big bosses.'
+{Quote_830}'When you hang from a gibbet at your window for the sport of your own crows, I will have peace with you and Orthanc.'
+{Quote_831}'You hold out your hand to me, and I perceive only a finger of the claw of Mordor. Cruel and cold!'
+{Quote_832}'...for they have fought many wars, and assailed many who defied them. Yet with some they have afterwards made peace, none the worse for being politic.'
+{Quote_833}'The friendship of Saruman and the power of Orthanc cannot be lightly thrown aside, whatever grievances, real or fancied, may lie behind.'
+{Quote_834}'Slay whom your lord names as enemies, and be content. Meddle not in policies which you do not understand.'
+{Quote_835}'And this is first-rate salted pork. Or I can cut you some rashers of bacon and broil them, if you like.'
+{Quote_836}'You ought to know they are the apple of the Great Eye.'
+{Quote_837}Round them were many smaller Goblins. Pippin supposed that these were the ones from the North.
+{Quote_838}'We have come all the way from the Mines to kill and avenge our folk. I wish to kill, and then go back north.'
+{Quote_839}'What are they wanted for?' asked several voices. 'Why alive? Do they give good sport?'
+{Quote_840}'You would die before your stroke fell.'
+{Quote_841}'There are few among mortal Men who know more of Orcs; and I do not hunt them in this fashion out of choice.'
+{Quote_842}'We do not serve the Power of the Black Land far away, but neither are we yet at open war with him.'
+{Quote_843}'...we desire only to be free, and to live as we have lived, keeping our own, and serving no foreign lord, good or evil.'
+{Quote_844}Goblins do not usually venture very far from their mountains, unless they are driven out and are looking for new homes, or are marching to war.
+{Quote_845}But in those days they sometimes used to go on raids, especially to get food or slaves to work for them. Then they often got the Wargs to help and shared the plunder with them.
+{Quote_846}'Did you not three times pursue and trouble my people in the forest and rouse the spiders with your riot and clamour?'
+{Quote_847}'Alas! it has come more swiftly than I guessed. The Goblins are upon you! Bolg of the North is coming, O Dáin! whose father you slew in Moria.'
+{Quote_848}'Hoom, hm, I have not troubled about the Great Wars,' said Treebeard; 'they mostly concern Elves and Men. That is the business of Wizards: Wizards are always troubled about the future.'
+{Quote_849}'...but I do not love the bright sword for its sharpness, nor the arrow for its swiftness, nor the warrior for his glory. I love only that which they defend: the city of the Men of Númenor.'
+{Quote_850}'Will Faramir get across in time? He guessed it, but did he know the hour? And who can now hold the fords when the King of the Nine Riders comes? And other armies will come.'

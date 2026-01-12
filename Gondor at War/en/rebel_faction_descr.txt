@@ -1,0 +1,44 @@
+¬ Region Based
+{Arthedain_Rebels}Remnants of Arthedain
+{Bandit_Rebels}Bandits
+{Beorning_Rebels}Inhabitants of the Vale
+{Breeland_Rebels}Bree-land Rebels
+{Cardolan_Rebels}Remnants of Cardolan
+{Dorwinion_Rebels}Dorwinion Rebels
+{Dunland_Rebels}Dunlending Rebels
+{Dwarven_EredLuin_Rebels}Dwarven Rebels
+{Dwarven_Erebor_Rebels}Dwarven Rebels
+{Elven_Imladris_Rebels}Elven Rebels
+{Elven_Lindon_Rebels}Elven Rebels
+{Elven_Lothlorien_Rebels}Elven Rebels
+{Elven_Thranduil_Rebels}Elven Rebels
+{Enedwaith_Rebels}Clans of Enedwaith
+{Ent_Rebels}Remnants of Fangorn
+{Evil_Looters}Orc Marauders
+{Evil_Rebels}Orc Looters
+{Gondor_Rebels}Gondorian Rebels
+{Harad_Rebels}Haradrim Rebels
+{Harondor_Rebels}Men of Harondor
+{Hobbit_Rebels}Hobbit Rebels
+{Human_Rebels}Northmen
+{Ithilien_Rebels}Remnants of Ithilien
+{Mirkwood_Rebels}Orcs of Mirkwood
+{No_Rebels}Bandits
+{Rhovanion_Rebels}Remnants of Rhovanion
+{Rhudaur_Rebels}Remnants of Rhudaur
+{Rohan_Rebels}Rohirric Rebels
+{Saralainn_Rebels}Kingdom of Saralainn
+{Umbar_Rebels}Corsair Rebels
+{Variag_Rebels}Variag Rebels
+{Rhun_Rebels}Darïtaï Rebels
+{Varfest_Rebels}Kingdom of Varfést
+{Balchoth_Rebels}Balchoth Raiders
+{Arulad_Rebels}Arulad Clans
+{Lest_Rebels}Kingdom of Lest
+{Baruun_Rebels}Baruun Clans
+{Haerhun_Rebels}Haerhûn Raiders
+{Wildmen_Rebels}Wildmen
+¬ Non Region Based
+{gladiator_uprising}The Slave Uprising
+{brigands}Brigands
+{pirates}Pirates

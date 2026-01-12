@@ -1,0 +1,85 @@
+¬
+{Daggerfall_Province}	Kingdom of Daggerfall
+{Daggerfall}		Daggerfall
+{Glenpoint_Province}	Glenpoint Province
+{Glenpoint}		Glenpoint
+{Betony_Province}	Betony Island
+{Betony}		Betony
+{Tulune_Province}	Tulune Province
+{Tulune}		Тulune
+{Glenumbra_Province}	Glenumbra Province
+{Glenumbra}		Glenumbra
+{Northmoor_Province}	Northmoor Province
+{Northmoor}		Northmoor
+{Ykalon_Province}	Ykalon Province
+{Ykalon}		Ykalon
+{Reich_Gradkeep_Province}	Reich GradKeep Province
+{Reich_Gradkeep}	Reich Gradkeep
+{Shalgora_Province}	Shalgora Province
+{Shalgora}		Shalgora
+{Ilessan_Province}	Ilessan Hills
+{Ilessan}		Ilessan
+{Daenia_Province}	Daenia Province
+{Daenia}		Daenia
+{Urvaius_Province}	Urvaius Province
+{Urvaius}		Urvaius
+{Phrygias_Province}	Phrygias Province
+{Phrygias}		Phrygias
+{Dwynnen_Province}	Barony of Dwynnen
+{Dwynnen}		Dwynnen
+{Kambria_Province}	Kambria Plateau
+{Kambria}		Kambria
+{Bhoriane_Province}	Bhoriane Province
+{Bhoriane}		Bhoriane
+{Koegria_Province}	Koegria Province
+{Koegria}		Koegria
+{Alcaire_Province}	Alcaire Province
+{Alcaire}		Alcaire
+{Menevia_Province}	Menevia Province
+{Menevia}		Menevia
+{Balfiera_Province}	Balfiera Island
+{Balfiera}		Balfiera
+{Wayrest_Province}	Kingdom of Wayrest
+{Wayrest}		Wayrest
+{Gauvadon_Province}	Gauvadon Province
+{Gauvadon}		Gauvadon
+{Orsinium_Province}	Orsinium Mountains
+{Orsinium}		Orsinium
+{Mournoth_Province}	Mournoth Province
+{Mournoth}		Mournoth
+{Totambu_Province}	Kingdom of Totambu
+{Totambu}		Тotambu
+{Satakalaam_Province}	Satakalaam Province
+{Satakalaam}		Satakalaam
+{Lainlyn_Province}	Lainlyn Province
+{Lainlyn}		Lainlyn
+{Kozanset_Province}	Kozanset Province
+{Kozanset}		Kozanset
+{Dragontail_Province}	Dragontail Mountains
+{Vulnim}		Vulnim
+{Tigonus_Province}	Tigonus Province
+{Tigonus}		Тignous
+{Ephesus_Province}	Kingdom of Ephesus
+{Ephesus}		Ephesus
+{Santaki_Province}	Santaki Province
+{Santaki}		Santaki
+{Dakfron_Province}	Dak'fron Desert
+{Dakfron}		Dak'fron
+{Antiphyllos_Province}	Кingdom of Antiphyllos
+{Antiphyllos}		Antiphyllos
+{Bergama_Province}	Bergama Province
+{Bergama}		Bergama
+{Ayasofya_Province}	Ayasofya Province
+{Ayasofya}		Ayasofya
+{Sentinel_Province}	Кingdom of Sentinel
+{Sentinel}		Sentinel
+{Myrkwasa_Province}	Myrkwasa Province
+{Myrkwasa}		Мyrkwasa
+{Pothago_Province}	Porthago Province
+{Pothago}		Porthago
+{Kairou_Province}	Kairou Province
+{Kairou}		Kairou
+{Abibon_Gora_Province}	Barony of Abibon-Gora
+{Abibon_Gora}		Abibon-Gora
+{Alikr_Province}	Alik'r Desert
+{Alikr}			Alik'r Settlement

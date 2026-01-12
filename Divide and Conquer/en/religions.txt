@@ -1,0 +1,11 @@
+¬
+{catholic}Melkor's Shadow
+{dwarven}Dwarven
+{islam}Dúnedain
+{northmen}Northmen
+{elven}Elven
+{wildmen}Middlemen
+{nomadic}Nomadic
+{heretic}Others
+{orthodox}Men of the East
+{kings}King's Men

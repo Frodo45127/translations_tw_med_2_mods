@@ -1,0 +1,11 @@
+¬
+{catholic}Sombra de Melkor
+{dwarven}Enana
+{islam}Dúnedain
+{northmen}Hombres del norte
+{elven}Élfica
+{wildmen}Hombres medios
+{nomadic}Nómada
+{heretic}Otras
+{orthodox}Hombres del este
+{kings}Hombres del rey

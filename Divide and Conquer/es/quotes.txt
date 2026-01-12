@@ -1,0 +1,1702 @@
+¬suppleant ;;;; TOLKIEN QUOTE SUBMOD 2.5.2 ;;;;
+{Author_1}Gandalf el Gris, El Concilio de Elrond
+{Author_2}Gandalf el Gris, El Concilio de Elrond
+{Author_3}Saruman el Blanco, El Concilio de Elrond
+{Author_4}Gandalf el Blanco, La Voz de Saruman
+{Author_5}Gandalf el Blanco, La Palantír
+{Author_6}Gandalf el Blanco, La Palantír
+{Author_7}Gandalf el Blanco, La Última Deliberación
+{Author_8}Gandalf el Gris, La Sombra del Pasado
+{Author_9}Gandalf el Gris a Frodo, Muchos Encuentros
+{Author_10}sobre el Rey Brujo, La Batalla de los Campos del Pelennor
+{Author_11}Aragorn sobre Gandalf, En la Jornada Oscura
+{Author_12}Gandalf el Gris, La Sombra del Pasado
+{Author_13}El Anillo de Morgoth; La Transformación de los Mitos
+{Author_14}sobre los dedos de Sauron, La Puerta Negra está cerrada
+{Author_15}Gandalf el Blanco a los hobbits, Los Pueras Grises
+{Author_16}Gandalf el Gris al Balrog, El Puente de Khazad-Dûm
+{Author_17}Galadriel sobre el Anillo, El Espejo de Galadriel
+{Author_18}Aragorn sobre Sauron, El paso de la Compañía Gris
+{Author_19}Aragorn sobre Sauron, El paso de la Compañía Gris
+{Author_20}Cuentos Inconclusos, El Desastre de los Campos Gladios
+{Author_21}Beregond, Guardia de la Ciudadela de Gondor, Minas Tirith
+{Author_22}Gandalf el Gris a Frodo, La Sombra del Pasado
+{Author_23}Gandalf el Gris, De los Anillos de Poder y la Tercera Edad
+{Author_24}Cuentos Inconclusos; La búsqueda del Anillo
+{Author_25}Gildor Inglorion de la casa de Finrod, Tres es compañía
+{Author_26}Gildor Inglorion de la casa de Finrod, Tres es compañía
+{Author_27}Elrond Señor de Rivendel, Muchos encuentros
+{Author_28}Elrond sobre los tres Anillos de Poder élficos, El Concilio de Elrond
+{Author_29}Elrond Señor de Rivendel, El Concilio de Elrond
+{Author_30}Elrond a Gandalf, El Concilio de Elrond
+{Author_31}Elrond Señor de Rivendel, El Concilio de Elrond
+{Author_32}Elrond Señor de Rivendel, El Concilio de Elrond
+{Author_33}Gandalf el Blanco sobre Sauron, La Última Deliberación
+{Author_34}Galadriel, Dama de Lórien, El Espejo de Galadriel
+{Author_35}A propósito de los Hobbits
+{Author_36}Elrond Señor de Rivendel, El Anillo va hacia el sur
+{Author_37}Cuentos Inconclusos; Los Istari
+{Author_38}Glorfindel, El Concilio de Elrond
+{Author_39}Gimli hijo de Glóin, El Anillo va hacia el sur
+{Author_40}Gimli hijo de Glóin, El Anillo va hacia el sur
+{Author_41}Gimli hijo de Glóin, La última deliberación
+{Author_42}Haldir Guardián de las fronteras, Lothlórien
+{Author_43}Los magos azules, Cuentos Inconclusos
+{Author_44}Celeborn Señor de Lórien, Adiós a Lórien
+{Author_45}Éomer, Tercer Mariscal de la Marca, El Abismo de Helm
+{Author_46}Éomer rey de la Marca, La batalla de los Campos del Pelennor
+{Author_47}Éomer, Tercer Mariscal de la Marca, Los Jinetes de Rohan
+{Author_48}Éomer, Tercer Mariscal de la Marca, Los Jinetes de Rohan
+{Author_49}Aragorn, Capitán de los Dúnedain, Un cuchillo en la oscuridad
+{Author_50}Aragorn, Capitán de los Dúnedain, El Abismo de Helm
+{Author_51}Aragorn, Capitán de los Dúnedain, El paso de la Compañía Gris
+{Author_52}Aragorn, Capitán de los Dúnedain, El paso de la Compañía Gris
+{Author_53}Éothain, jinete de la Marca, Los Jinetes de Rohan
+{Author_54}Aragorn, Capitán de los Dúnedain, Los Jinetes de Rohan
+{Author_55}Aragorn, Capitán de los Dúnedain, Los Jinetes de Rohan
+{Author_56}Aragorn, Capitán de los Dúnedain, Restos y despojos
+{Author_57}Trancos el Montaraz, Trancos
+{Author_58}Aragorn, Capitán de los Dúnedain, Trancos
+{Author_59}Aragorn, Capitán de los Dúnedain, Huida hacia el Vado
+{Author_60}Aragorn, Capitán de los Dúnedain, El Concilio de Elrond
+{Author_61}Aragorn, Capitán de los Dúnedain, Los Jinetes de Rohan
+{Author_62}Boromir, Capitán General de los ejércitos de Gondor, El Concilio de Elrond
+{Author_63}Boromir, Capitán General de los ejércitos de Gondor, El Concilio de Elrond
+{Author_64}dicho por Boromir de Gondor, El Concilio de Elrond
+{Author_65}Damrod el montaraz sobre los sureños, Hierbas aromáticas y guiso de conejo
+{Author_66}Los rangers de Ithilien, Hierbas aromáticas y guiso de conejo
+{Author_67}La batalla de los Campos del Pelennor
+{Author_68}sobre los jefes tribales Haradrims, La batalla de los Campos del Pelennor
+{Author_69}Aragorn, Capitán de los Dúnedain, El Concilio de Elrond
+{Author_70}Denethor II sobre La Palantír, La pira de Denethor
+{Author_71}Denethor II con La Palantír, La pira de Denethor
+{Author_72}Faramir, Capitán de Gondor, Una ventana al oeste
+{Author_73}Sméagol, La Puerta Negra está cerrada
+{Author_74}La Puerta Negra está cerrada
+{Author_75}Faramir, Capitán de Gondor a Éowyn, El Senescal y el Rey
+{Author_76}Sméagol a Frodo, La Puerta Negra está cerrada
+{Author_77}Boromir, Capitán General de los ejércitos de Gondor, La Comunidad del Anillo
+{Author_78}La disolución de la Comunidad
+{Author_79}Bajo la enseña del Poney Pisador
+{Author_80}Muchos encuentros
+{Author_81}Frodo, Portador del Anillo, El saneamiento de la Comarca
+{Author_82}Gollum sobre Sauron, La Puerta Negra está cerrada
+{Author_83}Frodo a los Nazgûls, Huida hacia el Vado
+{Author_84}Frodo a Faramir sobre el Daño de Isildur, Una ventana al oeste
+{Author_85}sobre Morgoth, Valaquenta
+{Author_86}Samsagaz Gamyi, jardinero, Una ventana al oeste
+{Author_87}Sobre la hierba para pipa
+{Author_88}Peregrin Tuk a Denethor, Minas Tirith
+{Author_89}Peregrin Tuk, Minas Tirith
+{Author_90}Quenta Silmarillion
+{Author_91}Bilbo Bolsón, pícaro y aventurero, Una reunión muy esperada
+{Author_92}sobre Bilbo Bolsón, Tres es compañía
+{Author_93}El príncipe del Reino del Bosque, Lothlórien
+{Author_94}Gimli hijo de Glóin, El paso de la Compañía Gris
+{Author_95}Aragorn y el Ejército de los Muertos, El paso de la Compañía Gris
+{Author_96}El Hobbit
+{Author_97}Théoden rey de Rohan a Aragorn, El Abismo de Helm
+{Author_98}Trasgos, El Hobbit
+{Author_99}Cantar Rohirrim por Aragorn, El rey del castillo de oro
+{Author_100}Théoden rey de Rohan, La cabalgata de los Rohirrim
+{Author_101}El Anillo va hacia el sur
+{Author_102}Gollum, Sméagol domado
+{Author_103}Galadriel, Dama de Lórien, El Espejo de Galadriel
+{Author_104}El abuelo de Aragorn, Anales de los Reyes y los Gobernantes
+{Author_105}Los Pueblos Libres de la Tierra Media; La Cuenta de los Años de la Tercera Edad
+{Author_106}Boromir, Capitán General de los ejércitos de Gondor, El Río Grande
+{Author_107}Denethor II, Senescal de Gondor, El Sitio de Gondor
+{Author_108}Denethor II, Senescal de Gondor, El Sitio de Gondor
+{Author_109}Denethor II, Senescal de Gondor, Minas Tirith
+{Author_110}Tom Bombadil, aventurero, En casa de Tom Bombadil
+{Author_111}Minas Tirith, De los Anillos de Poder y la Tercera Edad
+{Author_112}Soy Bombadil, el aventurero, Niebla en las Quebradas de los Túmulos
+{Author_113}Las Baladas de Beleriand
+{Author_114}Palabras inscritas en el Anillo Único en la lengua de Mordor
+{Author_115}Palabras inscritas en el Anillo Único en la lengua Común
+{Author_116}Aragorn en los Argonath, El Río Grande
+{Author_117}Denethor II, Cuentos Inconclusos
+{Author_118}De los Anillos de Poder y la Tercera Edad
+{Author_119}El Hobbit
+{Author_120}Morgoth Bauglir, Los Hijos de Húrin
+{Author_121}Smaug, El Hobbit
+{Author_122}Smaug, El Hobbit
+{Author_123}Enanos luchando contra Glaurung el dragón, Quenta Silmarillion
+{Author_124}Gandalf sobre Aragorn, Trancos
+{Author_125}La batalla de los Campos del Pelennor
+{Author_126}Fingon Rey Supremo de los Noldor, Quenta Silmarillion
+{Author_127}Yavanna sobre los Ents, Quenta Silmarillion
+{Author_128}Éomer cuando encontró a Éowyn casi muerta, La batalla de los Campos del Pelennor
+{Author_129}Gandalf sobre Gwaihir el Águila, El Concilio de Elrond
+{Author_130}Boromir, Capitán General de los ejércitos de Gondor, El Concilio de Elrond
+{Author_131}Gandalf el Gris, El Puente de Khazad-Dûm
+{Author_132}La batalla de los Campos del Pelennor
+{Author_133}La batalla de los Campos del Pelennor
+{Author_134}Grond, la cabeza de Lobo, El Sitio de Gondor
+{Author_135}El Libro de los Cuentos Perdidos 2; La Caída de Gondolin
+{Author_136}”Hachas de los Enanos! ¡Los Enanos están sobre vosotros!” Gimli, El Abismo de Helm
+{Author_137}Ainulindalë
+{Author_138}Elrond Señor de Rivendel, El Hobbit
+{Author_139}sobre Gríma Lengua de Serpiente, Cuentos Inconclusos
+{Author_140}Sauron, Señor de Mordor, La Búsqueda del Anillo
+{Author_141}Quenta Silmarillion
+{Author_142}Quenta Silmarillion
+{Author_143}Quenta Silmarillion
+{Author_144}Quenta Silmarillion
+{Author_145}Quenta Silmarillion
+{Author_146}Quenta Silmarillion
+{Author_147}Quenta Silmarillion
+{Author_148}Morgoth Bauglir, Los Hijos de Húrin
+{Author_149}sobre los Enanos, Quenta Silmarillion
+{Author_150}Quenta Silmarillion
+{Author_151}sobre los Enanos, Quenta Silmarillion
+{Author_152}La batalla de los Campos del Pelennor
+{Author_153}Reina Erendis de Númenor a su hija, Cuentos Inconclusos
+{Author_154}Pippin sobre Beregond, Minas Tirith
+{Author_155}Hombres del Este, Quenta Silmarillion
+{Author_156}Gorbag sobre el que escapó de Ella-Laraña, Las Decisiones de Maese Samsagaz
+{Author_157}Gorbag sobre el que escapó de Ella-Laraña, Las Decisiones de Maese Samsagaz
+{Author_158}Quenta Silmarillion
+{Author_159}Quenta Silmarillion
+{Author_160}Quenta Silmarillion
+{Author_161}Quenta Silmarillion
+{Author_162}Quenta Silmarillion
+{Author_163}El regreso de los Noldor a la Tierra Media, Quenta Silmarillion
+{Author_164}Quenta Silmarillion
+{Author_165}sobre Galadriel, Quenta Silmarillion
+{Author_166}De los Anillos de Poder y la Tercera Edad
+{Author_167}Quenta Silmarillion
+{Author_168}Quenta Silmarillion
+{Author_169}Damrod de Ithilien sobre los Sureños, Hierbas aromáticas y guiso de conejo
+{Author_170}Quenta Silmarillion
+{Author_171}Quenta Silmarillion
+{Author_172}Damrod, montaraz de Ithilien, Hierbas aromáticas y guiso de conejo
+{Author_173}la caída de Nargothrond, Quenta Silmarillion
+{Author_174}Sauron, el Segundo Señor Oscuro, Quenta Silmarillion
+{Author_175}Quenta Silmarillion
+{Author_176}Noldor y Enanos, Quenta Silmarillion
+{Author_177}Sindar y Enanos, Quenta Silmarillion
+{Author_178}Quenta Silmarillion
+{Author_179}Gorbag, Capitán de Minas Morgul, Las Decisiones de Maese Samsagaz
+{Author_180}Cuentos Inconclusos; La Tradición de Isildur
+{Author_181}Quenta Silmarillion
+{Author_182}Quenta Silmarillion
+{Author_183}Cuentos Inconclusos; La Tradición de Isildur
+{Author_184}Gandalf el Gris, Cuentos Inconclusos
+{Author_185}sobre los Noldor, Quenta Silmarillion
+{Author_186}Enanos atacando a los Orcos, Quenta Silmarillion
+{Author_187}Gandalf el Blanco, Cuentos Inconclusos
+{Author_188}Rey Finrod Felagund, Quenta Silmarillion
+{Author_189}Bergil hijo de Beregond a Pippin, Minas Tirith
+{Author_190}Gandalf sobre Lórien y Rivendel, Cuentos Inconclusos
+{Author_191}Gandalf sobre los mercenarios, Cuentos Inconclusos
+{Author_192}Thorin Escudo de Roble, Cuentos Inconclusos
+{Author_193}Los Hobbits, Bajo la Enseña del Poney Pisador
+{Author_194}Quenta Silmarillion
+{Author_195}Quenta Silmarillion
+{Author_196}Elfos Verdes en la guerra, Quenta Silmarillion
+{Author_197}Sindar en comparación con los Altos Elfos, Quenta Silmarillion
+{Author_198}Quenta Silmarillion
+{Author_199}Gandalf el Blanco, Cuentos Inconclusos
+{Author_200}Cuentos Inconclusos; La Búsqueda del Anillo
+{Author_201}Mandos condena a los Noldor, Quenta Silmarillion
+{Author_202}Antepasados Dúnedains, Akallabêth - La Caída de Númenor
+{Author_203}Akallabêth - La Caída de Númenor
+{Author_204}Akallabêth - La Caída de Númenor
+{Author_205}Los Dúnedain, Akallabêth - La Caída de Númenor
+{Author_206}El Rey Brujo, La Búsqueda del Anillo.
+{Author_207}Akallabêth - La Caída de Númenor
+{Author_208}Enanos perdidos en la Montaña Gundabad, Los Pueblos Libres de la Tierra Media
+{Author_209}Gandalf sobre el Balrog, El Caballero Blanco
+{Author_210}Cuentos Inconclusos; La Búsqueda del Anillo
+{Author_211}El mensaje de los Valar a Númenor, Akallabêth
+{Author_212}Beregond, Guardián de la Ciudadela de Gondor, Minas Tirith
+{Author_213}Cuentos Inconclusos; La Búsqueda del Anillo
+{Author_214}Saruman el Blanco, La Búsqueda del Anillo
+{Author_215}sobre la invasión de Isengard, Cuentos Inconclusos
+{Author_216}Akallabêth - La Caída de Númenor
+{Author_217}Akallabêth - La Caída de Númenor
+{Author_218}sobre Sauron, Akallabêth - La Caída de Númenor
+{Author_219}sobre Sauron, Akallabêth - La Caída de Númenor
+{Author_220}Sauron sobre los Dúnedain, Akallabêth
+{Author_221}Akallabêth - La Caída de Númenor
+{Author_222}Cuentos Inconclusos
+{Author_223}Cuentos Inconclusos
+{Author_224}sobre el Rey Ar-Pharazôn de Númenor, Akallabêth
+{Author_225}Cuentos Inconclusos
+{Author_226}Akallabêth - La Caída de Númenor
+{Author_227}Legolas sobre Imrahil, La Última Deliberación
+{Author_228}Akallabêth - La Caída de Númenor
+{Author_229}Isildur a su hijo, El Desastre de los Campos Gladios
+{Author_230}Cuentos Inconclusos
+{Author_231}Cuentos Inconclusos
+{Author_232}Cuentos Inconclusos; El Desastre de los Campos Gladios
+{Author_233}Akallabêth - La Caída de Númenor
+{Author_234}Akallabêth - La Caída de Númenor
+{Author_235}Cuentos Inconclusos; El Desastre de los Campos Gladios
+{Author_236}El castigo de Ilúvatar, Akallabêth - La Caída de Númenor
+{Author_237}Cuentos Inconclusos
+{Author_238}Akallabêth - La Caída de Númenor
+{Author_239}Akallabêth - La Caída de Númenor
+{Author_240}Akallabêth - La Caída de Númenor
+{Author_241}Akallabêth - La Caída de Númenor
+{Author_242}sobre Sauron, Akallabêth - La Caída de Númenor
+{Author_243}Akallabêth - La Caída de Númenor
+{Author_244}Akallabêth - La Caída de Númenor
+{Author_245}Akallabêth - La Caída de Númenor
+{Author_246}sobre Sauron, De los Anillos de Poder y la Tercera Edad
+{Author_247}De los Anillos de Poder y la Tercera Edad
+{Author_248}De los Anillos de Poder y la Tercera Edad
+{Author_249}De los Anillos de Poder y la Tercera Edad
+{Author_250}De los Anillos de Poder y la Tercera Edad
+{Author_251}De los Anillos de Poder y la Tercera Edad
+{Author_252}De los Anillos de Poder y la Tercera Edad
+{Author_253}Cuentos Inconclusos; El Desastre de los Campos Gladios
+{Author_254}De los Anillos de Poder y la Tercera Edad
+{Author_255}De los Anillos de Poder y la Tercera Edad
+{Author_256}sobre Sauron, De los Anillos de Poder y la Tercera Edad
+{Author_257}De los Anillos de Poder y la Tercera Edad
+{Author_258}De los Anillos de Poder y la Tercera Edad
+{Author_259}De los Anillos de Poder y la Tercera Edad
+{Author_260}sobre los siete anillos de los Enanos, Silmarillion
+{Author_261}De los Anillos de Poder y la Tercera Edad
+{Author_262}De los Anillos de Poder y la Tercera Edad
+{Author_263}De los Anillos de Poder y la Tercera Edad
+{Author_264}sobre Sauron, De los Anillos de Poder y la Tercera Edad
+{Author_265}Siervos de Sauron, De los Anillos de Poder y la Tercera Edad
+{Author_266}sobre sureños y orientales, De los Anillos de Poder y la Tercera Edad
+{Author_267}De los Anillos de Poder y la Tercera Edad
+{Author_268}De los Anillos de Poder y la Tercera Edad
+{Author_269}sobre Elendil y Arnor, Silmarillion
+{Author_270}Isildur y Anárion, De los Anillos de Poder y la Tercera Edad
+{Author_271}De los Anillos de Poder y la Tercera Edad
+{Author_272}De los Anillos de Poder y la Tercera Edad
+{Author_273}De los Anillos de Poder y la Tercera Edad
+{Author_274}De los Anillos de Poder y la Tercera Edad
+{Author_275}Cuentos Inconclusos
+{Author_276}La Última Alianza, De los Anillos de Poder y la Tercera Edad
+{Author_277}De los Anillos de Poder y la Tercera Edad
+{Author_278}De los Anillos de Poder y la Tercera Edad
+{Author_279}De los Anillos de Poder y la Tercera Edad
+{Author_280}Isildur, De los Anillos de Poder y la Tercera Edad
+{Author_281}sobre la reforja de Narsil, Silmarillion
+{Author_282}De los Anillos de Poder y la Tercera Edad
+{Author_283}los Dúnedains del norte, Silmarillion
+{Author_284}De los Anillos de Poder y la Tercera Edad
+{Author_285}De los Anillos de Poder y la Tercera Edad
+{Author_286}Nazgûls, De los Anillos de Poder y la Tercera Edad
+{Author_287}De los Anillos de Poder y la Tercera Edad
+{Author_288}De los Anillos de Poder y la Tercera Edad
+{Author_289}De los Anillos de Poder y la Tercera Edad
+{Author_290}De los Anillos de Poder y la Tercera Edad
+{Author_291}De los Anillos de Poder y la Tercera Edad
+{Author_292}De los Anillos de Poder y la Tercera Edad
+{Author_293}De los Anillos de Poder y la Tercera Edad
+{Author_294}De los Anillos de Poder y la Tercera Edad
+{Author_295}Galadriel, De los Anillos de Poder y la Tercera Edad
+{Author_296}Galadriel, De los Anillos de Poder y la Tercera Edad
+{Author_297}De los Anillos de Poder y la Tercera Edad
+{Author_298}De los Anillos de Poder y la Tercera Edad
+{Author_299}De los Anillos de Poder y la Tercera Edad
+{Author_300}De los Anillos de Poder y la Tercera Edad
+{Author_301}De los Anillos de Poder y la Tercera Edad
+{Author_302}De los Anillos de Poder y la Tercera Edad
+{Author_303}De los Anillos de Poder y la Tercera Edad
+{Author_304}sobre Saruman y Sauron, De los Anillos de Poder y la Tercera Edad
+{Author_305}Saruman, De los Anillos de Poder y la Tercera Edad
+{Author_306}Gandalf, De los Anillos de Poder y la Tercera Edad
+{Author_307}De los Anillos de Poder y la Tercera Edad
+{Author_308}De los Anillos de Poder y la Tercera Edad
+{Author_309}De los Anillos de Poder y la Tercera Edad
+{Author_310}De los Anillos de Poder y la Tercera Edad
+{Author_311}Círdan a Gandalf sobre el Anillo Rojo, Silmarillion
+{Author_312}La Sombra del Pasado
+{Author_313}Señor Enano Glóin a Frodo, Muchos encuentros
+{Author_314}El pueblo de Durin
+{Author_315}Thorin II Escudo de Roble, El Hobbit
+{Author_316}Thorin II Escudo de Roble, El Hobbit
+{Author_317}Thorin II Escudo de Roble, El Hobbit
+{Author_318}La Cuenta de los Años: La Tercera Edad
+{Author_319}Gandalf lee el registro del pueblo de Balin, El Puente de Khazad-Dûm
+{Author_320}Señor Enano Glóin , El Concilio de Elrond
+{Author_321}Señor Enano Glóin , El Concilio de Elrond
+{Author_322}Dáin II Pie de Hierro a Thorin II Escudo de Roble, El pueblo de Durin
+{Author_323}sobre Moria, El pueblo de Durin
+{Author_324}Los Orcos de las Montañas Nubladas, El Hobbit
+{Author_325}Los Orcos de las Montañas Nubladas, El Hobbit
+{Author_326}el cuervo y Bardo, El Hobbit
+{Author_327}sobre Bard el Arquero, El Hobbit
+{Author_328}El Hobbit
+{Author_329}Ciudad del Lago, El Hobbit
+{Author_330}El Hobbit
+{Author_331}Rey Thranduil, El Hobbit
+{Author_332}Señor Enano Glóin a Frodo, Muchos encuentros
+{Author_333}Aragorn, Capitán de los Dúnedain, Los Jinetes de Rohan
+{Author_334}Glóin sobre el Rey Brand del Valle, El Concilio de Elrond
+{Author_335}La Cuenta de los Años: La Tercera Edad
+{Author_336}La Cuenta de los Años: La Tercera Edad
+{Author_337}La Cuenta de los Años: La Tercera Edad
+{Author_338}Gandalf sobre Dáin II Pie de Hierro, El pueblo de Durin
+{Author_339}Thorin II Escudo de Roble, El Hobbit
+{Author_340}la muerte de los caudillos orcos, El pueblo de Durin
+{Author_341}El pueblo de Durin
+{Author_342}Muchos encuentros
+{Author_343}Gandalf sobre Glorfindel, Muchos encuentros
+{Author_344}Glorfindel sobre los Nazgûls, Huida hacia el Vado
+{Author_345}Cuentos Inconclusos; La Búsqueda del Anillo
+{Author_346}sobre los Nazgûls, Un cuchillo en la oscuridad
+{Author_347}Gondor y los Herederos de Anárion: Los Senescales
+{Author_348}La batalla de los Campos del Pelennor
+{Author_349}Los Nazgûls, El Sitio de Gondor
+{Author_350}A propósito de los Hobbits
+{Author_351}Los Reinos en el Exilio: La Frontera del Sur
+{Author_352}Los Pueblos Libres de la Tierra Media
+{Author_353}Cuentos Inconclusos; El Desastre de los Campos Gladios
+{Author_354}Cuentos Inconclusos; El Desastre de los Campos Gladios
+{Author_355}Cuentos Inconclusos; El Desastre de los Campos Gladios
+{Author_356}Cuentos Inconclusos; El Desastre de los Campos Gladios
+{Author_357}sobre Elrond, Muchos encuentros
+{Author_358}sobre Elrond, El Hobbit
+{Author_359}Hijos de Elrond, Muchos encuentros
+{Author_360}Elrond a Thorin II Escudo de Roble, El Hobbit
+{Author_361}Elrond sobre la Última Alianza, El Concilio de Elrond
+{Author_362}sobre Elladan y Elrohir, La Casa de Eorl
+{Author_363}Gondor y los Herederos de Anárion: Los Senescales
+{Author_364}sobre Denethor II, Los herederos de Elendil
+{Author_365}sobre Denethor II, Cuentos Inconclusos; Las Palantíri
+{Author_366}Gandalf sobre Denethor II, Minas Tirith
+{Author_367}Denethor II, El Sitio de Gondor
+{Author_368}Éomer sobre Boromir, Los Jinetes de Rohan
+{Author_369}Boromir, El Concilio de Elrond
+{Author_370}Los herederos de Elendil: El Gobierno de los Senescales de Gondor
+{Author_371}Boromir, El Concilio de Elrond
+{Author_372}Beregond, Guardián de la Ciudadela de Gondor, Minas Tirith
+{Author_373}El Sitio de Gondor
+{Author_374}El Sitio de Gondor
+{Author_375}La batalla de los Campos del Pelennor
+{Author_376}La batalla de los Campos del Pelennor
+{Author_377}Bárbol, Bárbol
+{Author_378}sobre el Rey Helm de Rohan, La Casa de Eorl
+{Author_379}Gandalf el Gris, El Puente de Khazad-Dûm
+{Author_380}Lenguas y Pueblos de la Tercera Edad
+{Author_381}El Sitio de Gondor
+{Author_382}Olog-hai, Lenguas y Pueblos de la Tercera Edad
+{Author_383}La Puerta Negra se abre
+{Author_384}La batalla de los Campos del Pelennor
+{Author_385}La batalla de los Campos del Pelennor
+{Author_386}La batalla de los Campos del Pelennor
+{Author_387}Éomer, La batalla de los Campos del Pelennor
+{Author_388}Faramir a Frodo, Una Ventana al Oeste
+{Author_389}Los rangers de Ithilien, Hierbas aromáticas y guiso de conejo
+{Author_390}sobre la defensa de Osgiliath, El Sitio de Gondor
+{Author_391}Minas Tirith
+{Author_392}La batalla de los Campos del Pelennor
+{Author_393}Gandalf con Imrahil, El Sitio de Gondor
+{Author_394}sobre Forlong el Gordo Señor de Lossarnach, Minas Tirith
+{Author_395}Minas Tirith
+{Author_396}Beregond sobre los corsarios, Minas Tirith
+{Author_397}Minas Tirith
+{Author_398}Gimli hijo de Glóin, La Última Deliberación
+{Author_399}Castamir y el conflicto familiar, Gondor y los Herederos de Anárion
+{Author_400}La batalla de los Campos del Pelennor
+{Author_401}Éowyn hija de Éomund, La batalla de los Campos del Pelennor
+{Author_402}la muerte del Señor Sureño, La batalla de los Campos del Pelennor
+{Author_403}sobre Théoden, La cabalgata de los Rohirrim
+{Author_404}Carga de los Rohirrims, La batalla de los Campos del Pelennor
+{Author_405}sobre Thengel, La Casa de Eorl
+{Author_406}La Casa de Eorl
+{Author_407}sobre Thorongil (Aragorn), Gondor y los Herederos de Anárion
+{Author_408}Halbarad de los Dúnedain del norte a Aragorn, El paso de la Compañía Gris
+{Author_409}El Sitio de Gondor
+{Author_410}El Sitio de Gondor
+{Author_411}La batalla de los Campos del Pelennor
+{Author_412}El Concilio de Elrond
+{Author_413}Hirgon, mensajero de Denethor, El Acantonamiento de Rohan
+{Author_414}Shagrat el Orco, La Torre de Cirith Ungol
+{Author_415}Shagrat el Orco, La Torre de Cirith Ungol
+{Author_416}a Èomer, El Abismo de Helm
+{Author_417}Gimli hijo de Glóin, El Abismo de Helm
+{Author_418}Gamling, comandante de la Marca, El Abismo de Helm
+{Author_419}Cuentos Inconclusos; Príncipe Sindar de los Elfos Silvanos
+{Author_420}Gandalf sobre Lengua de Serpiente a Théoden, El rey del castillo de oro
+{Author_421}El rey del castillo de oro
+{Author_422}Gandalf el Blanco al Rey Brujo, El Sitio de Gondor
+{Author_423}El Sitio de Gondor
+{Author_424}La Puerta de Minas Tirith, El Sitio de Gondor
+{Author_425}La horda de Sauron, El Sitio de Gondor
+{Author_426}El Sitio de Gondor
+{Author_427}El Sitio de Gondor
+{Author_428}Gandalf sobre Saruman, El Caballero Blanco
+{Author_429}Merry a Aragorn, Restos y despojos
+{Author_430}Uglúk, Los Uruk-Hai
+{Author_431}El Camino a Isengard
+{Author_432}Éomer, Tercer Mariscal de la Marca, Los Jinetes de Rohan
+{Author_433}Gandalf el Blanco, El Caballero Blanco
+{Author_434}Merry a Aragorn, Restos y despojos
+{Author_435}Merry sobre las huestes de Isengard, Restos y despojos
+{Author_436}Gandalf el Blanco, El Caballero Blanco
+{Author_437}El Abismo de Helm
+{Author_438}Los Orcos de Isengard, El Abismo de Helm
+{Author_439}Uglúk, Los Uruk-Hai
+{Author_440}Los Uruk-Hai
+{Author_441}Los Uruk-Hai
+{Author_442}Los Uruk-Hai
+{Author_443}Los Uruk-Hai
+{Author_444}El Abismo de Helm
+{Author_445}El Abismo de Helm
+{Author_446}Cuentos Inconclusos; La Expedición de Eorl
+{Author_447}Uglúk de Isengard a Grishnák de *Bara-dûr, Los Uruk-Hai
+{Author_448}Aragorn, Capitán de los Dúnedain, La Partida de Boromir
+{Author_449}Aragorn, Capitán de los Dúnedain, Restos y despojos
+{Author_450}La Partida de Boromir
+{Author_451}sobre los Orcos, La Partida de Boromir
+{Author_452}La Partida de Boromir
+{Author_453}Boromir, Capitán General de Gondor, La Partida de Boromir
+{Author_454}Gamling sobre los Hombres de las Tierras Brunas, El Abismo de Helm
+{Author_455}Gamling, comandante de la Marca, El Abismo de Helm
+{Author_456}a Los Hombres de las Tierras Brunas, El Camino a Isengard
+{Author_457}El Río Grande
+{Author_458}Cuentos Inconclusos; La Historia de Galadriel y Celeborn
+{Author_459}sobre lo Orcos, Cuentos Inconclusos
+{Author_460}De los Anillos de Poder y la Tercera Edad
+{Author_461}Gandalf el Blanco, El Sitio de Gondor
+{Author_462}sobre la Guerra de los Enanos y los Orcos, El pueblo de Durin
+{Author_463}sobre la Guerra de los Enanos y los Orcos, El pueblo de Durin
+{Author_464}sobre la Guerra de los Enanos y los Orcos, El pueblo de Durin
+{Author_465}sobre la Guerra de los Enanos y los Orcos, El pueblo de Durin
+{Author_466}Azog de las Montañas Nubladas a Náin el Enano, El pueblo de Durin
+{Author_467}El guardián orco a los disfrazados Sam y Frodo, El País de la Sombra
+{Author_468}Los Campos de Cormallen
+{Author_469}La Puerta Negra se abre
+{Author_470}trolls, La Puerta Negra se abre
+{Author_471}La Puerta Negra se abre
+{Author_472}El Monte del Destino
+{Author_473}Los Pueblos Libres de la Tierra Media; La Cuenta de los Años de la Tercera Edad
+{Author_474}Gandalf el Gris, El Puente de Khazad-Dûm
+{Author_475}Los Reinos en el Exilio: La Frontera Sureña: Herederos de Anárion
+{Author_476}Los Reinos en el Exilio: La Frontera Sureña: Herederos de Anárion
+{Author_477}El Puente de Khazad-Dûm
+{Author_478}El ejército norte de Gondor, La Casa de Eorl
+{Author_479}sobre los Balchoth, Cuentos Inconclusos
+{Author_480}Gondor y los Herederos de Anárion
+{Author_481}Hierbas aromáticas y guiso de conejo
+{Author_482}Faramir, Capitán de Gondor, Una Ventana al Oeste
+{Author_483}Gondor y los Herederos de Anárion
+{Author_484}sobre los Beórnidas, Muchos encuentros
+{Author_485}sobre Lórien, La Cuenta de los Años: La Tercera Edad
+{Author_486}Dol Guldur, La Cuenta de los Años: La Tercera Edad
+{Author_487}regalos a la Comunidad, Adios a Lórien
+{Author_488}Galadriel, Dama de Lórien, El Espejo de Galadriel
+{Author_489}Galadriel, Dama de Lórien, El Espejo de Galadriel
+{Author_490}Galadriel, Dama de Lórien, El Espejo de Galadriel
+{Author_491}Galadriel, Dama de Lórien, El Espejo de Galadriel
+{Author_492}Galadriel, Cuentos Inconclusos
+{Author_493}La disolución de la Comunidad
+{Author_494}Gimli a Legolas, El paso de la Compañía Gris
+{Author_495}Lothlórien
+{Author_496}Legolas sobre un ataque Orco, El Concilio de Elrond
+{Author_497}en el Bosque Negro, El Hobbit
+{Author_498}Haldir, Guardián de las fronteras, Lothlórien
+{Author_499}sobre Boca de Sauron, La Puerta Negra se abre
+{Author_500}El Espejo de Galadriel
+{Author_501}Legolas a Gimli, La Última Deliberación
+{Author_502}Gimli hijo de Glóin, La Última Deliberación
+{Author_503}Imrahil de Gondor, La Última Deliberación
+{Author_504}Gandalf el Blanco, La Última Deliberación
+{Author_505}Legolas, Príncipe del Reino del Bosque, La Última Deliberación
+{Author_506}Gorbag, Capitán Orco de Cirith Ungol, Las Decisiones de Maese Samsagaz
+{Author_507}Samsagaz Gamyi, el jardinero, Las Decisiones de Maese Samsagaz
+{Author_508}La Puerta Negra se abre
+{Author_509}sobre la emboscada, La Puerta Negra se abre
+{Author_510}Boca de Sauron, La Puerta Negra se abre
+{Author_511}La Torre de Cirith Ungol
+{Author_512}Minas Tirith
+{Author_513}Théoden Rey de Rohan, El rey del castillo de oro
+{Author_514}Gandalf el Gris en la Puerta de Moria, Un Viaje en la Oscuridad
+{Author_515}Los Pueblos Libres de la Tierra Media; La Cuenta de los Años de la Segunda Edad
+{Author_516}Legolas disparando a los Nazgûl, El Río Grande
+{Author_517}El Caballero Blanco
+{Author_518}La Cuenta de los Años: La Tercera Edad
+{Author_519}un ejército Orco, Cuentos Inconclusos; El Desastre de los Campos Gladios
+{Author_520}El Sitio de Gondor
+{Author_521}sobre la retirada ordenada de los Campos de Pelennor, El Sitio de Gondor
+{Author_522}Lothlórien
+{Author_523}El Hobbit
+{Author_524}El Hobbit
+{Author_525}El Hobbit
+{Author_526}Elrond sobre la Compañía de Thorin, El Hobbit
+{Author_527}Rey Eorl al Senescal Cirion, Cuentos Inconclusos
+{Author_528}De los Anillos de Poder y la Tercera Edad
+{Author_529}sobre Sauron, De los Anillos de Poder y la Tercera Edad
+{Author_530}sobre Saruman, De los Anillos de Poder y la Tercera Edad
+{Author_531}El Abismo de Helm
+{Author_532}Gimli hijo de Glóin, El Caballero Blanco
+{Author_533}La Comunidad, El Puente de Khazad-Dûm
+{Author_534}Aragorn a Samsagaz, Lothlórien
+{Author_535}Gimli hijo de Glóin, Lothlórien
+{Author_536}Legolas, Príncipe del Reino de los Bosques, Lothlórien
+{Author_537}Lothlórien
+{Author_538}Lothlórien
+{Author_539}Lothlórien
+{Author_540}Haldir, Guardián de las Fronteras, Lothlórien
+{Author_541}Gandalf sobre el mithril, Un Viaje en la Oscuridad
+{Author_542}Los Jinetes de Rohan
+{Author_543}El Tercer Mariscal de la Marca, Los Jinetes de Rohan
+{Author_544}Aragorn, Capitán de los Dúnedain, Los Jinetes de Rohan
+{Author_545}Gwaihir el águila sobre los Rohirrim, El Concilio de Elrond
+{Author_546}Boromir, Capitán General de los ejércitos de Gondor, El Concilio de Elrond
+{Author_547}La disolución de la Comunidad
+{Author_548}La disolución de la Comunidad
+{Author_549}La disolución de la Comunidad
+{Author_550}La disolución de la Comunidad
+{Author_551}La disolución de la Comunidad
+{Author_552}Jefe de los Drúedain, La cabalgata de los Rohirrim
+{Author_553}La cabalgata de los Rohirrim
+{Author_554}La cabalgata de los Rohirrim
+{Author_555}La cabalgata de los Rohirrim
+{Author_556}Shagrat el Orco, La Torre de Cirith Ungol
+{Author_557}El Guardián Orco a los disfrazados Sam y Frodo, El País de las Sombras
+{Author_558}las montañas de Mordor, El Monte del Destino
+{Author_559}Samsagaz Gamyi, El Monte del Destino
+{Author_560}El Campo de Cormallen
+{Author_561}Gimli hijo de Glóin, El Campo de Cormallen
+{Author_562}Aragorn a los temerosos asaltantes de Mordor, La Puerta Negra se abre
+{Author_563}Aragorn a los temerosos asaltantes de Mordor, La Puerta Negra se abre
+{Author_564}El saneamiento de la Comarca
+{Author_565}Los rufianes de Saruman, El saneamiento de la Comarca
+{Author_566}Los Rufianes de Saruman, El saneamiento de la Comarca
+{Author_567}Saruman a Frodo, El saneamiento de la Comarca
+{Author_568}dicho por Saruman, El saneamiento de la Comarca
+{Author_569}A propósito de los Hobbits
+{Author_570}Frodo viendo a los montaraces de Ithilien, Hierbas aromáticas y guiso de conejo
+{Author_571}Saruman a Gandalf el Blanco, La Voz de Saruman
+{Author_572}Anales de los Reyes y los Gobernantes: Eriador, Arnor, y Los herederos de Isildur
+{Author_573}El Hobbit
+{Author_574}Elrond con su pueblo, Cuentos Inconclusos
+{Author_575}tras la caída de Eregion, De los Anillos de Poder y la Tercera Edad
+{Author_576}Gimli hijo de Glóin, La Voz de Saruman
+{Author_577}El Acantonamiento de Rohan
+{Author_578}Éowyn Dama de Hierro, La Batalla de los Campos del Pelennor
+{Author_579}Gimli hijo de Glóin, El rey del castillo de oro
+{Author_580}sobre Ciudad de Valle, El Hobbit
+{Author_581}El jefe tribal de los Haradrim, La batalla de los Campos del Pelennor
+{Author_582}Legolas a Bárbol sobre Gimli, La Voz de Saruman
+{Author_583}Faramir, Capitán de Gondor, Una Ventana al Oeste
+{Author_584}Pippin bebiendo Elixir Orco, Los Uruk-Hai
+{Author_585}La Batalla de los Campos del Pelennor
+{Author_586}El Sitio de Gondor
+{Author_587}Merry Brandigamo, Los Uruk-Hai
+{Author_588}sobre los Haradrim, La Guerra del Anillo
+{Author_589}Cuentos Inconclusos
+{Author_590}Cuentos Inconclusos
+{Author_591}Cebadilla Mantecona sobre los hombres malvados en Bree, Rumbo a Casa
+{Author_592}Cebadilla Mantecona sobre Bree, Rumbo a Casa
+{Author_593}Théoden sobre Erkenbrand, El Abismo de Helm
+{Author_594}Erkenbrand, Señor del Folde Oeste, El Abismo de Helm
+{Author_595}Erkenbrand, Señor del Folde Oeste, El Abismo de Helm
+{Author_596}Cuentos Inconclusos; La Batalla del Vado de Isen
+{Author_597}sobre las fuerzas de Isengard, La Batalla del Vado de Isen
+{Author_598}Muro de escudos de Rohan, Cuentos Inconclusos; La Batalla del Vado de Isen
+{Author_599}Cuentos Inconclusos; La Batalla del Vado de Isen
+{Author_600}Gandalf el Gris, El Concilio de Elrond
+{Author_601}Anales de los Reyes y los Gobernantes: Gondor y los Herederos de Anárion
+{Author_602}Gandalf el Gris, El Concilio de Elrond
+{Author_603}Gandalf sobre Isengard, El Concilio de Elrond
+{Author_604}Pippin a Hob, El saneamiento de la Comarca
+{Author_605}Legolas, Príncipe del Reino de los Bosques, Las Dos Torres
+{Author_606}Gandalf el Gris, El Puente de Khazad-Dûm
+{Author_607}El Puente de Khazad-Dûm
+{Author_608}Gandalf el Gris, El Puente de Khazad-Dûm
+{Author_609}El Puente de Khazad-Dûm
+{Author_610}El Hobbit
+{Author_611}un troll, El Puente de Khazad-Dûm
+{Author_612}sobre Boromir, La Partida de Boromir
+{Author_613}un Balrog, El Puente de Khazad-Dûm
+{Author_614}Gandalf el Gris, De los Anillos de Poder y la Tercera Edad
+{Author_615}Gandalf sobre Sauron, Cuentos Inconclusos; La Búsqueda de Erebor
+{Author_616}Gandalf sobre Sauron, Cuentos Inconclusos; La Búsqueda de Erebor
+{Author_617}Aragorn, Capitán de los Dúnedain, Trancos
+{Author_618}Aragorn, Capitán de los Dúnedain, La Partida de Boromir
+{Author_619}Frodo Bolsón, Hierbas aromáticas y guiso de conejo
+{Author_620}Hierbas aromáticas y guiso de conejo
+{Author_621}Sam sobre los Haradrim, Hierbas aromáticas y guiso de conejo
+{Author_622}Faramir, Capitán de Gondor, Una Ventana al Oeste
+{Author_623}Faramir, Capitán de Gondor, Una Ventana al Oeste
+{Author_624}Faramir, Capitán de Gondor, Una Ventana al Oeste
+{Author_625}Beregond, Guardián de la Ciudadela de Gondor, Minas Tirith
+{Author_626}Minas Tirith
+{Author_627}Gandalf el Blanco, Minas Tirith
+{Author_628}Denethor II, Senescal de Gondor, Minas Tirith
+{Author_629}Denethor II, Senescal de Gondor, Minas Tirith
+{Author_630}La Batalla de los Campos del Pelennor
+{Author_631}Valle de Morgul, Las Escaleras de Cirith Ungol
+{Author_632}Denethor II, Senescal de Gondor, La pira de Denethor
+{Author_633}Beregond, Guardián de la Ciudadela de Gondor, Minas Tirith
+{Author_634}Denethor II sobre el Anillo, El Sitio de Gondor
+{Author_635}Denethor II, Senescal de Gondor, La pira de Denethor
+{Author_636}El Sitio de Gondor
+{Author_637}Ingold, comandante de Gondor, El Sitio de Gondor
+{Author_638}Gandalf el Blanco, Minas Tirith
+{Author_639}El Sitio de Gondor
+{Author_640}El Acantonamiento de Rohan
+{Author_641}Elrond Señor de Rivendel, El Concilio de Elrond
+{Author_642}Los Pueblos Libres de la Tierra Media; Las Crónicas de la Segunda Edad
+{Author_643}De los Anillos de Poder y la Tercera Edad
+{Author_644}sobre el muro del Pelennor, Minas Tirith
+{Author_645}La Casa de Eorl: Los Reyes de la Marca
+{Author_646}El País de las Sombras
+{Author_647}sobre de Gorgoroth, norte de Mordor, El País de las Sombras
+{Author_648}los montaraces encuentras a los Jinetes Negros, Cuentos Inconclusos
+{Author_649}Aragón, Capitán de los Dúnedain, La Última Deliberación
+{Author_650}soldados de Gondor, El Sitio de Gondor
+{Author_651}Théoden rey de Rohan, La cabalgata de los Rohirrim
+{Author_652}La cabalgata de los Rohirrim
+{Author_653}Gandalf el Blanco, Minas Tirith
+{Author_654}Aragorn, Capitán de los Dúnedain, El Anillo va hacia el sur
+{Author_655}Las espadas Nazgûl de Morgul, Un cuchillo en la oscuridad
+{Author_656}Los Orcos de las Montañas Nubladas, El Hobbit
+{Author_657}El Hobbit
+{Author_658}El Hobbit
+{Author_659}Roäc, Jefe de los Cuervos, El Hobbit
+{Author_660}Bilbo Bolsón, El Hobbit
+{Author_661}Bilbo sobre los guerreros de Dáin, El Hobbit
+{Author_662}sobre Los Guerreros de Dáin, El Hobbit
+{Author_663}sobre Los Guerreros de Dáin, El Hobbit
+{Author_664}Los Orcos de las Montañas Nubladas, El Hobbit
+{Author_665}El Hobbit
+{Author_666}sobre Los Elfos Silvanos, El Hobbit
+{Author_667}sobre Los Elfos Silvanos, El Hobbit
+{Author_668}sobre Los Elfos Silvanos, El Hobbit
+{Author_669}sobre los Orientales, Cuentos Inconclusos
+{Author_670}sobre Beorn, El Hobbit
+{Author_671}Bilbo se despide de los Enanos, El Hobbit
+{Author_672}El Hobbit
+{Author_673}El Hobbit
+{Author_674}Pippin luchando contra La Sombra, Minas Tirith
+{Author_675}El Sitio de Gondor
+{Author_676}Pippin sobre Faramir, El Sitio de Gondor
+{Author_677}Faramir, Capitán de Gondor, El Sitio de Gondor
+{Author_678}Denethor II, Senescal de Gondor, El Sitio de Gondor
+{Author_679}Gandalf el Blanco, El Sitio de Gondor
+{Author_680}Denethor II sobre Sauron, El Sitio de Gondor
+{Author_681}Cuentos Inconclusos; La Misión de Erebor
+{Author_682}Gandalf sobre Sauron, La pira de Denethor
+{Author_683}Los Elfos del Bosque, El Hobbit
+{Author_684}Los Elfos del Bosque, El Hobbit
+{Author_685}Gandalf el Gris, El Hobbit
+{Author_686}El Hobbit
+{Author_687}El Señor de las Águilas, El Hobbit
+{Author_688}El Hobbit
+{Author_689}Gandalf sobre Sauron, El Hobbit
+{Author_690}sobre Bandobras Tuk, El Hobbit
+{Author_691}El Hobbit
+{Author_692}Gandalf sobre Sauron, El Caballero Blanco
+{Author_693}Gandalf sobre el Balrog, El Caballero Blanco
+{Author_694}Cuentos Inconclusos; Las Palantíri
+{Author_695}Cuentos Inconclusos; Las Palantíri
+{Author_696}Los Nazgûls, Cuentos Inconclusos
+{Author_697}El Hobbit
+{Author_698}sobre la Palantír de Sauron, Cuentos Inconclusos
+{Author_699}Gandalf el Gris, El Hobbit
+{Author_700}2510 T.E., Cuentos Inconclusos
+{Author_701}Gimli sobre Pelargir, La última deliberación
+{Author_702}Gimli sobre los Haradrim, La última deliberación
+{Author_703}Legolas Hoja Verde, La última deliberación
+{Author_704}Gimli en Pelargir, La última deliberación
+{Author_705}Gimli hijo de Glóin, La última deliberación
+{Author_706}Imrahil y Éomer, La última deliberación
+{Author_707}Gandalf sobre el conocimiento de Denethor, La última deliberación
+{Author_708}Gandalf sobre la palantír de Denethor, La última deliberación
+{Author_709}Gandalf sobre Gondor y Rohan, La última deliberación
+{Author_710}La Puerta Negra se abre
+{Author_711}Gildor Inglorion de la Casa de Finrod, Tres en compañía
+{Author_712}Frodo, Conspiración desenmascarada
+{Author_713}Tom Bombadil sobre Arnor, Niebla en las quebradas de los túmulos
+{Author_714}Tom Bombadil sobre los Dúnedain, Niebla en las quebradas de los túmulos
+{Author_715}Bajo la enseña del Poney Pisador
+{Author_716}Dúnedain, Bajo la enseña del Poney Pisador
+{Author_717}Gondor y los Herederos de Anárion
+{Author_718}Gondor y los Herederos de Anárion
+{Author_719}Gondor y los Herederos de Anárion
+{Author_720}Gondor y Arnor, Gondor y los Herederos de Anárion
+{Author_721}Glorfindel sobre el Rey Brujo, Gondor y los Herederos de Anárion
+{Author_722}Gondor y los Herederos de Anárion
+{Author_723}Gondor y los Herederos de Anárion
+{Author_724}Senescal Denethor II: su abuelo, Gondor y los Herederos de Anárion
+{Author_725}Gondor y los Herederos de Anárion
+{Author_726}Denethor y Aragorn, Gondor y los Herederos de Anárion
+{Author_727}Gondor y los Herederos de Anárion
+{Author_728}Elrond a Aragorn, La Historia de Aragorn y Arwen
+{Author_729}Arwen, La Historia de Aragorn y Arwen
+{Author_730}La Historia de Aragorn y Arwen
+{Author_731}Elrond, La Historia de Aragorn y Arwen
+{Author_732}Gilraen, su madre, La Historia de Aragorn y Arwen
+{Author_733}Erebor, El Pueblo de Durin
+{Author_734}Los Orcos mataron al Rey Thrór en Moria, El Pueblo de Durin
+{Author_735}El Pueblo de Durin
+{Author_736}la guerra contra los Orcos, El Pueblo de Durin
+{Author_737}El Pueblo de Durin
+{Author_738}el Caudillo Orco Azog, El Pueblo de Durin
+{Author_739}Thorin Escudo de Roble, El Pueblo de Durin
+{Author_740}Anillo de Durin, El Pueblo de Durin
+{Author_741}Anillos de los Enanos, El Pueblo de Durin
+{Author_742}Orcos, Los lenguajes y Pueblos de la Tierra Media
+{Author_743}Los lenguajes y Pueblos de la Tierra Media
+{Author_744}Los Enanos, El Hobbit
+{Authro_745}Elfos y Enanos, El Hobbit
+{Author_746}Elrond sobre Orcrist, El Hobbit
+{Author_747}dentro de las Montañas Nubladas, El Hobbit
+{Author_748}Trasgos, El Hobbit
+{Author_749}Trasgos, El Hobbit
+{Author_750}Trasgos, El Hobbit
+{Author_751}Orcrist la espada de Thorin, El Hobbit
+{Author_752}Bilbo con Dardo, El Hobbit
+{Author_753}Gollum usó el Anillo, El Hobbit
+{Author_754}Dori el Enano, El Hobbit
+{Author_755}El Hobbit
+{Author_756}Huargos, El Hobbit
+{Author_757}El Hobbit
+{Author_758}Gandalf a Beorn, El Hobbit
+{Author_759}Bardo de Ciudad del Lago, El Hobbit
+{Author_760}Bardo el Arquero, El Hobbit
+{Author_761}Ciudad del Lago, El Hobbit
+{Author_762}Erebor, El Hobbit
+{Author_763}los hombres del Lago y los silvanos, El Hobbit
+{Author_764}Bardo el Arquero, El Hobbit
+{Author_765}La Piedra del Arca, El Hobbit
+{Author_766}Guerreros de Dain, El Hobbit
+{Author_767}Guerreros de Dain a los hombres del Lago y los silvanos, El Hobbit
+{Author_768}Thranduil, El Hobbit
+{Author_769}Bardo sobre los Enanos, El Hobbit
+{Author_770}Bardo a Thranduil, El Hobbit
+{Author_771}Carga de los Silvanos, El Hobbit
+{Author_772}Enanos de las Colinas de Hierro, El Hobbit
+{Author_773}Aparecen los refuerzos trasgos, El Hobbit
+{Author_774}Thorin Escudo de Roble carga, El Hobbit
+{Author_775}El Hobbit
+{Author_776}Bilbo en batalla, El Hobbit
+{Author_777}Thorin II Escudo de Roble, El Hobbit
+{Author_778}El Hobbit
+{Author_779}Cuentos Inconclusos
+{Author_780}Senescal de Gondor, Cuentos Inconclusos
+{Author_781}Cuentos Inconclusos
+{Author_782}la araña, Guarida de Ella-Laraña
+{Author_783}Bilbo ve arañas, El Hobbit
+{Author_784}Bilbo en el Bosque Negro, El Hobbit
+{Author_785}Ungoliant, Quenta Silmarillion
+{Author_786}en el Bosque Negro, El Hobbit
+{Author_787}Gandalf sobre Sauron, El Concilio de Elrond
+{Author_788}Gandalf a Cebadilla Mantecona, El Concilio de Elrond
+{Author_789}Celeborn, Adiós Lórien
+{Author_790}Gandalf el Gris, El Concilio de Elrond
+{Author_791}Aragorn, Adiós Lórien
+{Author_792}Boromir a Frodo, Adiós Lórien
+{Author_793}Haldir, Adiós Lórien
+{Author_794}Galadriel, Adiós Lórien
+{Author_795}Galadriel, Adiós Lórien
+{Author_796}Gimli, Adiós Lórien
+{Author_797}la Comunidad, El Río Grande
+{Author_798}El Río Grande
+{Author_799}Aragorn sobre los Orcos, El Río Grande
+{Author_800}Sméagol sobre los muertos, A través de las ciénagas
+{Author_801}Los Pueblos Libres de la Tierra Media, De Enanos y Hombres
+{Author_802}El Pueblo de Durin
+{Author_803}Los Enanos aprenden el lenguaje Sindar, Silmarillion
+{Author_804}Lanzas hechas por los hombres del norte antes de la llegada de Smaug, El Hobbit
+{Author_805}Gandalf a Thorin y sus enanos, El Hobbit
+{Author_806}Venganza, Cuentos Inconclusos
+{Author_807}Gandalf sobre la percepción enana, Cuentos Inconclusos
+{Author_808}Llega el Balrog, El Puente de Khazad-Dûm
+{Author_809}en la cámara de Mazarbul, El Puente de Khazad-Dûm
+{Author_810}Arwen sobre la mortalidad, La Historia de Aragorn y Arwen
+{Author_811}Los Senescales, Los Pueblos Libres de la Tierra Media
+{Author_812}Aragorn, La Historia de Aragorn y Arwen
+{Author_813}Aragorn, El Río Grande
+{Author_814}Gandalf, La Sombra del Pasado
+{Author_815}Gandalf, La Sombra del Pasado
+{Author_816}Gandalf, Muchos Encuentros
+{Author_817}Nazgûl, Huyendo hacia el vado
+{Author_818}El Rey Brujo, La Batalla de los Campos del Pelennor
+{Author_819}Faramir, El Estanque Vedado
+{Author_820}Faramir sobre el Nazgûl, El Estanque Vedado
+{Author_821}Gandalf sobre el Anillo, La Sombra del Pasado
+{Author_822}Faramir, El Sitio de Gondor
+{Author_823}El Sitio de Gondor
+{Author_824}El Rey Brujo, La Batalla de los Campos del Pelennor
+{Author_825}El granjero Maggot a un Nazgûl, Un atajo hacia los hongos
+{Author_826}Glóin sobre el mensajero procedente de Mordor, El Concilio de Elrond
+{Author_827}Glóin, Señor Enano, El Concilio de Elrond
+{Author_828}Gandalf sobre los Nazgûl, El Caballero Blanco
+{Author_829}Gorbag a Shagrat, Las Decisiones de Maese Samsagaz
+{Author_830}Théoden a Saruman, La Voz de Saruman
+{Author_831}Théoden a Saruman, La Voz de Saruman
+{Author_832}Saruman sobre los Rohirrim, La Voz de Saruman
+{Author_833}Saruman el Blanco, La Voz de Saruman
+{Author_834}Saruman a Éomer, La Voz de Saruman
+{Author_835}Merry a Gimli sobre el saqueo de Isengard, La Voz de Saruman
+{Author_836}Grishnák sobre los Nazgûl, Los Uruk-Hai
+{Author_837}los Incursores procedentes de Moria, Los Uruk-Hai
+{Author_838}los Incursores procedentes de Moria, Los Uruk-Hai
+{Author_839}Orcs sobre Merry y Pippin, Los Uruk-Hai
+{Author_840}Legolas a Éomer, Los Jinetes de Rohan
+{Author_841}Aragorn a Éomer, Los Jinetes de Rohan
+{Author_842}Éomer, Los Jinetes de Rohan
+{Author_843}Éomer, Los Jinetes de Rohan
+{Author_844}El Hobbit
+{Author_845}Orcos de las Montañas Nubladas, El Hobbit
+{Author_846}Thranduil a Thorin II, El Hobbit
+{Author_847}Gandalf, El Hobbit
+{Author_848}Bárbol
+{Author_849}Faramir, Una ventana al oeste
+{Author_850}Frodo, La Torre de Cirith Ungol
+{Quote_1}”Y aquel que quiebra algo para averiguar qué es, ha abandonado el camino de sabiduría.”
+{Quote_2}”Aún las arañas más hábiles pueden dejar un hilo flojo”
+{Quote_3}”El tiempo de los elfos ha quedado atrás, pero el nuestro está ya muy cerca: el mundo de los hombres, que hemos de gobernar.”
+{Quote_4}”A menudo el odio se vuelve contra uno mismo.”
+{Quote_5}”Los artilugios creados por un arte superior al que nosotros poseemos son siempre peligrosos.”
+{Quote_6}”Una mano quemada es el mejor maestro. Luego cualquier advertencia sobre el fuego llega derecha al corazón.”
+{Quote_7}”...pero no nos atañe a nosotros dominar todas las mareas del mundo, sino hacer lo que está en nuestras manos por el bien de los días que nos ha tocado vivir...”
+{Quote_8}”Solo podemos decidir qué hacer con el tiempo que se nos ha dado.”
+{Quote_9}”Hay muchos poderes en el mundo, para el bien y para el mal. Algunos son más grandes que yo. Contra otros, todavía no me he medido. Pero mi tiempo se acerca.”
+{Quote_10}”El Capitán había caído; pero Gothmog, el lugarteniente de Morgul, los exhortaba ahora a la contienda: Hombres del Este que empuñaban hachas, Variags que venían de Khand...”
+{Quote_11}”Estoy seguro de que en una noche cerrada encontraría el camino de vuelta más fácilmente que los gatos de la Reina Berúthiel”
+{Quote_12}”Muchos de los que viven merecen morir. Muchos de los que mueren merecen la vida. ¿Puedes dársela tú entonces, Frodo? Entonces no te apresures a dispensar la vida o la muerte con tanta facilidad.”
+{Quote_13}”...el cruce de Orcos y Hombres, que produjo Orcos-hombres, grandes e inteligentes, y Hombres-orco, viles y traicioneros.”
+{Quote_14}”Sí, Él tiene sólo cuatro dedos en la Mano Negra, pero le bastan” -dijo Gollum estremeciéndose-.”
+{Quote_15}”No os diré: no lloréis; porque no todas las lágrimas son malas.”
+{Quote_16}”¡No puedes pasar! Soy un servidor del Fuego Secreto, que es dueño de la llama de Anor. No puedes pasar. El fuego oscuro no te servirá de nada, llama de Udûn. ¡Vuelve a la Sombra! ¡No puedes pasar!”
+{Quote_17}”Antes que puedas utilizar ese poder tendrás que ser mucho más fuerte, y entrenar tu voluntad en el dominio de los otros.”
+{Quote_18}”No es tan poderoso, aún no es inmune al miedo. La duda le carcome.”
+{Quote_19}”Y ahora, en el momento preciso en que pone en marcha sus ambiciosos designios, se le revelan el heredero de Elendil y la Espada; pues le mostré la hoja que fue forjada de nuevo.”
+{Quote_20}”...porque hubo ciertos Hombres del Bosque que llevaron la noticia a Thranduil por mensajeros, y también ellos reunieron una fuerza para tender una emboscada a los Orcos...”
+{Quote_21}”...nos toca siempre soportar los más duros embates del odio del Señor Oscuro, un odio que viene de los abismos del tiempo y de lo más profundo del Mar.”
+{Quote_22}”Había más de un poder actuando allí, Frodo. El Anillo trataba de volver a su dueño.”
+{Quote_23}”No es necesario que encontremos el Anillo, porque mientras permanezca en la tierra y no se deshaga, tendrá siempre poder; y Sauron crecerá y confiará.”
+{Quote_24}”Entonces Celebrimbor fue sometido a tormento, y Sauron averiguó por él dónde se encontraban los Siete.
+{Quote_25}”Raras veces los Elfos dan consejos indiscretos, pues un consejo es un regalo muy peligroso, aun del sabio al sabio, ya que todos los rumbos pueden terminar mal.”
+{Quote_26}”No te entrometas en asuntos de magos, pues son astutos y de cólera fácil.”
+{Quote_27}”Es peligroso estudiar demasiado a fondo las artes del enemigo, para bien o para mal.”
+{Quote_28}”Quienes los hicieron no deseaban ni fuerza ni dominio ni riquezas, sino el poder de comprender, hacer y curar, para preservar así todas las cosas sin mancha.”
+{Quote_29}”¿Dije que la victoria de la Ultima Alianza había sido estéril? No del todo, pero no conseguimos lo que esperábamos. Sauron fue debilitado, pero no destruido. El Anillo se perdió y no alcanzamos a fundirlo.”
+{Quote_30}”Todos nos equivocamos,” dijo Elrond, “y si no hubiese sido por tu vigilancia quizá las Tinieblas ya habrían caído sobre nosotros.”
+{Quote_31}”Hemos de elegir un camino difícil, un camino imprevisto. Esa es nuestra esperanza, si hay esperanza: ir hacia el peligro, ir a Mordor. Tenemos que echar el Anillo al Fuego.”
+{Quote_32}”Anímate, entonces, pues hay otros poderes y reinos que no conoces, que están ocultos para ti.”
+{Quote_33}”Tenemos que salir al encuentro de Sauron.”
+{Quote_34}”Vistes el Ojo de aquel que tiene los Siete y los Nueve.”
+{Quote_35}”Es en verdad evidente que, a pesar de un alejamiento posterior los Hobbits son parientes nuestros: están más cerca de nosotros que los Elfos y aún que los mismos Enanos.”
+{Quote_36}”La Compañía del Anillo será de Nueve y los Nueve Caminantes se opondrán a los Nueve Jinetes malvados.”
+{Quote_37}”Porque Radagast, el cuarto, se enamoró de muchas bestias y pájaros que moraban en la Tierra Media, y abandonó a los Elfos y a los Hombres, y pasó sus días entre las criaturas silvestres.”
+{Quote_38}”La verdad se oculta a veces en la mentira.”
+{Quote_39}”Desleal es aquel que se despide cuando el camino se oscurece.”
+{Quote_40}”Un juramento puede dar fuerzas a un corazón desfalleciente.”
+{Quote_41}”Siempre es así con las obras que emprenden los hombres: una helada en primavera, o una sequía en el verano, y las promesas se frustran.”
+{Quote_42}”Es cierto que el mundo está colmado de peligros y que hay en él sitios lóbregos, pero hay también cosas hermosas...”
+{Quote_43}...porque fueron al Este con Curunír, pero luego nunca retornaron, y no se sabe si se quedaron en el Este en cumplimiento de la misión que les fuera encomendada o perecieron o fueron capturados por Sauron.
+{Quote_44}”Pero no desprecies las tradiciones que nos llegan de antaño; ocurre a menudo que las viejas guardan en la memoria cosas que los sabios de otro tiempo necesitaban saber.”
+{Quote_45}”Te doy las gracias, Gimli hijo de Glóin...No sabía que tú estabas con nosotros en este encuentro. Pero más de una vez el huésped a quien nadie ha invitado demuestra ser la mejor compañía.”
+{Quote_46}”Las esperanzas suelen ser engañosas...No obstante, es dos veces bendita la ayuda inesperada.”
+{Quote_47}”Días muy extraños son estos en verdad -murmuró-. Sueños y leyendas brotan de las hierbas mismas.”
+{Quote_48}”Se han visto tantas cosas extrañas que aprender a alabar a una hermosa dama bajo los amables hachazos de un enano no parecerá mucha maravilla.”
+{Quote_49}”...en los primeros tiempos del Reino del Norte, edificaron una torre de observación en lo más alto de la Cima de los Vientos y la llamaron Amon Sûl.”
+{Quote_50}”Nadie sabe que habrá de traer el nuevo día.”
+{Quote_51}”Un golpe apresurado suele no dar en el blanco… Hemos de hostigar al enemigo, sin esperar ya a que sea él quien dé el primer paso”
+{Quote_52}”Las hazañas no son menos valerosas porque nadie las alabe.”
+{Quote_53}”¿Dónde estamos, en el país de las leyendas o en una tierra verde a la luz del sol?”
+{Quote_54}”El mal y el bien no han cambiado desde ayer.”
+{Quote_55}”De ciertas empresas podría decirse que es mejor emprenderlas que rechazarlas, aunque el fin se anuncie sombrío.”
+{Quote_56}”Quien no es capaz de desprenderse de un tesoro en un momento de necesidad es como un esclavo encadenado.”
+{Quote_57}”Soy Aragorn, hijo de Arathorn; y si por la vida o por la muerte puedo salvaros, así lo haré.”
+{Quote_58}”¡Pero no te desanimes! Gandalf es más grande de lo que se supone en la Comarca; como regla general no veis de él otra cosa que bromas y juegos. Pero este asunto nuestro será la mayor de sus empresas.”
+{Quote_59}”Mi corazón está allí, pero mi destino no es vivir en paz, ni siquiera en la hermosa casa de Elrond.”
+{Quote_60}”Pero ahora el mundo está cambiando otra vez. Llega una nueva hora. El Daño de Isildur ha sido encontrado. La batalla es inminente. La Espada será forjada de nuevo.”
+{Quote_61}”¡Gondor! ¡Gondor!...¡Ojalá pueda volver a contemplarte en horas más felices! No es tiempo aún de que vaya hacia el sur en busca de tus claras corrientes.”
+{Quote_62}”No creáis que en las tierras de Gondor se haya extinguido la sangre de Númenor, ni que todo el orgullo y la dignidad de aquel pueblo hayan sido olvidados.”
+{Quote_63}”… y sólo así han sido aseguradas la paz y la libertad en las tierras que están detrás de nosotros, el baluarte del Oeste.”
+{Quote_64}”Nos animaría saber que otros luchan también con todos los medios de que disponen.” “Anímate, entonces.” dijo Elrond
+{Quote_65}”¡Puede que el camino la pase, pero ellos no pasarán! No mientras Faramir sea quien conduzca todas las empresas peligrosas.”
+{Quote_66}”¡Cuidado! ¡Cuidado!” gritó Damrod a su compañero “¡Ojalá el Valar lo desvíe! ¡Mûmak! ¡Mûmak!”
+{Quote_67}Al sur, del otro lado del camino, aguardaba la fuerza principal de los Haradrim, y la caballería estaba reunida en torno del estandarte del Capitán.
+{Quote_68}… desplegó el estandarte -una serpiente negra sobre fondo escarlata— y se precipitó con una gran horda…
+{Quote_69}”He cruzado muchas montañas y muchos ríos y he recorrido muchas llanuras, hasta las lejanas de Rhûn y Harad...”
+{Quote_70}”¿Creíste por ventura que estaban ciegos los ojos de la Torre Blanca? No, Loco Gris, he visto más cosas de las que tú sabes.”
+{Quote_71}”Mas contra el Poder que ahora se levanta no hay victoria posible.”
+{Quote_72}”El alabar lo que es digno de alabanza no necesita recompensa.”
+{Quote_73}”No buenos: hombres malos muy crueles, parecen. Casi tan malvados como los orcos y mucho más grandes.”
+{Quote_74}En él había una única puerta de hierro, y en el camino de ronda los centinelas montaban guardia.
+{Quote_75}”No creo en esta hora que ninguna oscuridad dure mucho.”
+{Quote_76}”¡No le lleves a Él el Tesoro! Nos comerá a todos, si lo tiene, se comerá a todo el mundo.”
+{Quote_77}”No se entra así como así en Mordor.”
+{Quote_78}...y del este venían muchos hombres: de espada, lanceros, arqueros a caballo, carros de comandantes y vagones de suministros.
+{Quote_79}”Bree era la villa principal de las tierras de Bree, pequeña región habitada, semejante a una isla en medio de las tierras desiertas de alrededor.”
+{Quote_80}”¿Quieres decir realmente que Trancos pertenece al pueblo de los viejos Reyes? - dijo Frodo, asombrado-.”
+{Quote_81}”Es inútil pagar venganza con venganza.”
+{Quote_82}”Y Él odiaba la ciudad de Isildur.”
+{Quote_83}”¡Por Elbereth y Lúthien la Bella -dijo Frodo con un último esfuerzo y esgrimiendo la espada-, no tendréis el Anillo ni me tendréis a mí!”
+{Quote_84}”No me pertenece. No pertenece a ningún mortal, grande o pequeño; aunque si alguien puede reclamarlo, ese es Aragorn hijo de Arathorn.”
+{Quote_85}Entre sus servidores con nombre, el más grande fue ese espíritu a quien los Eldar llamaron Sauron o Gorthaur el Cruel
+{Quote_86}”Las palabras hermosas esconden a veces un corazón infame.”
+{Quote_87}...todo indica que fue en Bree donde nació el arte de fumar la verdadera hierba, y desde allí se extendió en el curso de los últimos siglos entre los Enanos y algunos otros pueblos, como los Montaraces, los Magos y los vagabundos...
+{Quote_88}”El más poderoso de los hombres puede morir atravesado por una sola flecha --replicó--, y. Boromir recibió más de una.”
+{Quote_89}”No tengo alma de guerrero, y el solo pensamiento de una batalla me desagrada; pero estar esperando una de la que no podré escapar es lo peor que podría ocurrirme.”
+{Quote_90}Entonces Morgoth esgrimió el Martillo de los Mundos Subterráneos, llamado. Grond, lo alzó bruscamente, y lo hizo caer como un rayo de tormenta.
+{Quote_91}”No conozco a la mitad de ustedes, ni la mitad de lo que querría, y lo que yo querría es menos de la mitad de lo que la mitad de ustedes merece.”
+{Quote_92}”Es muy peligroso, Frodo, cruzar la puerta,” solía decirme. “Vas hacia el Camino, y si no cuidas tus pasos no sabes hacia donde te arrastrarán.”
+{Quote_93}”¡Allí están los bosques de Lothlórien!” -dijo Legolas-. “La más hermosa de las moradas de mi pueblo.”
+{Quote_94}”¡Esto sí que es inaudito! dijo. ¡Que un elfo quiera penetrar en las entrañas de la tierra, y un enano no se atreva!”
+{Quote_95}”Perjuros ¿a qué habéis venido?” Y se oyó en la noche una voz que le respondió, desde lejos: “A cumplir el juramento y encontrar la paz.”
+{Quote_96}”¡Asesinos y amigos de los elfos! gritó el Gran Trasgo...¡Llevadlos a agujeros oscuros repletos de víboras...”
+{Quote_97}”Cuando amanezca, haré sonar el cuerno de Helm, y partiré...” “Y entonces, súbito y terrible, el gran cuerno de Helm resonó en lo alto de la torre...”
+{Quote_98}”¡Atrapa, arrebata! ¡Pellizca, apañusca! ¡Bajando, bajando, al pueblo de trasgos, vas tú, muchacho!”
+{Quote_99}”¿Dónde están ahora el caballo y el caballero? ¿Dónde está el cuerno que sonaba?...Han pasado como una lluvia en la montaña, como un viento en el prado; los días han descendido en el oeste en la sombra detrás de las colinas.”
+{Quote_100}”¡De pie, de pie, Jinetes de Théoden! Un momento cruel se avecina: ¡fuego y matanza!; Trepidarán las lanzas, volarán en añicos los escudos, ¡un día de la espada, un día rojo, antes que llegue el alba! ¡Galopad ahora, galopad! ¡A Gondor!”
+{Quote_101}Ningún hobbit viviente (excepto Bilbo) podía recordar el terrible invierno de 1311, cuando los lobos blancos invadieran la Comarca cruzando las aguas heladas del Brandivino.
+{Quote_102}”¿Dónde essstá, dónde essstá: mi tesssoro, mi tesssoro? Es nuestro, es, y nosotros lo queremos. Los ladrones...¡Malditos! Los odiamos de veras.”
+{Quote_103}”Tu misión marcha ahora por el filo de un cuchillo. Un solo paso en falso y fracasará, para ruina de todos. Hay esperanzas sin embargo mientras todos los miembros de la Compañía continúen siendo fieles.”
+{Quote_104}Arador fue tomado prisionero por los trolls de las Montañas en los Páramos Fríos al norte de Rivendel, y asesinado...
+{Quote_105}Orcos y trolls ocuparon partes de las ahora vacías Minas de Moria.
+{Quote_106}”...bueno, estamos todos demasiado cansados; excepto sin duda nuestro vigoroso enano.” Gimli no replicó; cabeceaba sentado.
+{Quote_107}”¡No habrá tumbas para Denethor y para Faramir! ¡No tendrán sepultura! ¡No conocerán el lento y largo sueño de la muerte embalsamada! Antes que ningún navío zarpe hacia aquí desde el Oeste, nos habremos consumido en la hoguera como reyes paganos. El Oeste ha fallado.”
+{Quote_108}”¿Por qué? ¿Por qué huyen los imbéciles?” dijo Denethor “Puesto que arder en la hoguera es inevitable, más vale arder antes que después…” “El Oeste ha fallado. ¡Volved, y sacrificaos en la hoguera!”
+{Quote_109}”Fidelidad con amor, valor con honor, perjurio con venganza.”
+{Quote_110}”¡Eh! ¡Ven Frodo, ven aquí! ¿Adónde te ibas? El viejo Tom Bombadil todavía no está tan ciego. ¡Sácate ese Anillo dorado! Te queda mejor la mano desnuda.”
+{Quote_111}...porque allí los reyes hicieron construir en la ciudadela una torre blanca, muy alta y muy hermosa, cuya mirada abarcaba muchas tierras.
+{Quote_112}”Old Tom Bombadil is a merry fellow, Bright blue his jacket is, and his boots are yellow. None have ever caught him yet, for Tom, he is the master: His songs are stronger songs, and his feet are faster.”
+{Quote_113}…los Orcos partieron ansiosos de guerra y destrucción, y los capitanes Balrog marchaban en vanguardia.
+{Quote_114}Ash nazg durbatulûk, ash nazg gimbatul. Ash nazg thrakatulûk agh burzum-ishi krimpatul.
+{Quote_115}Un Anillo para gobernarlos a todos, un Anillo para encontrarlos, un Anillo para atraerlos a todos y atarlos en las Tinieblas.
+{Quote_116}”¡No temas!” repitió. “Durante muchos años anhelé contemplar las imágenes de Isildur y Anárion, mis señores de otro tiempo.”
+{Quote_117}...la Piedra Ithil...confiando en su fuerza. Su confianza no era del todo injustificada. Sauron no logró dominarlo, y sólo pudo influir en él recurriendo a engaños.
+{Quote_118}Tiempo atrás ese país había sido llamado Lindon por los Noldor, y este nombre tuvo en adelante; y muchos de los Eldar vivían allí todavía...
+{Quote_119}”¿Qué os parece un poco de luz?” dijo Bilbo disculpándose. “Nos gusta la oscuridad” dijeron todos los enanos. “¡Oscuridad para asuntos oscuros!”
+{Quote_120}”Yo soy el Rey Mayor: Melkor, el primero y más poderoso de todos los Valar, que fue antes que el mundo y lo creó.”
+{Quote_121}”¡Mi armadura es como diez escudos, mis dientes son espadas, mis garras lanzas, mi cola un rayo, mis alas un huracán, y mi aliento muerte!”
+{Quote_122}”Yo derribé a los guerreros de antaño y hoy no hay nadie en el mundo como yo.”
+{Quote_123}Pero los Naugrim hicieron un círculo alrededor del dragón cuando se les echó encima, y ni siquiera la poderosa armadura le sirvió contra los golpes de las grandes hachas.
+{Quote_124}De las cenizas subirá un fuego, y una luz asomará en las sombras; el descoronado será de nuevo rey, forjarán otra vez la espada rota.
+{Quote_125}El ejército de los Rohirrim se puso en movimiento. Pero los hombres ya no cantaban. Muerte, gritaban con una sola voz poderosa y terrible…
+{Quote_126}”Utúlie’n aure! Aiya Eldalie ar Atanatári, utúlie’n auré! ¡El día ha llegado! ¡Mirad, Pueblo de los Elfos y Padres de los Hombres, el día ha llegado!”
+{Quote_127}”¡Que se cuiden tus hijos ahora! Porque despertarán la cólera de un poder que habrá en los bosques y correrán peligro.”
+{Quote_128}”¡Muerte! ¡Galopad, galopad hacia la ruina y el fin del mundo!”
+{Quote_129}”...y me llevó por los aires, antes que Saruman se diera cuenta. Yo ya estaba lejos cuando los lobos y los orcos salieron por las puertas de Isengard en mi persecución.”
+{Quote_130}”Los Hombres de Gondor son valientes y nunca se someterán; pero pueden ser derrotados. El valor necesita fuerza ante todo y luego un arma. Que el Anillo sea vuestra arma...”
+{Quote_131}Se tambaleó y cayó al suelo, tratando vanamente de asirse a la piedra, deslizándose al abismo. “¡Huid, insensatos!” gritó, y desapareció.
+{Quote_132}...los Hombres del Sur eran temerarios y encarnizados, y feroces en la desesperación; y los del Este, recios y aguerridos, no pedían cuartel.
+{Quote_133}Todos habían muerto allí… sólo rumores de las regiones lejanas llegaron a las tierras de los Haradrim: los rumores de la ira y el terror de Gondor.
+{Quote_134}...y la cabeza horrible, fundida en acero negro, reproducía la imagen de un lobo enfurecido, y portaba maleficios de ruina. Grond lo llamaban, en memoria del Martillo Infernal de los días antiguos.
+{Quote_135}Allí estaban los de la casa de la Flor Dorada, que lucían un sol de rayos abiertos en los escudos, y su jefe, Glorfindel...
+{Quote_136}”Baruk Khazâd! Khazâd aimênu!”
+{Quote_137}Por tanto, mientras la Tierra era todavía joven y estaba toda en llamas, Melkor la codició y dijo a los otros Valar: “Este será mi reino, y para mí lo designo.”
+{Quote_138}”Esta, Gandalf, fue Glamdring, Martillo de enemigos, que una vez llevó el rey de Gondolin.”
+{Quote_139}...iba éste apresurado a comunicarle a Saruman que Gandalf había llegado a Edoras y había advertido al Rey Théoden contra los traicioneros designios de Isengard.
+{Quote_140}Por último resolvió que nadie le serviría en este caso, salvo sus más poderosos servidores, los Espectros de los Anillos...
+{Quote_141}...en el arte de templar el acero los Naugrim nunca fueron igualados, ni siquiera por los Noldor...
+{Quote_142}En todos los hechos de Melkor el Morgoth en el Reino de Arda, en las vastas obras que él edificó y en las trampas que tendía, Sauron tuvo parte, y era menor en maldad que su amo sólo porque durante mucho tiempo sirvió a otro y no a sí mismo.
+{Quote_143}Pero los Enanos siguieron adelante, y...se libró una batalla en las Mil Cavernas, y muchos Enanos y Elfos murieron; y esto no se olvidó.
+{Quote_144}...Aulë hizo a los Enanos fuertes y resistentes. Por tanto, son duros como la piedra, empeñosos, rápidos en la amistad y en la enemistad, y soportan el trabajo y el hambre y los dolores del cuerpo más que ninguna otra criatura que tenga el don de la palabra.
+{Quote_145}...Quendi que cayeron en manos de Melkor...y así crió Melkor la raza de los Orcos, por envidia y en mofa de los Elfos, de los que fueron después los más fieros enemigos.
+{Quote_146}Las mentiras que Melkor el poderoso y maldito, Morgoth Bauglir, el Poder del Terror y del Odio, sembró en el corazón de los Elfos y de los Hombres, son una semilla que no muere y no puede destruirse.
+{Quote_147}Muchos son los cantos que han cantado el duelo de Glorfindel con el Balrog sobre el pináculo de una roca; y ambos cayeron perdiéndose en el abismo.
+{Quote_148}”La sombra de mi propósito se extiende sobre Arda, y todo lo que hay en ella cede lenta e inexorablemente ante mi voluntad”
+{Quote_149}...y en la fabricación de cotas de malla de anillos eslabonados, que los herreros de Belegost hicieron por vez primera, la artesanía de los Enanos no tenía rival.
+{Quote_150}Sauron se había convertido por ese entonces en un hechicero de espantoso poder, amo de sombras y de fantasmas, de inmunda sabiduría, de fuerza cruel, que retorcía todo cuanto tocaba...
+{Quote_151}...tenían por costumbre en las batallas llevar grandes máscaras de espantosa apariencia; y les fueron de provecho frente a los dragones.
+{Quote_152}…y las cimitarras desnudas de los hombres del Sur centellearon como estrellas.
+{Quote_153}”Pero si se cansan del descanso y de los juegos de la paz, vuelven otra vez al gran juego: la matanza de hombres, la guerra...También nosotras somos hijas de los grandes, y tenemos voluntad y coraje propios.”
+{Quote_154}...alto, noble y arrogante, como todos los hombres que hasta entonces había visto en aquel país; y los ojos le centelleaban de sólo pensar en la batalla.
+{Quote_155}Los hijos de Bór –Borlad, Borlach y Borthand– siguieron a Maedhros y a Maglor, y frustraron las esperanzas de Morgoth, y permanecieron fieles.
+{Quote_156}”… Alguien anda rondando por aquí y es más peligroso que el rebelde más condenado que se haya conocido desde los malos viejos tiempos, desde el Gran Sitio.”
+{Quote_157}”A juzgar por todos los indicios, capitán Shagrat, diría que se trata de un gran guerrero, probablemente un elfo, armado sin duda de una espada élfica, y quizá también de un hacha…”
+{Quote_158}Raza guerrera desde antaño...luchaban con fiereza contra quienquiera los dañara: servidores de Melkor, Eldar, Avari o bestias salvajes, y también, y no pocas veces, contra los Enanos de otras mansiones o señoríos.
+{Quote_159}Galadriel, la única mujer de los Noldor que se mantuvo erguida y valerosa entre los príncipes contendientes,...anhelaba ver las amplias tierras sin custodia y gobernar allí un reino a su propia voluntad.
+{Quote_160}Porque los Orcos tenían vida y se multiplicaban de igual manera que los Hijos de Ilúvatar...
+{Quote_161}Y en lo profundo del oscuro corazón, los Orcos abominaban del Amo a quien servían con miedo, el hacedor que sólo les había dado desdicha.
+{Quote_162}Ahora bien, los Orcos que se multiplicaban en la oscuridad de la tierra crecieron en fuerza y en ferocidad, y el oscuro señor de todos ellos los inflamaba con deseos de ruina y muerte.
+{Quote_163}No hay cuento que diga lo que pensó Morgoth en lo íntimo de su corazón ante la nueva de que Fëanor, su más amargo enemigo, había traído consigo un ejército del oeste.
+{Quote_164}Los Noldor, aunque excedidos en número y sorprendidos de improviso, no tardaron en imponerse pues la luz de Aman no se les había nublado todavía en los ojos, y eran fuertes y rápidos, furiosos si los arrebataba la cólera, y de espadas largas y terribles.
+{Quote_165}...en Doriath vivía Celeborn, pariente de Thingol, y un gran amor los unía. Fue así que permaneció en el Reino Escondido y vivió con Melian, y de ella aprendió la ciencia y la sabiduría de la Tierra Media.
+{Quote_166}...los Haradrim, un pueblo grande y cruel que habitó en las amplias tierras al sur de Mordor más allá de las desembocaduras del Anduin.
+{Quote_167}De este modo se libró la contienda entre Sauron y Felagund que alcanzó tanto renombre. Porque Felagund lucho contra Sauron con cantos de poder, y el rey era muy poderoso; pero fue Sauron quien se impuso,...
+{Quote_168}...Lúthien compuso dos temas: el dolor de los Elfos y la congoja de los Hombres, los Dos Linajes que hizo Ilúvatar para que morasen en Arda...
+{Quote_169}”…se han sometido o han vuelto a Él -siempre estuvieron prontos a obedecer-, como lo hicieron tantos otros en el Este.”
+{Quote_170}Porque aunque nadie lo había llamado y nadie lo esperaba, Turgon había abierto el cerco de Gondolin, y avanzaba con un ejército de diez mil soldados, con brillantes cotas de malla y largas espadas y lanzas como un bosque.
+{Quote_171}La luz de las espadas desenvainadas de los Noldor era como un fuego en un campo de juncos.
+{Quote_172}”…los días de Gondor están contados, y que los muros de Minas Tirith están condenados, tal es la fuerza y la malicia que hay en Él.”
+{Quote_173}Los Orcos habían dado muerte o habían expulsado a todos los que todavía portaban armas, y aún estaban saqueando todas las grandes cámaras y recintos, pillando y destruyendo.
+{Quote_174}Su dominio era el tormento.
+{Quote_175}...mucho se cuenta en La caída de Gondolin: la lucha de Ecthelion de la Fuente con Gothmog Señor de los Balrogs, librada en la misma plaza del rey, en la que se dieron muerte el uno al otro...
+{Quote_176}No obstante, como ambos pueblos temían y odiaban a Morgoth, celebraron una alianza, y se beneficiaron sobremanera con ella.
+{Quote_177}...Thingol pensó en hacerse de armas, que antes no había necesitado, y al principio los Naugrim las forjaron para él; porque eran muy hábiles en estas labores,
+{Quote_178}En este tiempo, por tanto, los Sindar estaban bien armados, y espantaron a todas las criaturas malignas y tuvieron paz otra vez.
+{Quote_179}”Como te decía, los grandes patrones, sí” -y la voz descendió hasta convertirse casi en un susurro-, “sí, hasta el Más Grande puede cometer errores.”
+{Quote_180}...Minas Ithil estaba en manos de los Nazgûl, e Ithilien, en estado de abandono y desolación; pero Gondor no había renunciado al derecho que tenía sobre ellas.
+{Quote_181}Muchos huyeron a los Puertos y buscaron refugio tras los muros de Círdan y los marineros recorrían las costas de arriba abajo y acosaban al enemigo en rápidos desembarcos.
+{Quote_182}...los primeros marineros de la Tierra Media y los primeros constructores de navíos. Círdan, el Carpintero de Barcos, fue señor de todos ellos.
+{Quote_183}...el Juramento de Eorl, que fue contestado con el Juramento de Cirion, confirmando para siempre la alianza entre los Reinos de los Rohirrim y Gondor.
+{Quote_184}”Para resistir cualesquiera fuerzas que Sauron pudiera enviar para recuperar los pasos septentrionales de las montañas…sólo estaban los Enanos de las Montañas de Hierro.”
+{Quote_185}Son los Elfos Profundos, los amigos de Aulë; y alcanzaron un gran renombre en las canciones, pues mucho lucharon y se afanaron en las tierras septentrionales de antaño.
+{Quote_186}...y los que corrieron hacia el norte huyendo de la gran matanza fueron recibidos por las hachas de los Naugrim que salieron del Monte Dolmed.
+{Quote_187}”Los Enanos comprenden la devoción a los amigos y la gratitud a los que los ayudan.”
+{Quote_188}...hizo un Juramento de amistad eterna y de ayuda en toda necesidad a Barahir y a su gente, y como prenda del juramento le dio su anillo.
+{Quote_189}”Esperamos a los Capitanes de las Tierras Lejanas; se dice que llegarán antes del crepúsculo, por el Camino del Sur. Ven con nosotros y verás.”
+{Quote_190}”Y esos sitios habrían caído, pienso, si Sauron hubiera volcado primero todo su poder contra ellos en lugar de consumir más de la mitad de sus fuerzas contra Gondor.”
+{Quote_191}”A cambio de una recompensa van a donde uno no se atreve a ir, o al menos a donde uno no puede ir, para coger lo que uno quiera.”
+{Quote_192}”Porque yo también soy serio. Mortalmente serio, y el corazón me arde de cólera.”
+{Quote_193}La mayoría vivía en Entibo, aunque había algunos en Bree, especialmente en las laderas más altas de la colina, por encima de las casas de los hombres.
+{Quote_194}Y el fuego interior de los Silmarils lo hizo Fëanor con la luz mezclada de los Árboles de Valinor, que vive todavía en ellos, aunque los Árboles hace ya mucho que se han marchitado y ya no brillan.
+{Quote_195}...y de los abismos de Angband salieron los dragones alados que habían estado ocultos hasta entonces.
+{Quote_196}...fueron atacados por enemigos invisibles; porque mientras subían por las orillas del Gelion...las trompetas de los Elfos resonaron de pronto en los bosques de alrededor y de todos lados.
+{Quote_197}Sólo en el reino de Doriath, cuya reina Melian era del linaje de los Valar, pudieron los Sindar igualar en cierta medida a los Calaquendi del Reino Bendecido.
+{Quote_198}Entonces Beleg Arcofirme jefe de los centinelas de Thingol, condujo a Brethil una gran fuerza de Sindar, armada con hachas; y...de las profundidades del bosque, Halmir y Beleg sorprendieron a la legión de los Orcos y la destruyeron.
+{Quote_199}”Un pequeño descuido; pero resultó fatal. Los pequeños descuidos suelen ser fatales.”
+{Quote_200}Así Sauron puso a prueba la fortaleza y el estado de alerta de Denethor y vio que ambos eran mayores de lo que esperaba.
+{Quote_201}”...moraréis a la sombra de la Muerte. Porque aunque Eru os destinó a no morir en Eä, y ninguna enfermedad puede alcanzaros, podéis ser asesinados, y asesinados seréis: por espada y por tormento...”
+{Quote_202}Eönwë fue entre ellos y los instruyó; y se les dio sabiduría y poder y una vida más larga que la de ningún otro mortal.
+{Quote_203}Y llamaron a esa tierra Elenna, que significa Hacia las Estrellas; pero también Anadûnë, que significa Promontorio del Occidente, Númenórë en Alto Eldarin.
+{Quote_204}Este fue el principio del pueblo que en la lengua de los Elfos Grises se llama Dúnedain: los Númenóreanos, Reyes entre los Hombres.
+{Quote_205}...aunque de años más prolongados...Por tanto se volvieron sabios y gloriosos...y eran altos, más altos que el más alto de los hijos de la Tierra Media.
+{Quote_206}Pero no estaba dispuesto a desafiar el poder del Anillo Blanco ni a entrar en Lórien todavía.
+{Quote_207}Porque los Dúnedain se convirtieron en maestros artífices, de modo que si lo hubieran querido podrían haber sobrepasado con facilidad a los malvados reyes de la Tierra Media en estrategia de guerra y en la forja de armas.
+{Quote_208}... su ocupación durante la Tercera Edad a manos de los Orcos de Sauron, fue una de las principales razones de su gran odio hacia todos los Orcos.
+{Quote_209}El fuego se le había apagado, pero ahora era una criatura de barro, más fuerte que una serpiente constrictora.
+{Quote_210}El Círculo de Isengard era demasiado resistente como para que incluso el Señor de Morgul y sus compañeros pudieran atacarlo sin la ayuda de grandes fuerzas.
+{Quote_211}”Por tanto, aunque seáis los Dúnedain, los más hermosos de los Hombres, que escapasteis de la Sombra de antaño y luchasteis valientemente contra ella, os decimos: ¡Cuidado!”
+{Quote_212}”Aquí es donde el martillo golpeará ahora con mayor fuerza.”
+{Quote_213}Tal era todavía el poder de la voz de Saruman, que ni siquiera el Señor de los Nazgûl puso en duda lo que decía...
+{Quote_214}Él mismo había caído tan bajo, que creía que todos los demás miembros del Concilio tenían cada cual objetivos ocultos y de largo alcance para su propio provecho a los que subordinaban todas sus acciones.
+{Quote_215}Si la invasión de Folde Oeste hubiera empezado cinco días antes, no cabe duda de que los refuerzos venidos de Edoras no habrían llegado al Desfiladero de Helm...
+{Quote_216}...los Amigos de los Elfos...Sólo ellos iban ahora al norte y a la tierra de Gil-galad, conservando la amistad con los Elfos y ayudando en contra de Sauron.
+{Quote_217}...los Amigos de los Elfos...y su puerto era Pelargir, sobre las desembocaduras de Anduin el Grande.
+{Quote_218}...había fortificado la tierra de Mordor y había construido la Torre de Barad-dûr, y en adelante luchó siempre por el dominio de la Tierra Media, para convertirse en rey por encima de todos los otros reyes y en un dios para los Hombres.
+{Quote_219}…tampoco olvidaba la ayuda que Tar-Minastir había prestado a Gil-galad tiempo atrás, cuando el Anillo Único fue forjado y hubo guerra entre Sauron y los Elfos en Eriador.
+{Quote_220}...y los odió todavía más; y tuvo miedo de que invadieran sus territorios y le arrebataran el dominio del Este.
+{Quote_221}Sin embargo, Sauron fue siempre engañoso, y se dice que entre los que sedujo con los Nueve Anillos, tres eran grandes señores de raza Númenóreana.
+{Quote_222}Desde entonces Sauron odió siempre a Moria, y los Orcos tuvieron orden de hostilizar a los Enanos cada vez que pudieran.
+{Quote_223}Ya no habrá más enemigos en Eriador, ahora en gran parte destrozado y arruinado.
+{Quote_224}…se hacía sombrías reflexiones pensando en la guerra. Porque se había enterado en la Tierra Media de la fuerza del reino de Sauron y de cómo odiaba a Oesternessë.
+{Quote_225}Celeborn fue al principio a Lórien y los fortificó para impedir que Sauron volviera a intentar el cruce del Anduin.
+{Quote_226}Entonces Ar-Pharazón se volcó a la veneración de la Oscuridad, y de Melkor, el Señor Oscuro...y delante de todos poco después; y la mayoría del pueblo lo siguió.
+{Quote_227}…porque vio que en verdad estaba ante alguien que tenía sangre élfica en las venas.
+{Quote_228}Entonces, tras las puertas cerradas Sauron le habló al rey, y mintió diciendo: “…su nombre es Melkor, Señor de Todos, Dador de la Libertad, y él os hará más fuertes todavía que ellos.”
+{Quote_229}”Perdóneme, y mi orgullo le ha llevado a este destino.”
+{Quote_230}Thranduil, padre de Legolas, llamado Legolas de los Nueve Caminantes, era sindarin, y en su casa se hablaba esa lengua, aunque no entre la gente del pueblo.
+{Quote_231}En Lórien, donde gran parte de la gente era de origen sindarin o noldor, escapados de Eregion, el sindarin se había convertido en la lengua común.
+{Quote_232}...oyeron los gritos horribles de los Orcos, y los vieron salir del Bosque y moviéndose bajo las pendientes, vociferando sus gritos de guerra.
+{Quote_233}...Sauron desafió al rayo y el rayo no lo hirió; y entonces los Hombres lo llamaron dios e hicieron todo lo que él quería.
+{Quote_234}...las flotas de los Númenóreanos oscurecieron el mar hacia el occidente de la tierra y parecían un archipiélago de mil islas.
+{Quote_235}Esta era la manera de los Orcos, quienes a menudo eran más desanimados cuando su presa podía dar la vuelta y atacar.
+{Quote_236}Y todas las flotas de los Númenóreanos se hundieron en la sima, y se ahogaron, y fueron tragadas para siempre.
+{Quote_237}...Éomer, el sobrino del Rey, tenía su sede en la Marca Este en su lugar de nacimiento, Aldburg, en el Folde.
+{Quote_238}...Númenor se hundió en el mar, junto con niños y mujeres y orgullosas señoras.
+{Quote_239}Númenor se hundió en el mar...y los jardines y recintos y torres, y las tumbas y los tesoros...y la sabiduría y la ciencia de Númenor se desvanecieron para siempre.
+{Quote_240}Eran nueve los barcos: cuatro para Elendil, y tres para Isildur, y dos para Anárion; y huyeron de la negra tempestad, desde el crepúsculo de la condenación a la oscuridad del mundo.
+{Quote_241}Elendil y sus hijos fundaron reinos en la Tierra Media; y aunque en ciencia y habilidad no eran sino un eco de lo que habían sido antes de que Sauron llegara a Númenor…
+{Quote_242}...había sido despojado de la forma en que hiciera tanto daño, de modo que ya nunca podría lucir una hermosa figura ante los ojos de los Hombres.
+{Quote_243}Se instaló de nuevo en Barad-dûr, se puso el Gran Anillo, y vivió allí, oscuro y silencioso, hasta que se dio a sí mismo una nueva forma, una imagen visible de malicia y odio.
+{Quote_244}Porque el mismo Sauron sintió gran temor ante la ira de los Valar, y el hado que Eru había impuesto a la tierra y al mar.
+{Quote_245}De este modo, en parte por los viajes de los barcos, en parte por la ciencia y la lectura de las estrellas, los reyes de los Hombres supieron que el mundo era en verdad redondo...
+{Quote_246}...si así lo quería, podía parecer hermoso y noble, de modo que era capaz de engañar a todos, salvo a los más precavidos.
+{Quote_247}Gilgalad hijo de Fingon, era el rey, y con él estaba Elrond el Medio Elfo, hijo de Eärendil el Marinero y hermano de Elros, primer Rey de Númenor.
+{Quote_248}...sobrevivientes de Doriath y Ossiriand…establecieron reinos entre los Elfos de la Floresta en bosques y montañas, lejos del mar, por el que no obstante siempre sintieron mucha nostalgia.
+{Quote_249}Eregion estaba cerca de las grandes mansiones de los Enanos, que se llamaban Khazad-Dûm, pero los Elfos las llamaron Hadhodrond, y después Moria.
+{Quote_250}Desde Ost-in-Edhil, la ciudad de los Elfos, la ruta iba hacia el portal occidental de Khazad-Dûm, porque hubo amistad entre Elfos y Enanos…
+{Quote_251}En Eregion, los artífices de los Gwaith-i-Mírdain, el Pueblo de los Orfebres, sobrepasaban en habilidad a todos cuantos hubiera habido, excepto a Fëanor.
+{Quote_252}Y en el sur y en el este lejano los Hombres se multiplicaron; y la mayor parte de ellos se inclinó al mal, pues Sauron trabajaba ahora.
+{Quote_253}Los Orcos podían pagar cinco por uno en este cambio, pero esto era demasiado barato.
+{Quote_254}En aquellos días los herreros de Ost-in-Edhil superaron todo cuanto habían hecho antes… al cabo de un tiempo hicieron los Anillos del Poder. Pero Sauron guiaba estos trabajos…
+{Quote_255}Ahora bien, los Elfos hicieron muchos anillos, pero Sauron hizo en secreto un Anillo Único, para gobernar a todos los otros, cuyos poderes estarían atados a él, sujetos por completo a él...
+{Quote_256}...al ver que lo habían descubierto, y que los Elfos no habían sido engañados, sintió gran cólera, y los enfrentó exigiéndoles que le entregaran todos los anillos...
+{Quote_257}Ahora bien, eran esos Tres los últimos que se habían hecho, y los que tenían más grande poder. Narya, Nenya y Vilya se llamaban, los Anillos del Fuego, y del Agua, y del Aire...
+{Quote_258}Pero Sauron recogió todos los Anillos del Poder que quedaban, y los repartió entre los otros pueblos de la Tierra Media...
+{Quote_259}Siete anillos dio a los Enanos; pero a los Hombres les dio nueve; porque los Hombres en esto, como en otros asuntos, demostraron ser los más dispuestos a someterse.
+{Quote_260}Sólo llevaban los anillos para la adquisición de riquezas; pero la ira y una abrumadora codicia de oro les encendió los corazones, mal del que luego Sauron obtuvo gran beneficio...
+{Quote_261}Se dice que el principio de cada uno de los Siete Tesoros de los reyes Enanos de antaño fue un anillo de oro; pero todos esos tesoros hace ya mucho que fueron saqueados, y los dragones los devoraron...
+{Quote_262}Fue más fácil engañar a los Hombres. Los que llevaron los Nueve Anillos alcanzaron gran poder en su época: reyes, hechiceros y guerreros de antaño.
+{Quote_263}Eran ellos los Nazgûl, los Espectros del Anillo, los más terribles servidores del Enemigo; la oscuridad andaba con ellos, y clamaban con las voces de la muerte.
+{Quote_264}…y Sauron dominó otra vez a todas las criaturas malignas de los días de Morgoth que aún quedaban sobre la tierra o debajo de ella, y los Orcos le obedecían...
+{Quote_265}...En el este y el sur dominaba a casi todos los Hombres…se volvieron fuertes por aquellos días y levantaron muchas ciudades y muros de piedra, y eran numerosos y feroces en la guerra y estaban armados de hierro.
+{Quote_266}Para ellos Sauron era rey y dios; y le tenían mucho miedo, porque él ponía a su casa un cerco de llamas.
+{Quote_267}Los principales de ellos eran Elendil el Alto y sus hijos, Isildur y Anárion. Aunque parientes del rey, como descendientes de Elros...
+{Quote_268}En Fornost, en los Bajos Septentrionales, también vivían los Númenóreanos, y en Cardolan, y en las colinas de Rhudaur; y levantaron torres sobre Emyn Beraid y sobre Amon Súl.
+{Quote_269}...la ciudad principal se encontraba en Annúminas, junto a las aguas del Lago Nenuial.
+{Quote_270}…y establecieron un reino en esas tierras que se llamaron después Gondor, mientras que el Reino Septentrional se llamó Arnor.
+{Quote_271}La principal ciudad del reino austral era Osgiliath, a través de la cual fluía el Río Grande.
+{Quote_272}Muchos tesoros y reliquias de gran virtud y maravilla trajeron los Exiliados de Númenor; y de éstos los más renombrados eran las Siete Piedras y el Árbol Blanco.
+{Quote_273}Y Sauron reunió una gran fuerza de servidores venidos del este y del sur; y entre ellos no pocos eran de la raza de Númenor.
+{Quote_274}Ahora bien, Elendil y Gil-galad...se hizo la Liga que se llamó la Ultima Alianza, y marcharon hacia el este a la Tierra Media reuniendo una gran hueste de Elfos y de Hombres.
+{Quote_275}En aquel momento allí provino un inesperado soplo de cuernos, y los Orcos se acercaban por todos los lados, arrojándose contra los Dúnedain con imprudente ferocidad.
+{Quote_276}De los Enanos, pocos eran los que luchaban también en los dos bandos; pero el clan de Durin de Moria luchaba contra Sauron.
+{Quote_277}El ejército de Gil-galad y Elendil obtuvo la victoria, porque el poder de los Elfos era grande todavía en ese entonces, y los Númenóreanos eran fuertes y altos, y terribles en la cólera.
+{Quote_278}...Sauron también fue derribado, y con la empuñadura desprendida de Narsil, Isildur cortó el Anillo de la mano de Sauron, y lo tomó.
+{Quote_279}Los Númenóreanos montaron guardia por cierto, junto a la tierra de Mordor, pero nadie se atrevió a morar allí por causa del terror del recuerdo de Sauron...
+{Quote_280}”Esto lo conservaré como indemnización por la muerte de mi padre y por la de mi hermano. ¿No fui yo el que asestó al Enemigo el golpe de muerte?”
+{Quote_281}Y el Señor Elrond anunció que no se lo haría en tanto no se reencontrara el Anillo Regente y Sauron volviera.
+{Quote_282}...los Hombres del Occidente, los Dúnedain del Norte, se dividieron en mezquinos reinos y señoríos, y sus enemigos los devoraron uno por uno.
+{Quote_283}...y los demás Hombres nada sabían de dónde moraban ni del propósito de esas idas y venidas, y salvo en Imladris, en la casa de Elrond, el linaje quedó olvidado.
+{Quote_284}En el sur, Gondor perduró, y durante un tiempo creció en esplendor, hasta que la riqueza y majestad del reino hizo recordar a Númenor antes de la caída.
+{Quote_285}Altas torres levantó el pueblo de Gondor, y fortalezas, y puertos de muchos barcos; y la Corona Alada de los Reyes de los Hombres fue reverenciada por gentes de muchas tierras, y de muchas lenguas.
+{Quote_286}...y moraron en Minas Ithil; y lo convirtieron en un lugar tan espantoso, que nadie se atrevía a mirarlo.
+{Quote_287}...se llamó Minas Morgul, la Torre de la Hechicería; y Minas estaba siempre en guerra con Minas Anor, en el oeste.
+{Quote_288}...Osgiliath, que con la decadencia de su gente hada ya mucho que estaba desierta, se convirtió en lugar de ruinas y fantasmas.
+{Quote_289}Minas Anor resistió, y recibió un nuevo nombre: Minas Tirith, la Torre de la Guardia.
+{Quote_290}...el resto de los Númenóreanos aún defendía eí pasaje del Río contra los Terrores de Minas Morgul, y contra todos los Enemigos del Oeste, Orcos y monstruos, y Hombres malvados.
+{Quote_291}...pero cuando la línea de los reyes se extinguió, los Senescales de la casa de Mardil el Fiel gobernaron la ciudad y el reino, cada vez más menguado
+{Quote_292}...y los Rohirrim, los Jinetes del Norte, llegaron y moraron en la verde tierra de Rohan que se llamó antes Calenardhon y fue parte del Reino de Gondor; y los Rohirrim ayudaron a los Señores de la Ciudad en la guerra.
+ {Quote_293}Y al norte, más allá de los Saltos del Rauros y las Puertas de Argonath, había todavía otras defensas, poderes más antiguos de los que poco sabían los Hombres, y que las criaturas malignas no se atrevían a molestar
+{Quote_294}En Eriador, Imladris era la más importante morada de los Altos Elfos; pero en los Puertos Grises de Lindon moraba también un resto del pueblo de Gil-galad el Rey de los Elfos.
+{Quote_295}Aunque Reina de los Elfos del Bosque, y esposa de Celeborn de Doriath, Galadriel pertenecía a los Noldor, y recordaba al Día anterior a los días en Valinor...
+{Quote_296}...y era la más poderosa y la más bella de los Elfos que habían quedado en la Tierra Media
+{Quote_297}Orcos, y trasgos, y dragones, y bestias salvajes, y extrañas criaturas de los bosques, viejas y sabias, cuyos nombres se han olvidado.
+{Quote_298}Los Enanos trabajaban aún en las montañas, y labraban con paciente artesanía obras de metal y de piedra que hoy nadie puede igualar.
+{Quote_299}Entonces el nombre del bosque cambió y se llamó Bosque Negro, pues la noche era allí profunda,…salvo sólo por el norte, donde el pueblo de Thranduil aún mantenía el mal a raya.
+{Quote_300}Mientras aún las primeras sombras empezaban a invadir el Bosque Negro, en el oeste de la Tierra Media aparecieron los Istari, a quienes los Hombres llamaron los Magos.
+{Quote_301}De éstos Curunír era el mayor y el que llegó primero, y después de él llegaron Mithrandir y Radagast, y otros de los Istari que fueron al este de la Tierra Media...
+{Quote_302}Galadriel había deseado en verdad que Mithrandir fuera la cabeza del Concilio, y Saruman se lo reprochó, pues su orgullo y su deseo de dominio eran ahora grandes.
+{Quote_303}Y Elrond contestó: “En la hora en que Isildur tomó el Anillo y no quiso cederlo, se obró este hado, que Sauron volvería. “
+{Quote_304}Durante demasiado tiempo había estudiado los pasos de Sauron con la esperanza de derrotarlo, y ahora le tenía más envidia como rival que odio por lo que había hecho.
+{Quote_305}...deseaba que él y no otro fuese quien encontrara el Anillo, y así podría ponérselo y doblegar a todo el mundo a voluntad.
+{Quote_306}”El poder de los Elfos y de los Amigos de los Elfos es menor ahora de lo que fue. Sauron será pronto demasiado fuerte para nosotros, aun sin el Gran Anillo”
+{Quote_307}Los Orcos estaban reuniéndose; y lejos al este y al sur los pueblos salvajes se armaban
+{Quote_308}Entonces estalló la guerra, y en la batalla con Sauron la Tercera Edad acabó como había empezado.
+{Quote_309}Era Aragorn hijo de Arathorn, el trigésimo noveno heredero en línea directa de Isildur, y sin embargo más semejante a Elendil que ninguno antes de él.
+{Quote_310}En esa última batalla estaban Mithrandir, y los hijos de Elrond, y el Rey de Rohan, y los señores de Gondor, y el Heredero de Isildur con los Dúnedain del Norte.
+{Quote_311}”Toma ahora este Anillo” le dijo, “porque trabajos y cuidados te pasarán, pero él te apoyará en todo y te defenderá de la fatiga.”
+{Quote_312}El antiguo camino Este-Oeste atravesaba la Comarca hasta los Puertos Grises, y los enanos habían tomado siempre esa ruta para llegar a las minas de las Montañas Azules.
+{Quote_313}”Sólo en minería y en construcciones hemos superado los viejos tiempos.”
+{Quote_314}...las Montañas Grises, donde estaba juntándose la mayoría del pueblo de Durin; porque esas montañas eran ricas y estaban poco exploradas. Pero había dragones en los yermos de allende las montañas...
+{Quote_315}”Los padres nos rogaban que tomásemos a sus hijos como aprendices y nos pagaban bien, sobre todo con provisiones, pues nosotros nunca sembrábamos, ni buscábamos comida.”
+{Quote_316}”…De cualquier modo se hicieron inmensamente ricos, y mi abuelo fue de nuevo Rey bajo la Montaña y tratado con gran respeto por los mortales.”
+{Quote_317}”Así los salones de mi abuelo se llenaron de armaduras, joyas, grabados y copas...Sin duda eso fue lo que atrajo al dragón.
+{Quote_318}...los orientales obtuvieron la victoria. Pero no pudieron tomar la Puerta y muchos Enanos y Hombres se refugian en Erebor...
+{Quote_319}No podemos salir. El fin se acerca”, y luego “tambores, tambores en los abismos.” Me pregunto qué será esto. Las últimas palabras son un garabateo arrastrado en letras élficas: “están acercándose.”
+{Quote_320}”Algunos hablaron de Moria...y decían que al fin teníamos el poder y el número suficiente para emprender la vuelta.”
+{Quote_321}”… Los informes decían que habían entrado en Moria y que habían iniciado allí grandes trabajos. Luego siguió un silencio y ni una palabra llegó de Moria desde entonces.”
+{Quote_322}”Tú no entrarás en Khazad-dûm. Sólo yo he mirado a través de la sombra de las Puertas. Más allá de la sombra te espera todavía el Daño de Durin.”
+{Quote_323}Por entonces los Enanos cavaban muy hondo bajo Barazimbar en busca de mithril…De ese modo despertaron del sueño a una criatura espantada.
+{Quote_324}Habían mandado mensajeros de acá para allá entre las ciudades, colonias y plazas fuertes, pues habían decidido conquistar el dominio del Norte.
+{Quote_325}...hasta llegar a las cercanías de la gran Montaña Gundabad del Norte, donde tenían la capital. Allí juntaron un inmenso ejército, preparado para caer en tiempo tormentoso sobre los ejércitos desprevenidos del Sur.
+{Quote_326}Se le posó impertérrito junto a la oreja y le comunicó las nuevas. Maravillado, Bardo se dio cuenta de que entendía la lengua del zorzal, pues era de la raza de Valle.
+{Quote_327}Estaba empapado en agua, el pelo negro le colgaba en mechones húmedos sobre la cara y los hombros, y una luz fiera le brillaba en los ojos.
+{Quote_328}Pero una compañía de arqueros se mantenía aún firme entre las casas en llamas. Bardo era el capitán, el de la voz severa y cara ceñuda...
+{Quote_329}Sacaban aún algún provecho…desde el Sur…pero en los grandes días de antaño, cuando el Valle Norte era rico y próspero, ellos habían sido poderosos hombres de fortuna…
+{Quote_330}Bardo envió en seguida unos rápidos mensajeros...para pedir ayuda al Rey de los Elfos...
+{Quote_331}...cuando recibió el pedido de Bardo, sintió piedad, pues era señor de gente amable y buena…
+{Quote_332}”Pero en ninguna parte hay hombres que nos muestren tanta amistad como los del valle. Son buena gente los Bárdidos.”
+{Quote_333}”Eorl el joven los trajo del Norte en años ya olvidados y están emparentados sobre todo con los Bárdidos del Valle y los Beórnidas del Bosque, entre quienes pueden verse aún muchos hombres altos y hermosos, como los Jinetes de Rohan…”
+{Quote_334}”La guerra ya está a punto de estallar en las fronteras occidentales del valle. Si no respondemos, el enemigo puede atraerse a algunos hombres y atacar al Rey Brand y también a Dáin.”
+{Quote_335}...una hueste de los aliados de Sauron que venían amenazando desde hacía mucho las fronteras del Rey Brand, cruzó el Río Carnen, y Brand fue obligado a retroceder hasta el Valle.
+{Quote_336}Tuvo lugar la gran batalla al pie de las Montañas. Duró tres días, pero al final tanto el Rey Brand como el Rey Dáin Pie de Hierro resultaron muertos, y los Hombres del Este obtuvieron la victoria.
+{Quote_337}...el ejército septentrional de Sauron sintió un gran desánimo, y los sitiados salieron y lo pusieron en desordenada fuga, y el resto huyó al Este y ya nunca más perturbó el Valle.
+{Quote_338}”a una edad ya avanzada aún pueda blandir el hacha con tanto vigor como dicen que lo hizo...ante las Puertas de Erebor hasta que cayó la oscuridad.”
+{Quote_339}”Pero ve especialmente a mi primo Dain en las Colinas de Hierro, pues tiene mucha gente bien armada y vive cerca.”
+{Quote_340}Era Dáin Pie de Hierro, hijo de Náin. Justo ante las puertas atrapó a Azog, y allí le dio muerte
+{Quote_341}Dáin fue un gran rey y muy sabio, y los Enanos prosperaron y volvieron a ser fuertes.
+{Quote_342}Glorfindel era alto y erguido, el cabello de oro resplandeciente, la cara joven y hermosa, libre de temores y luminosa de alegría… había sabiduría en aquella frente y fuerza en aquella mano.
+{Quote_343}”Sí, lo viste un momento tal como es en el otro lado, uno de los poderosos Primeros Nacidos. Es el Señor Elfo de una casa de príncipes.”
+{Quote_344}”Tres de los sirvientes de Sauron llegaron hasta el puente, pero se retiraron y los perseguí hacia el oeste. Tropecé con otros dos, que se volvieron alejándose hacia el sur.”
+{Quote_345}De Khamûl se dice aquí que de todos los Nazgûl era, después del mismo Capitán Negro, el que con más facilidad percibía la presencia del Anillo...
+{Quote_346}En las caras blancas ardían unos ojos penetrantes y despiadados; bajo los mantos llevaban unas vestiduras largas y grises; yelmos de plata cubrían las cabelleras canosas…
+{Quote_347}En los últimos años de Denethor I, la raza de los uruks, orcos negros de gran fuerza, salieron por primera vez de Mordor, y en 2475 atravesaron Ithilien y se apoderaron de Osgiliath.
+{Quote_348}Llevaba una corona de acero, pero nada visible había entre el aro de la corona y el manto, salvo el fulgor mortal de unos ojos: el Señor de los Nazgûl.
+{Quote_349}...sus voces siniestras desgarraban el aire. Y cada nuevo grito era más intolerable para los hombres.
+{Quote_350}En la última batalla de Fornost con el Señor Brujo de Angmar, enviaron algunos arqueros en ayuda del rey, o por lo menos así lo afirmaron, si bien esto no aparece en ningún relato de los Hombres.
+{Quote_351}Pero entonces Glorfindel se acercó montado en su caballo blanco, y aún mientras reía, el Rey Brujo dio media vuelta para huir y desapareció en las sombras.
+{Quote_352}Los restos de los Dúnedain del Norte se convirtieron en montaraces y errantes, viviendo la mayor parte del tiempo en la clandestinidad, pero siempre librando la guerra contra el mal, por muy lejos que estuvieran de sus tierras
+{Quote_353}Con Isildur iban...una guardia de doscientos caballeros y soldados, hombres decididos de Arnor y endurecidos en la guerra.
+{Quote_354}Las flechas de nada habían servido contra las armaduras númenóreanas. Los grandes Hombres sobrepasaban a los más altos Orcos, y sus espadas y sus lanzas tenían mayor alcance que las armas de sus enemigos.
+{Quote_355}Isildur ordenó que se levantara un thangail, un muro de defensa de dos filas unidas que podían retroceder en ambos extremos si eran flanqueadas, y si era necesario, convertirse en un anillo cerrado.
+{Quote_356}Los Orcos...y lanzaron la gran masa de sus principales guerreros cuesta abajo con la esperanza de quebrantar la línea de defensa de los Dúnedain. Pero éstos se mantuvieron firmes.
+{Quote_357}Parecía venerable como un rey coronado por muchos inviernos y vigoroso sin embargo como un guerrero probado en la plenitud de sus fuerzas.
+{Quote_358}Era tan noble y de facciones tan hermosas como un señor de los elfos, fuerte como un guerrero, sabio como un mago, venerable como un rey de los enanos, y benévolo como el estío.
+{Quote_359}Elladan y Elrohir, llevaban una vida errante y a menudo iban a caballo hasta muy lejos junto con los Montaraces del Norte…
+{Quote_360}”Son espadas...muy antiguas...Esta, Thorin, las runas dicen Orcrist, la Hiende Trasgos en la ancestral lengua de Gondolin...”
+{Quote_361}”Me recordaron la gloria de los Días Antiguos y las huestes de Beleriand, tantos grandes príncipes y capitanes estaban allí presentes.”
+{Quote_362}A la vanguardia de la carga vieron dos grandes jinetes, vestidos de gris, a diferencia de los otros, y los Orcos huyeron ante ellos…
+{Quote_363}Denethor II fue un hombre orgulloso, alto, valiente y de aire más soberano que ningún otro hombre que hubiera aparecido en Gondor durante muchas vidas; y era sabio además, y previsor, y conocedor de la ciencia.
+{Quote_364}…había osado mirar la palantír de la Torre Blanca...pagó caro este conocimiento, pues envejeció prematuramente combatiendo con la voluntad de Sauron.
+{Quote_365}Era orgulloso, pero no por motivos meramente personales: amaba a Gondor y a su pueblo, y se creía designado por el destino para conducirlos en esos tiempos de infortunio.
+{Quote_366}”No es semejante a los otros hombres de esta época, Pippin, y cualquiera que sea su ascendencia, por un azar extraño la sangre de Oesternesse le corre casi pura por las venas”
+{Quote_367}Se levantó y se abrió bruscamente el largo manto negro, y he aquí que debajo llevaba una cota de malla y ceñía una espada larga de gran empuñadura en una vaina de plata y azabache.
+{Quote_368}”Boromir era un hombre digno, todos lo alababan. Pocas veces venía a la Marca, pues estaba siempre en las guerras de las fronteras del Este”
+{Quote_369}”...mi hermano...decidió tener en cuenta el sueño y buscar a Imladris, pero el camino era peligroso e incierto y yo mismo emprendí el viaje.”
+{Quote_370}Los Hijos de Denethor resistieron contra los Espectros del Anillo pero fueron derrotados por el Capitán Negro...pero todavía mantenían el control de Osgiliath Oeste.
+{Quote_371}”Eran más numerosos que nosotros, pues Mordor se ha aliado a los Hombres del Este y a los crueles Haradrim”
+{Quote_372}”Luego Boromir echó al enemigo más allá de esta orilla occidental, y aún conservamos la mitad de Osgiliath.”
+{Quote_373}Faramir se batía en retirada hacia los muros del Pelennor, reuniendo a todos sus hombres en los Fuertes de la Explanada; pero el enemigo era diez veces superior en número.
+{Quote_374}Unas bestias enormes, que a la luz trémula y roja parecían verdaderas casas ambulantes, los Mûmakil de los Harad, arrastraban enormes torres y máquinas de guerra…
+{Quote_375}...y más al sur desde los campos, la infantería de los Harad, precedida por la caballería y seguida por los Mûmakil de lomos gigantescos que transportaban torres de guerra.
+{Quote_376}...y Duilin de Morthond y su hermano habían perecido pisoteados por los Mûmakil cuando al frente de los arqueros se acercaban para disparar a los ojos de los monstruos.
+{Quote_377}”Pero los trolls son sólo una impostura, fabricados por el enemigo en la Gran Oscuridad, una falsa imitación de los ents, así como los orcos son imitación de los elfos. Somos más fuertes que los trolls.”
+{Quote_378}...salía solo, vestido de blanco, y entraba como un troll de las nieves en los campamentos del enemigo...
+{Quote_379}”...pero hay algo más ahí. Un gran troll de las cavernas, creo, o más que uno.”
+{Quote_380}...Pero a fines de la Tercera Edad apareció en el sur del Bosque Negro y en las fronteras montañosas de Mordor una raza de Trolls nunca vista antes. Olog-hai se llamaban en Lengua Negra.
+{Quote_381}…en medio de ellas avanzaba un ariete de proporciones gigantescas...arrastrado por las grandes bestias...unos trolls de las montañas avanzaban detrás, listos para manejarlo en el momento preciso.
+{Quote_382}Eran Trolls, pero llenos de la mala voluntad de su amo: una raza feroz, fuerte, ágil, salvaje y astuta, pero más dura que la piedra.
+{Quote_383}Entonces Pippin lanzó una estocada hacia arriba, y la hoja del Oesternesse atravesó la membrana coriácea y penetró en los órganos vitales del troll...
+{Quote_384}Hacia el este galopaban los caballeros del Dol Amroth, empujando delante al enemigo: trolls, variags y orcos que aborrecían la luz del sol.
+{Quote_385}Hombres del Este que empuñaban hachas, Variags que venían de Khand, Hombres del Sur vestidos de escarlata, y Hombres Negros que de algún modo parecían trolls llegados de la Lejana Harad, de ojos blancos y lenguas rojas.
+{Quote_386}”¡Los Corsarios de Umbar!”, gritaron....“¡Los Corsarios ya están sobre nosotros! ¡Es el último golpe del destino!“
+{Quote_387}Pues una vez más había renacido en él el espíritu guerrero; y aún seguía indemne, y era joven, y era el rey: el señor de un pueblo indómito.
+{Quote_388}”Yo no me apoderaría de esa cosa...Ni aunque Minas Tirith cayera en ruinas, y sólo yo pudiera salvarla, así, utilizando el arma del Señor Oscuro para bien de la ciudad, y para mi gloria.”
+{Quote_389}Todos estaban encapuchados y enmascarados, y llevaban las manos enguantadas, e iban armados como Faramir y sus compañeros.
+{Quote_390}”No es fuerte”, respondió Faramir, “como os he dicho, he enviado allí la compañía de Ithilien, para reforzarla.”
+{Quote_391}...en el gran feudo de Belfalas, residía el Príncipe Imrahil en el castillo de Dol Amroth a orillas del mar, y era de antiguo linaje, al igual que todos los suyos, hombres altos y arrogantes, de ojos grises como el mar.
+{Quote_392}Aragorn y Éomer e Imrahil...ilesos los tres por obra de la fortuna y el poder y la destreza de sus brazos; pocos se habían atrevido a enfrentarlos o desafiarlos en la hora de la cólera.
+{Quote_393}…y lo acompañaba el Príncipe de Dol Amroth, en brillante cota de malla. Pues él y sus caballeros se consideraban todavía señores de la auténtica raza de Númenor....
+{Quote_394}Tras él marchaba, orgullosa, una polvorienta caravana de hombres armados y ataviados, que empuñaban grandes hachas de combate; eran fieros de rostro...
+{Quote_395}De las mesetas de Morthond, el ancho Valle de la Raíz Negra, Duinhir el Alto, acompañado por sus hijos, Duilin y Derufin, y quinientos arqueros.
+{Quote_396}”Porque este ataque nos restará gran parte del auxilio que contábamos recibir de Lebennin y Belfalas, donde los hombres son valientes y numerosos.”
+{Quote_397}...los corsarios de Umbar, un país del Sur. Hace tiempo que dejaron de temer el poderío de Gondor, y se han aliado al enemigo, y ahora intentan ayudarle con un golpe duro.
+{Quote_398}”…en Pelargir se encontraba la flota principal de Umbar, cincuenta navíos de gran envergadura y una infinidad de embarcaciones más pequeñas.”
+{Quote_399}...era también quien más secuaces tenía entre los rebeldes; porque era el Capitán de los Barcos y contaba con el apoyo de la gente de las costas y de los grandes puertos de Pelargir y Umbar.
+{Quote_400}”¡Es que no soy ningún hombre viviente! Lo que tus ojos ven es una mujer. Soy Éowyn hija de Éomund. Pretendes impedir que me acerque a mi señor y pariente.”
+{Quote_401}”¡Vete de aquí si no eres una criatura inmortal! Porque vivo o espectro oscuro, te traspasaré con mi espada si lo tocas.”
+{Quote_402}En medio de la refriega luchaba Théoden hijo de Thengel, y la lanza se le rompió en mil pedazos cuando abatió al capitán enemigo.
+{Quote_403}Galopaba con un furor demente, como si la fervorosa sangre guerrera de sus antepasados le corriera por las venas en un fuego nuevo; y transportado por Crinblanca parecía un dios de la antigüedad…
+{Quote_404}Casi toda la mitad norte de Pelennor estaba ocupada por los Rohirrim, y los campamentos ardían, y los orcos huían en dirección al río como manadas de animales salvajes perseguidas por cazadores.
+{Quote_405}Pero fue un rey de mérito y sabiduría.
+{Quote_406}Poco después del regreso de Thengel, Saruman se declaró Señor de Isengard y empezó a perturbar a Rohan, amenazando sus fronteras y apoyando a sus enemigos.
+{Quote_407}Por fin obtuvo autorización del Senescal y reunió una pequeña flota y se dirigió inesperadamente a Umbar por la noche y allí incendió gran parte de los barcos de los Corsarios.
+{Quote_408}”Tengo conmigo treinta hombres...Todos los de nuestra sangre que pude reunir con tanta prisa; pero los hermanos Elladan y Elrohir nos han acompañado, pues desean ir a la guerra.”
+{Quote_409}Y un grito se elevó en respuesta desde los muros, pues en el campo de batalla y a la vanguardia galopaban los caballeros del cisne de Dol Amroth, con el Príncipe Imrahil a la cabeza, seguido de su estandarte azul.
+{Quote_410}Sin embargo, alrededor de la Puerta la defensa era aún fuerte, pues allí resistían los caballeros de Dol Amroth y los hombres más intrépidos de la guarnición.
+{Quote_411}…y desde la ciudad descendían todos los hombres que habían quedado dentro; llevaban el cisne de plata de Dol Amroth, y dispersaron a los enemigos que custodiaban la Puerta.
+{Quote_412}Estaba allí también un elfo extraño, vestido de castaño y verde, Legolas, que traía un mensaje de su padre, Thranduil, el Rey de los Elfos del Bosque Negro del Norte.
+{Quote_413}”Hemos sabido que muchos reyes han venido del Este al servicio de Mordor. Desde el Norte hasta el campo de Dagorlad hay escaramuzas y rumores de guerra.”
+{Quote_414}”¿Así que no volverás? ¡Maldito seas, Snaga, gusano infecto!”
+{Quote_415}”Ven, y te arrancaré los ojos, como se los acabo de arrancar a Radbug.”
+{Quote_416}”¡Vamos!” dijo Aragorn “¡Ha llegado la hora de las espadas!”
+{Quote_417}”¡Los orcos están detrás del muro!...Ven aquí, Legolas. ¡Hay bastante para los dos! Khazâd ai-mênu!”
+{Quote_418}”¡Los orcos están en el Abismo!” gritó “¡Helm! ¡Helm! ¡Adelante, Helmingas!”
+{Quote_419}Oropher era de origen sindarin y, sin duda, Thranduil, su hijo, estaba siguiendo el ejemplo del Rey Thingol mucho antes en Doriath; aunque sus muros no podían compararse con Menegroth.
+{Quote_420}”Matarla sería hacer justicia. Pero no siempre fue como ahora. Alguna vez fue un hombre y os prestó servicio a su manera…”
+{Quote_421}”Yo soy el Ujier de Armas de Théoden” dijo “Me llamo Háma”
+{Quote_422}”¡Vuelve al abismo preparado para ti! ¡Vuelve! ¡Húndete en la nada que te espera, a ti y a tu Amo! ¡Vete!”
+{Quote_423}Los ecos resonaban débiles en los flancos sombríos del Mindolluin. Grandes cuernos del Norte, soplados con una fuerza salvaje. Al fin Rohan había llegado.
+{Quote_424}...forjada en acero y hierro, y custodiada por torres y bastiones de piedra inexpugnables, la Puerta era la llave, el punto débil de aquella muralla impenetrable y alta.
+{Quote_425}Las compañías en marcha cubrían toda la llanura, y en aquella oscuridad y hasta donde los ojos alcanzaban a ver, grandes campamentos de tiendas negras… brotaban alrededor de la ciudad sitiada.
+{Quote_426}Pero pronto no quedaron en Minas Tirith hombres de tanta entereza como para desafiar a los ejércitos de Mordor.
+{Quote_427}Lentamente, las grandes torres de asedio construidas en Osgiliath avanzaron en las tinieblas.
+{Quote_428}”Y durante todo ese tiempo hay otro peligro, que él no ve… Ha olvidado a Bárbol.”
+{Quote_429}”Un ent encolerizado es aterrador. Se aferra a las rocas con los dedos de las manos y los pies y las desmenuza como migajas de pan.”
+{Quote_430}”¡Somos los combatientes Uruk-hai!...Somos los sirvientes de Saruman el Sabio, la Mano Blanca: la mano que nos da de comer carne humana.”
+{Quote_431}...esa gran fortaleza, armería, prisión, horno de gran poder, Barad-dûr, la Torre Oscura, la cual no sufrirá rival alguno...
+{Quote_432}”De modo que sospechando lo que más temo, una alianza entre Orthanc y la Torre Oscura… Alcanzamos a los orcos a la caída de la noche hace ya dos días, cerca de los lindes del Bosque de los Ent.”
+{Quote_433}”Pero Isengard no puede luchar contra Mordor, a menos que Saruman obtenga antes el Anillo. Esto no lo conseguirá ahora. Nada sabe aún del peligro en que se encuentra. Son muchas las cosas que ignora.”
+{Quote_434}”Saruman parecía decidido a exterminar de un solo golpe al rey y a todos sus hombres. Evacuó Isengard…”
+{Quote_435}”…filas interminables de orcos en marcha; y tropas de orcos montados sobre grandes lobos. Y también batallones de hombres.”
+{Quote_436}”Está por ocurrir algo que no se ha visto desde los Días Antiguos: los Ents despertarán y descubrirán que son fuertes.”
+{Quote_437}De pronto, los orcos prorrumpieron en gritos agudos agitando lanzas y espadas y disparando una nube de flechas contra todo cuanto se veía por encima de los parapetos
+{Quote_438}Sorprendidos, las criaturas titubearon, se desbandaron y emprendieron la fuga; pero en seguida volvieron a la carga, dispersándose y atacando de nuevo, y cada vez, como una marea creciente, se detenían en un punto más elevado.
+{Quote_439}”De nada serviría intentar una carga con ellos. No harán otra cosa que chillar y dar saltos y hay bastantes de esos inmundos palafraneros para hacernos morder el polvo aquí mismo.”
+{Quote_440}”¡Somos los combatientes Uruk-hai! Hemos abatido al Gran Guerrero.”
+{Quote_441}...Grishnákh reapareció y detrás una veintena de otros como él: orcos patizambos de brazos largos. Llevaban un ojo rojo pintado en los escudos.
+{Quote_442}...Uglúk fue atrapado en el linde mismo del bosque. Allí murió al fin a manos de Éomer, el Tercer Mariscal de la Marca, que desmontó y luchó con él, espada contra espada.
+{Quote_443}”¿Quién se cree, volando por cuenta propia y envuelto en sucios trapos blancos?... y yo, Grishnákh, digo: Saruman es un idiota, sucio y traidor. Pero el Gran Ojo no lo deja en paz.”
+{Quote_444}”¿Qué tiene que ver el alba?” se mofaron los orcos “Somos los Uruk-hai… Venimos a matar, a la luz del sol o de la luna.”
+{Quote_445}El enemigo seguía arrojando ganchos y tendiendo escalas. Una y otra vez los orcos llegaban a lo alto del muro exterior y otra vez eran derribados por los defensores.
+{Quote_446}”La Señora del Bosque Dorado está de nuestra parte, según parece” dijo Borondir.
+{Quote_447}”Pero si eres débil y escapas al combate, has equivocado el camino. Tu ruta es la de Lugbúrz. Los Pálidos se acercan.”
+{Quote_448}”Hay aquí muchos cadáveres que no son de gente de Mordor. Algunos vienen del Norte, de las Montañas Nubladas, si algo sé de orcos y sus congéneres.”
+{Quote_449}”El Ojo Rojo mirará ahora hacia Isengard. Pero en este momento Saruman se encuentra en un atolladero que él mismo se ha fabricado.”
+{Quote_450}Boromir tocó el gran cuerno, hasta que los sonidos estremecieron el bosque, pero cuando no llegó otra respuesta que los ecos, los orcos atacaron con más fiereza.
+{Quote_451}En seguida llegó Boromir, saltando entre los árboles. Los obligó a combatir. Mató a muchos y el resto escapó.
+{Quote_452}...Pero aún no se habían alejado en el camino de vuelta cuando un centenar de orcos los atacó otra vez. Algunos eran muy corpulentos y lanzaban lluvias de flechas, siempre contra Boromir.
+{Quote_453}”Traté de sacarle el Anillo a Frodo” dijo “Lo siento. He pagado.”
+{Quote_454}”Y son feroces cuando se excitan. No los detendrán… hasta que hayan tomado prisionero a Théoden, o ellos mismos hayan sucumbido.”
+{Quote_455}”Quizá contemos con unos mil hombres aptos para combatir a pie” dijo Gamelin… “Pero la mayoría ha visto muchos inviernos, como yo, O demasiado pocos, como el hijo de mi hijo, aquí presente.”
+{Quote_456}”Ayudad ahora a reparar el mal del que habéis sido cómplices” les dijo Erkenbrand ¡más tarde prestaréis juramento de que no volveréis a cruzar en armas los Vados del Isen, ni a aliaros con los enemigos de los hombres”
+{Quote_457}”¡Yrch!”dijo Legolas, volviendo involuntariamente a su propia lengua…
+{Quote_458}Los Elfos silvanos eran osados y valientes, pero estaban mal equipados en armaduras y armas, comparados con los Elfos del Oeste.
+{Quote_459}Estaban silenciosos y se mantenían a distancia, fuera del alcance de los temibles arcos de acero de Númenor.
+{Quote_460}Entonces Gil-galad y Elendil entraron en Mordor y rodearon la fortaleza de Sauron; y la sitiaron durante siete años...
+{Quote_461}”Ya se nos han unido muchos fugitivos de Cair Andros. La isla ha caído. Un nuevo ejército ha salido por la Puerta Negra, y viene hacia aquí a través del noreste.”
+{Quote_462}Ambos bandos fueron implacables, y hubo muerte y hechos de crueldad....
+{Quote_463}Cuando todo estuvo dispuesto, atacaron y saquearon una por una todas las fortalezas de los Orcos que pudieron encontrar, desde Gundabad hasta los Gladios.
+{Quote_464}Pero una gran hueste de enemigos estaba dispuesta en orden de batalla sobre las laderas encima de ellos, y por las puertas salió una multitud de Orcos reservados por Azog en caso de necesidad.
+{Quote_465}Llegados últimos y descansados al campo, los guerreros de Náin, hijo de Grór, vestidos de cota de malla, se abrieron paso a través de los Orcos hasta los umbrales mismos de Moria al grito de "¡Azog, Azog!"
+{Quote_466}"¿Cómo? ¿Otro mendigo a mi puerta? ¿Tengo que marcarte también a ti?"
+{Quote_467}”¡Fuerza! Ahora mismo os daría una buena zurra, aunque cuando lleguéis con retraso a vuestro campamento recibiréis tantos latigazos como os quepan en el pellejo.”
+{Quote_468}Pero los hombres de Rhûn y de Harad, los del Este y los Sureños… los que más se habían sometido a aquella servidumbre, aquellos que odiaban al Oeste, y eran aún arrogantes y temerarios…
+{Quote_469}De las colinas que flanqueaban el Morannon se precipitó un torrente de orcos.
+{Quote_470}Como una tempestad se abalanzaron sobre los hombres de Gondor, golpeando cabezas y yelmos, brazos y escudos, como herreros que martillaran un hierro doblado al rojo.
+{Quote_471}Impedidos por los pantanos que se extendían al pie de las colinas, los orcos se detuvieron y dispararon una lluvia de flechas sobre los defensores.
+{Quote_472}…el Señor Oscuro casi había puesto fin a los movimientos de tropas, y hasta en la fortaleza donde reinaba, buscaba el amparo de la noche…
+{Quote_473}Las criaturas malignas empiezan a multiplicarse otra vez. Los Orcos aumentan en las Montañas Nubladas y atacan a los Enanos.
+{Quote_474}”Son orcos, muchos” dijo. “Y algunos son corpulentos y malvados: uruks negros de Mordor.”
+{Quote_475}Sobre todo fueron alabados los caballos, pues muchos de ellos provenían de los Valles del Anduin, y los cabalgaban jinetes altos y hermosos, y príncipes orgullosos de Rhovanion.
+{Quote_476}...un poderoso ejército con pertrechos y provisiones para una guerra de grandes reyes. O así le pareció al pueblo del Norte, aunque no era ésta sino una reducida fuerza de todo el poderío de Gondor.
+{Quote_477}…se oyó un gran ruido, como si algo rodara retumbando en los abismos lejanos, estremeciendo el suelo de piedra. Todos saltaron hacia la puerta, alarmados. Bum, bum, resonó otra vez…
+{Quote_478}Derrotado en el Páramo y aislado del Sur… y fue entonces repentinamente atacado por el ejército de Orcos que lo rechazó hacia el Anduin.
+{Quote_479}Pero lo que les faltaba en pertrechos de guerra lo compensaban en número, en la medida en que puede conjeturarse.
+{Quote_480}Eorl el Joven llegó con sus jinetes y dispersó al enemigo, y persiguió a muerte a los Balchoth por los campos de Calenardhon.
+{Quote_481}Montaraces de Ithilien; pues descendían de gentes que habitaran antaño en Ithilien, antes de la invasión.
+{Quote_482}”Y nosotros, los de Gondor, nos estamos pareciendo a los otros hombres, pues hasta los Hombres de Rohan, que son los enemigos del Señor Oscuro, evitan a los elfos y hablan del Bosque de Oro con terror.”
+{Quote_483}Aunque la guerra nunca cesó en las fronteras, durante más de mil años los Dúnedain del Sur ganaron en riqueza y poder por tierra y por mar…
+{Quote_484}Grimbeorn el Viejo, hijo de Beorn, era ahora el señor de muchos hombres vigorosos y que ni orcos ni lobos se atrevían a entrar en su país, entre las montañas y el Bosque Negro.
+{Quote_485}...pero además del valor de ese pueblo élfico, el poder que había en esa tierra era demasiado grande para que alguien pudiera conquistarla, a no ser que Sauron hubiera ido allí él mismo.
+{Quote_486}...y Galadriel derribó los muros y dejó al desnudo las mazmorras, y el bosque quedó limpio.
+{Quote_487}Habían preparado para cada uno y en las medidas correspondientes, una capucha y una capa, de esa tela sedosa, liviana y abrigada que tejían los Galadhrim.
+{Quote_488}”¿Y tú?” dijo ella volviéndose a Sam. “Pues esto es lo que tu gente llama magia, aunque no entiendo claramente qué quieren decir, y parece que usaran la misma palabra para hablar de los engaños del enemigo.”
+{Quote_489}”…veo al Señor Oscuro y sé lo que piensa, o al menos lo que piensa en relación con los elfos. Y él está siempre tanteando, queriendo verme y conocer mis propios pensamientos. ¡Pero la puerta está siempre cerrada!”
+{Quote_490}”El amor de los elfos por esta tierra en que viven y por las obras que llevan a cabo es más profundo que las profundidades del mar…Sin embargo, lo abandonarán todo antes que someterse a Sauron, pues ahora lo conocen.”
+{Quote_491}”En el sitio del Señor Oscuro instalarás una Reina. ¡Y yo no seré oscura sino hermosa y terrible como la Mañana y la Noche!...¡Todos me amarán y desesperarán!”
+{Quote_492}...tuvo por fin todo lo que había deseado de joven, el Anillo del Poder y el dominio de la Tierra Media con el que había soñado, había creado sabiduría, y lo rechazó todo…
+{Quote_493}Bajo las ramas del Bosque Negro había una lucha enconada de elfos, hombres y bestias feroces.
+{Quote_494}”¿Por qué, Legolas, no habremos deseado la compañía de algunos de los nuestros?”…”No necesitan venir tan lejos a la guerra: la guerra avanza ya sobre ellos.”
+{Quote_495}”Pero algunos de los nuestros aún viajan lejos, para recoger noticias y observar a los enemigos y ellos hablan las lenguas de otras tierras. Soy uno de ellos. Me llamo Haldir.”
+{Quote_496}”Los rechazamos al cabo de un tiempo; eran muchos y feroces, pero venían de las montañas y no estaban acostumbrados a los bosques.”
+{Quote_497}En un gran salón con pilares tallados en la roca viva, estaba sentado el rey elfo en una silla de madera labrada.
+{Quote_498}”En medio, sobre una altura rocosa, se alza Dol Guldur, donde en otro tiempo se ocultaba el enemigo. Tememos que esté habitada de nuevo y con un poder septuplicado.”
+{Quote_499}...y con astucia se había elevado en los favores del Señor; y aprendió los secretos de la hechicería, y conocía muchos de los pensamientos de Sauron; y era más cruel que el más cruel de los orcos.
+{Quote_500}”Era un Balrog de Morgoth” dijo Legolas; “de todos los azotes de los elfos el más mortal, excepto aquel que reside en la Torre Oscura.” “
+{Quote_501}"¡Arriba esas barbas, hijo de Durin!", exclamó. "Porque se ha dicho: Cuando todo está perdido, llega a menudo la esperanza."
+{Quote_502}”Pero los hombres son una defensa más eficaz que las puertas, y no habrá puerta que resista al enemigo si los hombres la abandonan.”
+{Quote_503}”…siete mil, una hueste que equivale apenas a la vanguardia del ejército de este país en los días de esplendor.”
+{Quote_504}”Y algunos de nuestros hombres valen más que un millar de caballeros de armadura.”
+{Quote_505}”…y el tercer día llegamos a Linhir…Y allí los habitantes del Lamedon se disputaban los vados con las huestes feroces de Umbar y de Harad que habían llegado remontando el río.”
+{Quote_506}”...a nosotros los enemigos no nos quieren más que a Él, y si Él cae, también nosotros estaremos perdidos.”
+{Quote_507}”No confíes en tu cabeza, Samsagaz, no es lo mejor que tienes.”
+{Quote_508}Una nube de polvo oscureció el aire, y desde las cercanías vino marchando un ejército de Hombres del Este que había estado esperando la señal…
+{Quote_509}Pero los Capitanes del Oeste, oportunamente prevenidos por los batidores, les hicieron caer en su propia trampa…
+{Quote_510}”He aquí las condiciones…La chusma de Gondor y sus engañados secuaces se retirarán en seguida a la otra orilla del Anduin, pero ante todo jurarán no atacar nunca más a Sauron el Grande con las armas…”
+{Quote_511}...veía en todo su poderío la Torre de Cirith Ungol. El cuerno que había visto desde el otro lado no era sino la atalaya más alta.
+{Quote_512}...estaba la Ciudadela, rodeada por los siete muros de piedra, tan antiguos y poderosos que más que obra de hombres parecían tallados por gigantes en la osamenta misma de la montaña.
+{Quote_513}”Sin embargo, en El Sagrario el pueblo podrá resistir largo tiempo y si la suerte no nos es propicia, allí irán a buscar refugio todos los que se salven.”
+{Quote_514}”Eran aquellos días más felices, cuando había a veces una estrecha amistad entre gentes de distintas razas, aun entre enanos y elfos.”
+{Quote_515}...la Isla de Tolfalas fue casi destruida, y quedó finalmente como una montaña árida y solitaria en medio del agua no muy lejos de la desembocadura del Río.
+{Quote_516}De pronto el gran arco de Lórien cantó. La flecha subió silbando, desde la cuerda élfica.
+{Quote_517}”Me da mucha tristeza y mucho miedo, pues mucho se destruirá y todo puede perderse. Soy Gandalf, Gandalf el Blanco, pero el Negro es todavía más poderoso.”
+{Quote_518}...Celeborn avanzó y llevó al ejército de Lórien por sobre el Anduin en muchos botes. Se apoderaron de Dol Guldur...
+{Quote_519}A Thranduil lo dejaron pasar, pues aun sus fuerzas disminuidas eran excesivas para ellos.
+{Quote_520}Los arroyos de fuego se transformaron en torrentes rápidos: fila tras fila de orcos que llevaban antorchas encendidas, y sureños feroces, que blandían estandartes rojos y daban gritos destemplados y se adelantaban a la columna que se batía en retirada y le cerraban el paso.
+{Quote_521}”Faramir ha de venir con ellos” dijeron “El sabe dominar a los hombres y las bestias. Aún puede conseguirlo.”
+{Quote_522}”Hemos llegado a Cerin Amroth” dijo Haldir “Pues este es el corazón del antiguo reino…”
+{Quote_523}...los Orcos descendieron sobre Erebor tan pronto como se enteraron del regreso de los Enanos; y fueron conducidos por Bolg, hijo de Azog, a quien Dáin había dado muerte en su juventud.
+{Quote_524}...el asalto desde la Montaña se renovaba con redoblada fuerza, y hombres y elfos eran batidos lentamente a ambos lados.
+{Quote_525}Una cabeza de trasgo asomaba empalada detrás de la cancela, y un poco más allá se veía una piel de wargo clavada en un árbol. Beorn era un enemigo feroz.
+{Quote_526}”Están hechas en Gondolin para las guerras de los trasgos. Tienen que haber sido parte del tesoro escondido de un dragón, o de un botín de los trasgos, pues los dragones y los trasgos destruyeron esa ciudad hace muchos siglos.”
+{Quote_527}”pero lo principal de la fuerza estará en el nordeste para que monte guardia en el sitio donde los Balchoth cruzaron el Anduin desde las Tierras Pardas.”
+{Quote_528}...el Heredero de Isildur se levantó en el Norte, y tomó los fragmentos de la espada de Elendil, y en Imladris volvieron a forjarse; y el Heredero fue a la guerra, un gran capitán de Hombres.
+{Quote_529}...y antes de que los Sabios pudieran prevenirlo, se instaló en su reino de Mordor, y levantó una vez más las torres oscuras de Barad-dûr.
+{Quote_530}Reunió a todo un ejército de espías, y muchos de entre ellos eran pájaros; porque Radagast no adivinó la traición de Curunír, y lo ayudó creyendo que estaban vigilando al enemigo.
+{Quote_531}Pero los orcos se reían estrepitosamente; y una salva de dardos y flechas silbó por encima del muro…
+{Quote_532}”¡Tu arco, Legolas! ¡Tiéndelo! ¡Prepárate! Es Saruman. ¡No permitas que hable, o que nos eche un encantamiento! ¡Tira primero!”
+{Quote_533}No se detuvieron hasta encontrarse fuera del alcance de las flechas que venían de los muros.
+{Quote_534}”Muchos han recibido heridas peores como prenda por haber abatido al primer orco. La herida no está envenenada, como ocurre demasiado a menudo con las provocadas por estas armas.”
+{Quote_535}”…los orcos persiguen a menudo a los enemigos a campo abierto y durante muchas leguas, si tienen que vengar a un capitán.”
+{Quote_536}”… los elfos de Lórien, vivir en los árboles y quizá todavía lo hacen. Por eso se los llamó los Galadhrim, las Gentes de los Arboles.”
+{Quote_537}”Sí, son elfos” dijo Legolas “y dicen que respiráis tan fuerte que podrían atravesaros con una flecha en la oscuridad.”
+{Quote_538}”¡Un enano!” dijo Haldir “Eso no es bueno. No tenemos tratos con los enanos desde los Días Oscuros. No se los admite en estas tierras.”
+{Quote_539}Una tropa de elfos que marchaba por el bosque se había acercado en silencio; iban deprisa hacia las fronteras del norte para prevenir cualquier ataque que viniera de Moria.
+{Quote_540}”Ninguno de los orcos saldrá jamás de Lórien. Y habrá muchos elfos ocultos en frontera norte antes que caiga otra noche….”
+{Quote_541}”Podía ser trabajado como el cobre y pulido como el vidrio; y los enanos podían transformarlo en un metal más liviano y sin embargo más duro que el acero templado.”
+{Quote_542}Un muro de lanzas apuntaba hacia los extraños, y algunos de los hombres esgrimían arcos tendidos, con las flechas en las cuerdas.
+{Quote_543}”Te rebanaría la cabeza. Señor enano, si se alzara un poco más del suelo” dijo Éomer.
+{Quote_544}”¿Qué noticias hay del Norte, jinetes de Rohan?”
+{Quote_545}”Pero si Saruman se ha vuelto malo, como dices, la ruina de esta gente no podrá tardar mucho.”
+{Quote_546}”Conozco a los Hombres de Rohan, sinceros y valientes, nuestros aliados; aún viven en las tierras que les dimos hace mucho tiempo.”
+{Quote_547}Las Montañas Nubladas hervían como hormigueros: los orcos salían de innumerables madrigueras.
+{Quote_548}La tierra de los Beórnidas estaba en llamas; una nube cubría Moria; unas columnas de humo se elevaban en las fronteras de Lórien.
+{Quote_549}En los puertos de Harad, las naves de guerra se hacían a la mar.
+{Quote_550}Todo el poder del Señor Oscuro estaba en movimiento.
+{Quote_551}Había un ojo en la Torre Oscura, un ojo que no dormía.
+{Quote_552}”¡Matad gorgün ¡Matad orcos! Los Hombres Salvajes no conocen palabras más placenteras” le respondió Ghân
+{Quote_553}”¡Ay!” dijo Théoden “Eso quiere decir que Denethor no ha tenido noticias de nuestra partida, y ya habrá desesperado.”
+{Quote_554}”La necesidad no tolera tardanzas, pero más vale tarde que nunca” dijo Éomer
+{Quote_555}Y de pronto los ejércitos de Rohan rompieron a cantar, y cantaban mientras mataban, pues el júbilo de la batalla estaba en todos ellos…
+{Quote_556}“¡Maldito seas, Snaga, gusano infecto! Te equivocas si crees que estoy tan estropeado como para que puedas burlarte de mí.”
+{Quote_557}”¡Donde hay un látigo hay una voluntad, zánganos míos!”
+{Quote_558}Pero ante ella se extendía una vasta región de tierra humeante, yerma, cubierta de cenizas.
+{Quote_559}Estaba decidido, y sólo la muerte podría detenerlo.
+{Quote_560}El asalto de Mordor rompió corno una ola sobre los montes asediados, y las voces rugieron como una marea tempestuosa en medio de la zozobra y el fragor de las armas.
+{Quote_561}”Los mortales no pueden beber los brebajes de los ents y pensar que no les hará más efecto que un jarro de cerveza.”
+{Quote_562}”Id por el sudoeste hasta Cair Andros, y si aún está en manos del enemigo, como lo sospecho, reconquistadla, si podéis”
+{Quote_563}”¡…resistid allí hasta el final, en defensa de Gondor y de Rohan!”
+{Quote_564}...se cerraba un círculo de hobbits que habían salido en silencio de entre las sombras. Eran unos doscientos, y todos armados.
+{Quote_565}Intentó atacar con violencia a Merry, que le cerraba el paso. Cayó muerto, traspasado por cuatro flechas.
+{Quote_566}...los hobbits tuvieron que matar a unos cuantos, con las flechas o con las hachas.
+{Quote_567}”Sí, has crecido mucho. Eres sabio y cruel. Me has privado de la dulzura de mi venganza…”
+{Quote_568}En los ojos rojos de Lengua de Serpiente apareció una mirada de odio salvaje. “Tú me dijiste que lo hiciera.”
+{Quote_569}...la batalla de los Campos Verdes, en el año 1147 (CC) en la que Bandobras Tuk desbarató una invasión de Orcos.
+{Quote_570}...entonces supo que eran sin duda Dúnedain del Sur, del linaje de los Señores del Oesternese.
+{Quote_571}”¡Un día! Sí, cuando también te apoderes de las Llaves de Barad-dûr, supongo, y las coronas de los siete reyes, y las varas de los Cinco Magos…”
+{Quote_572}...los Dúnedain eran pocos, y el poder estaba en manos de un jefe malvado de los Hombres de la Colina, que tenía un pacto secreto con Angmar.
+{Quote_573}...había aún algunas gentes que descendían de los elfos y los héroes del Norte; y Elrond, el dueño de la casa, era el jefe de todos ellos.
+{Quote_574}Hubiera sido aplastado sin duda si el ejército de Sauron no hubiera sido atacado por la retaguardia; porque Durin había enviado una fuerza de Enanos desde Khazad-Dûm.
+{Quote_575}En ese tiempo la fortaleza y refugio de Imladris, que los Hombres llamaron Rivendel, fue encontrado por Elrond Medio Elfo, y resistió largo tiempo.
+{Quote_576}”En la lengua de Orthanc ayuda es sinónimo de ruina y salvación significa asesinato, eso es claro como el agua. Pero nosotros no hemos venido aquí a mendigar favores.”
+{Quote_577}...era el rostro de alguien que ha perdido toda esperanza y va al encuentro de la muerte.
+{Quote_578}La mirada de los ojos grises como el mar era dura y despiadada…
+{Quote_579}”Cuánto necesitan hablar los hombres antes de decidirse. El hacha se impacienta en mis manos.”
+{Quote_580}...vastas flotas de barcos habían poblado aquellas aguas, y algunos llevaban oro y otros guerreros con armaduras, y allí se habían conocido guerras y hazañas que ahora eran sólo una leyenda.
+{Quote_581}Poseído por una furia roja, lanzó un grito de guerra…
+{Quote_582}”El hacha no está destinada a los árboles sino a las cabezas de los orcos…”
+{Quote_583}”No se dice que las malas artes fueran siempre practicadas en Gondor, ni que honraran al Sin Nombre.”
+{Quote_584}...sintió un calor arrebatado que le abrasaba el cuerpo. El dolor de las piernas y los tobillos se desvaneció.
+{Quote_585}Resonaban los cuernos, vibraban las trompetas, y los Mûmakil mugían con estrépito empujados a la batalla.
+{Quote_586}...y sureños feroces, que blandían estandartes rojos y daban gritos destemplados y se adelantaban a la columna que se batía en retirada y le cerraban el paso.
+{Quote_587}”Será mejor que primero tomes un poco de lembas.”
+{Quote_588}...pueblo rudo, y no fácilmente intimidados por una sombra o un cuchillo.
+{Quote_589}...una gran manada de seres órquicos montados en lobos, muy temidos por los caballos.
+{Quote_590}...feroces Uruks, fuertemente armados pero adiestrados para desplazarse a gran velocidad en trayectos de muchas millas.
+{Quote_591}”Y eso fue después que les mostramos las puertas y los echamos…”
+{Quote_592}”Y tuvimos una verdadera refriega, y a alguna gente la mataron, ¡la mataron muerta!”
+{Quote_593}”Era un hombre poderoso. En él renació el temple de Helm Mano Martillo.”
+{Quote_594}Y cuando el peligro de guerra se hizo más inminente, Erkenbrand, hombre precavido, ordenó reparar las murallas y fortificar la ciudadela.
+{Quote_595}Un hombre recio y de elevada estatura marchaba entre ellos. Llevaba un escudo rojo. Cuando llegó a la orilla del valle se llevó a los labios un gran cuerno negro y sopló con todas sus fuerzas.
+{Quote_596}... cargaron contra el enemigo por el norte y el sur del campamento…Grimbold, por su parte, quedó de a pie con una retaguardia de hombres escogidos de antemano.
+{Quote_597}Una gran compañía de arqueros podría haber logrado que el enemigo lamentara la luz de las antorchas, pero Grimbold tenía sólo un puñado de ellos.
+{Quote_598}...Pues, como los Orcos no resultaban tan eficaces en este tipo de lucha por su escasa estatura, se arrojaron contra él feroces compañías de Dunlendinos, los hombres de las colinas.
+{Quote_599}…cualquier hombre que pudiera liberarse del cerco y huir hacia el sur resultaría más útil, aunque pareciera menos glorioso.
+{Quote_600}"Hay cosas ahora que requieren la unión de todas nuestras fuerzas".
+{Quote_601}…estos Balchoth crecían de continuo con otros de especie semejante que venían del este…
+{Quote_602}”Lobos y orcos habitaban en Isengard, pues Saruman estaba alistando una gran fuerza y emulando a Sauron, aún no a su servicio.”
+{Quote_603}”Lo miré y vi que la hierba y la hermosura de otro tiempo habían desaparecido y que ahora había allí pozos y fraguas.”
+{Quote_604}”Bueno ¿qué les parece si fumamos un poco mientras nos cuentan las novedades de la Comarca?”
+{Quote_605}”¡Llevan a los Hobbits a Isengard!”
+{Quote_606}”¡Así terminó el intento de recuperar Moria!”
+{Quote_607}Un cuerno llamó en seguida y unos pies corrieron y los orcos entraron saltando en la cámara.
+{Quote_608}”¡Vamos, antes de que el troll vuelva!”
+{Quote_609}...un enorme jefe orco, casi de la altura de un hombre, vestido con malla negra de la cabeza a los pies, entró de un salto en la cámara...
+{Quote_610}Desde que el Gran Trasgo de las Montañas Nubladas había caído, los trasgos odiaban más que nunca a los enanos.
+{Quote_611}Boromir saltó hacia adelante y lanzó un mandoble contra el brazo, pero la espada golpeó resonando, se desvió a un lado y se le cayó de la mano temblorosa.
+{Quote_612}…sostenía aún la espada en la mano, pero se le había roto cerca de la empuñadura. En el suelo y alrededor yacían muchos orcos.
+{Quote_613}…y en esa sombra había un poder y un terror que iban delante de ella.
+{Quote_614}”Es el mismo Sauron que otra vez ha cobrado forma y crece ahora deprisa.”
+{Quote_615}”...y persuadí al Concilio de que atacáramos Dol Guldur antes de que él atacara Lórien.”
+{Quote_616}”...su plan original era atacar Lórien y Rivendel no bien contara con fuerzas suficientes.”
+{Quote_617}”Bueno, tengo cierto aspecto de villano, ¿no es así?”
+{Quote_618}”El signo de los orcos de Barad-dûr es el Ojo Rojo”
+{Quote_619}”...soy un amigo de todos los enemigos del Enemigo Único.”
+{Quote_620}Era la primera vez que Sam veía una batalla de hombres contra hombres y no le gustó nada.
+{Quote_621}...y si sería realmente malo de corazón, o qué amenazas lo habrían arrastrado a esta larga marcha tan lejos de su tierra.
+{Quote_622}”Tiempo ha que hemos abandonado toda esperanza.”
+{Quote_623}”De los Rohirrim hemos aprendido a amar la guerra y el coraje como cosas buenas en sí mismas…”
+{Quote_624}”Ahora los hombres temen a los elfos y desconfían de ellos…”
+{Quote_625}”…un simple hombre de armas en la Guardia de la Torre de Gondor es considerado digno y honroso en la ciudad…”
+{Quote_626}...los Guardias de la Ciudadela apostados en el Patio del Manantial, donde antaño floreciera el Árbol Blanco.
+{Quote_627}”¡Salve, Señor y Senescal de Minas Tirith, Denethor hijo de Ecthelion!”
+{Quote_628}”Pero de esas hazañas conozco bastante como para tomar mis propias decisiones contra la amenaza del Este.”
+{Quote_629}”Locura sería, que no orgullo, desdeñar ayuda y consejos en tiempos de necesidad”
+{Quote_630}Las hachas enemigas habían decapitado a Forlong mientras combatía desmontado y a solas.
+{Quote_631}Nunca un ejército tan grande había partido de ese valle desde los días del esplendor de Isildur…y sin embargo no era más que un ejército, y no el mayor, de las huestes que ahora enviaba Mordor.
+{Quote_632}”¡Parte a combatir! Vanidad. Quizá triunfes un momento en el campo, por un breve día.”
+{Quote_633}”Esta es una guerra grande, largamente planeada, y en la que somos sólo una pieza, diga lo que diga nuestro orgullo.”
+{Quote_634}”El enemigo lo ha descubierto, y ahora es cada día más poderoso; adivina nuestros pensamientos, todo cuanto hacemos acelera nuestra ruina.”
+{Quote_635}”Ya todo el Este está en movimiento.”
+{Quote_636}El campo de batalla quedó cubierto de orcos y hombres abatidos, y las antorchas, abandonadas en el suelo, crepitaban y se extinguían en acres humaredas.
+{Quote_637}”Es poderosísimo: batallones de orcos del Ojo e innumerables compañías de hombres de una raza nueva que nunca habíamos visto hasta ahora.”
+{Quote_638}”El coraje será ahora vuestra mejor defensa ante la tempestad que se avecina... el coraje y la esperanza que os traigo...”
+{Quote_639}Arriba, a lo lejos, una gran nube, llevada por un viento de guerra, flotaba lentamente hacia el oeste desde la Tierra Tenebrosa, devorando la luz…
+{Quote_640}Todas las tierras estaban grises y silenciosas; y la sombra crecía sin cesar ante ellos, y la esperanza se debilitaba en todos los corazones.
+{Quote_641}”Fui testigo del último combate en las laderas del Orodruin donde murió Gil-galad y cayó Elendil y Narsil se le quebró bajo el cuerpo...”
+{Quote_642}Los nuevos Reinos de Arnor y Gondor duraron 100 años antes de que Sauron realizara el primer ataque sobre ellos.
+{Quote_643}Pero Sauron también fue derribado, y con la empuñadura desprendida de Narsil, Isildur cortó el Anillo de la mano de Sauron, y lo tomó.
+{Quote_644}...Rammas Echor…los hombres de Gondor al muro exterior que habían construido con tantos afanes, luego que Ithilien cayera bajo la sombra del enemigo.
+{Quote_645}Los orcos empezaron a invadir las regiones orientales y mataban o robaban caballos.
+{Quote_646}y allí el Señor Oscuro estaba reuniendo de prisa unos ejércitos poderosos para enfrentar a los Capitanes del Oeste.
+{Quote_647}Allí, en las regiones septentrionales, se encontraban las fraguas y las minas, allí se acantonaban las reservas humanas para una guerra largamente premeditada.
+{Quote_648}Algunos huyeron hacia el norte con la esperanza de llevarle la nueva a Aragorn, pero fueron perseguidos o muertos o dispersados por las tierras yermas.
+{Quote_649}”Cuatro mil envié dos días atrás desde Pelargir a través de Lossarnach.”
+{Quote_650}”¿Mientras nosotros estuviésemos con vida? ¿Cuánto tiempo? El tiene un arma que ha destruido muchas fortalezas inexpugnables desde que el mundo es mundo. El hambre.”
+{Quote_651}”Y los batidores nos dicen que han cavado fosos y que hay hogueras emboscadas a lo largo del camino. Nos será imposible tomarlos por sorpresa y arrasarlos.”
+{Quote_652}Patrullas de orcos recorrían las colinas y los bosques de alrededor.
+{Quote_653}”Gondor ha encendido las almenaras pidiendo ayuda. La guerra ha comenzado.”
+{Quote_654}”No son nativos de aquí; son crebain de Fangorn y de las Tierras Brunas…creo que están espiando la región.”
+{Quote_655}En una mano sostenía una espada y en la otra un cuchillo y tanto el cuchillo como la mano resplandecían con una pálida luz.
+{Quote_656}Luego la vanguardia se arremolinó en el extremo de la estribación y entró atropelladamente en Valle.
+{Quote_657}Ya una hueste de elfos está en camino, y los pájaros carroñeros los acompañan, esperando la batalla y la carnicería.
+{Quote_658}Así fue que los mensajeros de Bardo lo encontraron en marcha, con muchos arqueros y lanceros.
+{Quote_659}”Una vez más buscará la paz entre los enanos, hombres y elfos, después de la gran desolación.”
+{Quote_660}”Veo que no estáis enterados. Dain, no lo dudéis, está ahora a menos de dos días de marcha, y trae consigo por lo menos unos quinientos enanos, todos rudos…”
+{Quote_661}”...en buena parte han participado en las encarnizadas batallas entre enanos y trasgos, de las que sin duda habréis oído hablar.”
+{Quote_662}Las viseras eran de hierro, lo mismo que el calzado; y las caras eran todas sombrías.
+{Quote_663}En las batallas empuñaban pesados azadones que se manejaban con las dos manos; además, todos tenían al costado una espada ancha y corta, y un escudo redondo les colgaba de las espaldas.
+{Quote_664}Innumerables eran los estandartes, negros y rojos, y llegaban como una marea furiosa y en desorden.
+{Quote_665}Los elfos fueron los primeros en cargar. Tenían por los trasgos un odio amargo y frío.
+{Quote_666}Las lanzas y espadas brillaban en la oscuridad con un helado reflejo, tan mortal era la rabia de las manos que las esgrimían.
+{Quote_667}Detrás de las flechas, un millar de lanceros bajó de un salto y embistió.
+{Quote_668}Tan pronto como la horda de los enemigos aumentó en el valle, les lanzaron una lluvia de flechas…
+{Quote_669}Libraban entre ellos guerras crueles, de las cuales algunos se apartaban hacia el oeste con la mente llena de odio y consideraban a todos los que vivían en el Oeste enemigos a los que había que matar y saquear.
+{Quote_670}Dispersó la guardia, arrojó al propio Bolgo al suelo, y lo aplastó. Entonces el desaliento cundió entre los trasgos, que se dispersaron en todas direcciones.
+{Quote_671}”¡Qué vuestras barbas nunca crezcan ralas!”
+{Quote_672}Parecía que Gandalf había asistido a un gran concilio de los magos blancos, señores del saber tradicional y la magia buena.
+{Quote_673}Bardo había reconstruido la ciudad de Valle, y muchos hombres se le habían unido, hombres del Lago, y del Sur y el Oeste...
+{Quote_674}”Aún es posible que continuemos en pie, aunque sea sobre una sola pierna, o al menos sobre las rodillas.”
+{Quote_675}...el aire estaba inmóvil, sin un soplo, como si el Valle del Anduin esperase el estallido de una tormenta devastadora.
+{Quote_676}Era un capitán a quien los hombres seguirían ciegamente, a quien él mismo seguiría, aun bajo la sombra de las alas negras.
+{Quote_677}”Anoche dormí en Cair Andros, la isla larga en el norte del río, donde mantenemos una guarnición, y caballos en nuestra orilla.”
+{Quote_678}”¿Y dónde buscarán ayuda los otros hombres, si Gondor cae?”
+{Quote_679}”Nos esperan días infaustos.”
+{Quote_680}”El utiliza otras armas. Es lo que hacen todos los grandes señores, si son sabios…”
+{Quote_681}Los Enanos comprenden la devoción a los amigos y la gratitud a los que los ayudan.
+{Quote_682}”Estos son los golpes con que se deleita: enconando al amigo contra el amigo, transformando en confusión la lealtad.”
+{Quote_683}Distintos de los Altos Elfos del Poniente, eran más peligrosos y menos cautos…
+{Quote_684}Aunque dominaban la magia, andaban siempre con cuidado, aun en aquellos días.
+{Quote_685}”... Antes de que pudieras bordear el Bosque Negro por el norte, te encontrarías justo entre las laderas de las Montañas Grises, plagadas de trasgos...”
+{Quote_686}...También pudo ver el destello de la luna en las lanzas y yelmos de los trasgos, cuando unas largas hileras de esta gente malvada se arrastraron con cautela, bajando las laderas dé la calina desde la entrada…
+{Quote_687}”¡Oigo voces de lobos! ¿Andarán los trasgos de fechorías en los bosques?”
+{Quote_688}...los trasgos habían ocupado la región en secreto después de la batalla de las Minas de Moria.
+{Quote_689}”El Nigromante es un enemigo a quien no alcanzan los poderes de todos los enanos juntos...”
+{Quote_690}En la batalla de los Campos Verdes había cargado contra las filas de trasgos del Monte Gram, y blandiendo una porra de madera le arrancó de cuajo la cabeza al rey Golfimbul.
+{Quote_691}…Luego vino una horda de wargos, brillantes y negros como cuervos, y con ellos la guardia personal de Bolgo, trasgos de enorme talla, con cimitarras de acero.
+{Quote_692}”Que deseemos derribarlo pero no sustituirlo por nadie es un pensamiento que nunca podría ocurrírsele.”
+{Quote_693}”Mucho tiempo caí, y él cayó conmigo... Luchamos allá lejos bajo la tierra viviente, donde no hay cuenta del tiempo.”
+{Quote_694}Si Beren el Senescal tuvo en cuenta la Piedra cuando se la dio a Saruman, probablemente pensó que en ninguna otra parte estaría más segura que en manos de quien encabezaba el Concilio enemigo de Sauron.
+{Quote_695}Fue Sauron el que las hizo siniestras, e instrumentos de dominio y engaño.
+{Quote_696}...llegaron al Vado de Sarn y las fronteras más meridionales de la Comarca. Las encontraron vigiladas, porque los Montaraces les interceptaron el camino.
+{Quote_697}Estos eran los jinetes más rápidos, que cabalgaban en lobos, y ya los gritos y aullidos hendían el aire a lo lejos.
+{Quote_698}No era su costumbre dar semejantes instrumentos a sus subordinados; tampoco tenía entre sus sirvientes a nadie cuyos poderes mentales fueran superiores a los de Saruman o aun a los de Denethor.
+{Quote_699}”Como estaba diciendo, encontré dos de los hombres de Elrond. Huían asustados de los trolls.”
+{Quote_700}En los días de Cirion el Senescal, los Balchoth, aliados con los Orcos, cruzaron el Anduin, penetraron en el Páramo...
+{Quote_701}”Pero los Haradrim, ahora acorralados al borde mismo del agua, se volvieron de golpe, con una ferocidad exacerbada por la desesperación.”
+{Quote_702}”Y nosotros cabalgábamos implacables entre los enemigos en fuga, arrastrándolos como hojas caídas, hasta que llegamos a la orilla.”
+{Quote_703}”…En aquella hora yo observaba a Aragorn y me imaginaba en qué Señor poderoso y terrible se habría podido convertir si se hubiese apropiado del Anillo.”
+{Quote_704}…allá lejos en el norte veíamos bajo la nube un resplandor rojizo; y Aragorn dijo: "Minas Tirith está en llamas."
+{Quote_705}”Pero si aún queda algo por hacer, espero participar, por el honor del pueblo de la Montaña Solitaria.”
+{Quote_706}Y allí, reunidos con Gandalf y Aragorn y los hijos de Elrond, celebraron consejo.
+{Quote_707}”Las Piedras que ven no engañan: ni el mismísimo Señor de Barad-dûr podría obligarlas a eso.”
+{Quote_708}”No obstante, es indudable que cuando Denethor veía en Mordor grandes fuerzas que se disponían a atacarlo, mientras reclutaban otras nuevas, veía algo que era cierto.”
+{Quote_709}”Nuestra fuerza ha alcanzado apenas para contener la primera gran acometida. La próxima será más violenta.”
+{Quote_710}Las huestes de orcos y hombres del Este se habían retirado de Anórien, pero hostigados y desbandados por los Rohirrim habían huido casi sin presentar batalla hacia Cair Andros.
+{Quote_711}”El coraje se encuentra en sitios insólitos.”
+{Quote_712}”Hay en efecto alguna relación con las viejas aventuras de Bilbo y es cierto que los Jinetes andan detrás de él, o quizá debiera decir que andan buscándolo, o que andan buscándome.“
+{Quote_713}…eran enemigos del Señor Oscuro, pero habían sido vencidos por el malvado rey de Carn Dûm en la Tierra de Angmar.
+{Quote_714}”…algunos andan todavía por el mundo, hijos de reyes olvidados que marchan en soledad, protegiendo del mal a los incautos.”
+{Quote_715}Los hombres de Bree eran de cabellos castaños, morrudos y no muy altos, alegres e independientes; no servían a nadie…
+{Quote_716}La gente de Bree los llamaba los Montaraces y no sabía de dónde venían.
+{Quote_717}Umbar estuvo en guerra con Gondor durante el curso de muchas vidas humanas, amenazando las costas y todo el tráfico por mar.
+{Quote_718}…y la región del Sur de Gondor se convirtió en tierra disputada entre los Corsarios y los Reyes.
+{Quote_719}...mientras que Eldacar favorecía a los Hombres del Norte…recuperado la corona, y Gondor se repobló con los muchos hombres que venían de Rhovanion.
+{Quote_720}Porque por fin entendieron que un cierto poder y una cierta voluntad estaba dirigiendo el ataque desde múltiples sitios sobre los sobrevivientes de Númenor.
+{Quote_721}”Lejos está todavía su condenación, y no caerá por mano de hombre.”
+{Quote_722}Tres grandes flotas, desde mucho atrás preparadas, vinieron de Umbar y Harad, y atacaron las costas de Gondor con grandes fuerzas.
+{Quote_723}Fue Túrin el que hizo construir refugios secretos para sus soldados en Ithilien, de los cuales Henneth Annûn fue el más vigilado y el mejor provisto de hombres.
+{Quote_724}Pero el mayor peligro lo acechaba desde el sur, donde los Haradrim habían ocupado las tierras meridionales, y había violentas luchas a lo largo del Poros.
+{Quote_725}El Monte del Destino estalla otra vez en llamas. Los últimos habitantes de Ithilien huyen cruzando el Anduin.
+{Quote_726}En verdad era tan parecido a Thorongil como el más cercano de sus parientes...
+{Quote_727}…porque la Piedra de Minas Tirith era la palantír de Anárion, la que estaba en más estrecho acuerdo con la que poseía Sauron.
+{Quote_728}”He aquí el Anillo de Barahir” dijo, “símbolo de nuestro remoto parentesco.”
+{Quote_729}”He vivido largo tiempo en la tierra de mi madre, en la lejana Lothlórien.”
+{Quote_730}Cabalgó con el ejército de los Rohirrim, y combatió en mar y tierra por el Señor de Gondor.
+{Quote_731}”No será la esposa de ningún Hombre, a menos que éste sea al mismo tiempo el Rey de Gondor y de Arnor.”
+{Quote_732}”Di Esperanza a los Dúnedain, y no he conservado ninguna para mí.”
+{Quote_733}Porque no sólo hacían cosas asombrosas y bellas, sino también armas y armaduras de gran valor.
+{Quote_734}”Si alguno de los vuestros mete aquí otra vez sus inmundas barbas, recibirá el mismo tratamiento.”
+{Quote_735}Ése fue el principio de la Guerra de los Enanos y los Orcos, que fue larga y mortal, y se libró casi toda ella en sitios profundos bajo tierra.
+{Quote_736}El Pueblo de Durin reunió a todas sus huestes y a ellas se unieron las grandes fuerzas enviadas por las Casas de otros Padres.
+{Quote_737}...los Orcos que huían delante de ellos se reunieron en Moria, y la persecución llevó las huestes de los Enanos a Azanulbizar.
+{Quote_738}Porque vio que todo su ejército huía en desorden y que los Enanos iban de un lado a otro matando a diestro y siniestro...
+{Quote_739}”El martillo por lo menos mantendrá los brazos fuertes hasta que puedan blandir otra vez instrumentos más afilados.”
+{Quote_740}...y dicen que le fue dado al Rey de Khazad-Dûm, Durin III, por los herreros élficos, y no por Sauron...
+{Quote_741}Aunque podían ser muertos o quebrantados, no era posible reducirlos a sombras esclavizadas a otra voluntad
+{Quote_742}Se dice que no tenían lengua propia, pero tomaban lo que podían de otras y lo pervertían a su antojo…
+{Quote_743}Por tanto, los Trolls tomaban el lenguaje que podían aprender de los Orcos.
+{Quote_744}Pero en la Tercera Edad, y en muchos lugares, había aún gran amistad entre los Hombres y los Enanos.
+{Quote_745}Pues algunos elfos les tomaban el pelo y se reían de los enanos, y sobre todo de sus barbas.
+{Quote_746}”¡Ojalá pronto hienda trasgos otra vez! “
+{Quote_747}El sitio era profundo, profundo y oscuro, tanto que sólo los trasgos que habían tenido la ocurrencia de vivir en el corazón de las montañas podían distinguir algo.
+{Quote_748}Pueden excavar túneles y minas tan bien como cualquier enano no demasiado diestro, cuando se toman la molestia, aunque comúnmente son desaseados y sucios.
+{Quote_749}Martillos, hachas, espadas, puñales, picos y pinzas, y también instrumentos de tortura, los hacen muy bien, o consiguen que otra gente los haga, prisioneros o esclavos...
+{Quote_750}…en ciertos lugares unos enanos malvados han llegado a pactar con ellos. Pero tenían particular aversión por la gente de Thorin a causa de la guerra que habéis oído mencionar…
+{Quote_751}En otro tiempo había dado muerte a cientos de trasgos, cuando los elfos rubios de Gondolin los cazaron en las colinas o combatieron al pie de las murallas.
+{Quote_752}Era bastante bueno llevar una hoja forjada en Gondolin para las guerras de los trasgos de las que había cantado tantas canciones.
+{Quote_753}Lo había llevado puesto, hacía sólo unas pocas horas y había capturado un pequeño trasgo. ¡Cómo había chillado! Aún le quedaban uno o dos huesos por roer, pero deseaba algo más tierno.
+{Quote_754}”Lo había llevado puesto, hacía sólo unas pocas horas y había capturado un pequeño trasgo. ¡Cómo había chillado! Aún le quedaban uno o dos huesos por roer, pero deseaba algo más tierno.”
+{Quote_755}Ni siquiera los anillos mágicos son muy útiles contra los lobos, en especial contra las manadas diabólicas que vivían a la sombra de las montañas infestadas de trasgos.
+{Quote_756}Vigilaron estos también, mientras el resto (parecían cientos y cientos) fue a sentarse en un gran círculo en el claro.
+{Quote_757}Ahora parecía que una gran incursión de trasgos había sido planeada para aquella misma noche.
+{Quote_758}”He oído hablar de ti, aunque tú no de mí; pero quizá algo sepas de mi buen primo Radagast que vive cerca de la frontera meridional del Bosque Negro.“
+{Quote_759}Ahora tiraba con un gran arco de tejo, hasta que sólo le quedó una flecha…
+{Quote_760}…calló de pronto, y pensó en las palabras del gobernador, en Valle reconstruida y coronada de campanas de oro, si pudiese encontrar a los hombres necesarios.
+{Quote_761}Pero todos los hombres de armas qué aún podían tenerse en pie, y la mayor parte de la fuerza del Rey Elfo, se dispusieron a marchar al norte, a la Montaña.
+{Quote_762}De modo que se pusieron a trabajar duro en las fortificaciones de la entrada principal, y en abrir un nuevo sendero que llevase hasta ella.
+{Quote_763}”¡Han llegado!” anunció Balin. “Y el campamento es grande de veras.”
+{Quote_764}”Por otra parte, los ricos podrían compadecerse, y aun en exceso, de los menesterosos que les ofrecieron ayuda cuando ellos pasaban necesidad.”
+{Quote_765}El propio Rey Elfo, cuyos ojos estaban acostumbrados a cosas bellas y maravillosas, se puso de pie, asombrado.
+{Quote_766}Los enanos son sumamente fuertes para su talla, pero la mayoría de estos eran fuertes aun entre los enanos.
+{Quote_767}"Aquí no tenéis nada que hacer. Vamos a seguir, o sea marchaos o pelearemos con vosotros."
+{Quote_768}”Mucho esperaré antes de pelear por un botín de oro.”
+{Quote_769}”No entienden de guerra a campo abierto, aunque sepan guerrear en las minas.”
+{Quote_770}”Muchos de nuestros arqueros y lanceros aguardan ahora escondidos entre las rocas del flanco derecho.”
+{Quote_771}Los chillidos eran ensordecedores. Las rocas se tiñeron de negro con la sangre de los trasgos.
+{Quote_772}…y junto con ellos llegaron los hombres del Lago armados con largas espadas.
+{Quote_773}La esperanza de victoria se había desvanecido. Sólo habían logrado contener la primera embestida de la marea negra.
+{Quote_774}”¡A mí! ¡A mí! ¡Elfos y hombres! ¡A mí! ¡Oh, pueblo mío!” gritaba, y la voz resonaba como una trompa en el valle.
+{Quote_775}Una vez más los trasgos fueron rechazados al valle, y allí se amontonaron hasta que Valle fue un sitio horrible y oscurecido por cadáveres.
+{Quote_776}”He oído canciones sobre muchas batallas, y siempre he entendido que la derrota puede ser gloriosa. Parece muy incómoda, por no decir desdichada.”
+{Quote_777}”Si muchos de nosotros dieran más valor a la comida, la alegría y las canciones que al oro atesorado, este sería un mundo más feliz.”
+{Quote_778}...y nadie sabe de lo que es capaz un enano, por venganza o por recobrar lo que le pertenece.
+{Quote_779}…y después de saquear y expoliar, los Hombres del Este se retiraron al norte.
+{Quote_780}Calimehtar, hijo de Narmacil II, ayudado por una rebelión en Rhovanion, vengó a su padre con una gran victoria sobre los Orientales en Dagorlad...
+{Quote_781}...los ataques contra Gondor desde el Este se renovaron, y Orcos y Hombres del Este invadieron Calenardhon y sitiaron los fuertes, que no habrían podido resistir mucho tiempo.
+{Quote_782}...desde la salida superior de su guarida se movía con una velocidad terrible moviendo sus crujientes patas y dando un brinco repentino.
+{Quote_783}"Ojos de insecto" pensaba, "no ojos de animales, pero demasiado grandes."
+{Quote_784}Vio también, de repente, que unas arañas grandes y horribles estaban sentadas por encima de él en las ramas…
+{Quote_785}...internándose en el olvidado sur del mundo, los vástagos continuaron allí y tejieron unas telas horribles.
+{Quote_786}...de pronto abandonaron la persecución, y no los siguieron más y volvieron decepcionadas a la tenebrosa colonia.
+{Quote_787}”Fueron las estratagemas de Saruman lo que nos ayudó a echarlo de Dol Guldur.”
+{Quote_788}”Pero los hombres gordos que venden cerveza tienen muchas llamadas que atender y el miedo le atribuye a Sauron un poder que todavía le falta.”
+{Quote_789}”¿Y acaso no han sido destruidos los puentes de Osgiliath y no están todos los embarcaderos en manos del enemigo?”
+{Quote_790}”Pues Saruman el Blanco es el más grande de mi orden.”
+{Quote_791}El plan de Aragorn, mientras Gandalf estaba aún con ellos, había sido ir con Boromir y ayudar a la liberación de Gondor.
+{Quote_792}”Pero si deseas destruir el poder armado del Señor Oscuro, sería una locura entrar sin fuerzas en esos dominios y una locura sacrificar…”
+{Quote_793}”Vengo de las Defensas del Norte” dijo el elfo, “y he sido enviado para que os sirva otra vez de guía.”
+{Quote_794}Legolas le dio un arco como los que usan los Galadhrim, más largo y fuerte que los arcos del Bosque Negro, y la cuerda era de cabellos élficos.
+{Quote_795}”No profetizo nada, pues toda profecía es vana ahora; de un lado hay oscuridad y del otro nada más que esperanza.”
+{Quote_796}”El peligro que yo temía era el tormento en la oscuridad y eso no me retuvo.”
+{Quote_797}La noche era oscura, no demasiado oscura para los ojos de los orcos, y a la luz de las estrellas los viajeros debían de ser un buen blanco para aquellos astutos enemigos…
+{Quote_798}”He visto pocas veces a lo largo de mi vida que una barca viniera del norte, y los orcos dominan la orilla oriental” dijo Boromir
+{Quote_799}”…y se dice que en los últimos años se han atrevido a atravesar las aguas y atacar las manadas y establos de Rohan.”
+{Quote_800}”Fue una gran batalla. Hombres altos con largas espadas, y elfos terribles, y orcos que aullaban. Pelearon en el llano durante días y meses delante de las Puertas Negras.”
+{Quote_801}Ningún Enano montó vez alguna un caballo de buen grado, ni siquiera en animales de compañía, ni siquiera en perros.
+{Quote_802}Pero se honró a los que cayeron en Azanulbizar, y hasta el día de hoy suele decir un Enano de uno de sus mayores: "Fue un Enano incinerado", y eso basta.
+{Quote_803}Los Naugrim llevaron las Cirth hacia el este por sobre las montañas, y así llegaron al conocimiento de muchos pueblos.
+{Quote_804}...cada una con una moharra forjada tres veces y astas con ingeniosas incrustaciones de oro, y que nunca habían sido entregadas o pagadas.
+{Quote_805}”…y elegí al señor Bilbo. Basta que alguien diga que elegí al hombre o la casa equivocada y podéis quedaros en trece y tener toda la mala suerte que queráis, o volver a picar carbón.”
+{Quote_806}”Los Enanos toman muy en serio este tipo de deberes.”
+{Quote_807}”Esta presunción de que nadie puede tener o hacer algo "de valor" salvo ellos y que todas las cosas bellas en manos ajenas tienen que haber sido adquiridas, si no robadas, de los Enanos, en uno u otro momento.”
+{Quote_808}Pero no eran los trolls lo que había aterrorizado al elfo. Las filas de los orcos se habían abierto y retrocedían como si ellos mismos estuviesen asustados.
+{Quote_809}Cuántos eran, la Compañía no pudo saberlo. En un principio los orcos atacaron decididamente, pero el furor de la defensa los desanimó muy pronto.
+{Quote_810}Porque si en verdad éste es, como dicen los Eldar, el don que el Uno concede a los hombres, es en verdad un don amargo."
+{Quote_811}...eran de sangre de Númenor poco menos pura que la de los reyes, y sin duda tenían una pequeña parte de la sangre de Elendil y Anárion.
+{Quote_812}...se alejó de los Hombres de Gondor, y partió solo al este, y llegó a lo más profundo de las tierras del sur, explorando los corazones de los hombres, tanto malos como buenos...
+{Quote_813}”Allá abajo en la Bahía de Belfalas donde desemboca el Anduin, las tierras son más cálidas y alegres, quizás, o lo serían si no existiera el enemigo.”
+{Quote_814}”Mordor atrae a todos los seres perversos y el Poder Oscuro pone toda su voluntad en reunirlos allí.”
+{Quote_815}”Todo el mundo hablaba de la nueva Sombra en el Sur y de cómo odiaba al Oeste.”
+{Quote_816}”Hay orcos y trolls, huargos y licántropos; y ha habido y todavía hay muchos hombres, guerreros y reyes, que andan a la luz del sol y sin embargo están sometidos a Mordor.”
+{Quote_817}Las manos pálidas esgrimían espadas desnudas y llevaban yelmos en las cabezas. Los ojos fríos relampagueaban y unas voces terribles increpaban a Frodo.
+{Quote_818}...y ahora volvía a atacar, trayendo consigo la ruina, transformando la esperanza en desesperación, y la victoria en muerte.
+{Quote_819}”Como sabes, esa ciudad fue antaño una plaza fuerte, orgullosa y espléndida, Minas Ithil, hermana gemela de nuestra propia ciudad.
+{Quote_820}”Se dice que sus señores eran hombres de Númenor que se habían entregado a una maldad oscura: el enemigo les había dado anillos de poder, y los había devorado…”
+{Quote_821}”Sí, tarde o temprano  - tarde, si es fuerte y honesto, pero ni la fortaleza ni los buenos propósitos duran siempre - , tarde o temprano el Poder Oscuro lo devorará.”
+{Quote_822}”Pero el que nos derrota es el Capitán Negro. Pocos se atreverán a soportar y afrontar aun el mero rumor de que viene hacia aquí. Sus propios hombres tiemblan ante él, y se matarían si él así lo ordenase.”
+{Quote_823}Ahora el ejército de Rohan avanzaba en silencio por los campos de Gondor, una corriente lenta pero continua, como la marea alta cuando irrumpe por las fisuras de un dique que se consideraba seguro.
+{Quote_824}No era un bandolero ni un cabecilla orco quien había planeado el ataque al peor enemigo del Señor de Mordor
+{Quote_825}"Volverá al lugar que le corresponde y rápido. Le doy un minuto antes que llame a todos mis perros."
+{Quote_826}”El Señor Sauron el Grande, así dijo, deseaba nuestra amistad. Por esto nos daría anillos, como los que había dado en otro tiempo.”
+{Quote_827}”…el poder que se había aposentado de nuevo en Mordor era el mismo de siempre y ya nos había traicionado antes.”
+{Quote_828}”Pronto ese terror cubrirá de sombras los últimos ejércitos amigos, ocultando el sol.”
+{Quote_829}”… Si tenemos una oportunidad de escapar tú y yo por nuestra cuenta, con algunos muchachos de confianza, a algún lugar donde haya un botín bueno y fácil de conseguir, y nada de grandes patrones.”
+{Quote_830}”Cuando te vea en tu ventana colgado de una horca, convertido en pasto de tus propios cuervos, entonces haré la paz contigo y con Orthanc.”
+{Quote_831}”Me tiendes la mano y yo sólo veo un dedo de la garra de Mordor. ¡Cruel y frío!”
+{Quote_832}”…pues han peleado en muchas guerras, atacando a quienes se atrevieron a desafiarlos. Sin embargo, más tarde hicieron la paz con algunos: una actitud sabia e inteligente.”
+{Quote_833}”La amistad de Saruman y el poderío de Orthanc no pueden ser rechazados a la ligera en nombre de cualquier ofensa real o imaginaria.”
+{Quote_834}”Mata a aquellos a quienes tu señor llama sus enemigos y conténtate con eso. No te inmiscuyas en lo que no entiendes.”
+{Quote_835}”Y esto es cerdo salado de primera calidad. También puedo cortaros algunas lonjas de tocino y asarlas, si preferís.”
+{Quote_836}”Ignoras que son las niñas del Gran Ojo.”
+{Quote_837}Alrededor había otros monstruos más pequeños. Pippin supuso que éstos eran los que venían del norte.
+{Quote_838}”Hemos recorrido todo el camino desde las Minas para matar y vengar a los nuestros. Tengo ganas de matar y luego volver al norte.”
+{Quote_839}”¿Para qué los quiere?” preguntaron varias voces “¿Por qué vivos? ¿Son una buena diversión?”
+{Quote_840}”Morirías antes que alcanzaras a golpear.”
+{Quote_841}”Pocos hay entre los hombres mortales que sepan más de orcos y no los cazo de este modo porque lo haya querido así.”
+{Quote_842}”No servimos al Poder del lejano País Negro, pero tampoco estamos en guerra con él.”
+{Quote_843}”… pero sólo deseamos ser libres y vivir como hemos vivido hasta ahora, conservando lo que es nuestro y no sirviendo a ningún señor extraño, bueno o malo.”
+{Quote_844}Por lo común, los trasgos no se alejan de las montanas, a menos que se los persiga y estén buscando nuevos lugares, o marchen a la guerra
+{Quote_845}Pero en aquellos días, a veces hacían incursiones, en especial para conseguir comida o esclavos que trabajasen para ellos. En esos casos, conseguían a menudo que los huargos los ayudasen, y se repartían el botín.
+{Quote_846}”¿Acaso por tres veces no acosasteis e importunasteis a mi gente en el bosque, y despertasteis a las arañas con vuestros gritos y tumultos?”
+{Quote_847}”¡Ay! Ha llegado más rápido de lo que yo había supuesto. ¡Los trasgos están sobre vosotros! Ahí llega Bolgo del Norte, cuyo padre, ¡oh, Dain!, mataste en Moria, hace tiempo.”
+{Quote_848}”Hum, hm, las Grandes Guerras no me preocupan” dijo Bárbol, “ellas conciernen sobre todo a los elfos y a los hombres. Es un asunto de magos: los magos andan siempre preocupados por el futuro. No me gusta preocuparme por el futuro.”
+{Quote_849}”… pero yo no amo la espada porque tiene filo, ni la flecha porque vuela, ni al guerrero porque ha ganado la gloria. Sólo amo lo que ellos defienden: la ciudad de los Hombres de Númenor.”
+{Quote_850}”¿Llegará a tiempo Faramir? Él lo predijo, ¿pero sabía la hora? ¿Y quién ahora defenderá los vados, cuando llegue el Rey de los Nueve Jinetes? Y a este ejército le seguirán otros.”
+

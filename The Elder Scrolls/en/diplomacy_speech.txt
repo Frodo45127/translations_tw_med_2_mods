@@ -1,0 +1,1485 @@
+¬
+{Arabic_Diplomat_Demeanour_Declare_Annoyed_1}Ah... We suspected you could not be trusted.
+{Arabic_Diplomat_Demeanour_Declare_Annoyed_2}Of course, this cheapens your ruler's word, infidel.
+{Arabic_Diplomat_Demeanour_Declare_Annoyed_3}Our only mistake was trusting you.
+{Arabic_Diplomat_Demeanour_Declare_Unconcerned_1}It was of little value anyway.
+{Arabic_Diplomat_Demeanour_Declare_Unconcerned_2}As you wish, we are not concerned.
+{Arabic_Diplomat_Demeanour_Declare_Unconcerned_3}I doubt the Sultan will even notice.
+{Arabic_Diplomat_Demeanour_Declare_Upset_1}We should have known not to trust you!
+{Arabic_Diplomat_Demeanour_Declare_Upset_2}A curse upon your treacherous tongue infidel!
+{Arabic_Diplomat_Demeanour_Declare_Upset_3}So your ruler is without honour then.
+{Arabic_Diplomat_Demeanour_Reaction_Disappointed_1}How can you not see what we offer you?
+{Arabic_Diplomat_Demeanour_Reaction_Disappointed_2}When you realise what you passed up, you shall regret it.
+{Arabic_Diplomat_Demeanour_Reaction_Disappointed_3}Is there sense in rejecting generosity such as this?
+{Arabic_Diplomat_Demeanour_Reaction_Elated_1}You do our people a great favour by accepting. We honour you!
+{Arabic_Diplomat_Demeanour_Reaction_Elated_2}We are humbled and honoured you would accept.
+{Arabic_Diplomat_Demeanour_Reaction_Elated_3}Our gratitude for this act of wisdom shall not die soon!
+{Arabic_Diplomat_Demeanour_Reaction_Neutral_1}It was a simple deal to make, yes?
+{Arabic_Diplomat_Demeanour_Reaction_Neutral_2}A balanced decision, for a balanced deal.
+{Arabic_Diplomat_Demeanour_Reaction_Neutral_3}If Allah is willing, we will reach more agreements.
+{Arabic_Diplomat_Demeanour_Reaction_Neutral_Rejected_1}La? Oh well, another day perhaps?
+{Arabic_Diplomat_Demeanour_Reaction_Neutral_Rejected_2}Oh well. Insha'allah, we shall find something to agree upon.
+{Arabic_Diplomat_Demeanour_Reaction_Neutral_Rejected_3}A shame, but your caution is not unwise.
+{Arabic_Diplomat_Demeanour_Reaction_Offended_1}Only foolish spite could blind you to the Sultan's generosity!
+{Arabic_Diplomat_Demeanour_Reaction_Offended_2}Is the generosity of the Sultan not good enough for you?!
+{Arabic_Diplomat_Demeanour_Reaction_Offended_3}To reject this kingly offer suggests horrible mistrust on your part.
+{Arabic_Diplomat_Demeanour_Reaction_Pleased_1}Very good, we had prayed you would accept.
+{Arabic_Diplomat_Demeanour_Reaction_Pleased_2}Most glad you agree! This is worth much to us!
+{Arabic_Diplomat_Demeanour_Reaction_Pleased_3}The sultan will hear of your support sadiq!
+{Arabic_Diplomat_Intro_Demeanour_Ally_1}Honour and praise to you noble master, the Sultan sends word.
+{Arabic_Diplomat_Intro_Demeanour_Ally_2}I thank you on the Sultan's behalf for hearing his proposition.
+{Arabic_Diplomat_Intro_Demeanour_Ally_3}Greetings noble one, the Sultan appreciates your time.
+{Arabic_Diplomat_Intro_Demeanour_Enemy_1}We come to you, hoping you will see sense.
+{Arabic_Diplomat_Intro_Demeanour_Enemy_2}Despite your honourless antics, we would speak with you this day.
+{Arabic_Diplomat_Intro_Demeanour_Enemy_3}We must resolve our differences, or this is war!
+{Arabic_Diplomat_Intro_Demeanour_Neutral_1}Hail to you, noble lord, we have something to discuss.
+{Arabic_Diplomat_Intro_Demeanour_Neutral_2}My Sultan sends me with word for your leader.
+{Arabic_Diplomat_Intro_Demeanour_Neutral_3}Noble one, we have something for you. 
+{Arabic_Diplomat_New_Offer_Better_1}Another proposal? Very good.
+{Arabic_Diplomat_New_Offer_Better_2}Another wise proposition?
+{Arabic_Diplomat_New_Offer_Better_3}We are most willing to hear you out further.
+{Arabic_Diplomat_New_Offer_Neutral_1}There is something else you wish to propose then?
+{Arabic_Diplomat_New_Offer_Neutral_2}Something further for me to hear then?
+{Arabic_Diplomat_New_Offer_Neutral_3}You would speak of something more?
+{Arabic_Diplomat_New_Offer_Worse_1}Something more worthy of my time please.
+{Arabic_Diplomat_New_Offer_Worse_2}I pray this shall be more worthwhile.
+{Arabic_Diplomat_New_Offer_Worse_3}Something with my people in mind this time?
+{Arabic_Diplomat_Offer_Accepted_Close_1}I question why I have accepted this deal.
+{Arabic_Diplomat_Offer_Accepted_Close_2}Had you asked any more, we would have said no.
+{Arabic_Diplomat_Offer_Accepted_Close_3}It is not without consideration that we accept.
+{Arabic_Diplomat_Offer_Accepted_Extortion_1}There is no honour in forcing the sultan's hand like this, infidel.
+{Arabic_Diplomat_Offer_Accepted_Generous_1}I am grateful for your magnificent offer.
+{Arabic_Diplomat_Offer_Accepted_Generous_2}May Allah, Lord of us all smile upon your generosity, Sadiq.
+{Arabic_Diplomat_Offer_Accepted_Generous_3}We cannot refuse such a generous offer Sadiq.
+{Arabic_Diplomat_Offer_Accepted_Standard_1}Agreed. You ask nothing we cannot give freely.
+{Arabic_Diplomat_Offer_Accepted_Standard_2}Very well. There is merit in your suggestion.
+{Arabic_Diplomat_Offer_Accepted_Standard_3}A well considered offer Sadiq, I accept.
+{Arabic_Diplomat_Offer_Countered_Close_1}I believe we shall soon agree, if we can agree on this small adjustment?
+{Arabic_Diplomat_Offer_Countered_Close_2}We are almost in agreement, should you be willing to accept this…
+{Arabic_Diplomat_Offer_Countered_Close_3}We had almost exactly the same thing in mind. 
+{Arabic_Diplomat_Offer_Countered_Insulting_1}Let me turn your insulting plan into something with wisdom….
+{Arabic_Diplomat_Offer_Countered_Insulting_2}Your lack of seriousness is insulting! This is far more wise….
+{Arabic_Diplomat_Offer_Countered_Insulting_3}Do not push this like that, and listen to a plan within reason.
+{Arabic_Diplomat_Offer_Countered_Open_Negative_1}You at least see the sense in asking I see.
+{Arabic_Diplomat_Offer_Countered_Open_Negative_2}It is good you show the wisdom to ask, not presume.
+{Arabic_Diplomat_Offer_Countered_Open_Negative_3}That you ask directly is appreciated.
+{Arabic_Diplomat_Offer_Countered_Open_Neutral_1}This clear question deserves a clear answer.
+{Arabic_Diplomat_Offer_Countered_Open_Neutral_2}Thanks to you for asking what would we would want.
+{Arabic_Diplomat_Offer_Countered_Open_Neutral_3}Your question is direct and fair.
+{Arabic_Diplomat_Offer_Countered_Open_Positive_1}Not guessing at the value I place on your plans is wisdom.
+{Arabic_Diplomat_Offer_Countered_Open_Positive_2}The honest nature in your question was expected.
+{Arabic_Diplomat_Offer_Countered_Open_Positive_3}You do not hide your questions, which is appreciated.
+{Arabic_Diplomat_Offer_Countered_Standard_1}Upon hearing that, perhaps you would consider this…
+{Arabic_Diplomat_Offer_Countered_Standard_2}Since you appear open to reason, then you could accept this…
+{Arabic_Diplomat_Offer_Countered_Standard_3}Perhaps we can meet half way, something like this…
+{Arabic_Diplomat_Offer_Declined_Close_1}No, you bargain just a touch too hard.
+{Arabic_Diplomat_Offer_Declined_Close_2}The answer I'm afraid is no.
+{Arabic_Diplomat_Offer_Declined_Close_3}We must decline this you speak of Sadiq.
+{Arabic_Diplomat_Offer_Declined_Insulting_1}Even a beggar would spit on your offering!
+{Arabic_Diplomat_Offer_Declined_Insulting_2}Keep that up, and you will anger the Sultan!
+{Arabic_Diplomat_Offer_Declined_Insulting_3}The Sultan has killed men for lesser insults!
+{Arabic_Diplomat_Offer_Declined_Standard_1}No... I must decline you here.
+{Arabic_Diplomat_Offer_Declined_Standard_2}There is no way the Sultan would accept this.
+{Arabic_Diplomat_Offer_Declined_Standard_3}I see little my people need in your offer Sadiq.
+{Arabic_Diplomat_Offer_Rejected_Close_1}We will leave this here.
+{Arabic_Diplomat_Offer_Rejected_Close_2}Enough of this for now.
+{Arabic_Diplomat_Offer_Rejected_Close_3}We won't be agreeing on this today.
+{Arabic_Diplomat_Offer_Rejected_Standard_1}Did you realise that was insulting?
+{Arabic_Diplomat_Offer_Rejected_Standard_2}Not in the mood for good reason then?
+{Arabic_Diplomat_Offer_Rejected_Standard_3}Bah! You waste my time!
+{Arabic_Diplomat_Outro_Demeanour_Better_1}You are an honour to your people Sadiq.
+{Arabic_Diplomat_Outro_Demeanour_Better_2}You bring words with meaning. Farewell.
+{Arabic_Diplomat_Outro_Demeanour_Better_3}We welcome words of wisdom such as these. Maasalaama.
+{Arabic_Diplomat_Outro_Demeanour_Neutral_1}Peace, and farewell.
+{Arabic_Diplomat_Outro_Demeanour_Neutral_2}Very well, maasalaama.
+{Arabic_Diplomat_Outro_Demeanour_Neutral_3}Our discussions come to a close.
+{Arabic_Diplomat_Outro_Demeanour_Worse_1}Pointless bickering does not interest us.
+{Arabic_Diplomat_Outro_Demeanour_Worse_2}This bodes poorly for our future.
+{Arabic_Diplomat_Outro_Demeanour_Worse_3}If you came to insult us, it has worked.
+{Arabic_Diplomat_Receiving_Demeanour_Ally_1}Murhaba trusted one, what is it you seek?
+{Arabic_Diplomat_Receiving_Demeanour_Ally_2}When our allies speak, the Sultan listens.
+{Arabic_Diplomat_Receiving_Demeanour_Ally_3}An honour to receive the Sultan's mighty allies.
+{Arabic_Diplomat_Receiving_Demeanour_Enemy_1}You have come to ask for the Sultan's mercy, yes?
+{Arabic_Diplomat_Receiving_Demeanour_Enemy_2}You are lucky we will receive you at all infidel.
+{Arabic_Diplomat_Receiving_Demeanour_Enemy_3}You are brave to seek an audience with us like this.
+{Arabic_Diplomat_Receiving_Demeanour_Neutral_1}We are prepared to receive your message sadiq.
+{Arabic_Diplomat_Receiving_Demeanour_Neutral_2}You have a proposition for my Sultan?
+{Arabic_Diplomat_Receiving_Demeanour_Neutral_3}There is something you wish to speak of?
+{East_European_Diplomat_Demeanour_Declare_Annoyed_1}This does little for your reputation.
+{East_European_Diplomat_Demeanour_Declare_Annoyed_2}So, should we take you seriously in future?
+{East_European_Diplomat_Demeanour_Declare_Annoyed_3}Do not agree to promises you will not keep.
+{East_European_Diplomat_Demeanour_Declare_Unconcerned_1}Oh well, it is not that important.
+{East_European_Diplomat_Demeanour_Declare_Unconcerned_2}Did you think this would bother us?
+{East_European_Diplomat_Demeanour_Declare_Unconcerned_3}We had all but forgotten this treaty anyway.
+{East_European_Diplomat_Demeanour_Declare_Upset_1}So you choose to betray us then!?
+{East_European_Diplomat_Demeanour_Declare_Upset_2}Are you not aware you have betrayed us!?
+{East_European_Diplomat_Demeanour_Declare_Upset_3}Being upfront makes this no less a betrayal.
+{East_European_Diplomat_Demeanour_Reaction_Disappointed_1}How could you say this offer was lacking? 
+{East_European_Diplomat_Demeanour_Reaction_Disappointed_2}Are you sure? That was more of a gift than a deal.
+{East_European_Diplomat_Demeanour_Reaction_Disappointed_3}No? You will wait some time for a better offer.
+{East_European_Diplomat_Demeanour_Reaction_Elated_1}We could not be happier with your decision. Thank you!
+{East_European_Diplomat_Demeanour_Reaction_Elated_2}Many thanks! You do not realise how much we appreciate this.
+{East_European_Diplomat_Demeanour_Reaction_Elated_3}This is wonderful. We shall not soon forget this.
+{East_European_Diplomat_Demeanour_Reaction_Neutral_1}It is agreed then. Our thanks.
+{East_European_Diplomat_Demeanour_Reaction_Neutral_2}A fair deal it would seem, yes?
+{East_European_Diplomat_Demeanour_Reaction_Neutral_3}Good, we have found some common ground.
+{East_European_Diplomat_Demeanour_Reaction_Neutral_Rejected_1}We understand, it was merely an idea.
+{East_European_Diplomat_Demeanour_Reaction_Neutral_Rejected_2}You are not convinced? Very well.
+{East_European_Diplomat_Demeanour_Reaction_Neutral_Rejected_3}It is no matter. Let's continue.
+{East_European_Diplomat_Demeanour_Reaction_Offended_1}To refuse such an offer, you must truly hate us.
+{East_European_Diplomat_Demeanour_Reaction_Offended_2}You refuse the King's generous offer?! It is an outrage.
+{East_European_Diplomat_Demeanour_Reaction_Offended_3}What is the problem? We were most generous!
+{East_European_Diplomat_Demeanour_Reaction_Pleased_1}My King will appreciate your wisdom in this.
+{East_European_Diplomat_Demeanour_Reaction_Pleased_2}Excellent, you have accepted as we hoped!
+{East_European_Diplomat_Demeanour_Reaction_Pleased_3}Good, a very useful deal for our people.
+{East_European_Diplomat_Intro_Demeanour_Ally_1}Hail, noble friend, I bring word from the King.
+{East_European_Diplomat_Intro_Demeanour_Ally_2}Thank you for receiving me friend. I have a proposition.
+{East_European_Diplomat_Intro_Demeanour_Ally_3}Greetings, honourable friend, we have things we wish to discuss.
+{East_European_Diplomat_Intro_Demeanour_Enemy_1}We have things to discuss.
+{East_European_Diplomat_Intro_Demeanour_Enemy_2}We bring you a message this day, not war.
+{East_European_Diplomat_Intro_Demeanour_Enemy_3}Noble foe, let us see if we can reach an agreement, yes?
+{East_European_Diplomat_Intro_Demeanour_Neutral_1}Hail and well met! We have something for you.
+{East_European_Diplomat_Intro_Demeanour_Neutral_2}Greetings, I come bearing word for you today. 
+{East_European_Diplomat_Intro_Demeanour_Neutral_3}I bring word from my people noble lord.
+{East_European_Diplomat_New_Offer_Better_1}We welcome your further good reason.
+{East_European_Diplomat_New_Offer_Better_2}Another course of wisdom to share?
+{East_European_Diplomat_New_Offer_Better_3}Please, continue with your suggestions.
+{East_European_Diplomat_New_Offer_Neutral_1}Very well, what else would you like to discuss?
+{East_European_Diplomat_New_Offer_Neutral_2}Something else you'd like to suggest?
+{East_European_Diplomat_New_Offer_Neutral_3}You have another proposal then?
+{East_European_Diplomat_New_Offer_Worse_1}I hope this will be more even-handed.
+{East_European_Diplomat_New_Offer_Worse_2}Something more balanced or generous perhaps?
+{East_European_Diplomat_New_Offer_Worse_3}You approach with something more reasonable now?
+{East_European_Diplomat_Offer_Accepted_Close_1}You should be surprised that we accept this deal. I am.
+{East_European_Diplomat_Offer_Accepted_Close_2}I suppose we can agree to these terms if we must.
+{East_European_Diplomat_Offer_Accepted_Close_3}Be thankful we accept this proposal.
+{East_European_Diplomat_Offer_Accepted_Extortion_1}Do not think our people accept this willingly!
+{East_European_Diplomat_Offer_Accepted_Generous_1}We are honoured by your generosity. Done!
+{East_European_Diplomat_Offer_Accepted_Generous_2}Your proposal is most worthy. We gladly accept.
+{East_European_Diplomat_Offer_Accepted_Generous_3}You are serious? This is most generous, my friend.
+{East_European_Diplomat_Offer_Accepted_Standard_1}Not a bad offer - We shall accept.
+{East_European_Diplomat_Offer_Accepted_Standard_2}Your plan seems balanced enough to me. Very well.
+{East_European_Diplomat_Offer_Accepted_Standard_3}We have no complaints with this plan. We accept!
+{East_European_Diplomat_Offer_Countered_Close_1}We are almost agreed! Could we make one last adjustment?
+{East_European_Diplomat_Offer_Countered_Close_2}I quite like your plan! But may I suggest a minor change?
+{East_European_Diplomat_Offer_Countered_Close_3}We will be agreed now once you agree to this tiny change…
+{East_European_Diplomat_Offer_Countered_Insulting_1}Since you show no reason, let me show some for you!
+{East_European_Diplomat_Offer_Countered_Insulting_2}I will try to hard ignore that and suggest something sensible.
+{East_European_Diplomat_Offer_Countered_Insulting_3}Stop trying to push things! This is more reasonable…
+{East_European_Diplomat_Offer_Countered_Open_Negative_1}At least you ask us directly.
+{East_European_Diplomat_Offer_Countered_Open_Negative_2}It is good you do not hide your motives.
+{East_European_Diplomat_Offer_Countered_Open_Negative_3}Asking directly is better.
+{East_European_Diplomat_Offer_Countered_Open_Neutral_1}You ask openly and directly - this is good.
+{East_European_Diplomat_Offer_Countered_Open_Neutral_2}Your question is clear, and hopefully so is my answer.
+{East_European_Diplomat_Offer_Countered_Open_Neutral_3}Your query is honest and open.
+{East_European_Diplomat_Offer_Countered_Open_Positive_1}You ask graciously, which I like.
+{East_European_Diplomat_Offer_Countered_Open_Positive_2}Your well-intentioned query is welcome.
+{East_European_Diplomat_Offer_Countered_Open_Positive_3}It is good to deal with those that ask openly.
+{East_European_Diplomat_Offer_Countered_Standard_1}Your plan has some merit, so perhaps you would see some in this?
+{East_European_Diplomat_Offer_Countered_Standard_2}Let us continue this negotiation, with the following changes…
+{East_European_Diplomat_Offer_Countered_Standard_3}We may reach an agreement if you are open to these changes…
+{East_European_Diplomat_Offer_Declined_Close_1}Hmmm, I cannot quite accept.
+{East_European_Diplomat_Offer_Declined_Close_2}Unfortunately, we cannot accept this.
+{East_European_Diplomat_Offer_Declined_Close_3}I must inform you, we cannot agree to this.
+{East_European_Diplomat_Offer_Declined_Insulting_1}You are trying to insult us, surely?
+{East_European_Diplomat_Offer_Declined_Insulting_2}Never! Your proposal implies we are fools! 
+{East_European_Diplomat_Offer_Declined_Insulting_3}You must think us meek or foolish to suggest this.
+{East_European_Diplomat_Offer_Declined_Standard_1}This is not something we will agree to.
+{East_European_Diplomat_Offer_Declined_Standard_2}No, we will not accept such a thing.
+{East_European_Diplomat_Offer_Declined_Standard_3}I do not think you would accept in my position.
+{East_European_Diplomat_Offer_Rejected_Close_1}Enough on this point for now.
+{East_European_Diplomat_Offer_Rejected_Close_2}Let us not take this further.
+{East_European_Diplomat_Offer_Rejected_Close_3}Leave this for now, please.
+{East_European_Diplomat_Offer_Rejected_Standard_1}This discussion ends now.
+{East_European_Diplomat_Offer_Rejected_Standard_2}I have truly tired of this point.
+{East_European_Diplomat_Offer_Rejected_Standard_3}Enough! This is over.
+{East_European_Diplomat_Outro_Demeanour_Better_1}You speak honourably, friend. Farewell!
+{East_European_Diplomat_Outro_Demeanour_Better_2}Goodbye, we look forward to our next meeting.
+{East_European_Diplomat_Outro_Demeanour_Better_3}Your time was most valuable. We thank you.
+{East_European_Diplomat_Outro_Demeanour_Neutral_1}Farewell to you.
+{East_European_Diplomat_Outro_Demeanour_Neutral_2}Goodbye.
+{East_European_Diplomat_Outro_Demeanour_Neutral_3}That is all? Farewell then.
+{East_European_Diplomat_Outro_Demeanour_Worse_1}It would seem we cannot agree.
+{East_European_Diplomat_Outro_Demeanour_Worse_2}This meeting was quite useless.
+{East_European_Diplomat_Outro_Demeanour_Worse_3}Our talks seem pointless.
+{East_European_Diplomat_Receiving_Demeanour_Ally_1}Friends, we are open to hearing your proposal.
+{East_European_Diplomat_Receiving_Demeanour_Ally_2}Honoured friends, let us hear your proposition.
+{East_European_Diplomat_Receiving_Demeanour_Ally_3}Always a pleasure to deal with your people.
+{East_European_Diplomat_Receiving_Demeanour_Enemy_1}Have you come to ask for peace?
+{East_European_Diplomat_Receiving_Demeanour_Enemy_2}Untrustworthy foe, what lies do you bring us then?
+{East_European_Diplomat_Receiving_Demeanour_Enemy_3}We shall hear you out, but do not expect much.
+{East_European_Diplomat_Receiving_Demeanour_Neutral_1}You have something to discuss with us?
+{East_European_Diplomat_Receiving_Demeanour_Neutral_2}You bring a proposition for my King?
+{East_European_Diplomat_Receiving_Demeanour_Neutral_3}Is there something I can do for you?
+{East_European_Princess_Demeanour_Declare_Annoyed_1}This does little for your reputation.
+{East_European_Princess_Demeanour_Declare_Annoyed_2}So should my people take you seriously in future?
+{East_European_Princess_Demeanour_Declare_Annoyed_3}Do not agree to promises you will not keep.
+{East_European_Princess_Demeanour_Declare_Unconcerned_1}Oh well, it is of no matter.
+{East_European_Princess_Demeanour_Declare_Unconcerned_2}Did you think this would bother me?
+{East_European_Princess_Demeanour_Declare_Unconcerned_3}Oh... Had we not cancelled that ourselves?
+{East_European_Princess_Demeanour_Declare_Upset_1}So you choose to betray my people!?
+{East_European_Princess_Demeanour_Declare_Upset_2}Were you not aware we would deem this a betrayal!?
+{East_European_Princess_Demeanour_Declare_Upset_3}Being upfront makes this no less a betrayal.
+{East_European_Princess_Demeanour_Reaction_Disappointed_1}How could you feel this offer was lacking? 
+{East_European_Princess_Demeanour_Reaction_Disappointed_2}Are you sure Lord? That was more of a gift than a deal.
+{East_European_Princess_Demeanour_Reaction_Disappointed_3}No? You will wait some time for a better offer.
+{East_European_Princess_Demeanour_Reaction_Elated_1}I could not be happier with your decision. Thank you!
+{East_European_Princess_Demeanour_Reaction_Elated_2}Many thanks! You do not realise how much my family appreciates this.
+{East_European_Princess_Demeanour_Reaction_Elated_3}This is wonderful. I shall not soon forget this.
+{East_European_Princess_Demeanour_Reaction_Neutral_1}It is agreed then. My thanks.
+{East_European_Princess_Demeanour_Reaction_Neutral_2}A fair deal it would seem, yes?
+{East_European_Princess_Demeanour_Reaction_Neutral_3}Good, we have found some common ground.
+{East_European_Princess_Demeanour_Reaction_Neutral_Rejected_1}I understand, it was merely an idea.
+{East_European_Princess_Demeanour_Reaction_Neutral_Rejected_2}You are not convinced? Very well.
+{East_European_Princess_Demeanour_Reaction_Neutral_Rejected_3}It is no matter my lord. Let's continue.
+{East_European_Princess_Demeanour_Reaction_Offended_1}How could you refuse a lady with so fair an offer?!
+{East_European_Princess_Demeanour_Reaction_Offended_2}No!? And how may I explain to the King that you refused this?!
+{East_European_Princess_Demeanour_Reaction_Offended_3}What is the problem, lord? We were most generous!
+{East_European_Princess_Demeanour_Reaction_Pleased_1}My family will appreciate your wisdom in this.
+{East_European_Princess_Demeanour_Reaction_Pleased_2}Excellent, you have accepted as I had hoped!
+{East_European_Princess_Demeanour_Reaction_Pleased_3}Thank you, a very useful deal for our people.
+{East_European_Princess_Intro_Demeanour_Ally_1}Hail noble majesty, I bring word from the King.
+{East_European_Princess_Intro_Demeanour_Ally_2}Thank you for receiving me, Lord, I have a proposition for you.
+{East_European_Princess_Intro_Demeanour_Ally_3}Noble majesty, I am here on behalf of my people.
+{East_European_Princess_Intro_Demeanour_Enemy_1}We have things to discuss.
+{East_European_Princess_Intro_Demeanour_Enemy_2}Lower your swords, a noble lady approaches.
+{East_European_Princess_Intro_Demeanour_Enemy_3}Noble foe, let us see if we can reach an agreement, yes?
+{East_European_Princess_Intro_Demeanour_Neutral_1}I have something for your attention.
+{East_European_Princess_Intro_Demeanour_Neutral_2}Greetings, I come bearing word for you today. 
+{East_European_Princess_Intro_Demeanour_Neutral_3}I bring word from my people, noble one.
+{East_European_Princess_New_Offer_Better_1}We welcome your further good reason.
+{East_European_Princess_New_Offer_Better_2}Another course of wisdom to share?
+{East_European_Princess_New_Offer_Better_3}Please, continue with your suggestions.
+{East_European_Princess_New_Offer_Neutral_1}Very well, what else would you like to discuss?
+{East_European_Princess_New_Offer_Neutral_2}Something else you'd like to suggest?
+{East_European_Princess_New_Offer_Neutral_3}You have another proposal then?
+{East_European_Princess_New_Offer_Worse_1}I hope this will be more even-handed.
+{East_European_Princess_New_Offer_Worse_2}Something more balanced or generous perhaps?
+{East_European_Princess_New_Offer_Worse_3}You approach with something more reasonable now?
+{East_European_Princess_Offer_Accepted_Close_1}I am in two minds about this, but will accept.
+{East_European_Princess_Offer_Accepted_Close_2}I suppose we can agree to these terms if we must.
+{East_European_Princess_Offer_Accepted_Close_3}I am not certain I should, but I accept.
+{East_European_Princess_Offer_Accepted_Extortion_1}Do not think my people accept this willingly.
+{East_European_Princess_Offer_Accepted_Generous_1}I am flattered by your generosity, I must accept!
+{East_European_Princess_Offer_Accepted_Generous_2}Your proposal is more than worthy. I accept for my people.
+{East_European_Princess_Offer_Accepted_Generous_3}You are serious my lord? This is most generous of you!
+{East_European_Princess_Offer_Accepted_Standard_1}On behalf of my people, I accept.
+{East_European_Princess_Offer_Accepted_Standard_2}A well thought out offer, my lord, I will happily accept.
+{East_European_Princess_Offer_Accepted_Standard_3}I have no qualms with this plan at all. I accept!
+{East_European_Princess_Offer_Countered_Close_1}We are almost agreed! Could we make one last adjustment?
+{East_European_Princess_Offer_Countered_Close_2}I quite like your plan! But may I suggest a minor change?
+{East_European_Princess_Offer_Countered_Close_3}We will be agreed now once you agree to this tiny change…
+{East_European_Princess_Offer_Countered_Insulting_1}Since you show no reason, let me show some for you!
+{East_European_Princess_Offer_Countered_Insulting_2}I will try to hard ignore that and suggest something sensible.
+{East_European_Princess_Offer_Countered_Insulting_3}Stop trying to push things! This is more reasonable…
+{East_European_Princess_Offer_Countered_Open_Negative_1}At least you ask us directly.
+{East_European_Princess_Offer_Countered_Open_Negative_2}It is good you do not hide your motives.
+{East_European_Princess_Offer_Countered_Open_Negative_3}Asking directly is better.
+{East_European_Princess_Offer_Countered_Open_Neutral_1}You ask openly and directly - this is good.
+{East_European_Princess_Offer_Countered_Open_Neutral_2}Your question is clear, and hopefully so is my answer.
+{East_European_Princess_Offer_Countered_Open_Neutral_3}Your query is honest and open.
+{East_European_Princess_Offer_Countered_Open_Positive_1}You ask graciously, which I like.
+{East_European_Princess_Offer_Countered_Open_Positive_2}Your well-intentioned query is welcome.
+{East_European_Princess_Offer_Countered_Open_Positive_3}It is good to deal with those that ask openly.
+{East_European_Princess_Offer_Countered_Standard_1}Your plan has some merit, so perhaps you would see some in this?
+{East_European_Princess_Offer_Countered_Standard_2}Let us continue this negotiation, with the following changes…
+{East_European_Princess_Offer_Countered_Standard_3}We may reach an agreement if you are open to these changes…
+{East_European_Princess_Offer_Declined_Close_1}Hmmm, I cannot quite accept.
+{East_European_Princess_Offer_Declined_Close_2}Unfortunately, we cannot accept this.
+{East_European_Princess_Offer_Declined_Close_3}I must inform you, we cannot agree to this.
+{East_European_Princess_Offer_Declined_Insulting_1}You are trying to insult us, surely?
+{East_European_Princess_Offer_Declined_Insulting_2}Never! Your proposal implies that I am some simple fool.
+{East_European_Princess_Offer_Declined_Insulting_3}Perhaps the ladies in your lands are easily fooled. I am not.
+{East_European_Princess_Offer_Declined_Standard_1}This is not something we will agree to.
+{East_European_Princess_Offer_Declined_Standard_2}No, we will not accept such a thing.
+{East_European_Princess_Offer_Declined_Standard_3}I do not think you would accept in my position.
+{East_European_Princess_Offer_Rejected_Close_1}Enough on this point for now.
+{East_European_Princess_Offer_Rejected_Close_2}Let us not take this further.
+{East_European_Princess_Offer_Rejected_Close_3}Leave this for now, please.
+{East_European_Princess_Offer_Rejected_Standard_1}This discussion ends now.
+{East_European_Princess_Offer_Rejected_Standard_2}I have truly tired of this point.
+{East_European_Princess_Offer_Rejected_Standard_3}Enough! This is over.
+{East_European_Princess_Outro_Demeanour_Better_1}You speak honourably, my lord. Farewell!
+{East_European_Princess_Outro_Demeanour_Better_2}Goodbye, I look forward to our next meeting.
+{East_European_Princess_Outro_Demeanour_Better_3}Your time was most valuable. I thank you.
+{East_European_Princess_Outro_Demeanour_Neutral_1}Farewell to you, lord.
+{East_European_Princess_Outro_Demeanour_Neutral_2}Goodbye.
+{East_European_Princess_Outro_Demeanour_Neutral_3}Farewell then, my lord.
+{East_European_Princess_Outro_Demeanour_Worse_1}Perhaps we should not have spoken. Goodbye.
+{East_European_Princess_Outro_Demeanour_Worse_2}If you intended to make matters worse, you did it!
+{East_European_Princess_Outro_Demeanour_Worse_3}You showed little respect this day. Farewell!
+{East_European_Princess_Receiving_Demeanour_Ally_1}An honour to receive you noble lord. What do you wish?
+{East_European_Princess_Receiving_Demeanour_Ally_2}Honoured lord, a pleasure to see you.
+{East_European_Princess_Receiving_Demeanour_Ally_3}Always a pleasure to speak with your good people.
+{East_European_Princess_Receiving_Demeanour_Enemy_1}Have you come to ask for peace?
+{East_European_Princess_Receiving_Demeanour_Enemy_2}I trust you would not lie to lady? Then speak.
+{East_European_Princess_Receiving_Demeanour_Enemy_3}You are an enemy of my people, speak quickly.
+{East_European_Princess_Receiving_Demeanour_Neutral_1}You have something to discuss with me?
+{East_European_Princess_Receiving_Demeanour_Neutral_2}My lord, you have a proposition for my people?
+{East_European_Princess_Receiving_Demeanour_Neutral_3}An honour my lord, how may I help you?
+{English_Diplomat_Demeanour_Declare_Annoyed_1}That's hardly good news, is it?
+{English_Diplomat_Demeanour_Declare_Annoyed_2}Disappointing but good that you told us.
+{English_Diplomat_Demeanour_Declare_Annoyed_3}Why would you do this to us?
+{English_Diplomat_Demeanour_Declare_Unconcerned_1}Very well, it matters not.
+{English_Diplomat_Demeanour_Declare_Unconcerned_2}So be it. Anything else?
+{English_Diplomat_Demeanour_Declare_Unconcerned_3}No great loss anyway.
+{English_Diplomat_Demeanour_Declare_Upset_1}This is an outrage! How could you do this to us!
+{English_Diplomat_Demeanour_Declare_Upset_2}You do realise there are consequences to your decision?
+{English_Diplomat_Demeanour_Declare_Upset_3}You obviously care naught how you treat us!
+{English_Diplomat_Demeanour_Reaction_Disappointed_1}A shame, we thought this would please thee.
+{English_Diplomat_Demeanour_Reaction_Disappointed_2}It was a fair proposal, was it not?
+{English_Diplomat_Demeanour_Reaction_Disappointed_3}But... How was this lacking then?
+{English_Diplomat_Demeanour_Reaction_Elated_1}We are elated you saw it this way!
+{English_Diplomat_Demeanour_Reaction_Elated_2}The king will be thrilled to hear this.
+{English_Diplomat_Demeanour_Reaction_Elated_3}We cannot thank you enough for accepting!
+{English_Diplomat_Demeanour_Reaction_Neutral_1}As we expected. Thank you.
+{English_Diplomat_Demeanour_Reaction_Neutral_2}It was a fair deal, yes?
+{English_Diplomat_Demeanour_Reaction_Neutral_3}Glad we could reach an agreement.
+{English_Diplomat_Demeanour_Reaction_Neutral_Rejected_1}Oh well, fair enough.
+{English_Diplomat_Demeanour_Reaction_Neutral_Rejected_2}We understand your reservations.
+{English_Diplomat_Demeanour_Reaction_Neutral_Rejected_3}Very well, it was just a suggestion.
+{English_Diplomat_Demeanour_Reaction_Offended_1}Are you rejecting us out of spite!?
+{English_Diplomat_Demeanour_Reaction_Offended_2}The King will likely take your denial personally.
+{English_Diplomat_Demeanour_Reaction_Offended_3}How could you refuse this generous offer?!
+{English_Diplomat_Demeanour_Reaction_Pleased_1}A wise decision England appreciates.
+{English_Diplomat_Demeanour_Reaction_Pleased_2}Excellent, we are in agreeance then.
+{English_Diplomat_Demeanour_Reaction_Pleased_3}Most glad you saw the merit in our proposal sire.
+{English_Diplomat_Intro_Demeanour_Ally_1}Noble allies, I bring word from England.
+{English_Diplomat_Intro_Demeanour_Ally_2}Thank you for receiving me friend. I have a proposition
+{English_Diplomat_Intro_Demeanour_Ally_3}Greetings noble ally, I bring word from the King.
+{English_Diplomat_Intro_Demeanour_Enemy_1}We have things to discuss.
+{English_Diplomat_Intro_Demeanour_Enemy_2}Let us try words and not war for a change.
+{English_Diplomat_Intro_Demeanour_Enemy_3}Perhaps we could sort our differences this time?
+{English_Diplomat_Intro_Demeanour_Neutral_1}We have something for you noble sire.
+{English_Diplomat_Intro_Demeanour_Neutral_2}We bring word for you.
+{English_Diplomat_Intro_Demeanour_Neutral_3}I bring word from England noble sire.
+{English_Diplomat_New_Offer_Better_1}You have further proposals? Please, let us hear them.
+{English_Diplomat_New_Offer_Better_2}Another proposition? We're happy to listen.
+{English_Diplomat_New_Offer_Better_3}You have another worthy proposal then? Excellent.
+{English_Diplomat_New_Offer_Neutral_1}There is something else you wish to propose then?
+{English_Diplomat_New_Offer_Neutral_2}Very well, what else do you have to suggest?
+{English_Diplomat_New_Offer_Neutral_3}Another proposition for us then?
+{English_Diplomat_New_Offer_Worse_1}This had best be more worthwhile.
+{English_Diplomat_New_Offer_Worse_2}We pray your next proposal is more reasonable than the last.
+{English_Diplomat_New_Offer_Worse_3}Planning to make a more considerate proposal we hope?
+{English_Diplomat_Offer_Accepted_Close_1}After some consideration, we accept. 
+{English_Diplomat_Offer_Accepted_Close_2}Acceptable, but only just.
+{English_Diplomat_Offer_Accepted_Close_3}Possibly a mistake, but we'll accept.
+{English_Diplomat_Offer_Accepted_Extortion_1}You hold us at ransom, and you know this.
+{English_Diplomat_Offer_Accepted_Generous_1}A most generous offer, we gladly accept!
+{English_Diplomat_Offer_Accepted_Generous_2}How could we refuse such a generous offer?
+{English_Diplomat_Offer_Accepted_Generous_3}I accept this wonderful deal with pleasure.
+{English_Diplomat_Offer_Accepted_Standard_1}Seems like a most reasonable deal to me.
+{English_Diplomat_Offer_Accepted_Standard_2}Its good to see we could reach an agreement.
+{English_Diplomat_Offer_Accepted_Standard_3}This seems quite reasonable
+{English_Diplomat_Offer_Countered_Close_1}A good proposal! Could we make a small adjustment?
+{English_Diplomat_Offer_Countered_Close_2}Very reasonable of you! May we suggest a minor change?
+{English_Diplomat_Offer_Countered_Close_3}An honourable proposal, perfect with a small change... 
+{English_Diplomat_Offer_Countered_Insulting_1}Surely you jest?! THIS would be far more reasonable.
+{English_Diplomat_Offer_Countered_Insulting_2}Are you trying to insult us? Let's be more realistic.
+{English_Diplomat_Offer_Countered_Insulting_3}I should leave! Be reasonable or be gone!
+{English_Diplomat_Offer_Countered_Open_Negative_1}At least you seek to understand us better. 
+{English_Diplomat_Offer_Countered_Open_Negative_2}It is good you show the sense to ask, not presume.
+{English_Diplomat_Offer_Countered_Open_Negative_3}Asking like this is much more reasonable of you.
+{English_Diplomat_Offer_Countered_Open_Neutral_1}We appreciate your asking us
+{English_Diplomat_Offer_Countered_Open_Neutral_2}Oh? It is good of you to ask us.
+{English_Diplomat_Offer_Countered_Open_Neutral_3}Your question is direct and fair.
+{English_Diplomat_Offer_Countered_Open_Positive_1}Thank you for being open to asking.
+{English_Diplomat_Offer_Countered_Open_Positive_2}Your well-intentioned query is welcome.
+{English_Diplomat_Offer_Countered_Open_Positive_3}We like dealing with those that ask such as yourself.
+{English_Diplomat_Offer_Countered_Standard_1}I see then. Perhaps you would consider this?
+{English_Diplomat_Offer_Countered_Standard_2}Not unreasonable at all, but we'd require these changes.
+{English_Diplomat_Offer_Countered_Standard_3}Perhaps we can work this out, with some minor adjustments?
+{English_Diplomat_Offer_Declined_Close_1}I am not quite able to accept this.
+{English_Diplomat_Offer_Declined_Close_2}No, we cannot agree to this now.
+{English_Diplomat_Offer_Declined_Close_3}I do not believe I am able to accept this.
+{English_Diplomat_Offer_Declined_Insulting_1}You insult us by even suggesting such a thing!
+{English_Diplomat_Offer_Declined_Insulting_2}Never! Do you think us foolish and meek? 
+{English_Diplomat_Offer_Declined_Insulting_3}Do you think me a mindless serf? You ask too much!
+{English_Diplomat_Offer_Declined_Standard_1}No, we will not agree to anything like this.
+{English_Diplomat_Offer_Declined_Standard_2}This proposal is of little interest.
+{English_Diplomat_Offer_Declined_Standard_3}I must say, we are not convinced.
+{English_Diplomat_Offer_Rejected_Close_1}I'm afraid we must leave this here.
+{English_Diplomat_Offer_Rejected_Close_2}Let's not take this any further.
+{English_Diplomat_Offer_Rejected_Close_3}This isn't going to happen now.
+{English_Diplomat_Offer_Rejected_Standard_1}You practically show contempt by suggesting this!
+{English_Diplomat_Offer_Rejected_Standard_2}To suggest such a thing is an insult!
+{English_Diplomat_Offer_Rejected_Standard_3}Never! Do not suggest such a thing again.
+{English_Diplomat_Outro_Demeanour_Better_1}The pleasure was all ours. Farewell!
+{English_Diplomat_Outro_Demeanour_Better_2}Well, that seemed fruitful. Farewell.
+{English_Diplomat_Outro_Demeanour_Better_3}An honour and a pleasure. Farewell.
+{English_Diplomat_Outro_Demeanour_Neutral_1}Farewell then.
+{English_Diplomat_Outro_Demeanour_Neutral_2}Good day to you.
+{English_Diplomat_Outro_Demeanour_Neutral_3}Until we meet again sire.
+{English_Diplomat_Outro_Demeanour_Worse_1}This was a waste of time.
+{English_Diplomat_Outro_Demeanour_Worse_2}This meeting was disappointing. Goodbye.
+{English_Diplomat_Outro_Demeanour_Worse_3}We hope for more fruitful parley in future.
+{English_Diplomat_Receiving_Demeanour_Ally_1}Dear friends, what can we do for you today?
+{English_Diplomat_Receiving_Demeanour_Ally_2}Always happy to deal with you trusted friends.
+{English_Diplomat_Receiving_Demeanour_Ally_3}Tis good to see you my friend, how can we help?
+{English_Diplomat_Receiving_Demeanour_Enemy_1}We doubt there is much you can offer us.
+{English_Diplomat_Receiving_Demeanour_Enemy_2}This had best be worth our time.
+{English_Diplomat_Receiving_Demeanour_Enemy_3}We shall listen to your proposal, but do not expect much.
+{English_Diplomat_Receiving_Demeanour_Neutral_1}How can England help you?
+{English_Diplomat_Receiving_Demeanour_Neutral_2}You have a proposition for us?
+{English_Diplomat_Receiving_Demeanour_Neutral_3}What is it you wish to discuss?
+{English_Princess_Demeanour_Declare_Annoyed_1}That's hardly good news, is it?
+{English_Princess_Demeanour_Declare_Annoyed_2}Good that you told us, but most disappointing.
+{English_Princess_Demeanour_Declare_Annoyed_3}Why would you do this to my people?
+{English_Princess_Demeanour_Declare_Unconcerned_1}Very well, it matters not.
+{English_Princess_Demeanour_Declare_Unconcerned_2}So be it. Anything else?
+{English_Princess_Demeanour_Declare_Unconcerned_3}No great loss there, sire.
+{English_Princess_Demeanour_Declare_Upset_1}This is an outrageous! How could you do this to my people?
+{English_Princess_Demeanour_Declare_Upset_2}Surely you jest, sire? We had an agreement.
+{English_Princess_Demeanour_Declare_Upset_3}You obviously care nought of honouring your treaties!
+{English_Princess_Demeanour_Reaction_Disappointed_1}A shame, I had hoped this would please thee.
+{English_Princess_Demeanour_Reaction_Disappointed_2}It was a fair proposal, was it not sire?
+{English_Princess_Demeanour_Reaction_Disappointed_3}But sire... How was this offer lacking?
+{English_Princess_Demeanour_Reaction_Elated_1}My lord, I am so happy you have accepted this proposal!
+{English_Princess_Demeanour_Reaction_Elated_2}My family will be thrilled to hear this, noble sire!
+{English_Princess_Demeanour_Reaction_Elated_3}I cannot thank you enough for accepting!
+{English_Princess_Demeanour_Reaction_Neutral_1}Thank you, sire.
+{English_Princess_Demeanour_Reaction_Neutral_2}It is a fair deal.
+{English_Princess_Demeanour_Reaction_Neutral_3}Glad we could reach an agreement.
+{English_Princess_Demeanour_Reaction_Neutral_Rejected_1}Fair enough, noble sire.
+{English_Princess_Demeanour_Reaction_Neutral_Rejected_2}We respect your reservations, sire.
+{English_Princess_Demeanour_Reaction_Neutral_Rejected_3}A shame, but it was just a suggestion.
+{English_Princess_Demeanour_Reaction_Offended_1}But sire, are you rejecting us out of spite?
+{English_Princess_Demeanour_Reaction_Offended_2}The King will surely take this refusal to heart.
+{English_Princess_Demeanour_Reaction_Offended_3}My lord, how could you refuse this generous offer?!
+{English_Princess_Demeanour_Reaction_Pleased_1}Your wisdom is truly appreciated, sire.
+{English_Princess_Demeanour_Reaction_Pleased_2}Excellent, your majesty, we are in agreeance then.
+{English_Princess_Demeanour_Reaction_Pleased_3}I am most glad you saw the merit in our proposal, noble sire.
+{English_Princess_Intro_Demeanour_Ally_1}Noble friends of England, I bring word.
+{English_Princess_Intro_Demeanour_Ally_2}Thank you for receiving me noble sire. I have a proposition.
+{English_Princess_Intro_Demeanour_Ally_3}Your majesty, I bring word from your ally, the King.
+{English_Princess_Intro_Demeanour_Enemy_1}We have things to discuss.
+{English_Princess_Intro_Demeanour_Enemy_2}Lower your swords, a noble lady approaches.
+{English_Princess_Intro_Demeanour_Enemy_3}Perhaps we could sort our differences this day, sire?
+{English_Princess_Intro_Demeanour_Neutral_1}Greetings, noble sire.
+{English_Princess_Intro_Demeanour_Neutral_2}We bring word for you.
+{English_Princess_Intro_Demeanour_Neutral_3}I bring word from England, noble sire.
+{English_Princess_New_Offer_Better_1}You have further proposals? Please, let us hear them.
+{English_Princess_New_Offer_Better_2}Another proposition? We're happy to listen.
+{English_Princess_New_Offer_Better_3}You have another worthy proposal then? Excellent.
+{English_Princess_New_Offer_Neutral_1}There is something else you wish to propose then?
+{English_Princess_New_Offer_Neutral_2}Very well, what else do you have to suggest?
+{English_Princess_New_Offer_Neutral_3}Another proposition for us then?
+{English_Princess_New_Offer_Worse_1}This had best be more worthwhile.
+{English_Princess_New_Offer_Worse_2}We pray your next proposal is more reasonable than the last.
+{English_Princess_New_Offer_Worse_3}Planning to make a more considerate proposal we hope?
+{English_Princess_Offer_Accepted_Close_1}After some consideration, we accept. 
+{English_Princess_Offer_Accepted_Close_2}I suppose this is acceptable.
+{English_Princess_Offer_Accepted_Close_3}I may regret this, but we'll accept.
+{English_Princess_Offer_Accepted_Extortion_1}Sire, how could you do this to a lady?
+{English_Princess_Offer_Accepted_Generous_1}Definitely, noble sire, a most generous offer!
+{English_Princess_Offer_Accepted_Generous_2}How could a lady refuse such a generous offer?
+{English_Princess_Offer_Accepted_Generous_3}Of course! I accept this wonderful deal with pleasure.
+{English_Princess_Offer_Accepted_Standard_1}Seems like a most reasonable offer, good sire.
+{English_Princess_Offer_Accepted_Standard_2}Happy we could reach an agreement, sire.
+{English_Princess_Offer_Accepted_Standard_3}This seems quite reasonable.
+{English_Princess_Offer_Countered_Close_1}A good proposal! Could we make a small adjustment?
+{English_Princess_Offer_Countered_Close_2}Very reasonable of you! May we suggest a minor change?
+{English_Princess_Offer_Countered_Close_3}An honourable proposal, perfect with a small change... 
+{English_Princess_Offer_Countered_Insulting_1}Surely you jest?! THIS would be far more reasonable.
+{English_Princess_Offer_Countered_Insulting_2}Are you trying to insult us? Let's be more realistic.
+{English_Princess_Offer_Countered_Insulting_3}I should leave! Be reasonable or be gone!
+{English_Princess_Offer_Countered_Open_Negative_1}At least you seek to understand us better. 
+{English_Princess_Offer_Countered_Open_Negative_2}It is good you show the sense to ask, not presume.
+{English_Princess_Offer_Countered_Open_Negative_3}Asking like this is much more reasonable of you.
+{English_Princess_Offer_Countered_Open_Neutral_1}I appreciate you would ask, rather than presume.
+{English_Princess_Offer_Countered_Open_Neutral_2}Oh? It is good of you to ask us.
+{English_Princess_Offer_Countered_Open_Neutral_3}Your question is direct and fair.
+{English_Princess_Offer_Countered_Open_Positive_1}Thank you for being open to asking.
+{English_Princess_Offer_Countered_Open_Positive_2}Your well-intentioned query is welcome.
+{English_Princess_Offer_Countered_Open_Positive_3}We like dealing with those that ask such as yourself.
+{English_Princess_Offer_Countered_Standard_1}I see then. Perhaps you would consider this?
+{English_Princess_Offer_Countered_Standard_2}Not unreasonable at all, but we'd require these changes.
+{English_Princess_Offer_Countered_Standard_3}Perhaps we can work this out, with some minor adjustments?
+{English_Princess_Offer_Declined_Close_1}I am not quite able to accept this.
+{English_Princess_Offer_Declined_Close_2}No, we cannot agree to this now.
+{English_Princess_Offer_Declined_Close_3}I do not believe I am able to accept this.
+{English_Princess_Offer_Declined_Insulting_1}You insult me by even suggesting such a thing!
+{English_Princess_Offer_Declined_Insulting_2}Never! Do you think this lady a fool?
+{English_Princess_Offer_Declined_Insulting_3}Do you think me a mindless wench? This is an insult!
+{English_Princess_Offer_Declined_Standard_1}No, we will not agree to anything like this.
+{English_Princess_Offer_Declined_Standard_2}Agreeing to this is of little interest to us.
+{English_Princess_Offer_Declined_Standard_3}This proposal lacks appeal for England.
+{English_Princess_Offer_Rejected_Close_1}I'm afraid we must leave this here.
+{English_Princess_Offer_Rejected_Close_2}Let's not take this any further.
+{English_Princess_Offer_Rejected_Close_3}This isn't going to happen now.
+{English_Princess_Offer_Rejected_Standard_1}You practically show contempt by suggesting this!
+{English_Princess_Offer_Rejected_Standard_2}To suggest such a thing is an insult!
+{English_Princess_Offer_Rejected_Standard_3}Never! Do not suggest such a thing again.
+{English_Princess_Outro_Demeanour_Better_1}The pleasure was all mine sire. Farewell!
+{English_Princess_Outro_Demeanour_Better_2}It was an honour my lord. Farewell.
+{English_Princess_Outro_Demeanour_Better_3}An honour and a pleasure. Farewell.
+{English_Princess_Outro_Demeanour_Neutral_1}Farewell, my lord.
+{English_Princess_Outro_Demeanour_Neutral_2}Good day, sire.
+{English_Princess_Outro_Demeanour_Neutral_3}England bids you farewell.
+{English_Princess_Outro_Demeanour_Worse_1}I feel this was a waste of our time, sire.
+{English_Princess_Outro_Demeanour_Worse_2}This meeting was a disappointment, sire.
+{English_Princess_Outro_Demeanour_Worse_3}It would seem you deal poorly with a lady. Good day!
+{English_Princess_Receiving_Demeanour_Ally_1}Dear sire, what can I do for you today?
+{English_Princess_Receiving_Demeanour_Ally_2}A pleasure to see you, noble sire, how may I help?
+{English_Princess_Receiving_Demeanour_Ally_3}How may I serve thee, noble sire?
+{English_Princess_Receiving_Demeanour_Enemy_1}Are you here to attempt to reconcile with us?
+{English_Princess_Receiving_Demeanour_Enemy_2}Do you come bearing a treaty?
+{English_Princess_Receiving_Demeanour_Enemy_3}I shall listen to your proposal, but can promise nothing.
+{English_Princess_Receiving_Demeanour_Neutral_1}How can this lady help thee?
+{English_Princess_Receiving_Demeanour_Neutral_2}You have a proposition for us, noble sire?
+{English_Princess_Receiving_Demeanour_Neutral_3}Greetings lord, what is it you would speak of?
+{French_Diplomat_Demeanour_Declare_Annoyed_1}At least you had the honour to inform us.
+{French_Diplomat_Demeanour_Declare_Annoyed_2}This is not pleasing news.
+{French_Diplomat_Demeanour_Declare_Annoyed_3}So where do you loyalties lie then?
+{French_Diplomat_Demeanour_Declare_Unconcerned_1}Hmph! We care not.
+{French_Diplomat_Demeanour_Declare_Unconcerned_2}This was worthless to us anyway.
+{French_Diplomat_Demeanour_Declare_Unconcerned_3}Did you think we would care?
+{French_Diplomat_Demeanour_Declare_Upset_1}This is a betrayal! How could you do this?
+{French_Diplomat_Demeanour_Declare_Upset_2}We know now not to trust you!
+{French_Diplomat_Demeanour_Declare_Upset_3}So you just break promises just like that, do you?!
+{French_Diplomat_Demeanour_Reaction_Disappointed_1}Really? In your position, we would accept.
+{French_Diplomat_Demeanour_Reaction_Disappointed_2}A shame you did not see the merit in this.
+{French_Diplomat_Demeanour_Reaction_Disappointed_3}But it was a good offer, was it not?
+{French_Diplomat_Demeanour_Reaction_Elated_1}France could not be happier with your decision!
+{French_Diplomat_Demeanour_Reaction_Elated_2}Tres bein! France will not forget this!
+{French_Diplomat_Demeanour_Reaction_Elated_3}Magnifique! Merci for accepting.
+{French_Diplomat_Demeanour_Reaction_Neutral_1}A deal then?
+{French_Diplomat_Demeanour_Reaction_Neutral_2}It is agreed then?
+{French_Diplomat_Demeanour_Reaction_Neutral_3}This was fair, non?
+{French_Diplomat_Demeanour_Reaction_Neutral_Rejected_1}A shame you decline, but it is your choice.
+{French_Diplomat_Demeanour_Reaction_Neutral_Rejected_2}Fair enough, we realise it was no gift.
+{French_Diplomat_Demeanour_Reaction_Neutral_Rejected_3}It is fine, mon ami, we respect your decision.
+{French_Diplomat_Demeanour_Reaction_Offended_1}You must despise us to reject such an offer?!
+{French_Diplomat_Demeanour_Reaction_Offended_2}Non!? You will not see a more generous offer!
+{French_Diplomat_Demeanour_Reaction_Offended_3}Your denial is both insulting and insane!
+{French_Diplomat_Demeanour_Reaction_Pleased_1}A wise decision, France appreciates.
+{French_Diplomat_Demeanour_Reaction_Pleased_2}Most pleased you saw the value here, seigneur.
+{French_Diplomat_Demeanour_Reaction_Pleased_3}Merci! So glad you appreciated our offer.
+{French_Diplomat_Intro_Demeanour_Ally_1}A pleasure to bring word to you, mon ami.
+{French_Diplomat_Intro_Demeanour_Ally_2}Bonjour, mon ami! We have something to discuss.
+{French_Diplomat_Intro_Demeanour_Ally_3}I bring word from the King, mon ami. Let us talk.
+{French_Diplomat_Intro_Demeanour_Enemy_1}We have things to sort out with you.
+{French_Diplomat_Intro_Demeanour_Enemy_2}We have a proposition for you. We advise you to take it.
+{French_Diplomat_Intro_Demeanour_Enemy_3}Bonjour, we hope you will have the brains to listen to this.
+{French_Diplomat_Intro_Demeanour_Neutral_1}Bonjour, we have something to discuss.
+{French_Diplomat_Intro_Demeanour_Neutral_2}We have something for you seigneur.
+{French_Diplomat_Intro_Demeanour_Neutral_3}I bring word from Mon Roi, noble sire.
+{French_Diplomat_New_Offer_Better_1}But of course, you have our attention.
+{French_Diplomat_New_Offer_Better_2}Please go on, we are listening.
+{French_Diplomat_New_Offer_Better_3}Something else? Continue mon ami.
+{French_Diplomat_New_Offer_Neutral_1}Is there something else you wish to propose then?
+{French_Diplomat_New_Offer_Neutral_2}Tres bon, what else do you have to suggest?
+{French_Diplomat_New_Offer_Neutral_3}You have further proposals for us then?
+{French_Diplomat_New_Offer_Worse_1}We pray this will be more worthwhile.
+{French_Diplomat_New_Offer_Worse_2}Perhaps this  proposal is more reasonable than the last.
+{French_Diplomat_New_Offer_Worse_3}Something more in our interests this time, oui?
+{French_Diplomat_Offer_Accepted_Close_1}It is a tough decision, but very well.
+{French_Diplomat_Offer_Accepted_Close_2}I am uncertain that we should accept, but we shall.
+{French_Diplomat_Offer_Accepted_Close_3}If this will please you then I suppose we can accept.
+{French_Diplomat_Offer_Accepted_Extortion_1}You enjoy holding us to ransom like this, oui!?
+{French_Diplomat_Offer_Accepted_Generous_1}Mon ami, your offer is too good to refuse.
+{French_Diplomat_Offer_Accepted_Generous_2}Tres bon! I am honoured to accept.
+{French_Diplomat_Offer_Accepted_Generous_3}If only everyone offered us such proposals! Merci!
+{French_Diplomat_Offer_Accepted_Standard_1}Fair enough, we accept your proposal.
+{French_Diplomat_Offer_Accepted_Standard_2}A reasonable proposal. Very well, we accept.
+{French_Diplomat_Offer_Accepted_Standard_3}Oui, why not? You have a deal.
+{French_Diplomat_Offer_Countered_Close_1}Almost mon ami, could we make a small adjustment?
+{French_Diplomat_Offer_Countered_Close_2}Oui, quite good, but may we suggest a minor change?
+{French_Diplomat_Offer_Countered_Close_3}A good proposal, made perfect with this change…
+{French_Diplomat_Offer_Countered_Insulting_1}That was a bad joke! This is a serious suggestion…
+{French_Diplomat_Offer_Countered_Insulting_2}How about I make a less ludicrous suggestion like this…
+{French_Diplomat_Offer_Countered_Insulting_3}Your proposal is insulting! But my one is not.
+{French_Diplomat_Offer_Countered_Open_Negative_1}At least you ask me openly enough now. 
+{French_Diplomat_Offer_Countered_Open_Negative_2}You show the sense now to ask and not presume.
+{French_Diplomat_Offer_Countered_Open_Negative_3}I must admit, your asking directly is appreciated..
+{French_Diplomat_Offer_Countered_Open_Neutral_1}I appreciate your asking me
+{French_Diplomat_Offer_Countered_Open_Neutral_2}It is most good of you to ask us.
+{French_Diplomat_Offer_Countered_Open_Neutral_3}Your question is direct and fair.
+{French_Diplomat_Offer_Countered_Open_Positive_1}Merci for asking mon ami.
+{French_Diplomat_Offer_Countered_Open_Positive_2}To ask as you did is well intentioned.
+{French_Diplomat_Offer_Countered_Open_Positive_3}Your honest question shall receive an honest answer.
+{French_Diplomat_Offer_Countered_Standard_1}Fair enough, though perhaps you would consider this?
+{French_Diplomat_Offer_Countered_Standard_2}Not unreasonable mon ami, but we'd require some changes.
+{French_Diplomat_Offer_Countered_Standard_3}Perhaps this can be agreed upon with some minor adjustments?
+{French_Diplomat_Offer_Declined_Close_1}I am afraid I must deny you.
+{French_Diplomat_Offer_Declined_Close_2}I cannot quite accept.
+{French_Diplomat_Offer_Declined_Close_3}Non, but maybe we should reconsider this again.
+{French_Diplomat_Offer_Declined_Insulting_1}Do you think my king is a fool! This is insulting!
+{French_Diplomat_Offer_Declined_Insulting_2}If you wish this to remain civil, stop insulting us!
+{French_Diplomat_Offer_Declined_Insulting_3}Did you intend to insult us with this rubbish.
+{French_Diplomat_Offer_Declined_Standard_1}Non, we will not accept this sort of thing.
+{French_Diplomat_Offer_Declined_Standard_2}I think not, mon ami. Non.
+{French_Diplomat_Offer_Declined_Standard_3}Non. This is nothing attracting us to agree.
+{French_Diplomat_Offer_Rejected_Close_1}This we must leave here.
+{French_Diplomat_Offer_Rejected_Close_2}Let's not parle on this any further.
+{French_Diplomat_Offer_Rejected_Close_3}Non, forget this for now.
+{French_Diplomat_Offer_Rejected_Standard_1}Do not press this point for now.
+{French_Diplomat_Offer_Rejected_Standard_2}To suggest such a thing is an insult!
+{French_Diplomat_Offer_Rejected_Standard_3}Are you openly attempting to insult me?
+{French_Diplomat_Outro_Demeanour_Better_1}Au revoir, mon ami, it has been a pleasure.
+{French_Diplomat_Outro_Demeanour_Better_2}Tres bein! We shall speak again.
+{French_Diplomat_Outro_Demeanour_Better_3}A most worthwhile meeting, mon ami!
+{French_Diplomat_Outro_Demeanour_Neutral_1}Au revoir.
+{French_Diplomat_Outro_Demeanour_Neutral_2}Adieu, seigneur.
+{French_Diplomat_Outro_Demeanour_Neutral_3}We are done now?
+{French_Diplomat_Outro_Demeanour_Worse_1}This was a waste of time.
+{French_Diplomat_Outro_Demeanour_Worse_2}This meeting was disappointing.
+{French_Diplomat_Outro_Demeanour_Worse_3}Let us pray this does not happen again.
+{French_Diplomat_Receiving_Demeanour_Ally_1}Bonjour mon ami! Something we can do for you?
+{French_Diplomat_Receiving_Demeanour_Ally_2}A pleasure mon ami, what is it you wish to say?
+{French_Diplomat_Receiving_Demeanour_Ally_3}Always good to see you mon ami. How can we help?
+{French_Diplomat_Receiving_Demeanour_Enemy_1}What is it you could possibly offer us?
+{French_Diplomat_Receiving_Demeanour_Enemy_2}We suspect you merely waste our time.
+{French_Diplomat_Receiving_Demeanour_Enemy_3}Dealing with your people is always most unpleasant.
+{French_Diplomat_Receiving_Demeanour_Neutral_1}There is something you wish from France?
+{French_Diplomat_Receiving_Demeanour_Neutral_2}You have a proposition for us?
+{French_Diplomat_Receiving_Demeanour_Neutral_3}What is it you would talk to us about, seigneur?
+{French_Princess_Demeanour_Declare_Annoyed_1}At least you had the honour to inform us.
+{French_Princess_Demeanour_Declare_Annoyed_2}Non, this is not pleasing news.
+{French_Princess_Demeanour_Declare_Annoyed_3}So where do your loyalties lie then?
+{French_Princess_Demeanour_Declare_Unconcerned_1}Hmph! I care not.
+{French_Princess_Demeanour_Declare_Unconcerned_2}This was worthless to France anyway.
+{French_Princess_Demeanour_Declare_Unconcerned_3}Did you think I would care?
+{French_Princess_Demeanour_Declare_Upset_1}This is a betrayal! France would not do this to you!
+{French_Princess_Demeanour_Declare_Upset_2}I know now not to trust you.
+{French_Princess_Demeanour_Declare_Upset_3}I was told your people are treacherous. Now I know why.
+{French_Princess_Demeanour_Reaction_Disappointed_1}Truly monsieur? In your position, I would accept.
+{French_Princess_Demeanour_Reaction_Disappointed_2}A shame you did not see the merit in this.
+{French_Princess_Demeanour_Reaction_Disappointed_3}But it was a good offer, was it not?
+{French_Princess_Demeanour_Reaction_Elated_1}France could not be happier with your decision!
+{French_Princess_Demeanour_Reaction_Elated_2}Tres bien! My people and I shall not forget this!
+{French_Princess_Demeanour_Reaction_Elated_3}Magnifique! Merci for accepting seigneur!
+{French_Princess_Demeanour_Reaction_Neutral_1}A deal then monsieur?
+{French_Princess_Demeanour_Reaction_Neutral_2}It is agreed then monsieur.
+{French_Princess_Demeanour_Reaction_Neutral_3}This was fair, non?
+{French_Princess_Demeanour_Reaction_Neutral_Rejected_1}A shame you decline, but it is your choice.
+{French_Princess_Demeanour_Reaction_Neutral_Rejected_2}C'est la vie, we realise it was no gift.
+{French_Princess_Demeanour_Reaction_Neutral_Rejected_3}It is fine seigneur, I respect your decision.
+{French_Princess_Demeanour_Reaction_Offended_1}You must despise us to reject such an offer!
+{French_Princess_Demeanour_Reaction_Offended_2}Non!? France will not give you a more generous offer!
+{French_Princess_Demeanour_Reaction_Offended_3}Your denial is both insulting, and questionable!
+{French_Princess_Demeanour_Reaction_Pleased_1}A wise decision, one that France appreciates.
+{French_Princess_Demeanour_Reaction_Pleased_2}So pleased you saw the value here noble monsieur.
+{French_Princess_Demeanour_Reaction_Pleased_3}Merci seigneur! So happy you appreciated our offer.
+{French_Princess_Intro_Demeanour_Ally_1}Merci for this audience, I bear a message from France.
+{French_Princess_Intro_Demeanour_Ally_2}Bonjour noble seigneur, merci for seeing me.
+{French_Princess_Intro_Demeanour_Ally_3}I bring word from the King seigneur. Let us talk.
+{French_Princess_Intro_Demeanour_Enemy_1}We have things to sort out with you.
+{French_Princess_Intro_Demeanour_Enemy_2}In this time of war, I bring word peacefully.
+{French_Princess_Intro_Demeanour_Enemy_3}Bonjour, please hear me out seigneur.
+{French_Princess_Intro_Demeanour_Neutral_1}Bonjour, I have something to discuss with you.
+{French_Princess_Intro_Demeanour_Neutral_2}We have something for you seigneur.
+{French_Princess_Intro_Demeanour_Neutral_3}I bring word from France noble lord.
+{French_Princess_New_Offer_Better_1}But of course, you have our attention.
+{French_Princess_New_Offer_Better_2}Please go on, we are listening.
+{French_Princess_New_Offer_Better_3}Something else? Continue mon ami.
+{French_Princess_New_Offer_Neutral_1}Is there something else you wish to propose then?
+{French_Princess_New_Offer_Neutral_2}Tres bon, what else do you have to suggest?
+{French_Princess_New_Offer_Neutral_3}You have further proposals for us then?
+{French_Princess_New_Offer_Worse_1}We pray this will be more worthwhile.
+{French_Princess_New_Offer_Worse_2}Perhaps this next proposal is more reasonable than the last.
+{French_Princess_New_Offer_Worse_3}Something more in our interests this time, oui?
+{French_Princess_Offer_Accepted_Close_1}It is a tough decision, but very well.
+{French_Princess_Offer_Accepted_Close_2}I am uncertain that we should accept, but we shall.
+{French_Princess_Offer_Accepted_Close_3}It is hardly generous, but France accepts.
+{French_Princess_Offer_Accepted_Extortion_1}You enjoy holding Madame to ransom like this, don't you?
+{French_Princess_Offer_Accepted_Generous_1}seigneur, this offer before me is too good to refuse.
+{French_Princess_Offer_Accepted_Generous_2}tres bien! I am honoured to accept on France's behalf.
+{French_Princess_Offer_Accepted_Generous_3}A most generous offer seigneur! Merci!
+{French_Princess_Offer_Accepted_Standard_1}Tres bien noble one, I can accept.
+{French_Princess_Offer_Accepted_Standard_2}Very well, I accept seigneur.
+{French_Princess_Offer_Accepted_Standard_3}Oui, why not? My people accept.
+{French_Princess_Offer_Countered_Close_1}Almost mon ami, could we make a small adjustment?
+{French_Princess_Offer_Countered_Close_2}Oui, quite good, but may we suggest a minor change?
+{French_Princess_Offer_Countered_Close_3}A good proposal, made perfect with this change…
+{French_Princess_Offer_Countered_Insulting_1}That was a bad joke! This is a serious suggestion…
+{French_Princess_Offer_Countered_Insulting_2}How about I make a less ludicrous suggestion like this…
+{French_Princess_Offer_Countered_Insulting_3}Your proposal is insulting! But my one is not.
+{French_Princess_Offer_Countered_Open_Negative_1}At least you ask me openly enough now. 
+{French_Princess_Offer_Countered_Open_Negative_2}You show the sense now to ask and not presume.
+{French_Princess_Offer_Countered_Open_Negative_3}I must admit, your asking directly is appreciated..
+{French_Princess_Offer_Countered_Open_Neutral_1}I appreciate your asking me
+{French_Princess_Offer_Countered_Open_Neutral_2}It is most good of you to ask us.
+{French_Princess_Offer_Countered_Open_Neutral_3}Your question is direct and fair.
+{French_Princess_Offer_Countered_Open_Positive_1}Merci for asking mon ami.
+{French_Princess_Offer_Countered_Open_Positive_2}To ask as you did is well intentioned.
+{French_Princess_Offer_Countered_Open_Positive_3}Your honest question shall receive an honest answer.
+{French_Princess_Offer_Countered_Standard_1}Fair enough, though perhaps you would consider this?
+{French_Princess_Offer_Countered_Standard_2}Not unreasonable mon ami, but we'd require some changes.
+{French_Princess_Offer_Countered_Standard_3}Perhaps this can be agreed upon with some minor adjustments?
+{French_Princess_Offer_Declined_Close_1}I am afraid I must deny you.
+{French_Princess_Offer_Declined_Close_2}I cannot quite accept.
+{French_Princess_Offer_Declined_Close_3}Non, but maybe we would reconsider this again.
+{French_Princess_Offer_Declined_Insulting_1}Do you think I am some pretty imbecile?! This is insulting!
+{French_Princess_Offer_Declined_Insulting_2}If you wish this to remain civil, stop insulting me.
+{French_Princess_Offer_Declined_Insulting_3}Did you intend to insult me with this rubbish?
+{French_Princess_Offer_Declined_Standard_1}Non, we will not accept this sort of thing.
+{French_Princess_Offer_Declined_Standard_2}I think not milord. Non.
+{French_Princess_Offer_Declined_Standard_3}Non. This is nothing attracting us to agree.
+{French_Princess_Offer_Rejected_Close_1}This we must leave here.
+{French_Princess_Offer_Rejected_Close_2}Let's not parle on this any further.
+{French_Princess_Offer_Rejected_Close_3}Non, forget this for now.
+{French_Princess_Offer_Rejected_Standard_1}Do not press this point for now.
+{French_Princess_Offer_Rejected_Standard_2}To suggest such a thing is an insult!
+{French_Princess_Offer_Rejected_Standard_3}Are you openly attempting to insult me?
+{French_Princess_Outro_Demeanour_Better_1}Au revoir seigneur, it has been a pleasure.
+{French_Princess_Outro_Demeanour_Better_2}tres bien seigneur! I hope I shall see you again.
+{French_Princess_Outro_Demeanour_Better_3}A most worthwhile meeting! Au revoir.
+{French_Princess_Outro_Demeanour_Neutral_1}Au revoir then.
+{French_Princess_Outro_Demeanour_Neutral_2}Adieu noble seigneur.
+{French_Princess_Outro_Demeanour_Neutral_3}Au revoir seigneur.
+{French_Princess_Outro_Demeanour_Worse_1}France expected better of you monsieur - adieu!
+{French_Princess_Outro_Demeanour_Worse_2}This meeting was disappointing.
+{French_Princess_Outro_Demeanour_Worse_3}I pray you do not always speak this way to a lady, au revoir!
+{French_Princess_Receiving_Demeanour_Ally_1}Bonjour noble seigneur, is there something I can do for you?
+{French_Princess_Receiving_Demeanour_Ally_2}A pleasure seigneur, what brings you here today?
+{French_Princess_Receiving_Demeanour_Ally_3}An honour and a pleasure seigneur.
+{French_Princess_Receiving_Demeanour_Enemy_1}Do you bear a peace treaty seigneur?
+{French_Princess_Receiving_Demeanour_Enemy_2}Madame shall consider your case. Please begin.
+{French_Princess_Receiving_Demeanour_Enemy_3}I would rather not speak, so this best be good.
+{French_Princess_Receiving_Demeanour_Neutral_1}There is something you wish from France?
+{French_Princess_Receiving_Demeanour_Neutral_2}How may Madame help you, my lord?
+{French_Princess_Receiving_Demeanour_Neutral_3}How may I help you seigneur?
+{German_Diplomat_Demeanour_Declare_Annoyed_1}Danke for the notice, but not the news.
+{German_Diplomat_Demeanour_Declare_Annoyed_2}Das ist disappointing.
+{German_Diplomat_Demeanour_Declare_Annoyed_3}So why did you agree before?
+{German_Diplomat_Demeanour_Declare_Unconcerned_1}I doubt the Kaiser cares to be honest.
+{German_Diplomat_Demeanour_Declare_Unconcerned_2}This is no great loss to the Reich.
+{German_Diplomat_Demeanour_Declare_Unconcerned_3}I doubt we shall notice really.
+{German_Diplomat_Demeanour_Declare_Upset_1}Crossing the Reich like this is most dangerous!
+{German_Diplomat_Demeanour_Declare_Upset_2}The Kaiser will not forgive this.
+{German_Diplomat_Demeanour_Declare_Upset_3}How could your people turn on the Reich!
+{German_Diplomat_Demeanour_Reaction_Disappointed_1}A shame, we felt this was very fair.
+{German_Diplomat_Demeanour_Reaction_Disappointed_2}It is truly a surprise that you would say no.
+{German_Diplomat_Demeanour_Reaction_Disappointed_3}But that deal was in your favour, not the Reich's!
+{German_Diplomat_Demeanour_Reaction_Elated_1}You truly support us by accepting, mein freund.
+{German_Diplomat_Demeanour_Reaction_Elated_2}The Kaiser will be most pleased with you!
+{German_Diplomat_Demeanour_Reaction_Elated_3}Wunderbar! Danke for agreeing.
+{German_Diplomat_Demeanour_Reaction_Neutral_1}So, we are agreed then.
+{German_Diplomat_Demeanour_Reaction_Neutral_2}The deal was fair, ja?
+{German_Diplomat_Demeanour_Reaction_Neutral_3}It is good we can agree, ja?
+{German_Diplomat_Demeanour_Reaction_Neutral_Rejected_1}We respect your decision mein freund.
+{German_Diplomat_Demeanour_Reaction_Neutral_Rejected_2}Perhaps we can agree on this another time. Ja?
+{German_Diplomat_Demeanour_Reaction_Neutral_Rejected_3}Very well, it is your decision.
+{German_Diplomat_Demeanour_Reaction_Offended_1}You spit at the Kaiser's offer?!
+{German_Diplomat_Demeanour_Reaction_Offended_2}The Kaiser will take this rejection personally.
+{German_Diplomat_Demeanour_Reaction_Offended_3}Rejecting a gift such as this is an insult!
+{German_Diplomat_Demeanour_Reaction_Pleased_1}Danke! A decision the Reich appreciates.
+{German_Diplomat_Demeanour_Reaction_Pleased_2}Das ist gut! You have accepted our proposal.
+{German_Diplomat_Demeanour_Reaction_Pleased_3}It was a good offer, one you accepted wisely.
+{German_Diplomat_Intro_Demeanour_Ally_1}It is good to see you, mein trusted friend of the Reich.
+{German_Diplomat_Intro_Demeanour_Ally_2}Danke for receiving me freund. I bring word from the Kaiser.
+{German_Diplomat_Intro_Demeanour_Ally_3}Mein freund, an honour to address you this day.
+{German_Diplomat_Intro_Demeanour_Enemy_1}I bring word from the mighty Reich!
+{German_Diplomat_Intro_Demeanour_Enemy_2}The Kaiser sends you a message. You had best listen.
+{German_Diplomat_Intro_Demeanour_Enemy_3}I would advise you to listen to us.
+{German_Diplomat_Intro_Demeanour_Neutral_1}The Reich would wish to speak to you.
+{German_Diplomat_Intro_Demeanour_Neutral_2}We have word for you noble lord.
+{German_Diplomat_Intro_Demeanour_Neutral_3}I bring word from the Kaiser.
+{German_Diplomat_New_Offer_Better_1}Of course, please go on.
+{German_Diplomat_New_Offer_Better_2}Another worthy proposal mein freund?
+{German_Diplomat_New_Offer_Better_3}Something else? Das ist gutt.
+{German_Diplomat_New_Offer_Neutral_1}Ist there something else you wish to propose? Ja?
+{German_Diplomat_New_Offer_Neutral_2}Very gutt, what else do you have to suggest?
+{German_Diplomat_New_Offer_Neutral_3}Another proposition for the Reich?
+{German_Diplomat_New_Offer_Worse_1}Let us find middle ground more, ja?.
+{German_Diplomat_New_Offer_Worse_2}We hope this will be more reasonable.
+{German_Diplomat_New_Offer_Worse_3}Something more beneficial I hope?
+{German_Diplomat_Offer_Accepted_Close_1}Not an easy decision, but we agree.
+{German_Diplomat_Offer_Accepted_Close_2}Very well, if it will please you.
+{German_Diplomat_Offer_Accepted_Close_3}I doubt the Kaiser will be happy that I have accepted.
+{German_Diplomat_Offer_Accepted_Extortion_1}I accept this extortionate deal. But it shames me!
+{German_Diplomat_Offer_Accepted_Generous_1}The Kaiser will hear of your generosity, mein freund.
+{German_Diplomat_Offer_Accepted_Generous_2}I accept this with the utmost pleasure!
+{German_Diplomat_Offer_Accepted_Generous_3}How could we refuse this wonderful offer?
+{German_Diplomat_Offer_Accepted_Standard_1}Ja, a reasonable deal it would seem.
+{German_Diplomat_Offer_Accepted_Standard_2}I see no reason why not. We accept.
+{German_Diplomat_Offer_Accepted_Standard_3}Agreed, I accept your proposal.
+{German_Diplomat_Offer_Countered_Close_1}Das ist gutt, but could we make a small adjustment?
+{German_Diplomat_Offer_Countered_Close_2}Very reasonable! Perhaps may we suggest a minor change?
+{German_Diplomat_Offer_Countered_Close_3}An honourable deal, one I will accept with a small change…
+{German_Diplomat_Offer_Countered_Insulting_1}Please be serious! This would be far more acceptable.
+{German_Diplomat_Offer_Countered_Insulting_2}Did you mean that as an insult? Let's be more realistic.
+{German_Diplomat_Offer_Countered_Insulting_3}You waste the Reich's time! Accept this sensible offer…
+{German_Diplomat_Offer_Countered_Open_Negative_1}Do you seek to understand us better by asking? 
+{German_Diplomat_Offer_Countered_Open_Negative_2}Das ist gutt you show the sense to ask, and not to presume.
+{German_Diplomat_Offer_Countered_Open_Negative_3}This direct question of yours is reasonable of you.
+{German_Diplomat_Offer_Countered_Open_Neutral_1}The fact that you ask directly shows you have reason.
+{German_Diplomat_Offer_Countered_Open_Neutral_2}Your open direct question is appreciated..
+{German_Diplomat_Offer_Countered_Open_Neutral_3}Your question is open and direct.
+{German_Diplomat_Offer_Countered_Open_Positive_1}The fact that you ask directly shows you have reason.
+{German_Diplomat_Offer_Countered_Open_Positive_2}This honourably-intentioned question is welcome.
+{German_Diplomat_Offer_Countered_Open_Positive_3}You continue to negotiate well with your direct question.
+{German_Diplomat_Offer_Countered_Standard_1}Perhaps this can work if you would consider this?
+{German_Diplomat_Offer_Countered_Standard_2}Not impossible at all, but we'd require these changes.
+{German_Diplomat_Offer_Countered_Standard_3}Maybe we can agree to this, with just some minor adjustments?
+{German_Diplomat_Offer_Declined_Close_1}Just short of acceptable mein freund.
+{German_Diplomat_Offer_Declined_Close_2}Not quite something I can accept.
+{German_Diplomat_Offer_Declined_Close_3}Nein, I may not accept this you speak of.
+{German_Diplomat_Offer_Declined_Insulting_1}The Kaiser will hear of your insulting proposal!
+{German_Diplomat_Offer_Declined_Insulting_2}Nein! Only a dummkopf would accept this! 
+{German_Diplomat_Offer_Declined_Insulting_3}If that was a jest, we did not find it funny.
+{German_Diplomat_Offer_Declined_Standard_1}The Reich would not have me accept such proposals.
+{German_Diplomat_Offer_Declined_Standard_2}Nein, this is not likely to happen.
+{German_Diplomat_Offer_Declined_Standard_3}I doubt the Kaiser would approve. I must say no.
+{German_Diplomat_Offer_Rejected_Close_1}Let us drop this, now.
+{German_Diplomat_Offer_Rejected_Close_2}Forget this idea now.
+{German_Diplomat_Offer_Rejected_Close_3}Nein, this discussion is over.
+{German_Diplomat_Offer_Rejected_Standard_1}You are not seeing this from the Reich's perspective!
+{German_Diplomat_Offer_Rejected_Standard_2}You insult the Reich with this.
+{German_Diplomat_Offer_Rejected_Standard_3}Never! Do not suggest such a thing again.
+{German_Diplomat_Outro_Demeanour_Better_1}A most worthy meeting.
+{German_Diplomat_Outro_Demeanour_Better_2}Our talks have been most worthwhile. Guten tag!
+{German_Diplomat_Outro_Demeanour_Better_3}Danke for your time, it was useful.
+{German_Diplomat_Outro_Demeanour_Neutral_1}Auf wiedersehen.
+{German_Diplomat_Outro_Demeanour_Neutral_2}Until next time.
+{German_Diplomat_Outro_Demeanour_Neutral_3}Goodbye.
+{German_Diplomat_Outro_Demeanour_Worse_1}This was hardly worth the time.
+{German_Diplomat_Outro_Demeanour_Worse_2}This meeting was disappointing.
+{German_Diplomat_Outro_Demeanour_Worse_3}This was time poorly spent.
+{German_Diplomat_Receiving_Demeanour_Ally_1}Guten tag mein freund. What is it you wish?
+{German_Diplomat_Receiving_Demeanour_Ally_2}Greetings, good friend of the Reich.
+{German_Diplomat_Receiving_Demeanour_Ally_3}The pleasure is mine noble ally. How can we help?
+{German_Diplomat_Receiving_Demeanour_Enemy_1}State your business, wretched fiend.
+{German_Diplomat_Receiving_Demeanour_Enemy_2}We do not trust you, so this had best be gut.
+{German_Diplomat_Receiving_Demeanour_Enemy_3}Have you come for the Kaiser's forgiveness?
+{German_Diplomat_Receiving_Demeanour_Neutral_1}You have news I should take to the Kaiser?
+{German_Diplomat_Receiving_Demeanour_Neutral_2}What is it you would propose, noble one?
+{German_Diplomat_Receiving_Demeanour_Neutral_3}Is there something to discuss, mein gut man?
+{German_Princess_Demeanour_Declare_Annoyed_1}Danke for the notice, but not the news.
+{German_Princess_Demeanour_Declare_Annoyed_2}Das ist quite disappointing.
+{German_Princess_Demeanour_Declare_Annoyed_3}Why did you agree before then?
+{German_Princess_Demeanour_Declare_Unconcerned_1}To be honest, I doubt the Kaiser cares.
+{German_Princess_Demeanour_Declare_Unconcerned_2}This is no great loss to the Reich.
+{German_Princess_Demeanour_Declare_Unconcerned_3}I doubt the Kaiser will notice really.
+{German_Princess_Demeanour_Declare_Upset_1}Crossing the Reich like this is very dangerous mein lord!
+{German_Princess_Demeanour_Declare_Upset_2}Mein Kaiser will not forgive this easily.
+{German_Princess_Demeanour_Declare_Upset_3}How could your people turn on the Reich?
+{German_Princess_Demeanour_Reaction_Disappointed_1}A shame mein lord, I felt this was most fair.
+{German_Princess_Demeanour_Reaction_Disappointed_2}Ich bin surprised that you would say no mein lord.
+{German_Princess_Demeanour_Reaction_Disappointed_3}But that deal was in your favour, not mine, mein noble lord.
+{German_Princess_Demeanour_Reaction_Elated_1}You truly support the Reich by accepting mein lord!
+{German_Princess_Demeanour_Reaction_Elated_2}Mein lord, you have made this fraulein and the Reich most happy!
+{German_Princess_Demeanour_Reaction_Elated_3}Wundervoll! Danke for agreeing mein lord.
+{German_Princess_Demeanour_Reaction_Neutral_1}So, we are agreed then? Gut.
+{German_Princess_Demeanour_Reaction_Neutral_2}The deal was fair, ja?
+{German_Princess_Demeanour_Reaction_Neutral_3}It is good we can agree, ja?
+{German_Princess_Demeanour_Reaction_Neutral_Rejected_1}I respect your decision mein lord.
+{German_Princess_Demeanour_Reaction_Neutral_Rejected_2}Perhaps we can meet on this another time. Ja?
+{German_Princess_Demeanour_Reaction_Neutral_Rejected_3}Very well, it is your decision.
+{German_Princess_Demeanour_Reaction_Offended_1}Mein gott! You must despise us to refuse this offer.
+{German_Princess_Demeanour_Reaction_Offended_2}I really must take this rejection personally.
+{German_Princess_Demeanour_Reaction_Offended_3}Rejecting a gift such as this is an insult!
+{German_Princess_Demeanour_Reaction_Pleased_1}Danke! A decision I truly appreciate.
+{German_Princess_Demeanour_Reaction_Pleased_2}Das ist gut! You have accepted mein proposal.
+{German_Princess_Demeanour_Reaction_Pleased_3}It was a good offer, one you accepted wisely.
+{German_Princess_Intro_Demeanour_Ally_1}An honour to be received by the friends of the Reich.
+{German_Princess_Intro_Demeanour_Ally_2}Danke for receiving me mein lord. I bring word from the Kaiser.
+{German_Princess_Intro_Demeanour_Ally_3}Noble lord, es ist an honour to address you this day.
+{German_Princess_Intro_Demeanour_Enemy_1}I bring word from the Reich.
+{German_Princess_Intro_Demeanour_Enemy_2}I speak on behalf of the Reich. You had best listen to me.
+{German_Princess_Intro_Demeanour_Enemy_3}Perhaps we could resolve our differences?
+{German_Princess_Intro_Demeanour_Neutral_1}The Reich would wish to speak to you.
+{German_Princess_Intro_Demeanour_Neutral_2}We have word for you noble lord.
+{German_Princess_Intro_Demeanour_Neutral_3}Your majesty, I bring word from the Kaiser.
+{German_Princess_New_Offer_Better_1}Of course, please go on.
+{German_Princess_New_Offer_Better_2}Another worthy proposal mein freund?
+{German_Princess_New_Offer_Better_3}Something else? Das ist gutt.
+{German_Princess_New_Offer_Neutral_1}Ist there something else you wish to propose? Ja?
+{German_Princess_New_Offer_Neutral_2}Very gutt, what else do you have to suggest?
+{German_Princess_New_Offer_Neutral_3}Another proposition for the Reich?
+{German_Princess_New_Offer_Worse_1}Let us find middle ground more, ja?.
+{German_Princess_New_Offer_Worse_2}We hope this will be more reasonable.
+{German_Princess_New_Offer_Worse_3}Something more beneficial I hope?
+{German_Princess_Offer_Accepted_Close_1}Not an easy decision, but we agree.
+{German_Princess_Offer_Accepted_Close_2}Very well, if it will please you.
+{German_Princess_Offer_Accepted_Close_3}I doubt the Kaiser will be happy that I have accepted.
+{German_Princess_Offer_Accepted_Extortion_1}Do you think this fraulein doesn't realise this is extortion?
+{German_Princess_Offer_Accepted_Generous_1}The Kaiser will hear of your generosity mein noble lord.
+{German_Princess_Offer_Accepted_Generous_2}Frauline accepts this deal with pleasure!
+{German_Princess_Offer_Accepted_Generous_3}How could I refuse this wonderful offer?
+{German_Princess_Offer_Accepted_Standard_1}Ja, the Reich agrees to your terms mein lord.
+{German_Princess_Offer_Accepted_Standard_2}I see no reason why I should refuse. Danke.
+{German_Princess_Offer_Accepted_Standard_3}Agreed mein lord, the Reich accepts.
+{German_Princess_Offer_Countered_Close_1}Das ist gutt, but could we make a small adjustment?
+{German_Princess_Offer_Countered_Close_2}Very reasonable! Perhaps may we suggest a minor change?
+{German_Princess_Offer_Countered_Close_3}An honourable deal, one I will accept with a small change…
+{German_Princess_Offer_Countered_Insulting_1}Please be serious! This would be far more acceptable.
+{German_Princess_Offer_Countered_Insulting_2}Did you mean that as an insult? Let's be more realistic.
+{German_Princess_Offer_Countered_Insulting_3}You waste the Reich's time! Accept this sensible offer…
+{German_Princess_Offer_Countered_Open_Negative_1}Do you seek to understand us better by asking? 
+{German_Princess_Offer_Countered_Open_Negative_2}Das ist gutt you show the sense to ask, and not to presume.
+{German_Princess_Offer_Countered_Open_Negative_3}This direct question of yours is reasonable of you.
+{German_Princess_Offer_Countered_Open_Neutral_1}The fact that you ask directly shows you have reason.
+{German_Princess_Offer_Countered_Open_Neutral_2}Your open direct question is appreciated..
+{German_Princess_Offer_Countered_Open_Neutral_3}Your question is open and direct.
+{German_Princess_Offer_Countered_Open_Positive_1}The fact that you ask directly shows you have reason.
+{German_Princess_Offer_Countered_Open_Positive_2}This honourably-intentioned question is welcome.
+{German_Princess_Offer_Countered_Open_Positive_3}You continue to negotiate well with your direct question.
+{German_Princess_Offer_Countered_Standard_1}Perhaps this can work if you would consider this?
+{German_Princess_Offer_Countered_Standard_2}Not impossible at all, but we'd require these changes.
+{German_Princess_Offer_Countered_Standard_3}Maybe we can agree to this, with just some minor adjustments?
+{German_Princess_Offer_Declined_Close_1}Just short of acceptable mein freund.
+{German_Princess_Offer_Declined_Close_2}Not quite something I can accept.
+{German_Princess_Offer_Declined_Close_3}Nein, I may not accept this you speak of.
+{German_Princess_Offer_Declined_Insulting_1}The Kaiser will hear of this insulting proposal!
+{German_Princess_Offer_Declined_Insulting_2}Nein! Only a dummkopf would accept this! 
+{German_Princess_Offer_Declined_Insulting_3}If that was a jest, we did not find it funny.
+{German_Princess_Offer_Declined_Standard_1}The Reich would not have me accept such proposals.
+{German_Princess_Offer_Declined_Standard_2}Nein, this is not likely to happen.
+{German_Princess_Offer_Declined_Standard_3}I doubt mein Kaiser would approve. I must say no.
+{German_Princess_Offer_Rejected_Close_1}Let us drop this, now.
+{German_Princess_Offer_Rejected_Close_2}Forget this idea now.
+{German_Princess_Offer_Rejected_Close_3}Nein, this discussion is over.
+{German_Princess_Offer_Rejected_Standard_1}You are not seeing this from the Reich's perspective!
+{German_Princess_Offer_Rejected_Standard_2}You insult the Reich with this.
+{German_Princess_Offer_Rejected_Standard_3}Never! Do not suggest such a thing again.
+{German_Princess_Outro_Demeanour_Better_1}This was a wundervoll meeting, guten abend!
+{German_Princess_Outro_Demeanour_Better_2}It was all my pleasure. guten tag!
+{German_Princess_Outro_Demeanour_Better_3}Danke mein lord, I hope to see you again.
+{German_Princess_Outro_Demeanour_Neutral_1}guten tag, your highness.
+{German_Princess_Outro_Demeanour_Neutral_2}Until next time.
+{German_Princess_Outro_Demeanour_Neutral_3}Guten abend.
+{German_Princess_Outro_Demeanour_Worse_1}Diplomacy failed us this day mein lord.
+{German_Princess_Outro_Demeanour_Worse_2}This meeting was disappointing.
+{German_Princess_Outro_Demeanour_Worse_3}This is not the first time you've left a frauline disappointed, ja?
+{German_Princess_Receiving_Demeanour_Ally_1}Guten tag your majesty. What is it you wish?
+{German_Princess_Receiving_Demeanour_Ally_2}Mein lord, how may the Reich help?
+{German_Princess_Receiving_Demeanour_Ally_3}The pleasure is mine your majesty. How may I help?
+{German_Princess_Receiving_Demeanour_Enemy_1}Do you come seeking peace with the Reich?
+{German_Princess_Receiving_Demeanour_Enemy_2}I have been warned of your people's treachery. Speak.
+{German_Princess_Receiving_Demeanour_Enemy_3}I hope you come bearing a peace treaty...
+{German_Princess_Receiving_Demeanour_Neutral_1}You have news I should take to the Kaiser?
+{German_Princess_Receiving_Demeanour_Neutral_2}What is it you would propose mein noble one?
+{German_Princess_Receiving_Demeanour_Neutral_3}What may this fraulein do for you mein guter noble?
+{Mediterranean_Diplomat_Demeanour_Declare_Annoyed_1}We appreciate the notice, but not the news.
+{Mediterranean_Diplomat_Demeanour_Declare_Annoyed_2}Do you have any good news then?
+{Mediterranean_Diplomat_Demeanour_Declare_Annoyed_3}Fickle rulers should not make promises.
+{Mediterranean_Diplomat_Demeanour_Declare_Unconcerned_1}Very well, if you must.
+{Mediterranean_Diplomat_Demeanour_Declare_Unconcerned_2}Do not worry, it is not a problem.
+{Mediterranean_Diplomat_Demeanour_Declare_Unconcerned_3}No matter, we were not counting on that treaty.
+{Mediterranean_Diplomat_Demeanour_Declare_Upset_1}You dishonour the agreements we make!
+{Mediterranean_Diplomat_Demeanour_Declare_Upset_2}We see your word means nothing then.
+{Mediterranean_Diplomat_Demeanour_Declare_Upset_3}I am sure my lord will be most angry.
+{Mediterranean_Diplomat_Demeanour_Reaction_Disappointed_1}Are you sure? It was a good offer.
+{Mediterranean_Diplomat_Demeanour_Reaction_Disappointed_2}Why would you decline? It was in your favour.
+{Mediterranean_Diplomat_Demeanour_Reaction_Disappointed_3}Most in your position would have said yes to this.
+{Mediterranean_Diplomat_Demeanour_Reaction_Elated_1}Bless you for accepting, noble one!
+{Mediterranean_Diplomat_Demeanour_Reaction_Elated_2}Magnificent! You have made us very happy this day.
+{Mediterranean_Diplomat_Demeanour_Reaction_Elated_3}Both wise and generous of you to agree!
+{Mediterranean_Diplomat_Demeanour_Reaction_Neutral_1}Agreed then? Our thanks.
+{Mediterranean_Diplomat_Demeanour_Reaction_Neutral_2}Mutually beneficial, yes?
+{Mediterranean_Diplomat_Demeanour_Reaction_Neutral_3}Glad to agree on this.
+{Mediterranean_Diplomat_Demeanour_Reaction_Neutral_Rejected_1}No offence taken, dear lord, each to their own.
+{Mediterranean_Diplomat_Demeanour_Reaction_Neutral_Rejected_2}Of course, it is your decision.
+{Mediterranean_Diplomat_Demeanour_Reaction_Neutral_Rejected_3}No matter, perhaps something else then?
+{Mediterranean_Diplomat_Demeanour_Reaction_Offended_1}You hold more spite than sense to reject my lord's offer!
+{Mediterranean_Diplomat_Demeanour_Reaction_Offended_2}If you will not accept that, what will you then?!
+{Mediterranean_Diplomat_Demeanour_Reaction_Offended_3}You refuse us?! But this offer was beyond generous!
+{Mediterranean_Diplomat_Demeanour_Reaction_Pleased_1}My lord will be pleased to hear you accepted.
+{Mediterranean_Diplomat_Demeanour_Reaction_Pleased_2}Very good, noble one, we thank you for agreeing.
+{Mediterranean_Diplomat_Demeanour_Reaction_Pleased_3}We thank you for your support!
+{Mediterranean_Diplomat_Intro_Demeanour_Ally_1}Greetings dear friend, we have something for you.
+{Mediterranean_Diplomat_Intro_Demeanour_Ally_2}Thank you for seeing me, friend. I have a proposition.
+{Mediterranean_Diplomat_Intro_Demeanour_Ally_3}A pleasure to address you, noble friend. Please hear us out.
+{Mediterranean_Diplomat_Intro_Demeanour_Enemy_1}It seems we have much to discuss.
+{Mediterranean_Diplomat_Intro_Demeanour_Enemy_2}I bear a message that you would be wise to heed.
+{Mediterranean_Diplomat_Intro_Demeanour_Enemy_3}We would ask you to lower your swords and hear us out.
+{Mediterranean_Diplomat_Intro_Demeanour_Neutral_1}I bring word from my people my lord.
+{Mediterranean_Diplomat_Intro_Demeanour_Neutral_2}We come bearing word for you.
+{Mediterranean_Diplomat_Intro_Demeanour_Neutral_3}Greetings, our people have something to discuss.
+{Mediterranean_Diplomat_New_Offer_Better_1}Something just as useful I hope?
+{Mediterranean_Diplomat_New_Offer_Better_2}Another proposition? We shall listen, of course.
+{Mediterranean_Diplomat_New_Offer_Better_3}Excellent, what else would you suggest?
+{Mediterranean_Diplomat_New_Offer_Neutral_1}Ah, there is something else you would suggest to us, yes?
+{Mediterranean_Diplomat_New_Offer_Neutral_2}You have further proposals? Very well, we are listening.
+{Mediterranean_Diplomat_New_Offer_Neutral_3}Another suggestion from your leader for us?
+{Mediterranean_Diplomat_New_Offer_Worse_1}I hope that this will be more worth our while.
+{Mediterranean_Diplomat_New_Offer_Worse_2}Some further requests then?
+{Mediterranean_Diplomat_New_Offer_Worse_3}Perhaps something more balanced this time?
+{Mediterranean_Diplomat_Offer_Accepted_Close_1}Very well, we shall accept this from you.
+{Mediterranean_Diplomat_Offer_Accepted_Close_2}I guess we can agree to this.
+{Mediterranean_Diplomat_Offer_Accepted_Close_3}This appears acceptable enough to agree.
+{Mediterranean_Diplomat_Offer_Accepted_Extortion_1}We accept this proposal only under great duress.
+{Mediterranean_Diplomat_Offer_Accepted_Generous_1}We cannot refuse such a generous suggestion!
+{Mediterranean_Diplomat_Offer_Accepted_Generous_2}Of course! We accept this deal with open arms.
+{Mediterranean_Diplomat_Offer_Accepted_Generous_3}You truly have our best interests at heart. We accept!
+{Mediterranean_Diplomat_Offer_Accepted_Standard_1}This seems reasonable... Yes, we accept.
+{Mediterranean_Diplomat_Offer_Accepted_Standard_2}It seems we have reached an agreement. Good.
+{Mediterranean_Diplomat_Offer_Accepted_Standard_3}I see no problem here. It is agreed!
+{Mediterranean_Diplomat_Offer_Countered_Close_1}I would call that a perfect proposal with just a small adjustment.
+{Mediterranean_Diplomat_Offer_Countered_Close_2}That is very good! But may I suggest a minor change?
+{Mediterranean_Diplomat_Offer_Countered_Close_3}Oh, that is almost what I had in mind…
+{Mediterranean_Diplomat_Offer_Countered_Insulting_1}I cannot believe I am still negotiating after your 'offer'.
+{Mediterranean_Diplomat_Offer_Countered_Insulting_2}Hmph! Agree to our far less insulting plan.
+{Mediterranean_Diplomat_Offer_Countered_Insulting_3}So it is up to me to make the reasonable offers then?
+{Mediterranean_Diplomat_Offer_Countered_Open_Negative_1}Well, since you ask…
+{Mediterranean_Diplomat_Offer_Countered_Open_Negative_2}We do not mind a direct question.
+{Mediterranean_Diplomat_Offer_Countered_Open_Negative_3}It is good that you do not presume to value this for us.
+{Mediterranean_Diplomat_Offer_Countered_Open_Neutral_1}It is appreciated that you are asking us.
+{Mediterranean_Diplomat_Offer_Countered_Open_Neutral_2}It is indeed good of you to ask us.
+{Mediterranean_Diplomat_Offer_Countered_Open_Neutral_3}Your open question is direct and fair.
+{Mediterranean_Diplomat_Offer_Countered_Open_Positive_1}Bless you for being open to asking.
+{Mediterranean_Diplomat_Offer_Countered_Open_Positive_2}The honourable ask directly, as you have just done.
+{Mediterranean_Diplomat_Offer_Countered_Open_Positive_3}Honest questions bring honest answers…
+{Mediterranean_Diplomat_Offer_Countered_Standard_1}I understand… Now, perhaps you would consider this then?
+{Mediterranean_Diplomat_Offer_Countered_Standard_2}An agreement is quite possible, but we'd require these changes.
+{Mediterranean_Diplomat_Offer_Countered_Standard_3}This could be worked out with a few minor adjustments.
+{Mediterranean_Diplomat_Offer_Declined_Close_1}Almost, but not quite acceptable.
+{Mediterranean_Diplomat_Offer_Declined_Close_2}I am afraid I must deny you today.
+{Mediterranean_Diplomat_Offer_Declined_Close_3}We cannot quite accept this.
+{Mediterranean_Diplomat_Offer_Declined_Insulting_1}Keep suggesting things like this, and we shall leave!
+{Mediterranean_Diplomat_Offer_Declined_Insulting_2}No! You must think us fools, or worse!
+{Mediterranean_Diplomat_Offer_Declined_Insulting_3}How could you ask this of us. Never!
+{Mediterranean_Diplomat_Offer_Declined_Standard_1}Please, do not ask things we will not accept.
+{Mediterranean_Diplomat_Offer_Declined_Standard_2}No, I don't see how this can work. 
+{Mediterranean_Diplomat_Offer_Declined_Standard_3}No, we will not accept.
+{Mediterranean_Diplomat_Offer_Rejected_Close_1}Drop this idea for now.
+{Mediterranean_Diplomat_Offer_Rejected_Close_2}Forget it, we're not interested.
+{Mediterranean_Diplomat_Offer_Rejected_Close_3}Let us leave this point for now.
+{Mediterranean_Diplomat_Offer_Rejected_Standard_1}You disappoint me with this.
+{Mediterranean_Diplomat_Offer_Rejected_Standard_2}You realise this is tiresome?
+{Mediterranean_Diplomat_Offer_Rejected_Standard_3}Clearly we waste time!
+{Mediterranean_Diplomat_Outro_Demeanour_Better_1}This was a good day for our peoples.
+{Mediterranean_Diplomat_Outro_Demeanour_Better_2}It would seem you are very reasonable. Farewell!
+{Mediterranean_Diplomat_Outro_Demeanour_Better_3}Goodbye, it has been a pleasure.
+{Mediterranean_Diplomat_Outro_Demeanour_Neutral_1}Farewell, noble one.
+{Mediterranean_Diplomat_Outro_Demeanour_Neutral_2}This concludes our meeting, yes?
+{Mediterranean_Diplomat_Outro_Demeanour_Neutral_3}Until next time.
+{Mediterranean_Diplomat_Outro_Demeanour_Worse_1}More damage than good was done here.
+{Mediterranean_Diplomat_Outro_Demeanour_Worse_2}This meeting was worse than fruitless.
+{Mediterranean_Diplomat_Outro_Demeanour_Worse_3}Diplomacy failed us this day.
+{Mediterranean_Diplomat_Receiving_Demeanour_Ally_1}Noble allies, what can we do for you today?
+{Mediterranean_Diplomat_Receiving_Demeanour_Ally_2}Greetings, friends, what is it you wish?
+{Mediterranean_Diplomat_Receiving_Demeanour_Ally_3}You have a proposition for us, noble ally?
+{Mediterranean_Diplomat_Receiving_Demeanour_Enemy_1}We will listen, but I cannot say we will agree.
+{Mediterranean_Diplomat_Receiving_Demeanour_Enemy_2}We suspect you will waste our time. You had best not.
+{Mediterranean_Diplomat_Receiving_Demeanour_Enemy_3}Did you expect us to be happy to see you?
+{Mediterranean_Diplomat_Receiving_Demeanour_Neutral_1}What is it you would discuss with me?
+{Mediterranean_Diplomat_Receiving_Demeanour_Neutral_2}You have a proposition for our people?
+{Mediterranean_Diplomat_Receiving_Demeanour_Neutral_3}Is there something I can do for you, noble lord?
+{Mediterranean_Princess_Demeanour_Declare_Annoyed_1}I appreciate the notice, but not the news.
+{Mediterranean_Princess_Demeanour_Declare_Annoyed_2}So, do you have any good news then?
+{Mediterranean_Princess_Demeanour_Declare_Annoyed_3}Fickle rulers should not make promises.
+{Mediterranean_Princess_Demeanour_Declare_Unconcerned_1}Very well, if your people must.
+{Mediterranean_Princess_Demeanour_Declare_Unconcerned_2}Do not worry, it is not a problem.
+{Mediterranean_Princess_Demeanour_Declare_Unconcerned_3}No matter, my people were not counting on it.
+{Mediterranean_Princess_Demeanour_Declare_Upset_1}You dishonour the agreements you made with my people?
+{Mediterranean_Princess_Demeanour_Declare_Upset_2}It would seem your word means nothing then.
+{Mediterranean_Princess_Demeanour_Declare_Upset_3}I am sure my family will be most angry.
+{Mediterranean_Princess_Demeanour_Reaction_Disappointed_1}Are you certain lord? It was a good offer.
+{Mediterranean_Princess_Demeanour_Reaction_Disappointed_2}I am confused why you would decline - it was in your favour.
+{Mediterranean_Princess_Demeanour_Reaction_Disappointed_3}No?! You are not simply awkward around a lady are you?
+{Mediterranean_Princess_Demeanour_Reaction_Elated_1}Bless you for accepting noble one!
+{Mediterranean_Princess_Demeanour_Reaction_Elated_2}Excellent! You have made my people very happy this day.
+{Mediterranean_Princess_Demeanour_Reaction_Elated_3}Both wise and generous of you to agree my lord!
+{Mediterranean_Princess_Demeanour_Reaction_Neutral_1}Agreed then? My thanks.
+{Mediterranean_Princess_Demeanour_Reaction_Neutral_2}Mutually beneficial, yes?
+{Mediterranean_Princess_Demeanour_Reaction_Neutral_3}Glad to agree on this.
+{Mediterranean_Princess_Demeanour_Reaction_Neutral_Rejected_1}No offence taken my lord, each to their own.
+{Mediterranean_Princess_Demeanour_Reaction_Neutral_Rejected_2}Of course, it is your decision.
+{Mediterranean_Princess_Demeanour_Reaction_Neutral_Rejected_3}No matter lord, perhaps something else?
+{Mediterranean_Princess_Demeanour_Reaction_Offended_1}You hold more spite than sense to reject this offer!
+{Mediterranean_Princess_Demeanour_Reaction_Offended_2}You would deny a princess's generous offer? Hmph!
+{Mediterranean_Princess_Demeanour_Reaction_Offended_3}You refuse me?! But this offer was beyond generous!
+{Mediterranean_Princess_Demeanour_Reaction_Pleased_1}My father will be pleased to hear you accepted.
+{Mediterranean_Princess_Demeanour_Reaction_Pleased_2}Very good noble one, I thank you on my family's behalf.
+{Mediterranean_Princess_Demeanour_Reaction_Pleased_3}I am pleased you would agree noble lord.
+{Mediterranean_Princess_Intro_Demeanour_Ally_1}Greetings your highness, I have something for you.
+{Mediterranean_Princess_Intro_Demeanour_Ally_2}Thank you for seeing my lord. I have a proposition.
+{Mediterranean_Princess_Intro_Demeanour_Ally_3}A pleasure to address you noble one. Please hear us out.
+{Mediterranean_Princess_Intro_Demeanour_Enemy_1}It seems we have things to discuss.
+{Mediterranean_Princess_Intro_Demeanour_Enemy_2}I speak on behalf of my lord and people.
+{Mediterranean_Princess_Intro_Demeanour_Enemy_3}I come as a peaceful emissary lord.
+{Mediterranean_Princess_Intro_Demeanour_Neutral_1}Greetings lord, I bring word from my people.
+{Mediterranean_Princess_Intro_Demeanour_Neutral_2}We come bearing word for you.
+{Mediterranean_Princess_Intro_Demeanour_Neutral_3}Greetings noble lord, I have something to discuss with you.
+{Mediterranean_Princess_New_Offer_Better_1}Something just as useful I hope?
+{Mediterranean_Princess_New_Offer_Better_2}Another proposition? We shall listen, of course.
+{Mediterranean_Princess_New_Offer_Better_3}Excellent, what else would you suggest?
+{Mediterranean_Princess_New_Offer_Neutral_1}Ah, there is something else you would suggest to us, yes?
+{Mediterranean_Princess_New_Offer_Neutral_2}You have further proposals? Very well, we are listening.
+{Mediterranean_Princess_New_Offer_Neutral_3}Another suggestion from your leader for us?
+{Mediterranean_Princess_New_Offer_Worse_1}I hope that this will be more worth our while.
+{Mediterranean_Princess_New_Offer_Worse_2}Some further requests then?
+{Mediterranean_Princess_New_Offer_Worse_3}Perhaps something more balanced this time?
+{Mediterranean_Princess_Offer_Accepted_Close_1}Very well, we shall accept this for you.
+{Mediterranean_Princess_Offer_Accepted_Close_2}I guess we can agree to this.
+{Mediterranean_Princess_Offer_Accepted_Close_3}Acceptable, but hardly inspiring.
+{Mediterranean_Princess_Offer_Accepted_Extortion_1}To force a woman's hand like this is shameful!
+{Mediterranean_Princess_Offer_Accepted_Generous_1}A most generous suggestion, one I cannot refuse!
+{Mediterranean_Princess_Offer_Accepted_Generous_2}Of course! I proudly accept this proposal for my people.
+{Mediterranean_Princess_Offer_Accepted_Generous_3}You truly have our best interests at heart. I accept!
+{Mediterranean_Princess_Offer_Accepted_Standard_1}Most reasonable my lord... Yes, I accept.
+{Mediterranean_Princess_Offer_Accepted_Standard_2}It seems we have reached an agreement. Thank you.
+{Mediterranean_Princess_Offer_Accepted_Standard_3}I see no true problem here. We agree then!
+{Mediterranean_Princess_Offer_Countered_Close_1}I would call that a perfect proposal with just a small adjustment.
+{Mediterranean_Princess_Offer_Countered_Close_2}That is very good! But may I suggest a minor change?
+{Mediterranean_Princess_Offer_Countered_Close_3}Oh, that is almost what I had in mind…
+{Mediterranean_Princess_Offer_Countered_Insulting_1}I cannot believe I am still negotiating after your 'offer'.
+{Mediterranean_Princess_Offer_Countered_Insulting_2}Agree to our far less insulting plan.
+{Mediterranean_Princess_Offer_Countered_Insulting_3}So it is up to me to make the reasonable offers then?
+{Mediterranean_Princess_Offer_Countered_Open_Negative_1}Well, since you ask…
+{Mediterranean_Princess_Offer_Countered_Open_Negative_2}We do not mind a direct question.
+{Mediterranean_Princess_Offer_Countered_Open_Negative_3}It is good that you do not presume to value this for us.
+{Mediterranean_Princess_Offer_Countered_Open_Neutral_1}It is appreciated that you are asking us.
+{Mediterranean_Princess_Offer_Countered_Open_Neutral_2}It is indeed good of you to ask us.
+{Mediterranean_Princess_Offer_Countered_Open_Neutral_3}Your open question is direct and fair.
+{Mediterranean_Princess_Offer_Countered_Open_Positive_1}Bless you for being open to asking.
+{Mediterranean_Princess_Offer_Countered_Open_Positive_2}The honourable ask directly, as you have just done.
+{Mediterranean_Princess_Offer_Countered_Open_Positive_3}Honest questions bring honest answers…
+{Mediterranean_Princess_Offer_Countered_Standard_1}I understand… Now, perhaps you would consider this then?
+{Mediterranean_Princess_Offer_Countered_Standard_2}An agreement is quite possible, but we'd require these changes.
+{Mediterranean_Princess_Offer_Countered_Standard_3}This could be worked out with a few minor adjustments.
+{Mediterranean_Princess_Offer_Declined_Close_1}Almost, but not quite acceptable.
+{Mediterranean_Princess_Offer_Declined_Close_2}I am afraid I must deny you today.
+{Mediterranean_Princess_Offer_Declined_Close_3}We cannot quite accept this.
+{Mediterranean_Princess_Offer_Declined_Insulting_1}Keep suggesting things like this, and I shall leave.
+{Mediterranean_Princess_Offer_Declined_Insulting_2}No! You must think this lady a fool, or worse!
+{Mediterranean_Princess_Offer_Declined_Insulting_3}How could you ask this of my people. Never!
+{Mediterranean_Princess_Offer_Declined_Standard_1}Please, do not ask things we will not accept.
+{Mediterranean_Princess_Offer_Declined_Standard_2}No, I don't see how this can work. 
+{Mediterranean_Princess_Offer_Declined_Standard_3}No, we will not accept.
+{Mediterranean_Princess_Offer_Rejected_Close_1}Drop this idea for now.
+{Mediterranean_Princess_Offer_Rejected_Close_2}Forget it, we're not interested.
+{Mediterranean_Princess_Offer_Rejected_Close_3}Let us leave this point now.
+{Mediterranean_Princess_Offer_Rejected_Standard_1}You disappoint me with this.
+{Mediterranean_Princess_Offer_Rejected_Standard_2}You realise this is tiresome?
+{Mediterranean_Princess_Offer_Rejected_Standard_3}Clearly we waste time!
+{Mediterranean_Princess_Outro_Demeanour_Better_1}This was a good day for our peoples - Farewell.
+{Mediterranean_Princess_Outro_Demeanour_Better_2}Farewell my lord, and thank you.
+{Mediterranean_Princess_Outro_Demeanour_Better_3}Goodbye lord, it has been a pleasure.
+{Mediterranean_Princess_Outro_Demeanour_Neutral_1}Farewell noble majesty.
+{Mediterranean_Princess_Outro_Demeanour_Neutral_2}Farewell noble lord.
+{Mediterranean_Princess_Outro_Demeanour_Neutral_3}Until next time my lord.
+{Mediterranean_Princess_Outro_Demeanour_Worse_1}I fear more damage than good was done here.
+{Mediterranean_Princess_Outro_Demeanour_Worse_2}This meeting was worse than fruitless.
+{Mediterranean_Princess_Outro_Demeanour_Worse_3}Tell me, do you always disappoint the ladies?
+{Mediterranean_Princess_Receiving_Demeanour_Ally_1}Noble lord, what can I do for you today?
+{Mediterranean_Princess_Receiving_Demeanour_Ally_2}Greetings noble highness, what is it you wish?
+{Mediterranean_Princess_Receiving_Demeanour_Ally_3}A pleasure my lord - You have a proposition for us?
+{Mediterranean_Princess_Receiving_Demeanour_Enemy_1}You seek a lady for peace talks of course?
+{Mediterranean_Princess_Receiving_Demeanour_Enemy_2}Enemy of my people, why do you approach?
+{Mediterranean_Princess_Receiving_Demeanour_Enemy_3}So, is this a call for peace then?
+{Mediterranean_Princess_Receiving_Demeanour_Neutral_1}How is it I may help you noble lord?
+{Mediterranean_Princess_Receiving_Demeanour_Neutral_2}You have a message for my people?
+{Mediterranean_Princess_Receiving_Demeanour_Neutral_3}Is there something I can do for you my lord?
+{Mongolian_Diplomat_Demeanour_Declare_Annoyed_1}So you go back on your word?
+{Mongolian_Diplomat_Demeanour_Declare_Annoyed_2}So, this is how it is?
+{Mongolian_Diplomat_Demeanour_Declare_Annoyed_3}At least you no longer pretend to befriend us.
+{Mongolian_Diplomat_Demeanour_Declare_Unconcerned_1}We had no use of this treaty, we lose nothing.
+{Mongolian_Diplomat_Demeanour_Declare_Unconcerned_2}If you thought we valued that, you were wrong.
+{Mongolian_Diplomat_Demeanour_Declare_Unconcerned_3}Oh, did we have an agreement?
+{Mongolian_Diplomat_Demeanour_Declare_Upset_1}Do not expect us to forget this.
+{Mongolian_Diplomat_Demeanour_Declare_Upset_2}Traitors! You deal in lies!
+{Mongolian_Diplomat_Demeanour_Declare_Upset_3}Do not expect us to trust you again.
+{Mongolian_Diplomat_Demeanour_Reaction_Disappointed_1}You have strange values - This was a good deal.
+{Mongolian_Diplomat_Demeanour_Reaction_Disappointed_2}Are you too proud to accept a worthy offer?
+{Mongolian_Diplomat_Demeanour_Reaction_Disappointed_3}You refuse? Perhaps you do not see the value.
+{Mongolian_Diplomat_Demeanour_Reaction_Elated_1}We would never dream you would agree to this. Our thanks!
+{Mongolian_Diplomat_Demeanour_Reaction_Elated_2}You agree? This is outstanding news!
+{Mongolian_Diplomat_Demeanour_Reaction_Elated_3}This agreement is great news for my people.
+{Mongolian_Diplomat_Demeanour_Reaction_Neutral_1}We wish the same thing.
+{Mongolian_Diplomat_Demeanour_Reaction_Neutral_2}You saw the balance in this.
+{Mongolian_Diplomat_Demeanour_Reaction_Neutral_3}All seems fair yes? Good.
+{Mongolian_Diplomat_Demeanour_Reaction_Neutral_Rejected_1}Perhaps another time then.
+{Mongolian_Diplomat_Demeanour_Reaction_Neutral_Rejected_2}Rest assured, we take no offence.
+{Mongolian_Diplomat_Demeanour_Reaction_Neutral_Rejected_3}No matter, we can speak of this later.
+{Mongolian_Diplomat_Demeanour_Reaction_Offended_1}It is simple - You either hate us, or are a fool!
+{Mongolian_Diplomat_Demeanour_Reaction_Offended_2}Is this what your people call a joke? It is insulting!
+{Mongolian_Diplomat_Demeanour_Reaction_Offended_3}You surrender a great gift - And our goodwill!
+{Mongolian_Diplomat_Demeanour_Reaction_Pleased_1}You surprise us, in a pleasant way.
+{Mongolian_Diplomat_Demeanour_Reaction_Pleased_2}We did not expect your support, but we welcome it!
+{Mongolian_Diplomat_Demeanour_Reaction_Pleased_3}We are more thankful than you know, friend.
+{Mongolian_Diplomat_Intro_Demeanour_Ally_1}Greeting ally, my master has sent me with a suggestion.
+{Mongolian_Diplomat_Intro_Demeanour_Ally_2}Honourable ally, my master has a proposition for you.
+{Mongolian_Diplomat_Intro_Demeanour_Ally_3}Trusted friends, please consider this suggestion we bring you.
+{Mongolian_Diplomat_Intro_Demeanour_Enemy_1}We rarely send message to the enemy. Be sure to listen.
+{Mongolian_Diplomat_Intro_Demeanour_Enemy_2}I come bearing a proposition that we won't offer again.
+{Mongolian_Diplomat_Intro_Demeanour_Enemy_3}If you are wise, you will listen to me closely.
+{Mongolian_Diplomat_Intro_Demeanour_Neutral_1}My people have sent me with a message for yours.
+{Mongolian_Diplomat_Intro_Demeanour_Neutral_2}My people have a message for you. 
+{Mongolian_Diplomat_Intro_Demeanour_Neutral_3}Greetings, we hope you will consider this well.
+{Mongolian_Diplomat_New_Offer_Better_1}We shall hear your continued wisdom.
+{Mongolian_Diplomat_New_Offer_Better_2}Speak further, we welcome it.
+{Mongolian_Diplomat_New_Offer_Better_3}You have more worthy plans then? Very good.
+{Mongolian_Diplomat_New_Offer_Neutral_1}Another proposal then?
+{Mongolian_Diplomat_New_Offer_Neutral_2}What is it this time outlander?
+{Mongolian_Diplomat_New_Offer_Neutral_3}You have something further to speak of?
+{Mongolian_Diplomat_New_Offer_Worse_1}Will you try us with further concerns?
+{Mongolian_Diplomat_New_Offer_Worse_2}Are these to be further demands?
+{Mongolian_Diplomat_New_Offer_Worse_3}Something for my people now?
+{Mongolian_Diplomat_Offer_Accepted_Close_1}Very well, if it will please you, we accept.
+{Mongolian_Diplomat_Offer_Accepted_Close_2}We accept, but there is little to smile about.
+{Mongolian_Diplomat_Offer_Accepted_Close_3}Very well, but you show little generosity.
+{Mongolian_Diplomat_Offer_Accepted_Extortion_1}We shall comply with your wishes for now.
+{Mongolian_Diplomat_Offer_Accepted_Generous_1}This deal is too good to refuse. Many thanks.
+{Mongolian_Diplomat_Offer_Accepted_Generous_2}This is a most honourable offer. We must accept.
+{Mongolian_Diplomat_Offer_Accepted_Generous_3}I could not dream of refusing such an offer!
+{Mongolian_Diplomat_Offer_Accepted_Standard_1}This seems acceptable enough.
+{Mongolian_Diplomat_Offer_Accepted_Standard_2}Your plan is well measured, we agree.
+{Mongolian_Diplomat_Offer_Accepted_Standard_3}It is agreed, we accept your plan.
+{Mongolian_Diplomat_Offer_Countered_Close_1}Are you willing to concede one small point to make this work?
+{Mongolian_Diplomat_Offer_Countered_Close_2}You are reasonable, and as such will accept this change....
+{Mongolian_Diplomat_Offer_Countered_Close_3}Make these changes to your plan and we'll accept.
+{Mongolian_Diplomat_Offer_Countered_Insulting_1}An offensive suggestion! Here is a more honourable offer.
+{Mongolian_Diplomat_Offer_Countered_Insulting_2}Did you think us meek? This is a better proposal.
+{Mongolian_Diplomat_Offer_Countered_Insulting_3}Cease treating me like a fool, make a plan that offers something like this!
+{Mongolian_Diplomat_Offer_Countered_Open_Negative_1}At least you do not hide your desires from us.
+{Mongolian_Diplomat_Offer_Countered_Open_Negative_2}When you ask without complications, we can answer honestly.
+{Mongolian_Diplomat_Offer_Countered_Open_Negative_3}Your direct approach is more admirable.
+{Mongolian_Diplomat_Offer_Countered_Open_Neutral_1}You are not afraid to ask, which is easy to respect.
+{Mongolian_Diplomat_Offer_Countered_Open_Neutral_2}It is good you do not hide the reasons you are here.
+{Mongolian_Diplomat_Offer_Countered_Open_Neutral_3}You are wise to admit you do not know how we would value this.
+{Mongolian_Diplomat_Offer_Countered_Open_Positive_1}We shall honour your honest question with an answer.
+{Mongolian_Diplomat_Offer_Countered_Open_Positive_2}There is honour in asking what we think of this.
+{Mongolian_Diplomat_Offer_Countered_Open_Positive_3}It is easy to bargain with those who ask for terms.
+{Mongolian_Diplomat_Offer_Countered_Standard_1}This is more the kind of agreement we had in mind...
+{Mongolian_Diplomat_Offer_Countered_Standard_2}We can complete this agreement, if you are open to these changes.
+{Mongolian_Diplomat_Offer_Countered_Standard_3}I believe this is workable, if you are open to this sort of plan...
+{Mongolian_Diplomat_Offer_Declined_Close_1}Interesting, but no.
+{Mongolian_Diplomat_Offer_Declined_Close_2}No, we do not agree on this day.
+{Mongolian_Diplomat_Offer_Declined_Close_3}On a different day, we may have agreed.
+{Mongolian_Diplomat_Offer_Declined_Insulting_1}Do not suggest this again, or there will be blood.
+{Mongolian_Diplomat_Offer_Declined_Insulting_2}Are you testing my patience, or my sanity?
+{Mongolian_Diplomat_Offer_Declined_Insulting_3}I am not sure whether to laugh, or take insult.
+{Mongolian_Diplomat_Offer_Declined_Standard_1}This is of no real interest to us.
+{Mongolian_Diplomat_Offer_Declined_Standard_2}No. Anything else?
+{Mongolian_Diplomat_Offer_Declined_Standard_3}You would presume we want this?
+{Mongolian_Diplomat_Offer_Rejected_Close_1}We shall speak no further on this.
+{Mongolian_Diplomat_Offer_Rejected_Close_2}No more of this for now.
+{Mongolian_Diplomat_Offer_Rejected_Close_3}Speak not of this now.
+{Mongolian_Diplomat_Offer_Rejected_Standard_1}You either don't respect us, or don't understand us.
+{Mongolian_Diplomat_Offer_Rejected_Standard_2}Your words do no good outlander.
+{Mongolian_Diplomat_Offer_Rejected_Standard_3}You use words carelessly.
+{Mongolian_Diplomat_Outro_Demeanour_Better_1}Your intentions and words are honourable. Goodbye!
+{Mongolian_Diplomat_Outro_Demeanour_Better_2}You show much understanding. This is good.
+{Mongolian_Diplomat_Outro_Demeanour_Better_3}Farewell, we hope all our meetings work this way.
+{Mongolian_Diplomat_Outro_Demeanour_Neutral_1}We shall speak no more today.
+{Mongolian_Diplomat_Outro_Demeanour_Neutral_2}Yes. It is time to part ways. 
+{Mongolian_Diplomat_Outro_Demeanour_Neutral_3}It seems talk accomplishes little.
+{Mongolian_Diplomat_Outro_Demeanour_Worse_1}Were you trying to insult us?
+{Mongolian_Diplomat_Outro_Demeanour_Worse_2}You do not attempt to understand us!
+{Mongolian_Diplomat_Outro_Demeanour_Worse_3}We do not seem to agree on much. Be gone!
+{Mongolian_Diplomat_Receiving_Demeanour_Ally_1}An honour to see you on my people's behalf.
+{Mongolian_Diplomat_Receiving_Demeanour_Ally_2}Our ally approaches. What does you seek?
+{Mongolian_Diplomat_Receiving_Demeanour_Ally_3}Is there something wrong mighty ally?
+{Mongolian_Diplomat_Receiving_Demeanour_Enemy_1}Have you come to beg for mercy?
+{Mongolian_Diplomat_Receiving_Demeanour_Enemy_2}You may speak, but I would not expect us to agree.
+{Mongolian_Diplomat_Receiving_Demeanour_Enemy_3}Have you come to offer surrender?
+{Mongolian_Diplomat_Receiving_Demeanour_Neutral_1}Yes, what is it you would speak of?
+{Mongolian_Diplomat_Receiving_Demeanour_Neutral_2}Yes, we can discuss matters if you wish.
+{Mongolian_Diplomat_Receiving_Demeanour_Neutral_3}What plan do you bring to my people?
+{Scottish_Diplomat_Demeanour_Declare_Annoyed_1}Thank you for the news, even if it is poor.
+{Scottish_Diplomat_Demeanour_Declare_Annoyed_2}At least you had the decency to tell us.
+{Scottish_Diplomat_Demeanour_Declare_Annoyed_3}*sigh* And what does this gain then?
+{Scottish_Diplomat_Demeanour_Declare_Unconcerned_1}Oh well, it matters not.
+{Scottish_Diplomat_Demeanour_Declare_Unconcerned_2}Fair enough. Anything else?
+{Scottish_Diplomat_Demeanour_Declare_Unconcerned_3}No great loss, it would seem.
+{Scottish_Diplomat_Demeanour_Declare_Upset_1}We see where your loyalties lie.
+{Scottish_Diplomat_Demeanour_Declare_Upset_2}How could you turn on us like this?
+{Scottish_Diplomat_Demeanour_Declare_Upset_3}All but a declaration of war that was!
+{Scottish_Diplomat_Demeanour_Reaction_Disappointed_1}You reject a fair offer, you know?
+{Scottish_Diplomat_Demeanour_Reaction_Disappointed_2}How was this not to your liking?
+{Scottish_Diplomat_Demeanour_Reaction_Disappointed_3}I admit, we are surprised you would decline.
+{Scottish_Diplomat_Demeanour_Reaction_Elated_1}We couldn't be happier you agreed!
+{Scottish_Diplomat_Demeanour_Reaction_Elated_2}You'll accept?! Excellent!
+{Scottish_Diplomat_Demeanour_Reaction_Elated_3}Bless you for agreeing to this!
+{Scottish_Diplomat_Demeanour_Reaction_Neutral_1}Accepted then? We thank you.
+{Scottish_Diplomat_Demeanour_Reaction_Neutral_2}Aye, it was a fair deal.
+{Scottish_Diplomat_Demeanour_Reaction_Neutral_3}Glad to reach an agreement.
+{Scottish_Diplomat_Demeanour_Reaction_Neutral_Rejected_1}Fair enough, it was merely a suggestion.
+{Scottish_Diplomat_Demeanour_Reaction_Neutral_Rejected_2}Oh well, perhaps we can come back to this, aye?
+{Scottish_Diplomat_Demeanour_Reaction_Neutral_Rejected_3}No matter, we shall not hold that against you.
+{Scottish_Diplomat_Demeanour_Reaction_Offended_1}Dear God! Is that not enough!?
+{Scottish_Diplomat_Demeanour_Reaction_Offended_2}Is there no offer you will accept?!
+{Scottish_Diplomat_Demeanour_Reaction_Offended_3}How could you say no to this offer?
+{Scottish_Diplomat_Demeanour_Reaction_Pleased_1}A wise decision Scotland appreciates.
+{Scottish_Diplomat_Demeanour_Reaction_Pleased_2}We are in agreeance then? Excellent!
+{Scottish_Diplomat_Demeanour_Reaction_Pleased_3}We would have been surprised had you said no.
+{Scottish_Diplomat_Intro_Demeanour_Ally_1}Greeting, friends of Scotland. We have something for ye.
+{Scottish_Diplomat_Intro_Demeanour_Ally_2}Good of you to see me on short notice, friend.
+{Scottish_Diplomat_Intro_Demeanour_Ally_3}Hail and well met, good friend, we have things to discuss.
+{Scottish_Diplomat_Intro_Demeanour_Enemy_1}We have things to discuss.
+{Scottish_Diplomat_Intro_Demeanour_Enemy_2}Scotland demands an audience!
+{Scottish_Diplomat_Intro_Demeanour_Enemy_3}I would advise you to listen to us this day.
+{Scottish_Diplomat_Intro_Demeanour_Neutral_1}We have something for you, noble sire.
+{Scottish_Diplomat_Intro_Demeanour_Neutral_2}Greetings, we have a word for you.
+{Scottish_Diplomat_Intro_Demeanour_Neutral_3}I bring word from Scotland, noble sire.
+{Scottish_Diplomat_New_Offer_Better_1}Please, let us hear your next proposal.
+{Scottish_Diplomat_New_Offer_Better_2}Another most reasonable proposal we hope.
+{Scottish_Diplomat_New_Offer_Better_3}Your good reason has us open to further plans.
+{Scottish_Diplomat_New_Offer_Neutral_1}Have something else you wish to propose then?
+{Scottish_Diplomat_New_Offer_Neutral_2}Very well, what's your next suggestion then?
+{Scottish_Diplomat_New_Offer_Neutral_3}Another proposition for us, aye?
+{Scottish_Diplomat_New_Offer_Worse_1}This had better be a more balanced proposal.
+{Scottish_Diplomat_New_Offer_Worse_2}We hope this next suggestion is more reasonable than the last.
+{Scottish_Diplomat_New_Offer_Worse_3}Will this plan of yours be less one sided this time?
+{Scottish_Diplomat_Offer_Accepted_Close_1}After some deliberation, we accept.
+{Scottish_Diplomat_Offer_Accepted_Close_2}I suppose we can agree to this proposal of yours.
+{Scottish_Diplomat_Offer_Accepted_Close_3}Agreed... but only just, mind you.
+{Scottish_Diplomat_Offer_Accepted_Extortion_1}It seems we have little choice but to accept your raw deal.
+{Scottish_Diplomat_Offer_Accepted_Generous_1}Aye, we readily accept your most generous offer!
+{Scottish_Diplomat_Offer_Accepted_Generous_2}You clearly have our best interests in mind. Thank you.
+{Scottish_Diplomat_Offer_Accepted_Generous_3}An extremely pleasing agreement to reach.
+{Scottish_Diplomat_Offer_Accepted_Standard_1}I feel we can agree to that, good sire.
+{Scottish_Diplomat_Offer_Accepted_Standard_2}I accept this offer.
+{Scottish_Diplomat_Offer_Accepted_Standard_3}This seems quite acceptable.
+{Scottish_Diplomat_Offer_Countered_Close_1}Most fair, but could we make a small adjustment?
+{Scottish_Diplomat_Offer_Countered_Close_2}Very reasonable... with just a minor change perhaps?
+{Scottish_Diplomat_Offer_Countered_Close_3}Almost what I had in mind…
+{Scottish_Diplomat_Offer_Countered_Insulting_1}How about you take my lead from this more sensible offer!
+{Scottish_Diplomat_Offer_Countered_Insulting_2}No! This would be far less insulting for us…
+{Scottish_Diplomat_Offer_Countered_Insulting_3}Be reasonable or be forgetting this.
+{Scottish_Diplomat_Offer_Countered_Open_Negative_1}So you seek to understand us better?
+{Scottish_Diplomat_Offer_Countered_Open_Negative_2}At least you're not presuming things.
+{Scottish_Diplomat_Offer_Countered_Open_Negative_3}It is unexpectedly reasonable of you to ask like this.
+{Scottish_Diplomat_Offer_Countered_Open_Neutral_1}We appreciate that you would ask.
+{Scottish_Diplomat_Offer_Countered_Open_Neutral_2}So good of you to ask us directly.
+{Scottish_Diplomat_Offer_Countered_Open_Neutral_3}A direct and fair question.
+{Scottish_Diplomat_Offer_Countered_Open_Positive_1}Scotland appreciates your open and direct approach.
+{Scottish_Diplomat_Offer_Countered_Open_Positive_2}Your honest and direct intentions are welcome.
+{Scottish_Diplomat_Offer_Countered_Open_Positive_3}Those wise enough to ask get honest answers.
+{Scottish_Diplomat_Offer_Countered_Standard_1}Reasonable, but perhaps you would consider this?
+{Scottish_Diplomat_Offer_Countered_Standard_2}Fair enough, but we'd require these changes.
+{Scottish_Diplomat_Offer_Countered_Standard_3}We would accept if you might agree to these minor changes…
+{Scottish_Diplomat_Offer_Declined_Close_1}I see your reason, but must decline.
+{Scottish_Diplomat_Offer_Declined_Close_2}No, we cannot quite accept this.
+{Scottish_Diplomat_Offer_Declined_Close_3}I was almost able to accept, but no.
+{Scottish_Diplomat_Offer_Declined_Insulting_1}Never! Do you think us daft or meek?
+{Scottish_Diplomat_Offer_Declined_Insulting_2}The king will be insulted when he hears of your offer!
+{Scottish_Diplomat_Offer_Declined_Insulting_3}If you're looking to offend us, you've succeeded!
+{Scottish_Diplomat_Offer_Declined_Standard_1}I'm afraid the answer is definitely no.
+{Scottish_Diplomat_Offer_Declined_Standard_2}There's naught in this for us.
+{Scottish_Diplomat_Offer_Declined_Standard_3}Nay my friend, not convinced.
+{Scottish_Diplomat_Offer_Rejected_Close_1}Enough of this one for now.
+{Scottish_Diplomat_Offer_Rejected_Close_2}Let's forget this for now.
+{Scottish_Diplomat_Offer_Rejected_Close_3}This won't be happening now.
+{Scottish_Diplomat_Offer_Rejected_Standard_1}You show little consideration suggesting this!
+{Scottish_Diplomat_Offer_Rejected_Standard_2}An insulting suggestion!
+{Scottish_Diplomat_Offer_Rejected_Standard_3}Not something to suggest to Scotland again soon.
+{Scottish_Diplomat_Outro_Demeanour_Better_1}I'm glad we could see eye to eye.
+{Scottish_Diplomat_Outro_Demeanour_Better_2}A pleasure, noble sire.
+{Scottish_Diplomat_Outro_Demeanour_Better_3}A good day for your people, and Scotland's.
+{Scottish_Diplomat_Outro_Demeanour_Neutral_1}Goodbye, noble one.
+{Scottish_Diplomat_Outro_Demeanour_Neutral_2}Aye, farewell.
+{Scottish_Diplomat_Outro_Demeanour_Neutral_3}Well that was uneventful. Good day.
+{Scottish_Diplomat_Outro_Demeanour_Worse_1}I had better things to do.
+{Scottish_Diplomat_Outro_Demeanour_Worse_2}This was a disappointing encounter.
+{Scottish_Diplomat_Outro_Demeanour_Worse_3}*sigh* Diplomacy has failed this day.
+{Scottish_Diplomat_Receiving_Demeanour_Ally_1}It's always good to see you.
+{Scottish_Diplomat_Receiving_Demeanour_Ally_2}Aye my friend, what can we do for you?
+{Scottish_Diplomat_Receiving_Demeanour_Ally_3}Friends of Scotland, it's good to see you.
+{Scottish_Diplomat_Receiving_Demeanour_Enemy_1}Och! Do not mince your words with me this day.
+{Scottish_Diplomat_Receiving_Demeanour_Enemy_2}This had best be good, you're very hard to trust.
+{Scottish_Diplomat_Receiving_Demeanour_Enemy_3}Listening is all we shall promise ye.
+{Scottish_Diplomat_Receiving_Demeanour_Neutral_1}What can I do for you?
+{Scottish_Diplomat_Receiving_Demeanour_Neutral_2}You have a proposition for Scotland, then.
+{Scottish_Diplomat_Receiving_Demeanour_Neutral_3}What is it you wish to talk about?
+{Scottish_Princess_Demeanour_Declare_Annoyed_1}Thank you for informing me, even if it is poor news.
+{Scottish_Princess_Demeanour_Declare_Annoyed_2}At least you had the decency to tell me of this.
+{Scottish_Princess_Demeanour_Declare_Annoyed_3}*sigh* And what did that achieve then sire?
+{Scottish_Princess_Demeanour_Declare_Unconcerned_1}Oh well, it matters not.
+{Scottish_Princess_Demeanour_Declare_Unconcerned_2}Fair enough. Anything else?
+{Scottish_Princess_Demeanour_Declare_Unconcerned_3}No great loss it would seem.
+{Scottish_Princess_Demeanour_Declare_Upset_1}This lady sees where your loyalties lie.
+{Scottish_Princess_Demeanour_Declare_Upset_2}How could you turn on Scotland like this!
+{Scottish_Princess_Demeanour_Declare_Upset_3}But sire, what have we done to deserve this betrayal?
+{Scottish_Princess_Demeanour_Reaction_Disappointed_1}You reject a fair offer you know?
+{Scottish_Princess_Demeanour_Reaction_Disappointed_2}How is it this was not to your liking?
+{Scottish_Princess_Demeanour_Reaction_Disappointed_3}I admit, I am surprised you would decline.
+{Scottish_Princess_Demeanour_Reaction_Elated_1}We could not be happier that you have agreed sire.
+{Scottish_Princess_Demeanour_Reaction_Elated_2}Sire, you'll accept?! Wonderful!
+{Scottish_Princess_Demeanour_Reaction_Elated_3}Bless you for agreeing to this your majesty!
+{Scottish_Princess_Demeanour_Reaction_Neutral_1}Agreed then sire? I thank you.
+{Scottish_Princess_Demeanour_Reaction_Neutral_2}It was a fair deal.
+{Scottish_Princess_Demeanour_Reaction_Neutral_3}Pleased to have reached an agreement sire.
+{Scottish_Princess_Demeanour_Reaction_Neutral_Rejected_1}Fair enough, it was merely a suggestion.
+{Scottish_Princess_Demeanour_Reaction_Neutral_Rejected_2}Very well, perhaps we could speak of this later, yes?
+{Scottish_Princess_Demeanour_Reaction_Neutral_Rejected_3}No matter sire, we take no offence.
+{Scottish_Princess_Demeanour_Reaction_Offended_1}Dear God! Is that not enough!?
+{Scottish_Princess_Demeanour_Reaction_Offended_2}Is there no offer you will accept?!
+{Scottish_Princess_Demeanour_Reaction_Offended_3}How could you say no to this offer?
+{Scottish_Princess_Demeanour_Reaction_Pleased_1}A wise decision that Scotland appreciates.
+{Scottish_Princess_Demeanour_Reaction_Pleased_2}You are in agreeance then sire? Excellent!
+{Scottish_Princess_Demeanour_Reaction_Pleased_3}My lord, you show great wisdom. Thank you.
+{Scottish_Princess_Intro_Demeanour_Ally_1}Honoured majesty, I bring word from the King.
+{Scottish_Princess_Intro_Demeanour_Ally_2}Thank you to seeing me on short notice good sire.
+{Scottish_Princess_Intro_Demeanour_Ally_3}An honour my lord, we have things to discuss.
+{Scottish_Princess_Intro_Demeanour_Enemy_1}We have things to discuss.
+{Scottish_Princess_Intro_Demeanour_Enemy_2}Perhaps this will be better coming from a lady.
+{Scottish_Princess_Intro_Demeanour_Enemy_3}I approach with a proposition sire.
+{Scottish_Princess_Intro_Demeanour_Neutral_1}I have word for you noble sire.
+{Scottish_Princess_Intro_Demeanour_Neutral_2}Greetings, we have word for you.
+{Scottish_Princess_Intro_Demeanour_Neutral_3}I bring word from Scotland noble sire.
+{Scottish_Princess_New_Offer_Better_1}Please, let us hear your next proposal.
+{Scottish_Princess_New_Offer_Better_2}Another most reasonable proposal we hope.
+{Scottish_Princess_New_Offer_Better_3}Your good reason has us open to further plans.
+{Scottish_Princess_New_Offer_Neutral_1}You have something else you wish to propose then?
+{Scottish_Princess_New_Offer_Neutral_2}Very well, what's your next suggestion then?
+{Scottish_Princess_New_Offer_Neutral_3}Another proposition for us, aye?
+{Scottish_Princess_New_Offer_Worse_1}This had better be a more balanced proposal.
+{Scottish_Princess_New_Offer_Worse_2}We hope this next suggestion is more reasonable than the last.
+{Scottish_Princess_New_Offer_Worse_3}Will this plan of yours be less one sided this time?
+{Scottish_Princess_Offer_Accepted_Close_1}After some deliberation, we accept.
+{Scottish_Princess_Offer_Accepted_Close_2}I suppose we can agree to this proposal of yours.
+{Scottish_Princess_Offer_Accepted_Close_3}Agreed... But only just my lord.
+{Scottish_Princess_Offer_Accepted_Extortion_1}Extortion is hardly an act of nobility, is it?
+{Scottish_Princess_Offer_Accepted_Generous_1}I readily accept your most generous offer!
+{Scottish_Princess_Offer_Accepted_Generous_2}Sire, you clearly have my best interests in mind. Thank you.
+{Scottish_Princess_Offer_Accepted_Generous_3}The King will be most pleased by this generous offer, noble sire.
+{Scottish_Princess_Offer_Accepted_Standard_1}I feel we can agree to that noble sire.
+{Scottish_Princess_Offer_Accepted_Standard_2}Yes, I shall accept this offer.
+{Scottish_Princess_Offer_Accepted_Standard_3}This seems quite acceptable.
+{Scottish_Princess_Offer_Countered_Close_1}Most fair, but could we make a small adjustment?
+{Scottish_Princess_Offer_Countered_Close_2}Very reasonable... with just a minor change perhaps?
+{Scottish_Princess_Offer_Countered_Close_3}Almost what I had in mind…
+{Scottish_Princess_Offer_Countered_Insulting_1}How about you take my lead from this more sensible offer!
+{Scottish_Princess_Offer_Countered_Insulting_2}No! This would be far less insulting for us…
+{Scottish_Princess_Offer_Countered_Insulting_3}Be reasonable or you can forget it.
+{Scottish_Princess_Offer_Countered_Open_Negative_1}So you seek to understand us better?
+{Scottish_Princess_Offer_Countered_Open_Negative_2}At least you're not presuming things.
+{Scottish_Princess_Offer_Countered_Open_Negative_3}It is unexpectedly reasonable of you to ask like this.
+{Scottish_Princess_Offer_Countered_Open_Neutral_1}We appreciate that you would ask.
+{Scottish_Princess_Offer_Countered_Open_Neutral_2}So good of you to ask us directly.
+{Scottish_Princess_Offer_Countered_Open_Neutral_3}A direct and fair question.
+{Scottish_Princess_Offer_Countered_Open_Positive_1}Scotland appreciates your open and direct approach.
+{Scottish_Princess_Offer_Countered_Open_Positive_2}Your honest and direct intentions are welcome.
+{Scottish_Princess_Offer_Countered_Open_Positive_3}Those wise enough to ask get honest answers.
+{Scottish_Princess_Offer_Countered_Standard_1}Reasonable, but perhaps you would consider this?
+{Scottish_Princess_Offer_Countered_Standard_2}Fair enough, but we'd require these changes.
+{Scottish_Princess_Offer_Countered_Standard_3}We would accept if you might agree to these minor changes…
+{Scottish_Princess_Offer_Declined_Close_1}I see your reason, but must decline.
+{Scottish_Princess_Offer_Declined_Close_2}No, we cannot quite accept this.
+{Scottish_Princess_Offer_Declined_Close_3}I was almost able to accept, but no.
+{Scottish_Princess_Offer_Declined_Insulting_1}I may just be a lady sire, but I am not stupid! That was an insult!
+{Scottish_Princess_Offer_Declined_Insulting_2}Never! My father will be outraged when he hears you asked this of me.
+{Scottish_Princess_Offer_Declined_Insulting_3}If you're looking to offend me and my people, you've succeeded!
+{Scottish_Princess_Offer_Declined_Standard_1}I'm afraid the answer is definitely no.
+{Scottish_Princess_Offer_Declined_Standard_2}I would be letting Scotland down if I accepted sire.
+{Scottish_Princess_Offer_Declined_Standard_3}Nay your highness, it's simply not what we're after.
+{Scottish_Princess_Offer_Rejected_Close_1}Enough of this one for now.
+{Scottish_Princess_Offer_Rejected_Close_2}Let's forget this for now.
+{Scottish_Princess_Offer_Rejected_Close_3}This won't be happening now.
+{Scottish_Princess_Offer_Rejected_Standard_1}You show little consideration suggesting this!
+{Scottish_Princess_Offer_Rejected_Standard_2}An insulting suggestion!
+{Scottish_Princess_Offer_Rejected_Standard_3}Not something to suggest to Scotland again soon.
+{Scottish_Princess_Outro_Demeanour_Better_1}It was an honour, and a pleasure sire.
+{Scottish_Princess_Outro_Demeanour_Better_2}A true pleasure noble sire.
+{Scottish_Princess_Outro_Demeanour_Better_3}A good day for both our peoples, noble sire. Farewell.
+{Scottish_Princess_Outro_Demeanour_Neutral_1}Good bye noble lord.
+{Scottish_Princess_Outro_Demeanour_Neutral_2}Farewell, noble sire.
+{Scottish_Princess_Outro_Demeanour_Neutral_3}Good day sire.
+{Scottish_Princess_Outro_Demeanour_Worse_1}You don't really know how to treat a lass, do you sire?
+{Scottish_Princess_Outro_Demeanour_Worse_2}This wasn't the meeting I had hoped for.
+{Scottish_Princess_Outro_Demeanour_Worse_3}*sigh* Diplomacy has failed this day.
+{Scottish_Princess_Receiving_Demeanour_Ally_1}Always an honour sire. How may I serve?
+{Scottish_Princess_Receiving_Demeanour_Ally_2}Yes noble sire, what can I do for you?
+{Scottish_Princess_Receiving_Demeanour_Ally_3}Always a pleasure to receive a friend of my people.
+{Scottish_Princess_Receiving_Demeanour_Enemy_1}Have you come to talk of peace sire?
+{Scottish_Princess_Receiving_Demeanour_Enemy_2}If you have not come to make amends, you waste my time.
+{Scottish_Princess_Receiving_Demeanour_Enemy_3}Do not think this lady will take a softer view of your people.
+{Scottish_Princess_Receiving_Demeanour_Neutral_1}What may I do for you noble sire?
+{Scottish_Princess_Receiving_Demeanour_Neutral_2}You have a proposition for Scotland noble sire?
+{Scottish_Princess_Receiving_Demeanour_Neutral_3}What is it you wish to discuss my lord?

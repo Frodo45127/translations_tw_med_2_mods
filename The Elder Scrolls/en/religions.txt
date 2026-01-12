@@ -1,0 +1,15 @@
+¬
+{catholic}	Nine Divines
+{heretic}	Daedric Cults
+{islam}	Tribunal Temple
+{orthodox}	Ja-Kha'jay
+{pagan} Worshippers of Hist
+{dagoth_rel}	Cult of Dagoth Ur
+{auriel_rel}	Altmer pantheon
+{green_rel}	Bosmer pantheon
+{orc_rel}	Worshippers of Malacath
+{yok_rel}	Yokudan pantheon
+{akaviri_rel}	Akaviri Pantheon
+{maormer_rel}	Maormer Gods
+{the_eight}	Eight Divines
+{old_gods}	Old Gods

@@ -1,0 +1,14 @@
+¬
+{alpine}Montañas
+{highland}Altiplano
+{mediterranean}Subtropical
+{rocky_desert}Desierto
+{sandy_desert}Tierras cenizas
+{semi_arid}Semi árido
+{steppe}Estepa
+{temperate_coniferous_forest}Bosque de coníferas
+{temperate_deciduous_forest}Bosque caducifolio
+{tropical}Tropical
+{volcanic}Volcánico
+{unused1}Desierto ártico
+{unused2}Jungla

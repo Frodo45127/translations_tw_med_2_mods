@@ -1,0 +1,13 @@
+¬
+{alpine}Forodwaith
+{highland}Frío norteño
+{mediterranean}Rohan/Gondor
+{rocky_desert}Semi árido
+{sandy_desert}Mordor
+{semi_arid}Tierras pardas
+{steppe}Estepa
+{temperate_coniferous_forest}Bosque de coníferas
+{temperate_deciduous_forest}Bosque caducifolio
+{tropical}Moria
+{unused1}Harondor
+{unused2}Lorien

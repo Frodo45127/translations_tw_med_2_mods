@@ -1,0 +1,37 @@
+¬
+{brigands}	Brigands
+{gladiator_uprising}	Восстание гладиаторов
+{pirates}	Pirates
+{slave_uprising}	Восстание рабов
+{Generic_Rebels}	Rebels
+{Cyrodiil_Rebels}	Cyrodiil rebels
+{Nord_Rebels}	Nord rebels
+{High_Rock_Kings}	High Rock Kingdoms
+{E_League}	Eltheric League
+{Direnni_Clan}	Direnni Clan
+{Orc_Rebels}	Orc rebels
+{Orc_Strongholds}	Orc Strongholds
+{Reachmen_Tribes}	Reachmen
+{Vampires}		Vampires
+{Necromants}		Necromancers
+{Draugrs}		Draugrs
+{Hammerfell_Republics}	Hammerfell Republics
+{Alikr_Tribes}		Alik'r tribes
+{Redguard_Rebels}	Redguard rebels
+{Stros_Mkai}		Pirates of Stros M'kai
+{The_Chain}		Pirates of the Chain
+{Aldmeri_Rebels}	Aldmeri rebels
+{Bosmeri_Tribes}	Bosmer tribes
+{Khajiit_Tribes}	Khajiit tribes
+{Renrijra}		Renrijra
+{Orcrest}		Orcrest
+{Rimmen}		Rimmen
+{Argonians}		Argonian tribes
+{Laga-Hui}		Laga-Hui
+{Thorn}			Thorn
+{Argonians2}		Liberated Morrowind
+{Dunmer_Rebels}		Dunmer rebels
+{Skaal_Tribes}		Skaal
+{Roscrea}		Roscrea
+{Ashlanders}		Ashlanders
+{Ash_Spawns}		Ash Spawn 

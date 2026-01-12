@@ -1,0 +1,410 @@
+¬
+{Imperial_City_Province}Heartland
+{Imperial_City}Imperial City
+{Anvil_Province}Gold Coast
+{Anvil}Anvil
+{Kvatch_Province}Southern Colovia
+{Kvatch}Kvatch
+{Sutch_Province}Colovia
+{Sutch}Fort Sutch
+{Dirich_Province}Southern Highlands
+{Dirich}Fort Brindle
+{Skingrad_Province}West Weald
+{Skingrad}Skingrad
+{Chorrol_Province}Colovian Highlands
+{Chorrol}Chorrol
+{Sancre_Tor_Province}Northern Highlands
+{Sancre_Tor}Sancre Tor
+{Bruma_Province}Northern Nibenay
+{Bruma}Bruma
+{Cloud_Province}Cloud Ruler Temple
+{Cloud_Ruler}Fort Dragonclaw
+{Cheidynhal_Province}Nibenay
+{Cheidynhal}Cheydinhal
+{Heimlin_Province}Northern Deshaan
+{Heimlin}Heimlyn
+{Naso_Province}Silverfish River
+{Naso}Fort Drakelowe
+{Cuptor_Province}Nibenay Valley
+{Cuptor}Fort Cuptor
+{Dublecross_Province}The Black Forest
+{Dublecross}Fort Doublecross
+{Homestead_Province}West Weald
+{Homestead}Fort Alessia
+{Bravil_Province}Nibenay Bay
+{Bravil}Bravil
+{Borderwatch_Province}Southern Nibenay
+{Borderwatch}Borderwatch
+{Leyaviin_Province}Topal Bay
+{Leyaviin}Leyawiin
+{Frostmoth_Province}Hirstaang Forest
+{Frostmoth}Frostmoth
+{Ravenrock_Province}Ebony Coast
+{Ravenrock}Bloodskaal Stronghold
+{Skaal_Province}Felsaad Coast
+{Skaal}Skaal Village
+{Windhelm_Province}Eastmarch
+{Windhelm}Windhelm
+{Hewsbane_Province}Hew's Bane
+{Hewsbane}Abah's Landing
+{Solitude_Province}Haafingar
+{Solitude}Solitude
+{Helgen_Province}Throat of the World
+{Helgen}Helgen
+{Ivarstead_Province}Ivarstead Lands
+{Ivarstead}Ivarstead
+{Vaultheim_Province}Western Whiterun
+{Vaultheim}Fort Greymoor
+{Riften_Province}The Rift
+{Riften}Riften
+{Falkreath_Province}Falkreath Hold
+{Falkreath}Falkreath
+{Whiterun_Province}Whiterun Hold
+{Whiterun}Whiterun
+{Rorikstead_Province}Rorikstead Lands
+{Rorikstead}Rorikstead
+{Sunguard_Province}Sunguard Highlands
+{Sunguard}Fort Sunguard
+{Markarth_Province}The West Reach
+{Markarth}Markarth
+{Karthwasten_Province}River Karth
+{Karthwasten}Karthwasten
+{Zainab_Province}Grazeland
+{Zainab}Zainab Camp
+{Volkihar_Province}Volkihar Isle
+{Volkihar}Castle Volkihar
+{Morthal_Province}Hjalmarch
+{Morthal}Morthal
+{Dunstad_Province}Dunstad Lands
+{Dunstad}Fort Dunstad
+{Dawnstar_Province}White Coast
+{Dawnstar}Dawnstar
+{Winterhold_Province}Winterhold
+{Winterhold}Winterhold
+{Dawnguard_Province}Velothi Mountains
+{Dawnguard}Dawnguard
+{Daggerfall_Province}Kingdom of Daggerfall
+{Daggerfall}Daggerfall
+{Jehanna_Province}The Reach
+{Jehanna}Jehanna Docks
+{Cloudr_Province}Dunlain Falls
+{Cloudr}Farrun Stronghold
+{Farrun_Province}High Rock Northern Coast
+{Farrun}Morkul Stronghold
+{Raven_Province}Graystone Quarry
+{Raven}Tumnosh Clanhold
+{Evermor_Province}Mornouth
+{Evermor}Evermore
+{Gauvadon_Province}Bjoulsae River
+{Gauvadon}Firebrand Keep
+{Wayrest_Province}Menevia
+{Wayrest}Wayrest
+{Portdun_Province}Portdun Coast
+{Portdun}Frostbreak Fortress
+{Sharnhelm_Province}Central Rivenspire
+{Sharnhelm}Sharnhelm
+{Balifera_Province}Balifera Isle
+{Balifera}Adamantine Watch
+{Vulkhel_Province}Vulkhel Province
+{Vulkhel}Vulkhel
+{Ne_Quinal_Province}Ne'Quinal
+{Ne_Quinal}Ne'Quinal
+{Old_Gate_Province}Westmark Moor
+{Old_Gate}Oldgate
+{Northpoint_Province}Boralis
+{Northpoint}Northpoint
+{Darguard_Province}Eyebright Feld
+{Darguard}Ravenwatch Castle
+{Koegria_Province}King's Guard
+{Koegria}Crosswych
+{Alcaire_Province}Stormhaven
+{Alcaire}Alcaire Castle
+{Dvinnen_Province}Dvinnen Barony
+{Dvinnen}Dvinnen
+{Camlorn_Province}Kingdom of Camlorn
+{Camlorn}Camlorn
+{Glenumbra_Province}Tulun Forest
+{Glenumbra}Aldcroft
+{Llessan_Province}Daenia
+{Llessan}Glenpoint
+{Anticler_Province}Kingdom of Anticlere
+{Anticler}Anticlere
+{Azra_Province}Eastern Wrothgarian
+{Azra}Graystone Quarry
+{Orsinium_Province}New Orsinium
+{Orsinium}New Orsinium
+{Sentinel_Province}Myrkwasa
+{Sentinel}Sentinel
+{Taneth_Province}Irk River
+{Taneth}Taneth
+{Rihad_Province}Brenna River
+{Rihad}Rihad
+{Northhalls_Province}Northern Mountains
+{Northhalls}Stonemoor
+{Elinhir_Province}Elinhir State
+{Elinhir}Elinhir
+{Belkarth_Province}Belkarth Province
+{Belkarth}Fort Belkarth
+{Riverpoint_Province}Riverpoint Province
+{Riverpoint}Fort Riverpoint
+{Roseguard_Province}Tuk River
+{Roseguard}Fort Roseguard
+{Lainebon_Province}Eastern Alik'r
+{Lainebon}Verkarth
+{Gilane_Province}Southern Hammerfell
+{Gilane}Gilane
+{Hegathe_Province}Hunding bay
+{Hegathe}Hegathe
+{Abibon_Gorah_Province}Abibon-Gorah Barony
+{Abibon_Gorah}Abibon-Gorah
+{Sunkeep_Province}Eastern Alik'r
+{Sunkeep}Antiphyllos
+{Alikr_Province}Alik'r Desert
+{Alikr}Tu'whacca's Throne
+{Dukfron_Province}Hollow Vastes
+{Dukfron}Leki's Blade
+{Vulnim_Province}Tigonus
+{Vulnim}Kozanset
+{Totambu_Province}Totambu Forest
+{Totambu}Satakalaam
+{Lainlyn_Province}Dragontail Mountains
+{Lainlyn}Tava's Blessing
+{Skaven_Province}Fallen Wastes
+{Skaven}Hallins's Stand
+{Heldorn_Province}Northern Craglorn
+{Heldorn}Fort Heldorn
+{Dragonstar_Province}Dragon Gate
+{Dragonstar}Dragonstar
+{Stros_Province}Stros M'kai Isle
+{Stros}Port Hunding
+{Alinor_Province}Alinor Province
+{Alinor}Alinor
+{Riverfield_Province}Central Summerset
+{Riverfield}Relenthil
+{Corgrad_Province}Graddun Spring
+{Corgrad}Corgard
+{Cloudrest_Province}King's Haven
+{Cloudrest}Cloudrest
+{Lillandril_Province}Karnwasten Moor
+{Lillandril}Lillandril
+{Sea_Keep_Province}Sea Keep Province
+{Sea_Keep}Sea Keep
+{Shimmerene_Province}Rosefield
+{Shimmerene}Shimmerene
+{Dusk_Province}Thorheim Guard
+{Dusk}Dusk Keep
+{Archen_Province}Archen Province
+{Archen}Archen
+{Sunhold_Province}Sunhold Province
+{Sunhold}Sunhold
+{Marnor_Province}Marnor Province
+{Marnor}Cey-Tarn Keep
+{Firsthold_Province}Northern Auridon
+{Firsthold}Firsthold
+{West_Guard_Province}Greenwater
+{West_Guard}Dawnbreak
+{Skywatch_Province}Central Auridon
+{Skywatch}Skywatch
+{Arentia_Province}Northern Woods
+{Arentia}Arenthia
+{Thormar_Province}Reaper's March Gate
+{Thormar}Greenhill
+{Valkwasten_Province}Silver Vale
+{Valkwasten}Silvenar
+{Silvenar_Province}Abamath
+{Silvenar}Jathsogur
+{Falinesti_Province}Malabal Tor
+{Falinesti}Vulkwasten
+{Velyn_Province}Xylo River Basin
+{Velyn}Velyn Harbor
+{Longvale_Province}Reman's Bluff
+{Longvale}Barkbite Stronghold
+{Woodheart_Province}Drowned Coast
+{Woodheart}Woodheart
+{Longhaven_Province}Southern Greenshade
+{Longhaven}Marbruk
+{Greenheart_Province}Wilderking Court
+{Greenheart}Greenheart
+{Elden_Root_Province}Green Hall
+{Elden_Root}Elden Root
+{Kathdar_Province}Greenshade
+{Kathdar}Cormount
+{Wasten_Province}Wasten Bukbrook
+{Wasten}Brackenleaf
+{Southpoint_Province}South Haven
+{Southpoint}Southpoint
+{Haven_Province}Long Coast province
+{Haven}Haven
+{Korinth_Province}Palmwood
+{Korinth}Corinth
+{Riverhold_Province}Tardorn Wood
+{Riverhold}Riverhold
+{Dune_Province}Dawnmead
+{Dune}Dune
+{Seaplace_Province}Cori Darglade
+{Seaplace}Fort Seaplace
+{Meir_Province}Linmount
+{Meir}Hakoshae
+{Orcrest_Province}Central Anequina
+{Orcrest}Orcrest
+{Rimmen_Province}The Rim
+{Rimmen}Rimmen
+{Ein_Province}Meirvale
+{Ein}Rawl'kha
+{Greenvale_Province}Greenvale
+{Greenvale}Fort Greenvale
+{Albaster_Province}Albaster province
+{Albaster}Albaster
+{Moonpath_Province}Tenmar Forest
+{Moonpath}Moon Path
+{Porneu_Province}Western Tenmar
+{Porneu}Porneu
+{Dunkori_Province}Dunkori Coast
+{Dunkori}Dunkori Walk
+{Tenmar_Province}Southern Tenmar
+{Tenmar}Tenmar
+{Torval_Province}The Mane's State
+{Torval}Torval
+{Darvulk_Province}Western Quin'rawl
+{Darvulk}Darvulk
+{Senchal_Province}Quin'rawl
+{Senchal}Senchal
+{Helstrom_Province}Venomous Fens
+{Helstrom}Hissmir
+{Stormhold_Province}Shadowfen
+{Stormhold}Stormhold
+{Tenimar_Province}Tenimar Wall
+{Tenimar}Hatching Pools
+{Riverwalk_Province}Reticulated Spine
+{Riverwalk}Forsaken Hamlet
+{Thorn_Province}Thorn Province
+{Thorn}Thorn
+{Greenglade_Province}Leafwater
+{Greenglade}Alten Corimont
+{Gideon_Province}Eastern Black Forest
+{Gideon}Gideon
+{Greenspring_Province}Green Spring
+{Greenspring}Greenspring
+{Moonmarch_Province}Moon March
+{Moonmarch}Moonmarch
+{Soulrest_Province}Soulrest Province
+{Soulrest}Soulrest
+{Blackrose_Province}Blackrose Province
+{Blackrose}Blackrose
+{Lilmoth_Province}Black isle
+{Lilmoth}Lilmoth
+{Seaspring_Province}Sea Spring
+{Seaspring}Seaspring
+{Rockpark_Province}Rockpark
+{Rockpark}Rockpark
+{Archon_Province}Archon Province
+{Archon}Archon
+{Omaynia_Province}Omaynia Province
+{Omaynia}Fort Virak
+{Ebonheart_Province}Ascadian Isles
+{Ebonheart}Seyda Neen
+{Seyda_Nin_Province}Bitter Coast
+{Seyda_Nin}Firemoth
+{Hla_Oad_Province}Northern Bitter Coast
+{Hla_Oad}Ahemmusa Camp
+{Balmora_Province}Balmora Province
+{Balmora}Balmora
+{Caldera_Province}Kudanat Province
+{Caldera}Kudanat
+{Pelagiad_Province}Amaya Lake
+{Pelagiad}Amaya
+{Suran_Province}Lake Masobi
+{Suran}Suran
+{Thir_Province}Tear Province
+{Thir}Tear
+{Ald_Ruhn_Province}Ald'ruhn Province
+{Ald_Ruhn}Ald'ruhn
+{Maar_Gan_Province}Maar Gan Province
+{Maar_Gan}Ald Carac
+{Ald_Velothy_Province}Velothi Coast
+{Ald_Velothy}Ald'Velothi
+{Gnisis_Province}West Gash Region
+{Gnisis}Gnisis
+{Black_Light_Province}Velothi Mountains
+{Black_Light}Blacklight
+{Silgrad_Province}Silgrad Province
+{Silgrad}Silgrad
+{Kragenmoor_Province}Kragenmoor Province
+{Kragenmoor}Iliath Temple
+{Andrenthis_Province}Valus Mountians
+{Andrenthis}Kragenmoor
+{Ald_Marak_Province}Lake Coronati
+{Ald_Marak}Ald Marak
+{Narsis_Province}Deshaan Plains
+{Narsis}Narsis
+{Old_Ebonhearth_Province}River Tir
+{Old_Ebonhearth}Ebonheart
+{Oldrenthis_Province}Stonefalls
+{Oldrenthis}Davon's Watch
+{Silmion_Province}Eastern Deshaan
+{Silmion}Muth Gnaar
+{Sotha_Sil_Province}Southern Deshaan
+{Sotha_Sil}Selfora
+{Mournhold_Province}Mournhold
+{Mournhold}Almalexia
+{Necrom_Province}Salen Vilgate
+{Necrom}Necrom
+{Praloris_Province}Green Hills
+{Praloris}Praloris
+{Llothanis_Province}Velothi Haven
+{Llothanis}Llothanis
+{Firewatch_Province}Firewatch Province
+{Firewatch}Firewatch
+{Dagon_Fel_Province}Sheogorad
+{Dagon_Fel}Dagon Fel
+{Scourge_Province}Ephesus
+{Scourge}Bangkorai Garrison
+{Almalexia_Province}Central Morrowind
+{Almalexia}Ald Mora
+{Vivek_Province}Ascadian Coast
+{Vivek}Vivec
+{Molag_Mar_Province}Molag Amur
+{Molag_Mar}Molag Mar
+{Sadrith_Mora_Province}Zafibrel Bay
+{Sadrith_Mora}Sadrith Mora
+{Tel_Fir_Province}Tel Fir Province
+{Tel_Fir}Tel Fir
+{Vos_Province}Grazelands
+{Vos}Tel Vos
+{Telvanis_Province}Telvanni Isles
+{Telvanis}Port Telvannis
+{Dagoth_Ur_Province}The Red Mountain
+{Dagoth_Ur}Dagoth Ur
+{Cropsford_Province}Cropsford
+{Cropsford}Cropsford
+{Kenarthi_Province}Kenarthi'Roost
+{Kenarthi}Mistral
+{Moile_Province}Mournoth
+{Moile_Keep}Moile Keep
+{Eyebright_Province}Eyebright Feld
+{Crestshade}Crestshade
+{Druadach_Province}Druadach Mountains
+{Druadach}Druadach
+{Dunlain_Province}Dunlain Hills
+{Dunlain}Dunlain
+{Alesswell_Province}Aleswell Grounds
+{Alesswell}Aleswell
+{Chalman_Province}Red Ring Road
+{Chalman}Chalman Keep
+{Stirk_Province}Stirk Isle
+{Stirk}Stirk
+{Herne_Province}The Chain
+{Herne}Herne
+{Hollow_City_Province}Coldharbour
+{Hollow_City}Hollow City
+{Dungeon_Province}Dungeon Region
+{Dungeon}Dungeon Region
+{Cyrodiil}of Cyrodiil
+{Skyrim}of Skyrim
+{HighRock}of High Rock
+{Hammerfell}of Hammerfell
+{Summerset}of Summerset Isles
+{Valenwood}of Valenwood
+{Elsweyr}of Elsweyr
+{Blackmarsh}of Blackmarsh
+{Morrowind}of Morrowind 
