@@ -48,10 +48,10 @@
 {Fennas_Drunin}Fennas Drúnin
 {Tharbad_Province}Río de los cisnes
 {Tharbad}Tharbad
+{An_Karagmir_Province}Yermos haradrim
+{An_Karagmir}An Karagmir
 {Siakan_Province}Lurmsakûn
 {Siakan}Siakan
-{Qufah_Province}Lurmsakûn
-{Qufah}Qufah
 {Korondaj_Province}Pezarsan
 {Korondaj}Korondaj
 {Ammu_Khand_Province}Khand

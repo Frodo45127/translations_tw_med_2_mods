@@ -5,7 +5,7 @@ Traducciones a español/castellano de mods del Medieval 2. Estado:
 - Gondor at War 3.0: todo traducido excepto:
     - Gran parte de los eventos.
     - Descripciones.
-- AGO 3.0.2: todo traducido excepto:
+- AGO 3.0.5: todo traducido excepto:
     - Descripciones.
     - Líneas cambiadas entre 2.1 y 3.0
 - The Elder Scrolls Unofficial Patch 2.0.5: todo traducido excepto:

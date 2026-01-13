@@ -1184,3 +1184,4 @@
 {UI_GS_SAVE_PASSWORD}Guardar mi contraseña
 {UI_AISA_CHECKBOX}Comanda refuerzos de IA
 {UI_AISA_CHECKBOX_TOOLTIP}Alterna la capacidad de dar órdenes a los refuerzos de IA
+

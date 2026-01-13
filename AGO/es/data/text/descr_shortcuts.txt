@@ -1,16 +1,16 @@
  ;Key Shortcut database,  Set the initial keyboard shortcuts,
-;
+; 
 ;Possible key values are as follows  (n.b. these values may never actually be generated (depends on users keyboard) :
 ;
 ;		NONE
 ;		LEFT, UP, RIGHT, DOWN,
-;		SYSRQ,
+;		SYSRQ, 	
 ;		TAB, CAPS_LOCK,
 ;		WINDOWS_LEFT, WINDOWS_RIGHT, WINDOWS_MENU,
-;		BACKSPACE, ESC,
+;		BACKSPACE, ESC, 
 ;		F1 - F15,
 ;		PAGE_UP, PAGE_DOWN, END, HOME, INS, DELETE,
-;		SCROLL_LOCK, PAUSE, NUM_LOCK, DIVIDE, MULTIPLY, SUBTRACT, ADD, ENTER,
+;		SCROLL_LOCK, PAUSE, NUM_LOCK, DIVIDE, MULTIPLY, SUBTRACT, ADD, ENTER,	
 ;		NUM_0 - NUM_9,
 ;		NUM_POINT, NUM_DIVIDE, ENTER,
 ;		START_MENU_LEFT, START_MENU_RIGHT, POP_UP_MENU,
@@ -30,13 +30,13 @@
 ;
 ; Possible modifiers are:
 ;
-;	 NONE,  CTRL,  SHIFT,  ALT,	 RALT - RALT is ALT-Gr on some keyboards
+;	 NONE,  CTRL,  SHIFT,  ALT,	 RALT - RALT is ALT-Gr on some keyboards  
 ;
 ;   ==  ::Core:: key names  ==
 ;   ESC, SYSRQ, PAUSE,
 ;   0 - 9, NUM_0 - NUM_9, A - Z, F1 - F15,
 ;   INS, DEL, HOME, END, PAGE_UP, PAGE_DOWN, UP, LEFT, DOWN, RIGHT,
-;   MINUS, EQUALS, OPEN_BRACKET, CLOSE_BRACKET,
+;   MINUS, EQUALS, OPEN_BRACKET, CLOSE_BRACKET, 
 ;   SEMI_COLON, APOSTROPHE, GRAVE_ACCENT, SLASH, BACKSLASH,
 ;   BACKSPACE, TAB, ENTER, SPACE,
 ;   COMMA, FULL_STOP,
@@ -64,7 +64,7 @@ keyset default
 	camera
 		step_fwd_fast		NUM_8			repeating
 ;;		fov_dec				NUM_7			repeating
-;;		fov_inc				NUM_9			repeating
+;;		fov_inc				NUM_9			repeating		
 		rot_u				NUM_ADD			repeating
 		rot_d				NUM_SUBTRACT	repeating
 		cam_up				NUM_MULTIPLY	repeating
@@ -124,12 +124,12 @@ keyset default
 		formation_7					7	SHIFT
 		formation_8					8	SHIFT
 		order_halt					BACKSPACE
-		toggle_auto_link_up			L   CTRL
-		highlight_units				Q   CTRL
+		toggle_auto_link_up			L   CTRL 
+		highlight_units				Q   CTRL 
 		unit_info_toggle			F2	CTRL
 		general_chat				T
 		global_chat					Y
-		toggle_pause_button				PAUSE	P
+		toggle_pause_button				PAUSE	P	
 		ffwd_button					NONE
 		ultra_ffwd_button			NONE
 		dec_formation				MINUS		repeating
@@ -144,7 +144,7 @@ keyset default
 		toggle_hires_radar			F5	CTRL	hidden
 		toggle_radar				F5
 		toggle_buttons				F6
-		toggle_cards
+		toggle_cards			
 		inc_rotation				FULL_STOP	repeating
 		dec_rotation				COMMA		repeating
 		next_army					TAB CTRL	hidden
@@ -219,7 +219,7 @@ keyset default
 		open_eop_gui				X
 		sort_stack					Z CTRL
 		next_idle_unit				I CTRL
-
+	
 	end
 
 	editors
@@ -256,14 +256,14 @@ keyset fps
 	camera
 		step_fwd_fast		NONE		 SHIFT		repeating
 ;;		fov_dec				NUM_7		 repeating
-;;		fov_inc				NUM_9		 repeating
+;;		fov_inc				NUM_9		 repeating		
 		rot_u				R			 repeating
 		rot_d				F			 repeating
 		cam_up				NUM_MULTIPLY repeating
 		cam_down			NUM_DIVIDE	 repeating
 		toggle_move_fast	CAPS_LOCK
 		accel				PAGE_UP		repeating
-		decel				PAGE_DOWN
+		decel				PAGE_DOWN	
 		rot_l				Q			repeating
 		rot_r				E			repeating
 		step_l				A			repeating
@@ -316,12 +316,12 @@ keyset fps
 		formation_7					7	SHIFT
 		formation_8					8	SHIFT
 		order_halt					BACKSPACE
-		toggle_auto_link_up			L   CTRL
-		highlight_units				Q   CTRL
+		toggle_auto_link_up			L   CTRL 
+		highlight_units				Q   CTRL 
 		unit_info_toggle			F2	CTRL
 		general_chat				T
 		global_chat					Y
-		toggle_pause_button			PAUSE	P
+		toggle_pause_button			PAUSE	P	
 		ffwd_button					NONE
 		ultra_ffwd_button			NONE
 		dec_formation				MINUS		repeating
@@ -381,7 +381,7 @@ keyset fps
 		quit						ESC			hidden
 ;		reveal_advice				Z
 		dismiss_advice				X
-		screen_grab					SYSRQ
+		screen_grab					SYSRQ 
 	end
 
 	strat
@@ -550,7 +550,7 @@ mappings
 		step_r		camera
 		step_fwd		camera
 		step_bck		camera
-		intellizoom		battle_ui_extras
+		intellizoom		battle_ui_extras 
 		freelook		battle_ui_extras
 		toggle_radar	minimal_hud
 		toggle_buttons  minimal_hud
@@ -621,7 +621,7 @@ mappings
 		open_eop_gui					strat_ui
 		disband							card_manager
 		show_multi_turn_paths			strat_ui
-		inc_scale						radar
+		inc_scale						radar	
 		dec_scale						radar
 		construction_button
 		recruitment_button
@@ -634,7 +634,7 @@ mappings
 		rot_l				camera
 		rot_r				camera
 		select_next_selected			hud_select_next_item_cycle
-		select_prev_selected			hud_select_prev_item_cycle
+		select_prev_selected			hud_select_prev_item_cycle	
 	end
 
 	strat_ed
@@ -653,7 +653,7 @@ mappings
 		step_bck		camera
 		rot_l				camera
 		rot_r				camera
-		inc_scale						radar
+		inc_scale						radar	
 		dec_scale						radar
 	end
 
@@ -705,5 +705,5 @@ mappings
 		toggle_sound				preferences
 		show_help				help_scroll
 ;		reveal_advice			advisor_portrait_button
-		dismiss_advice			advisor_dismiss_button
+		dismiss_advice			advisor_dismiss_button  
 	end

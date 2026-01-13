@@ -995,7 +995,7 @@
 {Quote_144}...Aulë made the Dwarves strong to endure. Therefore they are stone-hard, stubborn, fast in friendship and in enmity, and they suffer toil and hanger and hurt of body more hardily than all other speaking peoples.
 {Quote_145}...Quendi who came into the hands of Melkor... breed the hideous race of the Orcs in envy and mockery of the Elves, of whom they were afterwards the bitterest foes.
 {Quote_146}The lies that Melkor, the mighty and accursed, Morgoth Bauglir, the Power of Terror and of Hate, sowed in the hearts of Elves and Men are a seed that does not die and cannot be destroyed
-{Quote_147}Many are the songs that have been sung of the dual of Glorfindel and the Balrog upon the pinnacle of rock in that high place; and both fell into the abyss.
+{Quote_147}Many are the songs that have been sung of the duel of Glorfindel and the Balrog upon the pinnacle of rock in that high place; and both fell into the abyss.
 {Quote_148}'The shadow of my purpose is upon Arda, and all that is in it bends slowly and surely to my will.'
 {Quote_149}...and in the making of mail of linked rings, which was first contrived by the smiths of Belegost, their work had no rival.
 {Quote_150}Sauron was become now a sorcerer of dreadful power, master of shadows and of phantoms, foul in wisdom, cruel in strength, misshaping what he touched... 

@@ -56,3 +56,4 @@
 {IMPERIAL_CAMPAIGN_UNITED_DESCR}DO NOT TRANSLATE
 {IMPERIAL_CAMPAIGN_PAPAL_STATES_TITLE}El Señor Oscuro
 {IMPERIAL_CAMPAIGN_PAPAL_STATES_DESCR}Útil para campañas de sólo IA.\n\nSelecciona esta facción e introduce el comando 'control papal_states' o pulsa CTRL+SHIFT+A para ceder el control de los estados papales a la IA.
+
