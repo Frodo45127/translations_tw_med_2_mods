@@ -495,19 +495,19 @@
 ¬-----
 {anduin_network}Red de espionaje del Anduin
 {anduin_network_desc}Esta red de espionaje te avisará si el Anillo Único acaba en las manos de un general de los beórnidos.
-{anduin_network_effects_desc}Anduin Spy Network
+{anduin_network_effects_desc}Red de espionaje del Anduin
 ¬-----
 {dorwinion_network}Red de espionaje de Dorwinion
 {dorwinion_network_desc}Esta red de espionaje te avisará si el Anillo Único acaba en las manos de un general de Dorwinion.
-{dorwinion_network_effects_desc}Dorwinion Spy Network
+{dorwinion_network_effects_desc}Red de espionaje de Dorwinion
 ¬-----
 {erebor_network}Red de espionaje de Erebor
 {erebor_network_desc}Esta red de espionaje te avisará si el Anillo Único acaba en las manos de un general de Erebor.
-{erebor_network_effects_desc}Erebor Spy Network
+{erebor_network_effects_desc}Red de espionaje de Erebor
 ¬-----
 {el_network}Red de espionaje de las Ered Luin
 {el_network_desc}Esta red de espionaje te avisará si el Anillo Único acaba en las manos de un general de las Ered Luin.
-{el_network_effects_desc}Ered Luin Spy Network
+{el_network_effects_desc}Red de espionaje de las Ered Luin
 ¬-----
 {kd_network}Red de espionaje de Khazad-dûm
 {kd_network_desc}Esta red de espionaje te avisará si el Anillo Único acaba en las manos de un general de Khazad-dûm.
@@ -3193,7 +3193,7 @@
 ¬---------------
 {lower_baron}Ambitious Lower Baron
 {lower_baron_desc}From all great men come humble beginnings. In order to become the man you want to be, you must first accept the man you are. These petty barons of the Vintner Court are no fools and offer their service to the more experienced and prestigious lords and ladies in an effort to observe, learn and experience first hand what it takes to wield the power to change history.
-{lower_baron_effects_desc}+1 Renown, +1 Public Happiness
+{lower_baron_effects_desc}\n- +1 Renombre\n- +1 Felicidad pública
 ¬---------------
 {avari_entourage}Avari Entourage
 {avari_entourage_desc}If a general proves himself to be a worthy commander and the men of Dorwinion have not openly declared war on the Avari elves, a few among them will offer their services in order to learn the ways of men. These elves provide sound counsel as well as protection for lucky general.
@@ -3201,7 +3201,7 @@
 ¬---------------
 {orocarni_merchant}Orocarni Merchant
 {orocarni_merchant_desc}All dwarves (despite what many elves might say) are shrewd negotiators and have a keen eye for fine craftsmanship. The Orocarni are no exception and the wares they bring with them from the Red Mountains of the East are both rare and sought after by both men and elf alike.
-{orocarni_merchant_effects_desc}+10% Trade
+{orocarni_merchant_effects_desc}\n- +10% Comercio
 ¬---------------
 {rouadengi_taxman}Rouadengi Taxman
 {rouadengi_taxman_desc}The Rouadengi are shrewd tax collectors and are not know to let any coin that is owed slip through their grasp. This ruthless collection of taxes ensures the Court has enough funds to fulfill it's obligations.
@@ -3348,29 +3348,29 @@
 ¬---------------
 {beren_and_luthien}Beren and Lúthien
 {beren_and_luthien_desc}Sometimes Elrond would toss and turn all night reading this book, thinking of the fate of the Elves and Men, and his daughter, Arwen Undómiel.
-{beren_and_luthien_effects_desc}-1 Squalor, -1 Unrest
+{beren_and_luthien_effects_desc}\n- -1 Miseria\n- -1 Malestar
 ¬---------------
 {the_children_of_hurin}The Children of Húrin
 {the_children_of_hurin_desc}The tragedy of Túrin Turambar, may the Light of Valinor be with him in an unknown world. And may all who read his story, confront the darkness with bravery and courage.
-{the_children_of_hurin_effects_desc}-1 Squalor, -1 Unrest
+{the_children_of_hurin_effects_desc}\n- -1 Miseria\n- -1 Malestar
 ¬---------------
 {the_fall_of_gondolin}The Fall of Gondolin
 {the_fall_of_gondolin_desc}The Tale of the Fall of Gondolin, the last memory of the city to Glorfindel.
-{the_fall_of_gondolin_effects_desc}-1 Squalor, -1 Unrest
+{the_fall_of_gondolin_effects_desc}\n- -1 Miseria\n- -1 Malestar
 ¬---------------
 {the_fall_of_numenor}The Fall of Numenor
 {the_fall_of_numenor_desc}The history and the doom of Númenor written by unknown writer. 3000 years have passed and many have tried to look for the remains of the Star Island, none succeed however.
-{the_fall_of_numenor_effects_desc}-1 Squalor, -1 Unrest
+{the_fall_of_numenor_effects_desc}\n- -1 Miseria\n- -1 Malestar
 ¬---------------
 {the_hobbit}The Hobbit
 {the_hobbit_desc}Records of Bilbo's adventure towards the Lonely Mountain. No hobbits would believe him!
-{the_hobbit_effects_desc}-1 Squalor, -1 Unrest
+{the_hobbit_effects_desc}\n- -1 Miseria\n- -1 Malestar
 ¬---------------
 {the_nature_of_middle_earth}The Nature of Middle-earth
 {the_nature_of_middle_earth_desc}A book that describes the terrain and landscapes of Middle-Earth, found by Saruman in the Tower of Orthanc, written by unknown writer.
-{the_nature_of_middle_earth_effects_desc}-1 Squalor, -1 Unrest
+{the_nature_of_middle_earth_effects_desc}\n- -1 Miseria\n- -1 Malestar
 ¬---------------
 {the_silmarillion}The Silmarillion
 {the_silmarillion_desc}The book covers the creation of the world of Arda and the birth of Eä, some say it's all just a legend.
-{the_silmarillion_effects_desc}-1 Squalor, -1 Unrest
+{the_silmarillion_effects_desc}\n- -1 Miseria\n- -1 Malestar
 ¬---------------

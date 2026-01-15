@@ -138,7 +138,7 @@
 {DRT_DOLAMROTH_DISHONEST_SELL_VOTE}En la historia de vuestro pueblo hay muchas promesas rotas y no me fío de vuestra propuesta.
 {DRT_DOLAMROTH_DISHONEST_TRIBUTE_OFFER}No confiamos en que seáis capaces de pagar tal serie de tributos, aun en el caso de que tuvierais verdadera intención de hacerlo.
 {DRT_DOLAMROTH_FINISHED}.
-{DRT_DOLAMROTH_GIFT}Aceptad este regalo como muestra de buena voluntad de los ingleses.
+{DRT_DOLAMROTH_GIFT}Aceptad este regalo como muestra de buena voluntad.
 {DRT_DOLAMROTH_INFO}Nos gustaría compartir con vos nuestro conocimiento del mundo.
 {DRT_DOLAMROTH_NULLIFY_ALLIANCE}Ha llegado el momento de poner fin a nuestra alianza. En adelante, que cada cual siga su propio camino a la gloria.
 {DRT_DOLAMROTH_OFFER_MARRIAGE_ALLIANCE}Aceptad mi mano en matrimonio y unamos a nuestros pueblos en una alianza duradera.
@@ -203,7 +203,7 @@
 {DRT_ENGLISH_DISHONEST_SELL_VOTE}En la historia de vuestro pueblo hay muchas promesas rotas y no me fío de vuestra propuesta.
 {DRT_ENGLISH_DISHONEST_TRIBUTE_OFFER}No confiamos en que seáis capaces de pagar tal serie de tributos, aun en el caso de que tuvierais verdadera intención de hacerlo.
 {DRT_ENGLISH_FINISHED}.
-{DRT_ENGLISH_GIFT}Aceptad este regalo como muestra de buena voluntad de los ingleses.
+{DRT_ENGLISH_GIFT}Aceptad este regalo como muestra de buena voluntad.
 {DRT_ENGLISH_INFO}Nos gustaría compartir con vos nuestro conocimiento del mundo.
 {DRT_ENGLISH_NULLIFY_ALLIANCE}Ha llegado el momento de poner fin a nuestra alianza. En adelante, que cada cual siga su propio camino a la gloria.
 {DRT_ENGLISH_OFFER_MARRIAGE_ALLIANCE}Aceptad mi mano en matrimonio y unamos a nuestros pueblos en una alianza duradera.
@@ -333,7 +333,7 @@
 {DRT_GONDOR_DISHONEST_SELL_VOTE}En la historia de vuestro pueblo hay muchas promesas rotas y no me fío de vuestra propuesta.
 {DRT_GONDOR_DISHONEST_TRIBUTE_OFFER}No confiamos en que seáis capaces de pagar tal serie de tributos, aun en el caso de que tuvierais verdadera intención de hacerlo.
 {DRT_GONDOR_FINISHED}.
-{DRT_GONDOR_GIFT}Aceptad este regalo como muestra de buena voluntad de los ingleses.
+{DRT_GONDOR_GIFT}Aceptad este regalo como muestra de buena voluntad.
 {DRT_GONDOR_INFO}Nos gustaría compartir con vos nuestro conocimiento del mundo.
 {DRT_GONDOR_NULLIFY_ALLIANCE}Ha llegado el momento de poner fin a nuestra alianza. En adelante, que cada cual siga su propio camino a la gloria.
 {DRT_GONDOR_OFFER_MARRIAGE_ALLIANCE}Aceptad mi mano en matrimonio y unamos a nuestros pueblos en una alianza duradera.
@@ -398,7 +398,7 @@
 {DRT_QUENYA_DISHONEST_SELL_VOTE}En la historia de vuestro pueblo hay muchas promesas rotas y no me fío de vuestra propuesta.
 {DRT_QUENYA_DISHONEST_TRIBUTE_OFFER}No confiamos en que seáis capaces de pagar tal serie de tributos, aun en el caso de que tuvierais verdadera intención de hacerlo.
 {DRT_QUENYA_FINISHED}.
-{DRT_QUENYA_GIFT}Aceptad este regalo como muestra de buena voluntad de los ingleses.
+{DRT_QUENYA_GIFT}Aceptad este regalo como muestra de buena voluntad.
 {DRT_QUENYA_INFO}Nos gustaría compartir con vos nuestro conocimiento del mundo.
 {DRT_QUENYA_NULLIFY_ALLIANCE}Ha llegado el momento de poner fin a nuestra alianza. En adelante, que cada cual siga su propio camino a la gloria.
 {DRT_QUENYA_OFFER_MARRIAGE_ALLIANCE}Aceptad mi mano en matrimonio y unamos a nuestros pueblos en una alianza duradera.
@@ -528,7 +528,7 @@
 {DRT_SINDARIN_DISHONEST_SELL_VOTE}En la historia de vuestro pueblo hay muchas promesas rotas y no me fío de vuestra propuesta.
 {DRT_SINDARIN_DISHONEST_TRIBUTE_OFFER}No confiamos en que seáis capaces de pagar tal serie de tributos, aun en el caso de que tuvierais verdadera intención de hacerlo.
 {DRT_SINDARIN_FINISHED}.
-{DRT_SINDARIN_GIFT}Aceptad este regalo como muestra de buena voluntad de los ingleses.
+{DRT_SINDARIN_GIFT}Aceptad este regalo como muestra de buena voluntad.
 {DRT_SINDARIN_INFO}Nos gustaría compartir con vos nuestro conocimiento del mundo.
 {DRT_SINDARIN_NULLIFY_ALLIANCE}Ha llegado el momento de poner fin a nuestra alianza. En adelante, que cada cual siga su propio camino a la gloria.
 {DRT_SINDARIN_OFFER_MARRIAGE_ALLIANCE}Aceptad mi mano en matrimonio y unamos a nuestros pueblos en una alianza duradera.
@@ -548,11 +548,11 @@
 {DRT_UNKNOWN_ACCEPT_COUNTER}.
 {DRT_UNKNOWN_ACCEPT_DECLARATION}.
 {DRT_UNKNOWN_ACCEPT_GIFT}Os agradecemos vuestro regalo, tenéis nuestra gratitud.
-{DRT_UNKNOWN_ACCEPT_OFFER_MARRIAGE_ALLIANCE}Wir freuen uns auf die Hochzeit und die vor uns liegenden Jahre.
+{DRT_UNKNOWN_ACCEPT_OFFER_MARRIAGE_ALLIANCE}Estamos deseando que llegue la boda y los años que tenemos por delante.
 {DRT_UNKNOWN_ACCEPT_PROPOSITION}.
-{DRT_UNKNOWN_ACCEPT_RECOMMUNICATION}Der Papst hat Euren Anführer wieder in das Licht der Christenheit aufgenommen.
-{DRT_UNKNOWN_ACCEPT_REQUEST_MARRIAGE_ALLIANCE}Ich hoffe wirklich, dass diese Verbindung uns allen zum Vorteil gereicht.
-{DRT_UNKNOWN_ACCEPT_SELL_VOTE}Wenn Ihr uns wie versprochen unterstützt, werden wir dies nicht vergessen.
+{DRT_UNKNOWN_ACCEPT_RECOMMUNICATION}El Papa ha readmitido a vuestro líder en la luz de la cristiandad.
+{DRT_UNKNOWN_ACCEPT_REQUEST_MARRIAGE_ALLIANCE}Espero sinceramente que este enlace nos beneficie a todos.
+{DRT_UNKNOWN_ACCEPT_SELL_VOTE}Si nos apoyan como prometieron, no lo olvidaremos.
 {DRT_UNKNOWN_ACCESS}Si permitierais pasar a nuestros ejércitos por vuestras tierras, beneficiaría a nuestra lucha contra nuestros enemigos.
 {DRT_UNKNOWN_ACKNOWLEDGE_ACCEPTANCE}.
 {DRT_UNKNOWN_ACKNOWLEDGE_DECLARATION}.
@@ -561,7 +561,7 @@
 {DRT_UNKNOWN_ALLIANCE}Uníos a nosotros en una alianza que mejorará nuestras posibilidades de hacer juntos realidad nuestras ambiciones como camaradas de armas.
 {DRT_UNKNOWN_ATTACK}Ayudadnos a derrotar a este enemigo nuestro y os estaremos sumamente agradecidos.
 {DRT_UNKNOWN_BRIBE}Uníos a nuestra causa y dispondréis de más poder y respeto del que estáis acostumbrado. No tenéis más que poner vuestro precio.
-{DRT_UNKNOWN_BUY_VOTE}Können wir auf Eure Unterstützung bei der Papstwahl hoffen?
+{DRT_UNKNOWN_BUY_VOTE}¿Podemos contar con vuestro apoyo en la elección papal?
 {DRT_UNKNOWN_CEASEFIRE}El derramamiento de sangre entre nosotros carece ya de sentido, pongamos fin hoy a este conflicto.
 {DRT_UNKNOWN_COUNTER_BRIBE}.
 {DRT_UNKNOWN_COUNTER_DEMAND}.
@@ -571,20 +571,20 @@
 {DRT_UNKNOWN_DECLINE_ACCESS}En estos momentos no estamos dispuestos a aceptar ninguna propuesta relativa al tránsito de ejércitos.
 {DRT_UNKNOWN_DECLINE_ALLIANCE}No sentimos que haya necesidad alguna de establecer una alianza con vos.
 {DRT_UNKNOWN_DECLINE_ATTACK}No estamos dispuestos a atacar como solicitáis. Puede que hacer la guerra con este pueblo sea vuestra prioridad, pero no la nuestra.
-{DRT_UNKNOWN_DECLINE_BUY_VOTE}Über die Leitung des Papsttums sollten wir nicht so feilschen.
+{DRT_UNKNOWN_DECLINE_BUY_VOTE}No deberíamos regatear tanto sobre la dirección que tomará la papalidad.
 {DRT_UNKNOWN_DECLINE_CEASEFIRE}Sois los únicos interesados en conseguir una solución pacífica para esta guerra.
 {DRT_UNKNOWN_DECLINE_DEMAND}Estáis pidiendo algo que no tenemos intención de hacer.
 {DRT_UNKNOWN_DECLINE_GIFT}Al no comprender por qué nos ofreceríais semejante regalo, no tenemos otra opción que rechazarlo.
 {DRT_UNKNOWN_DECLINE_NULLIFY}No vemos ninguna razón de peso para poner fin a la alianza entre nuestros pueblos.
-{DRT_UNKNOWN_DECLINE_OFFER_MARRIAGE_ALLIANCE}Dieses Bündnis ist uns momentan eine zu ernste Sache.
+{DRT_UNKNOWN_DECLINE_OFFER_MARRIAGE_ALLIANCE}Esta alianza es algo demasiado serio para nosotros en este momento.
 {DRT_UNKNOWN_DECLINE_OFFER}Ésta no es una oferta que no podamos igualar ahora, y hemos de declinarla.
 {DRT_UNKNOWN_DECLINE_PAYMENT_TOO_HIGH}Esto es excesivamente generoso, nuestro pueblo os debería demasiado.
 {DRT_UNKNOWN_DECLINE_PAYMENT_TOO_LOW}Esta oferta sencillamente no es suficiente.
 {DRT_UNKNOWN_DECLINE_PROTECTORATE}La idea de convertirnos en vuestros siervos no ofrece atractivo alguno. Es algo que no sucederá.
-{DRT_UNKNOWN_DECLINE_RECOMMUNICATION}Der Papst ist nicht davon überzeugt, dass es angebracht ist, um Versöhnung zu bitten, wenn man die Geschichte Eures Anführers bedenkt.
+{DRT_UNKNOWN_DECLINE_RECOMMUNICATION}El Papa no está convencido de que sea apropiado pedir perdón, teniendo en cuenta la historia de vuestro líder.
 {DRT_UNKNOWN_DECLINE_REGION}Nuestras anteriores generaciones dieron su sangre y sus vidas por el derecho a reclamar estas tierras para sí, de modo que no deshonraremos sus actos al vender aquello por lo que lucharon.
-{DRT_UNKNOWN_DECLINE_REQUEST_MARRIAGE_ALLIANCE}Dieses Bündnis ist uns zu ernst, um es eingehen zu können.
-{DRT_UNKNOWN_DECLINE_SELL_VOTE}Wir ziehen es vor, dies dem Willen Gottes zu überlassen.
+{DRT_UNKNOWN_DECLINE_REQUEST_MARRIAGE_ALLIANCE}Esta alianza es demasiado seria para nosotros como para poderla aceptar.
+{DRT_UNKNOWN_DECLINE_SELL_VOTE}Preferimos dejarlo en manos de Dios.
 {DRT_UNKNOWN_DECLINE_THREAT}Vuestras amenazas son vanas, nos arriesgaremos a sufrir vuestra supuesta ira.
 {DRT_UNKNOWN_DECLINE_YEARLY_PAYMENT}Ni siquiera con pagos puntuales aceptaríamos semejante propuesta.
 {DRT_UNKNOWN_DISHONEST_ACCESS_DEMAND}¿Quién dice que no buscáis una forma de conseguir un botín más fácil al reducir las defensas fronterizas? No os corresponde a vos decidir algo así.
@@ -592,7 +592,7 @@
 {DRT_UNKNOWN_DISHONEST_ATTACK_OFFER}Puesto que no podemos estar seguros de que nos ayudaríais como decís, no podemos aceptar este trato.
 {DRT_UNKNOWN_DISHONEST_ATTACK_THREAT}¿Quién dice que no estáis sencillamente tratando de saquearnos antes de atacarnos realmente como seguramente pretendíais desde el primer momento?
 {DRT_UNKNOWN_DISHONEST_REGION_OFFER}No hay motivos para pensar que tengáis sincera intención de renunciar a esta tierra sin un plan para recuperarla... No con vuestra reputación.
-{DRT_UNKNOWN_DISHONEST_SELL_VOTE}Die Geschichte Eures Volkes ist voller gebrochener Versprechen. Wir trauen Euch nicht.
+{DRT_UNKNOWN_DISHONEST_SELL_VOTE}La historia de vuestro pueblo está llena de promesas incumplidas. No confiamos en vosotros.
 {DRT_UNKNOWN_DISHONEST_TRIBUTE_OFFER}Hay demasiadas dudas sobre vuestra disposición y capacidad de cumplir vuestra oferta.
 {DRT_UNKNOWN_FINISHED}.
 {DRT_UNKNOWN_GIFT}Por favor, aceptad este regalo como símbolo de nuestro respeto por vuestro pueblo y vuestra causa.
@@ -603,12 +603,12 @@
 {DRT_UNKNOWN_RECIPIENT_WELCOME_ALLIED}.
 {DRT_UNKNOWN_RECIPIENT_WELCOME_AT_WAR}.
 {DRT_UNKNOWN_RECIPIENT_WELCOME_NEUTRAL}.
-{DRT_UNKNOWN_RECOMMUNICATION}Das Versöhnungsangebot des heiligen Vaters könnt Ihr doch sicher nicht ablehnen, oder?
+{DRT_UNKNOWN_RECOMMUNICATION}Seguro que no podéis rechazar la oferta de reconciliación del Santo Padre, ¿verdad?
 {DRT_UNKNOWN_REJECT_BRIBE}¿Por qué no habría de ofenderme que considerarais que mi lealtad pudiera estar en venta?
 {DRT_UNKNOWN_REJECT_NOT_INTERESTED}Esto es algo que no tenemos el más mínimo interés en discutir.
 {DRT_UNKNOWN_REJECT_TOO_MANY_COUNTERS}No parece que vayamos a resolver nada ahora y tengo otros asuntos que atender.
-{DRT_UNKNOWN_REQUEST_MARRIAGE_ALLIANCE}Es ist Zeit, unser Bündnis durch eine königliche Hochzeit zu besiegeln.
-{DRT_UNKNOWN_SELL_VOTE}Möchtet Ihr vielleicht unsere Unterstützung bei der Papstwahl?
+{DRT_UNKNOWN_REQUEST_MARRIAGE_ALLIANCE}Es hora de sellar nuestra alianza con una boda real.
+{DRT_UNKNOWN_SELL_VOTE}¿Quieres nuestra ayuda en la elección papal?
 {DRT_UNKNOWN_THREAT}En lugar de limitarnos a quedarnos con vuestras tierras y saquearlas, quizá seáis lo bastante sensato para ofrecernos un tributo y que prosigamos con nuestras conquistas en otra parte.
 {DRT_UNKNOWN_TRADE}El comercio resultaría beneficioso para ambos, así que emprendamos juntos esta empresa.
 {DRT_EAST_EUROPEAN_ACCEPT_BRIBE}This is the sort of appreciation I never received from the former Vintner-Regent.
@@ -616,10 +616,10 @@
 {DRT_EAST_EUROPEAN_ACCEPT_COUNTER}.
 {DRT_EAST_EUROPEAN_ACCEPT_DECLARATION}.
 {DRT_EAST_EUROPEAN_ACCEPT_GIFT}Know that both the Vintner-Regent and his people genuinely appreciate this gift you have offered us today.
-{DRT_EAST_EUROPEAN_ACCEPT_OFFER_MARRIAGE_ALLIANCE}We look forward to the wedding, and our future together throughout the years.
+{DRT_EAST_EUROPEAN_ACCEPT_OFFER_MARRIAGE_ALLIANCE}Estamos deseando que llegue la boda y los años que tenemos por delante.
 {DRT_EAST_EUROPEAN_ACCEPT_PROPOSITION}.
-{DRT_EAST_EUROPEAN_ACCEPT_REQUEST_MARRIAGE_ALLIANCE}I pray that this union between us shall be prosperous.
-{DRT_EAST_EUROPEAN_ACCEPT_SELL_VOTE}We are grateful to be able to count on your support.
+{DRT_EAST_EUROPEAN_ACCEPT_REQUEST_MARRIAGE_ALLIANCE}Espero que esta unión entre nosotros resulte próspera.
+{DRT_EAST_EUROPEAN_ACCEPT_SELL_VOTE}Agradeceremos contar con vuestro apoyo.
 {DRT_EAST_EUROPEAN_ACCESS}The Vintner-Regent would require access through your lands to realise his ambitions against our enemies. Help clear the way for us, and we shall be forever grateful.
 {DRT_EAST_EUROPEAN_ACKNOWLEDGE_ACCEPTANCE}.
 {DRT_EAST_EUROPEAN_ACKNOWLEDGE_DECLARATION}.
@@ -628,7 +628,7 @@
 {DRT_EAST_EUROPEAN_ALLIANCE}We would both be more formidable if we were to stand united. Who would seek to oppose us then?
 {DRT_EAST_EUROPEAN_ATTACK}We know your armies have no need to fear anyone, which is why it is you that we would ask to aid us in battle against our hated foes.
 {DRT_EAST_EUROPEAN_BRIBE}A man such as yourself would prove to be a valuable asset, just how much value is up to you.
-{DRT_EAST_EUROPEAN_BUY_VOTE}Perhaps we could call upon your support in the Papal election?
+{DRT_EAST_EUROPEAN_BUY_VOTE}¿Podemos contar con vuestro apoyo en la elección papal?
 {DRT_EAST_EUROPEAN_CEASEFIRE}The Vintner-Regent is willing to put aside his pride and forget our differences to end this pointless conflict between our people.
 {DRT_EAST_EUROPEAN_COUNTER_BRIBE}.
 {DRT_EAST_EUROPEAN_COUNTER_DEMAND}.
@@ -644,13 +644,13 @@
 {DRT_EAST_EUROPEAN_DECLINE_GIFT}Since there is no sensible reason to offer us this gift, we shall not accept it.
 {DRT_EAST_EUROPEAN_DECLINE_NULLIFY}We did not take that pledge only to break it at another's suggestion. What message would that send to the world of our people's honour?
 {DRT_EAST_EUROPEAN_DECLINE_OFFER}This proposal is beyond our means, and so we must decline.
-{DRT_EAST_EUROPEAN_DECLINE_OFFER_MARRIAGE_ALLIANCE}This is too serious a union for us to consider at this moment.
+{DRT_EAST_EUROPEAN_DECLINE_OFFER_MARRIAGE_ALLIANCE}Esta alianza es algo demasiado serio para nosotros en este momento.
 {DRT_EAST_EUROPEAN_DECLINE_PAYMENT_TOO_HIGH}It is just not possible to accept the sense of debt and dishonour we would acquire should we agree to this.
 {DRT_EAST_EUROPEAN_DECLINE_PAYMENT_TOO_LOW}In all honesty, this proposal does not offer us enough.
 {DRT_EAST_EUROPEAN_DECLINE_PROTECTORATE}If we had intentions of becoming someone else's servants, we would seek a worthy ruler, rather than a belligerent tyrant such as yours.
 {DRT_EAST_EUROPEAN_DECLINE_REGION}We cannot forget the legacy of self sacrifice our predecessors forged to ensure these lands would be ours, and will not put a price on them for you.
 {DRT_EAST_EUROPEAN_DECLINE_REQUEST_MARRIAGE_ALLIANCE}We cannot agree to such a serious pledge between our people at present.
-{DRT_EAST_EUROPEAN_DECLINE_SELL_VOTE}We are not looking to buy your support like this.
+{DRT_EAST_EUROPEAN_DECLINE_SELL_VOTE}No queremos comprar así vuestro apoyo.
 {DRT_EAST_EUROPEAN_DECLINE_THREAT}We are not worried by your threats. They are amusing things to speak of over ale.
 {DRT_EAST_EUROPEAN_DECLINE_YEARLY_PAYMENT}Our lands are not like mercenaries that you can secure with regular coin, they are our people's greatest treasure.
 {DRT_EAST_EUROPEAN_DISHONEST_ACCESS_DEMAND}You will need to convince the Vintner-Regent that he can trust you much further before he will invite you into a place where you can betray him.
@@ -658,7 +658,7 @@
 {DRT_EAST_EUROPEAN_DISHONEST_ATTACK_OFFER}The Vintner-Regent believes that you make this offer of aid because it is one you can back out on should it cease to suit you, and will not accept.
 {DRT_EAST_EUROPEAN_DISHONEST_ATTACK_THREAT}Firstly, we do not believe your hollow threat... Secondly, we do not believe that you wouldn't attack, even if we met your demands. Be gone you vermin!
 {DRT_EAST_EUROPEAN_DISHONEST_REGION_OFFER}We are not foolish enough to see your offer of land as anything but a grand deception. It seems clear you would try to take it back from us before long.
-{DRT_EAST_EUROPEAN_DISHONEST_SELL_VOTE}Your people's history is one of broken promises, I do not trust your offer.
+{DRT_EAST_EUROPEAN_DISHONEST_SELL_VOTE}En la historia de vuestro pueblo hay muchas promesas rotas y no me fío de vuestra propuesta.
 {DRT_EAST_EUROPEAN_DISHONEST_TRIBUTE_OFFER}A steady flow of wealth for our people sounds fantastic, but is obviously just a lie that relies upon us being foolish and greedy.
 {DRT_EAST_EUROPEAN_FINISHED}.
 {DRT_EAST_EUROPEAN_GIFT}Our noble ruler wishes you to realise that his respect and goodwill toward you is sincere, and hopes this gift will remind you of this.
@@ -673,74 +673,74 @@
 {DRT_EAST_EUROPEAN_REJECT_NOT_INTERESTED}We are not interested in discussing this any further.
 {DRT_EAST_EUROPEAN_REJECT_TOO_MANY_COUNTERS}We have wasted too much time to suggest we will reach a compromise soon. We shall go now.
 {DRT_EAST_EUROPEAN_REQUEST_MARRIAGE_ALLIANCE}Would her highness accept our proposal to marriage, bringing our people together in alliance?
-{DRT_EAST_EUROPEAN_SELL_VOTE}Perhaps you would want our support in the Papal election?
+{DRT_EAST_EUROPEAN_SELL_VOTE}¿Quieres nuestra ayuda en la elección papal?
 {DRT_EAST_EUROPEAN_THREAT}Our Vintner-Regent is certain to take any refusal to his demands of tribute as a reason to make your people suffer. You have the power to save them this fate.
 {DRT_EAST_EUROPEAN_TRADE}Once our two peoples begin trading with one another, we shall both see the benefits of mutual agreements together.
-{DRT_ROHAN_ACCEPT_BRIBE}Knowing that you would deign to spend such a sum to secure my allegiance is all I need to be sure that you are the right master to serve.
-{DRT_ROHAN_ACCEPT_BUY_VOTE}Very well, you can count on our support.
+{DRT_ROHAN_ACCEPT_BRIBE}Saber que os dignaríais a gastar semejante suma para aseguraros mi lealtad es cuanto necesito para saber con certeza que sois el señor adecuado al que servir.
+{DRT_ROHAN_ACCEPT_BUY_VOTE}Muy bien, podéis contar con nuestro apoyo.
 {DRT_ROHAN_ACCEPT_COUNTER}.
 {DRT_ROHAN_ACCEPT_DECLARATION}.
-{DRT_ROHAN_ACCEPT_GIFT}Your well-intentioned gift is welcome, and you have our gratitude.
-{DRT_ROHAN_ACCEPT_OFFER_MARRIAGE_ALLIANCE}We look forward to the wedding, and our future together throughout the years.
+{DRT_ROHAN_ACCEPT_GIFT}Aceptamos de buen grado vuestro bienintencionado regalo, y tenéis nuestra gratitud.
+{DRT_ROHAN_ACCEPT_OFFER_MARRIAGE_ALLIANCE}Estamos deseando que llegue la boda y los años que tenemos por delante.
 {DRT_ROHAN_ACCEPT_PROPOSITION}.
-{DRT_ROHAN_ACCEPT_REQUEST_MARRIAGE_ALLIANCE}I pray that this union between us shall be prosperous.
-{DRT_ROHAN_ACCEPT_SELL_VOTE}We are grateful to be able to count on your support.
-{DRT_ROHAN_ACCESS}If you would grant our armies access through your lands, it would benefit our struggle against our enemies.
+{DRT_ROHAN_ACCEPT_REQUEST_MARRIAGE_ALLIANCE}Espero que esta unión entre nosotros resulte próspera.
+{DRT_ROHAN_ACCEPT_SELL_VOTE}Agradeceremos contar con vuestro apoyo.
+{DRT_ROHAN_ACCESS}Si permitierais pasar a nuestros ejércitos por vuestras tierras, beneficiaría a nuestra lucha contra nuestros enemigos.
 {DRT_ROHAN_ACKNOWLEDGE_ACCEPTANCE}.
 {DRT_ROHAN_ACKNOWLEDGE_DECLARATION}.
 {DRT_ROHAN_ACKNOWLEDGE_DECLINE}.
 {DRT_ROHAN_ACKNOWLEDGE_REJECTION}.
-{DRT_ROHAN_ALLIANCE}Let our people enter an alliance to strengthen both of our positions.
-{DRT_ROHAN_ATTACK}Could we ask of your assistance in battle with our enemy?
-{DRT_ROHAN_BRIBE}You would find yourself in a position of power and prominence should you accept this invitation to join the our number.
-{DRT_ROHAN_BUY_VOTE}Perhaps we could call upon your support in the election?
-{DRT_ROHAN_CEASEFIRE}Let us stop the bloodshed, and bring open hostilities to an end.
+{DRT_ROHAN_ALLIANCE}Dejad que nuestros pueblos formen una alianza para reforzar las posiciones de ambos.
+{DRT_ROHAN_ATTACK}¿Sería posible contar con vuestra ayuda para luchar contra nuestro enemigo?
+{DRT_ROHAN_BRIBE}Os encontraríais en una posición de poder y prominencia si decidierais aceptar esta invitación para uniros a la noble corte inglesa.
+{DRT_ROHAN_BUY_VOTE}¿Podremos contar con vuestro apoyo en la elección papal?
+{DRT_ROHAN_CEASEFIRE}Terminemos con este derramamiento de sangre y pongamos fin a las hostilidades.
 {DRT_ROHAN_COUNTER_BRIBE}.
 {DRT_ROHAN_COUNTER_DEMAND}.
-{DRT_ROHAN_COUNTER_INFO}Our people would like to share some information with you.
+{DRT_ROHAN_COUNTER_INFO}A nuestras gentes les gustaría compartir información con vos.
 {DRT_ROHAN_COUNTER_OFFER}.
 {DRT_ROHAN_COUNTER_PROPOSITION}.
-{DRT_ROHAN_DECLINE_ACCESS}While you can see the need to march your soldiers through our lands, we do not. Permission must be refused at this time.
-{DRT_ROHAN_DECLINE_ALLIANCE}We do not believe an alliance would be in our best interests at this time.
-{DRT_ROHAN_DECLINE_ATTACK}Attacking these people is not in our best interests, so we must refuse.
-{DRT_ROHAN_DECLINE_BUY_VOTE}We will not be bartering over this serious moment of ascension.
-{DRT_ROHAN_DECLINE_CEASEFIRE}My Lord does not share your desperate and cowardly urge to escape battle. Perhaps you now realise that you will lose this struggle?
-{DRT_ROHAN_DECLINE_DEMAND}We simply do not see how to attempt to meet these demands.
-{DRT_ROHAN_DECLINE_GIFT}Our people cannot trust the nature in which this gift is intended.
-{DRT_ROHAN_DECLINE_NULLIFY}We are not willing to abandon our treaty with these people simply because you would wish it to happen.
-{DRT_ROHAN_DECLINE_OFFER_MARRIAGE_ALLIANCE}This is too serious a union for us to consider at this moment.
-{DRT_ROHAN_DECLINE_OFFER}We cannot match this offer, and must decline as a result.
-{DRT_ROHAN_DECLINE_PAYMENT_TOO_HIGH}This is far too generous and we would owe you too much.
-{DRT_ROHAN_DECLINE_PAYMENT_TOO_LOW}You simply do not offer enough with this.
-{DRT_ROHAN_DECLINE_PROTECTORATE}Why do you think we have not surrendered yet? Maintaining our freedom is as important as maintaining our very lives.
-{DRT_ROHAN_DECLINE_REGION}To give up the lands our people died to earn and defend for a pouch of coin simply would not do.
-{DRT_ROHAN_DECLINE_REQUEST_MARRIAGE_ALLIANCE}We shall not consider a royal union under any doubt or duress.
-{DRT_ROHAN_DECLINE_SELL_VOTE}We are not looking to buy your support like this.
-{DRT_ROHAN_DECLINE_THREAT}Our people has no fear of your threats, which to be honest seem hollow.
-{DRT_ROHAN_DECLINE_YEARLY_PAYMENT}We cannot agree to this, even for a steady supply of coin.
-{DRT_ROHAN_DISHONEST_ACCESS_DEMAND}Our people has no desire for your armies to study the lay of our lands.
-{DRT_ROHAN_DISHONEST_ACCESS_OFFER}Though that access could be useful for our people in times of war, we cannot be certain that you wouldn't change your mind once we begin to cross your lands.
-{DRT_ROHAN_DISHONEST_ATTACK_OFFER}Your promise of support is the kind that is easy to make without actually having to honour it.
-{DRT_ROHAN_DISHONEST_ATTACK_THREAT}We do not believe that you will stay your swords even if we meet your demands.
-{DRT_ROHAN_DISHONEST_REGION_OFFER}Your offer of land seems most generous, but there is enough reason to doubt that you wouldn't seek to take it back from us by one means or another.
-{DRT_ROHAN_DISHONEST_SELL_VOTE}Your people's history is one of broken promises, I do not trust your offer.
-{DRT_ROHAN_DISHONEST_TRIBUTE_OFFER}We do not believe that you are capable of honouring such a series of tributes, even if you truly intend to.
+{DRT_ROHAN_DECLINE_ACCESS}Aunque tengáis clara la necesidad de pasar con vuestros soldados por nuestras tierras, nosotros no. En esta ocasión hemos de denegaros nuestro permiso.
+{DRT_ROHAN_DECLINE_ALLIANCE}No consideramos que una alianza sea lo que más nos convenga en estos momentos.
+{DRT_ROHAN_DECLINE_ATTACK}No conviene a nuestros intereses atacar a este pueblo, por lo que hemos de negarnos.
+{DRT_ROHAN_DECLINE_BUY_VOTE}No vamos a dedicarnos al trueque en un momento tan serio.
+{DRT_ROHAN_DECLINE_CEASEFIRE}Mi Señor no comparte vuestra desesperada y cobarde necesidad de huir del combate. Quizá ahora os deis cuenta de que vais a perder esta lucha.
+{DRT_ROHAN_DECLINE_DEMAND}Ni siquiera se nos ocurrirá tratar de cumplir semejantes exigencias.
+{DRT_ROHAN_DECLINE_GIFT}Nuestra gente no puede confiar en la naturaleza de las intenciones con que está hecho este regalo.
+{DRT_ROHAN_DECLINE_NULLIFY}No estamos dispuestos a dejar de lado nuestro tratado con esta gente por el simple hecho de que así lo deseéis vos.
+{DRT_ROHAN_DECLINE_OFFER_MARRIAGE_ALLIANCE}Esta alianza es algo demasiado serio para nosotros en este momento.
+{DRT_ROHAN_DECLINE_OFFER}No podemos igualar esta oferta, por lo que hemos de declinarla.
+{DRT_ROHAN_DECLINE_PAYMENT_TOO_HIGH}Esto es excesivamente generoso y os deberíamos demasiado.
+{DRT_ROHAN_DECLINE_PAYMENT_TOO_LOW}Esta oferta sencillamente no es suficiente.
+{DRT_ROHAN_DECLINE_PROTECTORATE}¿Por qué creéis que no nos hemos rendido todavía? Conservar nuestra libertad es tan importante como conservar nuestras propias vidas.
+{DRT_ROHAN_DECLINE_REGION}No vamos a renunciar a las tierras que costó vidas inglesas conquistar y defender por un simple cofre de monedas.
+{DRT_ROHAN_DECLINE_REQUEST_MARRIAGE_ALLIANCE}No consideraremos la celebración de una unión real con dudas o coacciones.
+{DRT_ROHAN_DECLINE_SELL_VOTE}No queremos comprar así vuestro apoyo.
+{DRT_ROHAN_DECLINE_THREAT}Nuestra gente no teme vuestras amenazas, que para ser sinceros resultan vanas.
+{DRT_ROHAN_DECLINE_YEARLY_PAYMENT}No podemos acceder a ello, ni siquiera por un suministro regular de dinero.
+{DRT_ROHAN_DISHONEST_ACCESS_DEMAND}Nuestras gentes no tienen deseo alguno de que vuestros ejércitos se familiaricen con su territorio.
+{DRT_ROHAN_DISHONEST_ACCESS_OFFER}Aunque ese acceso podría resultar útil a nuestras gentes en tiempos de guerra, no podemos estar seguros de que no cambiaréis de opinión en cuanto empecemos a cruzar vuestras tierras.
+{DRT_ROHAN_DISHONEST_ATTACK_OFFER}Vuestra promesa de apoyo resulta fácil de hacer sin tener que llegar realmente a cumplirla.
+{DRT_ROHAN_DISHONEST_ATTACK_THREAT}No confiamos en que detengáis vuestras espadas aunque cumplamos vuestras exigencias.
+{DRT_ROHAN_DISHONEST_REGION_OFFER}Vuestra oferta de tierra parece de lo más generosa, pero tenemos motivos suficientes para dudar de que no pretendáis recuperarla de un modo u otro.
+{DRT_ROHAN_DISHONEST_SELL_VOTE}En la historia de vuestro pueblo hay muchas promesas rotas y no me fío de vuestra propuesta.
+{DRT_ROHAN_DISHONEST_TRIBUTE_OFFER}No confiamos en que seáis capaces de pagar tal serie de tributos, aun en el caso de que tuvierais verdadera intención de hacerlo.
 {DRT_ROHAN_FINISHED}.
-{DRT_ROHAN_GIFT}Accept this gift as an example of our goodwill.
-{DRT_ROHAN_INFO}We would wish to share our knowledge of the world with you.
-{DRT_ROHAN_NULLIFY_ALLIANCE}The time for our alliance's demise has come to pass. We shall both seek our own path to glory now.
-{DRT_ROHAN_OFFER_MARRIAGE_ALLIANCE}Accept my hand in marriage and unite our people in an alliance to last.
-{DRT_ROHAN_PROTECTORATE}Why continue to struggle against our superior forces? Become our vassal and we shall lead you to greatness under our rule.
+{DRT_ROHAN_GIFT}Aceptad este regalo como muestra de buena voluntad.
+{DRT_ROHAN_INFO}Nos gustaría compartir con vos nuestro conocimiento del mundo.
+{DRT_ROHAN_NULLIFY_ALLIANCE}Ha llegado el momento de poner fin a nuestra alianza. En adelante, que cada cual siga su propio camino a la gloria.
+{DRT_ROHAN_OFFER_MARRIAGE_ALLIANCE}Aceptad mi mano en matrimonio y unamos a nuestros pueblos en una alianza duradera.
+{DRT_ROHAN_PROTECTORATE}¿Por qué seguir luchando contra nuestras fuerzas superiores? Convertíos en nuestro vasallo y os conduciremos a la grandeza bajo dominio inglés.
 {DRT_ROHAN_RECIPIENT_WELCOME_ALLIED}.
 {DRT_ROHAN_RECIPIENT_WELCOME_AT_WAR}.
 {DRT_ROHAN_RECIPIENT_WELCOME_NEUTRAL}.
-{DRT_ROHAN_REJECT_BRIBE}My loyalty is not something that you can put a price on so simply.
-{DRT_ROHAN_REJECT_NOT_INTERESTED}We're simply not interested in discussing such a proposal.
-{DRT_ROHAN_REJECT_TOO_MANY_COUNTERS}We are not making sufficient progress here to suggest there is any reason to continue... These negotiations are over.
-{DRT_ROHAN_REQUEST_MARRIAGE_ALLIANCE}It is time for us to seal a serious pact through a royal marriage.
-{DRT_ROHAN_SELL_VOTE}Perhaps you would want our support in the election?
-{DRT_ROHAN_THREAT}We can afford to spare you from our conquests, should of course you be prepared to pay tribute as such...
-{DRT_ROHAN_TRADE}It would be quite profitable for both of our peoples to establish trade between us.
+{DRT_ROHAN_REJECT_BRIBE}Mi lealtad no es algo a lo que se pueda poner precio tan fácilmente.
+{DRT_ROHAN_REJECT_NOT_INTERESTED}Sencillamente no tenemos interés alguno en discutir semejante propuesta.
+{DRT_ROHAN_REJECT_TOO_MANY_COUNTERS}No estamos logrando suficientes avances para sugerir que haya motivo alguno para continuar... Damos por concluidas las presentes negociaciones.
+{DRT_ROHAN_REQUEST_MARRIAGE_ALLIANCE}Es hora de sellar nuestra alianza con una boda real.
+{DRT_ROHAN_SELL_VOTE}¿Querríais nuestro apoyo en la elección papal?
+{DRT_ROHAN_THREAT}Podemos permitirnos eximiros de nuestras conquistas si, naturalmente, estuvierais dispuesto a pagar el correspondiente tributo...
+{DRT_ROHAN_TRADE}Resultaría sumamente lucrativo para nuestros pueblos que comerciáramos entre nosotros.
 {DT_ALLIED_TURNS}Aliado durante %d turnos
 {DT_ALLIED_TURN}Aliado durante %d turno
 {DT_ASSISTANCE_PROVIDED_AGAINST}Asistencia proporcionada contra

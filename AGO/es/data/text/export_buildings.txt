@@ -752,7 +752,7 @@
 {isengard_barracks_lvl1_france}Criaderos uruk
 {isengard_barracks_lvl1_france_desc}This foul breeding pit is where Saruman's twisted and evil experimentation has borne fruit. Here, Uruk-hai are created through the abominable mixing of Orc and human flesh. The air is thick with the stench of death and decay, and the sounds of tortured screams and savage growls echo off the walls. The Uruk-hai that emerge from this pit are a formidable force, bred for war and trained for battle. Their bloodlust is insatiable, and their loyalty to Saruman absolute. No decent person would dare to set foot in this place, for fear of what unspeakable horrors they might witness. It is a testament to Saruman's depravity that he would create such an abomination, and it serves as a grim reminder of the depths to which he is willing to sink in his quest for power.
 {isengard_barracks_lvl1_france_desc_short}This pit enables the recruitment of basic Uruk-Hai soldiers.
-{isengard_barracks_lvl1_aztecs}Uruk Breeding Ground
+{isengard_barracks_lvl1_aztecs}Criaderos uruk
 {isengard_barracks_lvl1_aztecs_desc}This foul breeding pit is where Saruman's twisted and evil experimentation has borne fruit. Here, Uruk-hai are created through the abominable mixing of Orc and human flesh. The air is thick with the stench of death and decay, and the sounds of tortured screams and savage growls echo off the walls. The Uruk-hai that emerge from this pit are a formidable force, bred for war and trained for battle. Their bloodlust is insatiable, and their loyalty to Saruman absolute. No decent person would dare to set foot in this place, for fear of what unspeakable horrors they might witness. It is a testament to Saruman's depravity that he would create such an abomination, and it serves as a grim reminder of the depths to which he is willing to sink in his quest for power.
 {isengard_barracks_lvl1_aztecs_desc_short}This pit enables the recruitment of basic Uruk-Hai soldiers.
 {isengard_barracks_lvl2}Foso uruk de Isengard
@@ -761,7 +761,7 @@
 {isengard_barracks_lvl2_france}Foso uruk de Isengard
 {isengard_barracks_lvl2_france_desc}This advanced facility represents the culmination of Saruman's twisted experiments in cross-breeding Orcs and Men. With the knowledge and resources at his disposal, he has managed to create a new kind of warrior - the Half-Orc. These monstrous creatures possess the cunning and ferocity of Orcs, but also the strength and resilience of Men. The facility is outfitted with specialized breeding pits and training grounds, where the Half-Orcs are carefully bred and trained from birth to be the perfect soldiers for Saruman's army. The recruitment process is intense and selective, with only the most physically fit and mentally strong individuals being chosen to undergo the transformation into Half-Orcs. Those who survive the gruelling process emerge as fearsome warriors, feared and respected by their enemies and even their fellow soldiers. The facility itself is a dark and foreboding place, with the sounds of screaming and clashing weapons echoing through the halls at all hours of the day and night.
 {isengard_barracks_lvl2_france_desc_short}This pit enables the recruitment of basic Uruk-Hai soldiers and Half-orcs.
-{isengard_barracks_lvl2_aztecs}Isengard Uruk Pit
+{isengard_barracks_lvl2_aztecs}Foso uruk de Isengard
 {isengard_barracks_lvl2_aztecs_desc}This advanced facility represents the culmination of Saruman's twisted experiments in cross-breeding Orcs and Men. With the knowledge and resources at his disposal, he has managed to create a new kind of warrior - the Half-Orc. These monstrous creatures possess the cunning and ferocity of Orcs, but also the strength and resilience of Men. The facility is outfitted with specialized breeding pits and training grounds, where the Half-Orcs are carefully bred and trained from birth to be the perfect soldiers for Saruman's army. The recruitment process is intense and selective, with only the most physically fit and mentally strong individuals being chosen to undergo the transformation into Half-Orcs. Those who survive the gruelling process emerge as fearsome warriors, feared and respected by their enemies and even their fellow soldiers. The facility itself is a dark and foreboding place, with the sounds of screaming and clashing weapons echoing through the halls at all hours of the day and night.
 {isengard_barracks_lvl2_aztecs_desc_short}This pit enables the recruitment of basic Uruk-Hai soldiers and Half-orcs.
 {isengard_barracks_lvl3}Barracones uruk de Isengard
@@ -770,7 +770,7 @@
 {isengard_barracks_lvl3_france}Barracones uruk de Isengard
 {isengard_barracks_lvl3_france_desc}The final stage of Saruman's twisted breeding program has culminated in this advanced facility, which produces the most feared and powerful warriors of Isengard - the Uruk-hai. These elite soldiers are a combination of the strength and brutality of Orcs, with the intelligence and skill of men, bred to be the ultimate killing machines. With access to state-of-the-art training and equipment, the Uruk-hai produced in this facility are fully armoured, highly skilled, and utterly ruthless in battle.
 {isengard_barracks_lvl3_france_desc_short}This pit enables the recruitment of Uruk-Hai soldiers and Half-orcs.
-{isengard_barracks_lvl3_aztecs}Isengard Uruk Barracks
+{isengard_barracks_lvl3_aztecs}Barracones uruk de Isengard
 {isengard_barracks_lvl3_aztecs_desc}The final stage of Saruman's twisted breeding program has culminated in this advanced facility, which produces the most feared and powerful warriors of Isengard - the Uruk-hai. These elite soldiers are a combination of the strength and brutality of Orcs, with the intelligence and skill of men, bred to be the ultimate killing machines. With access to state-of-the-art training and equipment, the Uruk-hai produced in this facility are fully armoured, highly skilled, and utterly ruthless in battle.
 {isengard_barracks_lvl3_aztecs_desc_short}This pit enables the recruitment of Uruk-Hai soldiers and Half-orcs.
 {isengard_barracks_name}Fosos uruk de Isengard
@@ -782,7 +782,7 @@
 {c_isengard_barracks_lvl1_france_desc}This foul breeding pit is where Saruman's twisted and evil experimentation has borne fruit. Here, Uruk-hai are created through the abominable mixing of Orc and human flesh. The air is thick with the stench of death and decay, and the sounds of tortured screams and savage growls echo off the walls. The Uruk-hai that emerge from this pit are a formidable force, bred for war and trained for battle. Their bloodlust is insatiable, and their loyalty to Saruman absolute. No decent person would dare to set foot in this place, for fear of what unspeakable horrors they might witness. It is a testament to Saruman's depravity that he would create such an abomination, and it serves as a grim reminder of the depths to which he is willing to sink in his quest for power.
 {isengard_barracks_lvl1_france_desc_short}This pit enables the recruitment of basic Uruk-Hai soldiers.
 {c_isengard_barracks_lvl1_france_desc_short}This pit enables the recruitment of basic Uruk-Hai soldiers.
-{c_isengard_barracks_lvl1_aztecs}Uruk Breeding Ground
+{c_isengard_barracks_lvl1_aztecs}Criaderos uruk
 {c_isengard_barracks_lvl1_aztecs_desc}This foul breeding pit is where Saruman's twisted and evil experimentation has borne fruit. Here, Uruk-hai are created through the abominable mixing of Orc and human flesh. The air is thick with the stench of death and decay, and the sounds of tortured screams and savage growls echo off the walls. The Uruk-hai that emerge from this pit are a formidable force, bred for war and trained for battle. Their bloodlust is insatiable, and their loyalty to Saruman absolute. No decent person would dare to set foot in this place, for fear of what unspeakable horrors they might witness. It is a testament to Saruman's depravity that he would create such an abomination, and it serves as a grim reminder of the depths to which he is willing to sink in his quest for power.
 {isengard_barracks_lvl1_aztecs_desc_short}This pit enables the recruitment of basic Uruk-Hai soldiers.
 {c_isengard_barracks_lvl2}Foso uruk de Isengard
@@ -791,7 +791,7 @@
 {c_isengard_barracks_lvl2_france}Foso uruk de Isengard
 {c_isengard_barracks_lvl2_france_desc}This advanced facility represents the culmination of Saruman's twisted experiments in cross-breeding Orcs and Men. With the knowledge and resources at his disposal, he has managed to create a new kind of warrior - the Half-Orc. These monstrous creatures possess the cunning and ferocity of Orcs, but also the strength and resilience of Men. The facility is outfitted with specialized breeding pits and training grounds, where the Half-Orcs are carefully bred and trained from birth to be the perfect soldiers for Saruman's army. The recruitment process is intense and selective, with only the most physically fit and mentally strong individuals being chosen to undergo the transformation into Half-Orcs. Those who survive the gruelling process emerge as fearsome warriors, feared and respected by their enemies and even their fellow soldiers. The facility itself is a dark and foreboding place, with the sounds of screaming and clashing weapons echoing through the halls at all hours of the day and night.
 {c_isengard_barracks_lvl2_france_desc_short}This pit enables the recruitment of basic Uruk-Hai soldiers and Half-orcs.
-{c_isengard_barracks_lvl2_aztecs}Isengard Uruk Pit
+{c_isengard_barracks_lvl2_aztecs}Foso uruk de Isengard
 {c_isengard_barracks_lvl2_aztecs_desc}This advanced facility represents the culmination of Saruman's twisted experiments in cross-breeding Orcs and Men. With the knowledge and resources at his disposal, he has managed to create a new kind of warrior - the Half-Orc. These monstrous creatures possess the cunning and ferocity of Orcs, but also the strength and resilience of Men. The facility is outfitted with specialized breeding pits and training grounds, where the Half-Orcs are carefully bred and trained from birth to be the perfect soldiers for Saruman's army. The recruitment process is intense and selective, with only the most physically fit and mentally strong individuals being chosen to undergo the transformation into Half-Orcs. Those who survive the gruelling process emerge as fearsome warriors, feared and respected by their enemies and even their fellow soldiers. The facility itself is a dark and foreboding place, with the sounds of screaming and clashing weapons echoing through the halls at all hours of the day and night.
 {c_isengard_barracks_lvl2_aztecs_desc_short}This pit enables the recruitment of basic Uruk-Hai soldiers and Half-orcs.
 {c_isengard_barracks_lvl3}Barracones uruk de Isengard
@@ -800,7 +800,7 @@
 {c_isengard_barracks_lvl3_france}Barracones uruk de Isengard
 {c_isengard_barracks_lvl3_france_desc}The final stage of Saruman's twisted breeding program has culminated in this advanced facility, which produces the most feared and powerful warriors of Isengard - the Uruk-hai. These elite soldiers are a combination of the strength and brutality of Orcs, with the intelligence and skill of men, bred to be the ultimate killing machines. With access to state-of-the-art training and equipment, the Uruk-hai produced in this facility are fully armoured, highly skilled, and utterly ruthless in battle.
 {c_isengard_barracks_lvl3_france_desc_short}This pit enables the recruitment of Uruk-Hai soldiers and Half-orcs.
-{c_isengard_barracks_lvl3_aztecs}Isengard Uruk Barracks
+{c_isengard_barracks_lvl3_aztecs}Barracones uruk de Isengard
 {c_isengard_barracks_lvl3_aztecs_desc}The final stage of Saruman's twisted breeding program has culminated in this advanced facility, which produces the most feared and powerful warriors of Isengard - the Uruk-hai. These elite soldiers are a combination of the strength and brutality of Orcs, with the intelligence and skill of men, bred to be the ultimate killing machines. With access to state-of-the-art training and equipment, the Uruk-hai produced in this facility are fully armoured, highly skilled, and utterly ruthless in battle.
 {c_isengard_barracks_lvl3_aztecs_desc_short}This pit enables the recruitment of Uruk-Hai soldiers and Half-orcs.
 {c_isengard_barracks_name}Fosos uruk de Isengard
@@ -1576,7 +1576,7 @@
 {archery_range_gondor}Campo de tiro con arco
 {archery_range_gondor_desc}An Archery Range is a necessary investment for any lord seeking to train professional missile troops, rather than rely upon militia-level training with local peasants. Improvements to the range include much more challenging targets to practise on, officer's quarters, and a larger bowyer's workshop outfitted to manufacture superior weaponry, worthy of highly trained soldiers.\n\nGondorian archery ranges are most productive in grassland and forested regions.
 {archery_range_gondor_desc_short}An Archery Range allows for the recruitment of well-trained missile units.
-{archery_range_spain}Archery Range
+{archery_range_spain}Campo de tiro con arco
 {archery_range_spain_desc}Harad bows are not of fine quality, they are composite bows with a medium range, easily fashioned and produced in massive quantities to meet the demand of the Serpent Lord's military. Better quality bows are expensive, any warrior will expect to pay most of their earnings in plunder for a fine bow. In these larger fletchers; hundreds of arrows are made daily, and vast stockpiles of are created to ensure the army never runs out of ammunition.\n\nA range offers warriors a chance to sharpen their skills, and engage in 'friendly' competition. Sport of this kind is always welcomed in Harad, and a crowd will always love a wager or two, if the competitors are exceptional.
 {archery_range_spain_desc_short}A range for the Archers of Harad
 ¬--------------
@@ -1685,7 +1685,7 @@
 {c_archery_range_gondor}Campo de tiro con arco
 {c_archery_range_gondor_desc}An Archery Range is a necessary investment for any lord seeking to train professional missile troops, rather than rely upon militia-level training with local peasants. Improvements to the range include much more challenging targets to practise on, officer's quarters, and a larger bowyer's workshop outfitted to manufacture superior weaponry, worthy of highly trained soldiers.\n\nGondorian archery ranges are most productive in grassland and forested regions.
 {c_archery_range_gondor_desc_short}An Archery Range allows for the recruitment of well-trained missile units.
-{c_archery_range_spain}Archery Range
+{c_archery_range_spain}Campo de tiro con arco
 {c_archery_range_spain_desc}Harad bows are not of fine quality, they are composite bows with a medium range, easily fashioned and produced in massive quantities to meet the demand of the Serpent Lord's military. Better quality bows are expensive, any warrior will expect to pay most of their earnings in plunder for a fine bow. In these larger fletchers; hundreds of arrows are made daily, and vast stockpiles of are created to ensure the army never runs out of ammunition.\n\nA range offers warriors a chance to sharpen their skills, and engage in 'friendly' competition. Sport of this kind is always welcomed in Harad, and a crowd will always love a wager or two, if the competitors are exceptional.
 {c_archery_range_spain_desc_short}A range for the Archers of Harad
 ¬--------------
@@ -3183,10 +3183,10 @@
 {small_church_gundabad}small_church
 {small_church_gundabad_desc}DO NOT TRANSLATE
 {small_church_gundabad_desc_short}DO NOT TRANSLATE
-{small_church_gundabad_eastern_european}Shrine of Melkor
+{small_church_gundabad_eastern_european}Ermita de Melkor
 {small_church_gundabad_eastern_european_desc}Though a follower of Morgoth may worship him anywhere, at any time, to suggest they do not need a proper place of worship would be far from correct. Constructing a Shrine of Melkor is a mandatory exercise for any lord who hopes to satiate his subjects' evil sense.
 {small_church_gundabad_eastern_european_desc_short}A Shrine of Melkor converts a small percentage of the region to Followers of Morgoth, and improves happiness.
-{small_church_gundabad_northern_european}Shrine of Melkor
+{small_church_gundabad_northern_european}Ermita de Melkor
 {small_church_gundabad_northern_european_desc}Though a follower of Morgoth may worship him anywhere, at any time, to suggest they do not need a proper place of worship would be far from correct. Constructing a Shrine of Melkor is a mandatory exercise for any lord who hopes to satiate his subjects' evil sense.
 {small_church_gundabad_northern_european_desc_short}A Shrine of Melkor converts a small percentage of the region to Followers of Morgoth, and improves happiness.
 ¬--------------
@@ -3194,10 +3194,10 @@
 {church_gundabad}church
 {church_gundabad_desc}DO NOT TRANSLATE
 {church_gundabad_desc_short}DO NOT TRANSLATE
-{church_gundabad_eastern_european}Temple of Melkor
+{church_gundabad_eastern_european}Templo de Melkor
 {church_gundabad_eastern_european_desc}Though a follower of Morgoth may worship him anywhere, at any time, to suggest they do not need a proper place of worship would be far from correct. Constructing a Temple of Melkor is a mandatory exercise for any lord who hopes to satiate his subjects' evil sense.\n\nA Temple of Melkor allows for more population growth in mountain and grassland regions.
 {church_gundabad_eastern_european_desc_short}A Temple of Melkor converts a moderate percentage of the region to Followers of Morgoth, improves happiness, and increases population growth in mountain and grassland regions.
-{church_gundabad_northern_european}Temple of Melkor
+{church_gundabad_northern_european}Templo de Melkor
 {church_gundabad_northern_european_desc}Though a follower of Morgoth may worship him anywhere, at any time, to suggest they do not need a proper place of worship would be far from correct. Constructing a Temple of Melkor is a mandatory exercise for any lord who hopes to satiate his subjects' evil sense.\n\nA Temple of Melkor allows for more population growth in mountain and grassland regions.
 {church_gundabad_northern_european_desc_short}A Temple of Melkor converts a moderate percentage of the region to Followers of Morgoth, improves happiness, and increases population growth in mountain and grassland regions.
 ¬--------------
@@ -3205,10 +3205,10 @@
 {abbey_gundabad}abbey
 {abbey_gundabad_desc}DO NOT TRANSLATE
 {abbey_gundabad_desc_short}DO NOT TRANSLATE
-{abbey_gundabad_eastern_european}Dark Temple of Melkor
+{abbey_gundabad_eastern_european}Templo oscuro de Melkor
 {abbey_gundabad_eastern_european_desc}Though a follower of Morgoth may worship him anywhere, at any time, to suggest they do not need a proper place of worship would be far from correct. Constructing a Dark Temple of Melkor is a mandatory exercise for any lord who hopes to satiate his subjects' evil sense.\n\nA Dark Temple of Melkor allows for more population growth in mountain and grassland regions additionally, the worship of the original creator of the Orcs allows the lesser breed of the Third Age to reproduce much faster and reduces retraining costs.
 {abbey_gundabad_eastern_european_desc_short}A Dark Temple of Melkor converts a decent percentage of the region to Followers of Morgoth, and increases population growth in mountain and grassland regions.
-{abbey_gundabad_northern_european}Dark Temple of Melkor
+{abbey_gundabad_northern_european}Templo oscuro de Melkor
 {abbey_gundabad_northern_european_desc}Though a follower of Morgoth may worship him anywhere, at any time, to suggest they do not need a proper place of worship would be far from correct. Constructing a Dark Temple of Melkor is a mandatory exercise for any lord who hopes to satiate his subjects' evil sense.\n\nA Dark Temple of Melkor allows for more population growth in mountain and grassland regions additionally, the worship of the original creator of the Orcs allows the lesser breed of the Third Age to reproduce much faster and reduces retraining costs.
 {abbey_gundabad_northern_european_desc_short}A Dark Temple of Melkor converts a decent percentage of the region to Followers of Morgoth, and increases population growth in mountain and grassland regions.
 ¬--------------
@@ -3216,10 +3216,10 @@
 {small_church_saruman}small_church
 {small_church_saruman_desc}DO NOT TRANSLATE
 {small_church_saruman_desc_short}DO NOT TRANSLATE
-{small_church_saruman_eastern_european}Shrine of Melkor
+{small_church_saruman_eastern_european}Ermita de Melkor
 {small_church_saruman_eastern_european_desc}Though a follower of Morgoth may worship him anywhere, at any time, to suggest they do not need a proper place of worship would be far from correct. Constructing a Shrine of Melkor is a mandatory exercise for any lord who hopes to satiate his subjects' evil sense.
 {small_church_saruman_eastern_european_desc_short}A Shrine of Melkor converts a small percentage of the region to Followers of Morgoth, and improves happiness.
-{small_church_saruman_northern_european}Shrine of Melkor
+{small_church_saruman_northern_european}Ermita de Melkor
 {small_church_saruman_northern_european_desc}Though a follower of Morgoth may worship him anywhere, at any time, to suggest they do not need a proper place of worship would be far from correct. Constructing a Shrine of Melkor is a mandatory exercise for any lord who hopes to satiate his subjects' evil sense.
 {small_church_saruman_northern_european_desc_short}A Shrine of Melkor converts a small percentage of the region to Followers of Morgoth, and improves happiness.
 ¬--------------
@@ -3227,10 +3227,10 @@
 {church_saruman}church
 {church_saruman_desc}DO NOT TRANSLATE
 {church_saruman_desc_short}DO NOT TRANSLATE
-{church_saruman_eastern_european}Temple of Melkor
+{church_saruman_eastern_european}Templo de Melkor
 {church_saruman_eastern_european_desc}Though a follower of Morgoth may worship him anywhere, at any time, to suggest they do not need a proper place of worship would be far from correct. Constructing a Temple of Melkor is a mandatory exercise for any lord who hopes to satiate his subjects' evil sense.\n\nA Temple of Melkor allows for more population growth in mountain and grassland regions.
 {church_saruman_eastern_european_desc_short}A Temple of Melkor converts a moderate percentage of the region to Followers of Morgoth, improves happiness, and increases population growth in mountain and grassland regions.
-{church_saruman_northern_european}Temple of Melkor
+{church_saruman_northern_european}Templo de Melkor
 {church_saruman_northern_european_desc}Though a follower of Morgoth may worship him anywhere, at any time, to suggest they do not need a proper place of worship would be far from correct. Constructing a Temple of Melkor is a mandatory exercise for any lord who hopes to satiate his subjects' evil sense.\n\nA Temple of Melkor allows for more population growth in mountain and grassland regions.
 {church_saruman_northern_european_desc_short}A Temple of Melkor converts a moderate percentage of the region to Followers of Morgoth, improves happiness, and increases population growth in mountain and grassland regions.
 ¬--------------
@@ -3238,10 +3238,10 @@
 {abbey_saruman}abbey
 {abbey_saruman_desc}DO NOT TRANSLATE
 {abbey_saruman_desc_short}DO NOT TRANSLATE
-{abbey_saruman_eastern_european}Dark Temple of Melkor
+{abbey_saruman_eastern_european}Templo oscuro de Melkor
 {abbey_saruman_eastern_european_desc}Though a follower of Morgoth may worship him anywhere, at any time, to suggest they do not need a proper place of worship would be far from correct. Constructing a Dark Temple of Melkor is a mandatory exercise for any lord who hopes to satiate his subjects' evil sense.\n\nA Dark Temple of Melkor allows for more population growth in mountain and grassland regions additionally, the worship of the original creator of the Orcs allows the lesser breed of the Third Age to reproduce much faster and reduces retraining costs.
 {abbey_saruman_eastern_european_desc_short}A Dark Temple of Melkor converts a decent percentage of the region to Followers of Morgoth, and increases population growth in mountain and grassland regions.
-{abbey_saruman_northern_european}Dark Temple of Melkor
+{abbey_saruman_northern_european}Templo oscuro de Melkor
 {abbey_saruman_northern_european_desc}Though a follower of Morgoth may worship him anywhere, at any time, to suggest they do not need a proper place of worship would be far from correct. Constructing a Dark Temple of Melkor is a mandatory exercise for any lord who hopes to satiate his subjects' evil sense.\n\nA Dark Temple of Melkor allows for more population growth in mountain and grassland regions additionally, the worship of the original creator of the Orcs allows the lesser breed of the Third Age to reproduce much faster and reduces retraining costs.
 {abbey_saruman_northern_european_desc_short}A Dark Temple of Melkor converts a decent percentage of the region to Followers of Morgoth, and increases population growth in mountain and grassland regions.
 ¬--------------
@@ -3260,10 +3260,10 @@
 {small_church_o_mesoamerican_desc_short}A place for the wildmen to drink and share stories.
 ¬--------------
 
-{small_church_o_daen}Grove of Stories
+{small_church_o_daen}Arboleda de las historias
 {small_church_o_daen_desc}DO NOT TRANSLATE
 {small_church_o_daen_desc_short}DO NOT TRANSLATE
-{small_church_o_daen_mesoamerican}Grove of Stories
+{small_church_o_daen_mesoamerican}Arboleda de las historias
 {small_church_o_daen_mesoamerican_desc}The lives of the wildmen can be a hard struggle and there is nothing like the comfort and companionship of gathering around the fire pit and sharing stories and songs. Bonds of faithfulness and friendship are renewed in such places and the deeds of forefathers remembered. During the day, this peaceful Grove helps the folk of the wild to unwind and develop a deep love with all things of nature around them.
 {small_church_o_daen_mesoamerican_desc_short}A place for the wildmen to drink and share stories.
 ¬--------------
@@ -3285,7 +3285,7 @@
 {church_o_daen}church_o
 {church_o_daen_desc}DO NOT TRANSLATE
 {church_o_daen_desc_short}DO NOT TRANSLATE
-{church_o_daen_mesoamerican}Garden of Tales
+{church_o_daen_mesoamerican}Jardín de las historias
 {church_o_daen_mesoamerican_desc}Though the Men of Enedwaith and Minhiriath live in harsh conditions in the wild, untamed lands to the south-west of Eriador, they have the occasion to celebrate great events in the Garden of Tales. Here they can forget the hard-living conditions and share with their folk the taste of delicious meat from their hunts and drink hearty of their ales and stouts; all the while, the elders and travellers tell tale tales exciting all and making this garden a merry place. It's the ideal place for these hunter-folk to remember who they are and to remember their history and make offerings to their local divinities.
 {church_o_daen_mesoamerican_desc_short}A large circled garden for the wildmen to tell tales and make merry the night.
 ¬--------------
@@ -3301,10 +3301,10 @@
 {abbey_o_mesoamerican_desc_short}A grand hall for the tribes to gather, drink, tell tales and talk together.
 ¬--------------
 
-{abbey_o_daen}Bard's Guild
+{abbey_o_daen}Gremio de bardos
 {abbey_o_daen_desc}DO NOT TRANSLATE
 {abbey_o_daen_desc_short}DO NOT TRANSLATE
-{abbey_o_daen_mesoamerican}Bard's Guild
+{abbey_o_daen_mesoamerican}Gremio de bardos
 {abbey_o_daen_mesoamerican_desc}Once the tribes and settlements grow in size and gather more and more inhabitants it becomes to necessary to create a grand structure devoted to the telling of tales, sharing of lore and making merry the cold winter nights. The Bard's Guild serves just that purpose; taking its name from the many travelling storytellers who oft begin their lives in these grand halls, soaking up the culture of Enedwaith and Dunland before roaming on to another town to spread the word. These large halls also stand as a testament to the will of the wildmen to remain happy despite the world enveloping in fire and war all around them and any troops levied from this town will march to war with a keener will and a fire in their hearts!
 {abbey_o_daen_mesoamerican_desc_short}A grand hall for the tribes to gather, drink, tell tales and talk together.
 ¬--------------
@@ -4074,7 +4074,7 @@
 {south_lodge_gondor}Casa del gremio de Osgiliath
 {south_lodge_gondor_desc}A Masons' Guildhouse is a grand structure that acts as the gathering point of the nations' masters; both masons and carpenters. With the addition of vast stores of supplies and the help of many guildsmen, the craftsmen of the settlement can work on truly monolithic projects and can help bring down the cost of all the settlement's buildings drastically. REQUIRED TO BUILD A LARGE CITY
 {south_lodge_gondor_desc_short}A Masons' Guildhouse is a small, simple structure that acts as the gathering point of the settlements masons and carpenters.
-{south_lodge_turks}Osgiliath Guildhouse
+{south_lodge_turks}Casa del gremio de Osgiliath
 {south_lodge_turks_desc}A Masons' Guildhouse is a grand structure that acts as the gathering point of the nations' masters; both masons and carpenters. With the addition of vast stores of supplies and the help of many guildsmen, the craftsmen of the settlement can work on truly monolithic projects and can help bring down the cost of all the settlement's buildings drastically. REQUIRED TO BUILD A LARGE CITY
 {south_lodge_turks_desc_short}A Masons' Guildhouse is a small, simple structure that acts as the gathering point of the settlements masons and carpenters.
 {south_lodge_middle_eastern}Casa del gremio de Osgiliath
@@ -4274,7 +4274,7 @@
 {swordsmiths_guild_sicily}Gremio de hombres de armas
 {swordsmiths_guild_sicily_desc}The Armsmen's Guild was an economical guild set up to help defend the rights and trading statuses of the many blacksmith's within Gondor. However, overtime it grew into more of an elite brotherhood of smiths and the chapter houses of the guild were then known to provide superior quality weapons to the men trained from that settlement. This is the role it provides today.
 {swordsmiths_guild_sicily_desc_short}An Armsmen's Guild provides superior quality weapons for any troops in its region.
-{swordsmiths_guild_turks}Armsmen's Guild
+{swordsmiths_guild_turks}Gremio de hombres de armas
 {swordsmiths_guild_turks_desc}The Armsmen's Guild was an economical guild set up to help defend the rights and trading statuses of the many blacksmith's within Gondor. However, overtime it grew into more of an elite brotherhood of smiths and the chapter houses of the guild were then known to provide superior quality weapons to the men trained from that settlement. This is the role it provides today.
 {swordsmiths_guild_turks_desc_short}An Armsmen's Guild provides superior quality weapons for any troops in its region.
 {swordsmiths_guild_denmark}Gremio real de herreros espaderos
@@ -4318,7 +4318,7 @@
 {m_swordsmiths_guild_sicily}Gremio real de hombres de armas
 {m_swordsmiths_guild_sicily_desc}The Royal Armsmen's Guild is a single grand hall that gathers together the top smiths from the fiefdoms of Gondor and allows them to commune, teach and learn with many lesser smiths of the regions. Many techniques regarding smithing are taught here and when the many visitors return to their own homes they spread these skills still further. As such, the building of a Royal Armsmen's Guild will ensure excellent quality troops trained in all of Gondor's domain. Additionally, the structure is so great a feat of architecture that it inspires those who live near it to fight with increased battle fervour.
 {m_swordsmiths_guild_sicily_desc_short}The Royal Armsmen's Guild provides superior quality weapons for any troops in its region and also helps to train warriors in the use of heavy weaponry and armour.
-{m_swordsmiths_guild_turks}Royal Armsmen's Guild
+{m_swordsmiths_guild_turks}Gremio real de hombres de armas
 {m_swordsmiths_guild_turks_desc}The Royal Armsmen's Guild is a single grand hall that gathers together the top smiths from the fiefdoms of Gondor and allows them to commune, teach and learn with many lesser smiths of the regions. Many techniques regarding smithing are taught here and when the many visitors return to their own homes they spread these skills still further. As such, the building of a Royal Armsmen's Guild will ensure excellent quality troops trained in all of Gondor's domain. Additionally, the structure is so great a feat of architecture that it inspires those who live near it to fight with increased battle fervour.
 {m_swordsmiths_guild_turks_desc_short}The Royal Armsmen's Guild provides superior quality weapons for any troops in its region and also helps to train warriors in the use of heavy weaponry and armour.
 {m_swordsmiths_guild_denmark}Orden del cisne
@@ -4338,7 +4338,7 @@
 {gm_swordsmiths_guild_sicily}Orden de Boromir I
 {gm_swordsmiths_guild_sicily_desc}Boromir I was perhaps Gondor's greatest ever military general and the only known being that the Witch-king was actively afraid of. This mighty warrior is remembered and praised here in the Order where many men come to learn as much as they can about warfare and training. The skills learnt here spread far and wide and all of Gondor's military are improved with the presence of the Order. Additionally, this grand structure and the almost holy nature of the Order inspires the men that live near to fight with a great fury and particularly, the archers of the settlement housing the Order will receive much greater training.
 {gm_swordsmiths_guild_sicily_desc_short}The Order of Boromir I substantially improves the weapons of any warriors in its region, helps to train the best heavily armed warriors and boosts the morale of troops trained by its masters.
-{gm_swordsmiths_guild_turks}Order of Boromir I
+{gm_swordsmiths_guild_turks}Orden de Boromir I
 {gm_swordsmiths_guild_turks_desc}Boromir I was perhaps Gondor's greatest ever military general and the only known being that the Witch-king was actively afraid of. This mighty warrior is remembered and praised here in the Order where many men come to learn as much as they can about warfare and training. The skills learnt here spread far and wide and all of Gondor's military are improved with the presence of the Order. Additionally, this grand structure and the almost holy nature of the Order inspires the men that live near to fight with a great fury and particularly, the archers of the settlement housing the Order will receive much greater training.
 {gm_swordsmiths_guild_turks_desc_short}The Order of Boromir I substantially improves the weapons of any warriors in its region, helps to train the best heavily armed warriors and boosts the morale of troops trained by its masters.
 {gm_swordsmiths_guild_denmark}Hermandad de la garra
@@ -4473,7 +4473,7 @@
 {gm_horse_breeders_guild_denmark}Cuadras del cisne
 {gm_horse_breeders_guild_denmark_desc}The Swan Stables is essentially the home of the best horses in Middle-earth. The building itself was built a long time ago by the Eighth Prince who valued horsemanship above all other forms of warfare. His love of horses did not pass to his successor and the building fell into disrepair. Now, with the rise of the Horse Breeder's Guild the building has found new purpose. The desires of the Guild far outstretched their resources and they required a greater venue to house their finest breeders and steeds. They purchased the stables and vastly improved it to its current glorious state and now it serves as their headquarters. Through careful breeding the stables now produces a better quality steed than would normally be found anywhere. This wondrous building offers the host city, and all controlled regions, cavalry units of unmatched quality.\n\nThe Horse Breeder speeds up the replenishment of all cavalry within its settlement.
 {gm_horse_breeders_guild_denmark_desc_short}The Swan Stables greatly improves the quality of cavalry units recruited in the region.
-{gm_horse_breeders_guild_turks}Swan Stables
+{gm_horse_breeders_guild_turks}Cuadras del cisne
 {gm_horse_breeders_guild_turks_desc}The Swan Stables is essentially the home of the best horses in Middle-earth. The building itself was built a long time ago by the Eighth Prince who valued horsemanship above all other forms of warfare. His love of horses did not pass to his successor and the building fell into disrepair. Now, with the rise of the Horse Breeder's Guild the building has found new purpose. The desires of the Guild far outstretched their resources and they required a greater venue to house their finest breeders and steeds. They purchased the stables and vastly improved it to its current glorious state and now it serves as their headquarters. Through careful breeding the stables now produces a better quality steed than would normally be found anywhere. This wondrous building offers the host city, and all controlled regions, cavalry units of unmatched quality.\n\nThe Horse Breeder speeds up the replenishment of all cavalry within its settlement.
 {gm_horse_breeders_guild_turks_desc_short}The Swan Stables greatly improves the quality of cavalry units recruited in the region.
 ¬--------------
@@ -4519,7 +4519,7 @@
 {troll_breeder_eastern_european}Criaderos de bestias
 {troll_breeder_eastern_european_desc}Any warlord who intends to breed mighty beasts for battle naturally needs a place to produce those monsters, and that invariably means building a beast breeder. Producing the most powerful creatures will require more development. Cannot be built everywhere.
 {troll_breeder_eastern_european_desc_short}Beast Breeders allow for the recruitment of mountain beasts.
-{troll_breeder_england}Beast Breeder
+{troll_breeder_england}Criaderos de bestias
 {troll_breeder_england_desc}Any warlord who intends to breed mighty beasts and great beasts for battle naturally needs a place to produce those monsters, and that invariably means building a larger and more equipped cage. Producing the most powerful creatures will require more development. Cannot be built everywhere.
 {troll_breeder_england_desc_short}The Beast Breeder allow for the recruitment of great beasts and mountain beasts.
 {troll_breeder_greek}Criaderos de bestias
@@ -7001,21 +7001,21 @@
 {temple_art_name}Arte
 {temple_c_art_name}Arte
 {temple_catholic_name}Ermitas de Melkor
-{temple_gundabad_name}Shrines of Melkor
+{temple_gundabad_name}Ermitas de Melkor
 {temple_saruman_name}Shrines of Saruman
 {temple_wicked_name}Ermitas oscuras
 {temple_khand_name}Ermitas oscuras
 {temple_muslim_name}Placer
 {temple_orthodox_name}Salón de reuniones
-{temple_orthodox_daen_name}Gathering Halls
+{temple_orthodox_daen_name}Salón de reuniones
 {temple_c_catholic_name}Ermitas de Melkor
-{temple_c_gundabad_name}Shrines of Melkor
+{temple_c_gundabad_name}Ermitas de Melkor
 {temple_c_saruman_name}Shrines of Saruman
 {temple_c_wicked_name}Ermitas oscuras
 {temple_c_khand_name}Ermitas oscuras
 {temple_c_muslim_name}Placer
 {temple_c_orthodox_name}Salón de reuniones
-{temple_c_orthodox_daen_name}Gathering Halls
+{temple_c_orthodox_daen_name}Salón de reuniones
 {core_castle_building_name}Castillo
 {sea_trade_name}Comercio marítimo
 {guild_assassins_muslim_guild_name}Foso de lucha

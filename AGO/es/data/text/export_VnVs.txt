@@ -48,7 +48,7 @@
 {Temple}Oculto
 {Barons}Oculto
 {Hearthguard}Oculto
-{KhazadReclaimers}Hidden
+{KhazadReclaimers}Oculto
 {LakeTown}Oculto
 {Athala}Oculto
 {BalcothStrat}Oculto
@@ -57,7 +57,7 @@
 {GHStrat}Oculto
 {HashariiStrat}Oculto
 {KhandStrat}Oculto
-{KhandAncantarStrat}Hidden
+{KhandAncantarStrat}Oculto
 {MountainOrcStrat}Oculto
 {Northguard}Oculto
 {TrollmenStrat}Oculto
@@ -82,9 +82,9 @@
 {Oakenshield}Oculto
 {UlaironMordor}Oculto
 {RingInfluence}Oculto
-{BreeCommander_Elf}Hidden
-{BreeCommander_Dwarf}Hidden
-{BreeCommander_Ranger}Hidden
+{BreeCommander_Elf}Oculto
+{BreeCommander_Dwarf}Oculto
+{BreeCommander_Ranger}Oculto
 ¬##########################################################
 ¬------  Traits: Education  ------------------------
 {NoMilEducation}Sin educación militar
@@ -112,7 +112,7 @@
 ¬--------------------
 
 ¬------  Traits: Character Unique  ------------------------
-{NoAutoAssign}Hidden
+{NoAutoAssign}Oculto
 {NoGate}Oculto
 {Hero}Oculto
 {Locked}Oculto
@@ -274,7 +274,7 @@
 {Boromir_desc}Boromir es hermano de Faramir e hijo mayor de Denethor II, el Senescal de Gondor. Es honorable y noble.
 {Boromir_effects_desc}\n- +2 Autoridad\n- +4 Renombre\n- +1 Comando\n- +5 Puntos de vida\n- +1 Felicidad pública\n- +5 Ambición\n- +1 Seguridad personal
 ¬--------------------
-{Berethor}Biography
+{Berethor}Biografía
 {Berethor_desc}Berethor, exiled, along with his wife Morwen, when he failed to retake Osgiliath from Sauron's forces, was a once greatly respected general in the lands of Gondor. With Osgiliath recaptured, he has been pardoned and returns to serve the Steward once again.
 {Berethor_effects_desc}+4 Renown, +4 Command, +5 Hitpoints
 ¬--------------------
@@ -310,7 +310,7 @@
 {Eomer_desc}Éomer es fuerte y alto y se ha convertido en un valiente y hábil guerrero y jinete de Rohan.
 {Eomer_effects_desc}\n- +1 Autoridad\n- +2 Renombre\n- +3 Comando\n- +3 Puntos de vida\n- +8 Ambición\n- +20% Puntos de movimiento\n- +1 Seguridad personal
 ¬--------------------
-{Eowyn}Biography
+{Eowyn}Biografía
 {Eowyn_desc}Éowyn is the valiant daughter of Éomund that knows how wield a sword and does not lack the courage to fight the enemies of Rohan.
 {Eowyn_effects_desc}+1 Renown, +2 Command, +1 Hitpoints, +4 Ambition, +10% Movement Points, +1 Personal Security
 ¬--------------------
@@ -322,7 +322,7 @@
 {Hama_desc}Hama es el portero del gran Salón Dorado de Meduseld y es uno de los sirvientes más leales del rey Théoden.
 {Hama_effects_desc}\n- +1 Autoridad\n- +2 Comando\n- +2 Puntos de vida\n- +6 Ambición\n- +20% Puntos de movimiento
 ¬--------------------
-{Brego}Biography
+{Brego}Biografía
 {Brego_desc}Brego was born to a Dunlending father and a Rohirric mother, making him a member of the Dunforgoil. Growing up, he experienced the tension between the two cultures first hand and often felt like an outsider in both worlds. He was drawn to the Rohirric way of life, with its emphasis on honour, bravery, and horsemanship, but also felt a deep loyalty to his Dunlending kin.\n\nAs he grew older, Brego became increasingly disillusioned with the Dunlending way of life. He saw the violence and hatred that consumed his people and felt that it was leading them nowhere. Meanwhile, he was drawn to the Rohirrim's way of life, which seemed to offer a path to a better future.\n\nWhen the Rohirrim conquered Dunland and began to establish their rule, Brego saw an opportunity to forge a new path for himself. He betrayed his Dunlending kin and pledged his loyalty to Rohan, hoping to gain power and status under their rule. His Rohirric heritage and horsemanship skills made him a valuable asset to the Rohirrim, and he quickly rose through the ranks.\n\nEventually, Brego was appointed governor of the town of Bregnas, a position that gave him significant power and influence over the local Dunlending population. He continued to play both sides, appearing to be a loyal Rohirrim while secretly manipulating the Dunlendings for his own gain. He justified his betrayal by telling himself that he was working to bring peace and stability to the region, but deep down, he knew that he had abandoned his own people for personal gain.
 {Brego_effects_desc}
 ¬--------------------
@@ -369,11 +369,11 @@
 {Forthwin_desc}Forthwin es el Señor de Caras Falathrim. Recibió el castillo y las tierras circundantes como regalo tras su exitosa conquista de la región meridional a los dictatoriales señores rebeldes que poseían las tierras. Su destreza en la batalla, el respeto que se ganó de sus hombres y su habilidad con la guerra de asedio han hecho que muchos consideren a Forthwin como la primera y mejor línea de defensa de Dorwinion contra la marea que se avecina...
 {Forthwin_effects_desc}\n- +1 Autoridad\n- +2 Comando (Defendiendo)\n- +2 Comando\n- +2 Renombre\n- +5 Ambición\n- +2 Comando (Defendiendo murallas)
 ¬--------------------
-{Herion}Biography
+{Herion}Biografía
 {Herion_desc}Herîon is a famed admiral of the Vintner Court long retired to a life of luxury on the Isle of Neburkha.
 {Herion_effects_desc}+4 Authority, +2 Command, +4 Chivalry, +2 Personal Security
 ¬--------------------
-{Ultuk}Biography
+{Ultuk}Biografía
 {Ultuk_desc}Ultuk is a noble of the Kugathi clan. Long has he stood watch on the southern borders, waiting for an advance of his Rhunnic kinsmen across the river.
 {Ultuk_effects_desc}+4 Authority, +2 Command, +4 Chivalry, +2 Personal Security
 ¬--------------------
@@ -397,7 +397,7 @@
 {Gildor_effects_desc}\n- +1 Autoridad\n- +2 Renombre\n- +2 Comando\n- +4 Puntos de vida\n- +3 Ambición\n- +1 Seguridad personal
 {Gildor_epithet_desc}Inglorion
 ¬--------------------
-{Galdor}Biography
+{Galdor}Biografía
 {Galdor_desc}Galdor was an elusive Elf who hailed form the Havens and served under Círdan. He was present at the council of Elrond and roamed the paths between Imladris and Mithlond bringing any news he could find back to Círdan.
 {Galdor_effects_desc}+1 Authority, +2 Renown, +1 Command, +4 Hitpoints, +2 Loyalty, +1 Personal Security
 {Galdor_epithet_desc}of the Havens
@@ -410,15 +410,15 @@
 {Grindfarn_desc}Grindfârn is the clan leader of the self-proclaimed 8th clan: the Grimborn. He has an oratorical strength that few Dwarves have possessed till now and has managed to rally and stir the Grimborn to action.
 {Grindfarn_effects_desc}\n- +2 Autoridad\n- +4 Comando\n- +6 Puntos de vida\n- +3 Ambición\n- +10% Puntos de movimiento\n- +1 Seguridad personal\n- +2 Moral de las tropas
 ¬--------------------
-{Gor}Biography
+{Gor}Biografía
 {Gor_desc}Bound by duty to the remaining dwarves that did not seek out their ancestral homes far to the east, Gror maintains order and provides stability for the people of his realm. The loss of Nogrod and Belegost will forever be a wound that won't fully heal but he is determined to see his people rise again.
 {Gor_effects_desc}+5 Authority, +4 Ambition, +4 Renown, +3 Hitpoints
 ¬--------------------
-{Grain}Biography
+{Grain}Biografía
 {Grain_desc}Son of Gor and heir to the royal throne of Ered Luin, Gráin's heart longs for more than civic duty and long days spent in dark halls. Much to the dismay of his father, he can usually be found exploring the outer regions of the realm of his people, accompanied by his most loyal friends.
 {Grain_effects_desc}+20% Movement Points, +3 Personal Security, +3 Command (Defending)
 ¬--------------------
-{Nar}Biography
+{Nar}Biografía
 {Nar_desc}Clanlord of the Firebeards that remained in Ered Luin, Nar is a loyal servant to Gor and is content as long as he and his fellow dwarves continue to prosper.
 {Nar_effects_desc}+8 Hitpoints, -4 Ambition
 ¬--------------------
@@ -475,7 +475,7 @@
 {KingDead_desc}Se sabe muy poco sobre el Rey de los Muertos, salvo que en un tiempo fue el líder en vida de los hombres de las montañas, el título de Rey parece ser un título autoproclamado otorgado a título póstumo. Aparte de romper su juramento a Isildur y ser maldecido con la no muerte para la eternidad, no ha hecho nada destacable.
 {KingDead_effects_desc}\n- +2 Comando (Atacando)\n- +10% Recuperación de bajas\n- +6 Comando\n- +10 Puntos de vida\n- +10 Ambición\n- +50% Puntos de movimiento
 ¬--------------------
-{Barliman}Biography
+{Barliman}Biografía
 {Barliman_desc}Barliman Butterbur is one of the Bree-folk, most famous for being the host of the Prancing Pony, the best inn in town. Through his many contacts with visitors to Bree, he helps the people of the Bree-land in keeping them informed about the goings-on outside of their borders. With this information, he's aiding the daily administration of the land. Though he is only an innkeeper, his aptitude for war and government will soon be tested in the struggle for survival of Bree and the Free Peoples in Eriador as a whole.
 {Barliman_effects_desc}+2 Authority, +2 Renown, +2 Hitpoints, +4 Loyalty
 ¬--------------------
@@ -575,41 +575,41 @@
 {Gimilkhad_desc}Gimilkhâd es el rey de las ciudades-estado y tribus de descendientes númenóreanos del lejano sur. Su astucia, fuerza y destreza militar le valieron un gran apoyo en su reclamación al trono y ahora pone toda su habilidad al servicio de una gran cruzada para recuperar las tierras que sus antepasados perdieron hace tanto tiempo.
 {Gimilkhad_effects_desc}\n- +2 Autoridad\n- +3 Comando (Al mando de infantería)\n- +1 Renombre\n- +3 Comando\n- +2 Puntos de vida\n- +5 Ambición\n- +1 Seguridad personal
 ¬--------------------
-{Khuzaymah}Biography
+{Khuzaymah}Biografía
 {Khuzaymah_desc}Khûzaymáh is the most ruthless Serpent Lord in recorded history. He holds the loyalty of the Haradrim through subterfuge and brutality unseen since the Second Age. He was born into the ruling tribe and as a young warrior he targeted members of his extended family to ensure their vast wealth fell into his father’s possession. He then inspired an uprising and challenged his father for the throne before the Mouth of Sauron himself. On that day he swore to become the greatest of Sauron’s mortal servants and sealed his ascension with the blood of his kin.\n\nHe has single handily restored the power of the Serpent Tribe and reclaimed much that lost after the defeat at the Poros, rebuilding the tribes dominance of Faen’obel and securing the loyalty of the tribal multitude through a complex web of manipulation, hostage exchange, resource control and outright force. He has steered the Haradrim towards bloody unification and now presses them to war against the enemies of Sauron. Khuzaymah is fanatical in his devotion to the Dark Lord and kindles ambition that is unmatched by any mortal man of this age.
 {Khuzaymah_effects_desc}
 ¬--------------------
-{Utbah}Biography
+{Utbah}Biografía
 {Utbah_desc}Utbah enjoys a privileged position as third in line to the Serpent Lordship, but has suffered no less than his older brother. Exiled as a boy he was forced to crawl out of Faen’obel’s underworld and forced to prove his worth. He then used cunning and guile to survive and uncover a plot to overthrow his father. He sold out the conspirators to regain his place and has since used his intellect to increase his father’s influence over Harad. While he knows his brother will rule one day Utbah has built his own power base and envisions a future for the Haradrim that is as glorious as it is prosperous.\nThus he is a force to be reckoned with, his calculating mind shaping the destiny of Harad Grom the shadows.
 {Utbah_effects_desc}
 ¬--------------------
-{Musab}Biography
+{Musab}Biografía
 {Musab_desc}As the declared heir of Khuzaymah Mûsab has endured near endless challenge and hardship. He has survived assassinations, abductions and attempts to destroy the legacy he will inherit. As a child his own father subjected him to agonizing trials of strength and courage, pitting him against feral beasts, would-be usurpers, and even his own brother. These constant struggles have turned Mûsab into the most brutal warrior in Harad, merciless to his enemies and paranoid of betrayal. He has acted as his father’s chief enforcer since he was old enough to wield a sword and enacts his will with bloody effect.\nHis strong tactics make up for the lack of subtlety, Mûsab is a storm of fury on the battlefield. He dreams of planting the Serpent Banner upon every city in the west.
 {Musab_effects_desc}
 ¬--------------------
-{Aurthumir}Biography
+{Aurthumir}Biografía
 {Aurthumir_desc}Aurthùmir is charged with maintaining the slave trade in all realms of men beneath the shadow. Beneath his mask there is a cold and unyielding servant of the Dark Lord, one who he sees his task as a calling of devotion — to bring the world of men together in bound servitude to his great master. He has enacted the will of Sauron for centuries, preparing for the day when would step from the shadows to draw steel upon the world. Now he is ordered to help expand the domains of shadow from Peligar. He will help guide the Serpent Lord to lay claim to the very people of Gondor and use them to build a new future. One where the rule of Sauron is internal.
 {Aurthumir_effects_desc}
 ¬--------------------
-{Zhagrahil}Biography
+{Zhagrahil}Biografía
 {Zhagrahil_desc}Zhagrahil emerges from the shadows as Sauron’s chosen ruler of the broken and former Kingdom of Gondor. He has risen through the ranks of the Temple to become one of the Dark Lords chosen lieutenants, a servant who will bring his masters vision to light and pull the world into darkness. He has moved between the courts and clans of the south, ensuring that he is always behind the shifting tides of power. He has helped to guide the Serpent Tribe’s most ruthless leaders into positions of strength, helping to secure the rule of the Dark Lord across the Haradwaith. Now he claims his just reward: to guide and build the armies of his master to glory and oversee the fulfillment of Sauron’s destiny to rule the world.
 {Zhagrahil_effects_desc}
 ¬--------------------
-{Tarkumir}Biography
+{Tarkumir}Biografía
 {Tarkumir_desc}Tarkùmir has spent countless years sailing with the pirates and coastal raiders of the south. He has lived a bloody existence among middle earth’s most desperate characters and has made an art of plundering both the protected ports and defenseless villages of the world. Now he steps forward to take command of Harad’s growing naval power in the name of Sauron. He takes savage pride in his work and sees this as his chance to shape the Black Armada as he wishes and extended the reach of the Dark Lord to all corners of middle earth.
 {Tarkumir_effects_desc}
 ¬--------------------
-{Ghali}Biography
+{Ghali}Biografía
 {Ghali_desc}Ghali is one of the seven Chieftains of the Muhad tribe, the first to openly join the Serpent Tribe and swear loyalty to Sauron. Whether by lies or threats, or some great promise of wealth and power, this man has seen the wisdom in tying his fate to Harad. Now he works to bring his the Muhad completely into the fold and hopefully secure their influence as the domain of the Haradrim continues to expand. His status within the Muhad tribe will only grow, with allies in Faen’obel he can expect to one day become the most powerful of chieftains and rule all of the Muhad.
 {Ghali_epithet_desc}the Master of Beasts
 {Ghali_effects_desc}
 ¬--------------------
-{Ubaadah}Biography
+{Ubaadah}Biografía
 {Ubaadah_desc}In the vast land of Far Hard few names are whispered in greater renowned than Ubaadah — the most fearsome Warchief of the Troll-men. For years he has carved a path through Far Harad and the distant lands, putting whole villages to the torch, and innocents therein to the wicked blades of his warband. Stories surround the cruelty of Ubaadah, of how such a man came into this world. Are all Troll-men such ruthless beasts, or did something shape Ubaadah into the force of destruction he is today? Most rumors are baseless, however it is known that he traveled deeper into the Mumakil Gravyard than any before him, perhaps there he encountered something… some dark malevolence that shaped his destiny, or warped his mind to crave death like wine. Most servants of the Serpent Lord follow for glory or greed, but Ubaadah seeks what he would call a ‘greater’ reward: blood, and the carnage of battle.
 {Ubaadah_epithet_desc}the Unforgiven
 {Ubaadah_effects_desc}
 ¬--------------------
-{Khaldoon}Biography
+{Khaldoon}Biografía
 {khaldoon_desc}Khaldoon was raised within the catacombs of Faen’obel, trained from a young age to exact the will of the Hasharii and support the Serpent Tribe’s rule. He has worked in the shadows to expand the influence of the Hasharii throughout the Haradwaith and erase any traitors who would dare turn from the light of Sauron. Now he shoulders the task of bringing Harad’s deadly enforcers to the field of battle. Khaldoon is a cold and heartless man, although his fealty is owed to the Serpent Lord — his true and only master is Sauron himself, for the worship of Harad’s God-King was first practiced by the Hasharii and they have ensured Harad remains faithful since the second age.
 {Khaldoon_epithet_desc}the Assassin
 {Khaldoon_effects_desc}
@@ -619,7 +619,7 @@
 {Traitor_effects_desc}N/A
 {Traitor_epithet_desc}the Traitor
 ¬--------------------
-{Umaarah}Biography
+{Umaarah}Biografía
 {Umaarah_desc}Umaarah is one of the Serpent Lord’s most cunning agents. Sent to secure relations between the Muhad tribe and the Troll-man, he has positioned himself as a powerful emissary between these two factions and Harad’s rulers for a single purpose: to bring the mighty Mumakil back into the fold of Harad’s legions. Now he commands most powerful beasts in middle earth to march to war in the name of his master. It has taken years and careful planning for this moment to arrive, but now at last he claims his reward and rides to war with the blessings of the Serpent Lord upon him!
 {Umaarah_epithet_desc}the Cunning
 {Umaarah_effects_desc}
@@ -640,7 +640,7 @@
 {Ugluk_desc}Uglúk es el primer comandante de los ejércitos de Isengard. Goza de la confianza de Saruman y Sauron, y cumple sin piedad las órdenes de Saruman, decapitando a otro orco para evitar que las órdenes de Saruman sean desobedecidas.
 {Ugluk_effects_desc}\n- +2 Autoridad\n- +2 Comando\n- +5 Puntos de vida\n- +3 Ambición\n- +10% Puntos de movimiento\n- +1 Moral de las tropas
 ¬--------------------
-{Sharku}Biography
+{Sharku}Biografía
 {Sharku_desc}Sharkû is the leader of the Warg-riders of Isengard. Originally hailing from the Misty Mountains, he is veteran chief of a group of marauding Warg-riders who ranged deep into the realms of Gondor and Rohan, sowing panic and fear among Saruman's enemies.
 {Sharku_epithet_desc}of the Misty Mountains
 {Sharku_effects_desc}+2 Command, +3 Command (Commanding Cavalry), +5 Hitpoints
@@ -1029,8 +1029,8 @@
 {HeroAbilityOrcLegion_desc}Puede usar una habilidad especial en el campo de batalla.
 {HeroAbilityOrcLegion_effects_desc}LEGION UNLEASHED\nUsage: Charges 1, Cooldown 60s, Duration 60s\nEffects: +50% Own Army Combat Effectiveness, +3 Own Troops Morale
 ¬--------------------
-{HeroAbilityVintageReserves}Special Ability
-{HeroAbilityVintageReserves_desc}Has Special Ability on the battlefield.
+{HeroAbilityVintageReserves}Habilidad especial
+{HeroAbilityVintageReserves_desc}Puede usar una habilidad especial en el campo de batalla.
 {HeroAbilityVintageReserves_effects_desc}VINTAGE RESERVES\n"Is there any wine left?"\nUsage: Charges 1 Duration 60s\nEffects: Locks Own Army Morale (High), Rallies Own Routing Troops (High)
 ¬--------------------
 {HeroAbilityOrcWhiping}Habilidad especial
@@ -1073,12 +1073,12 @@
 {HeroAbilityWitchKing_desc}Puede usar una habilidad especial en el campo de batalla.
 {HeroAbilityWitchKing_effects_desc}TERROR OF THE WITCH-KING\nUsage: Charges 1, Cooldown: 180s, Duration 30s\nEffects: 50% Chance of Temporary Enemy Infighting, Permanently Reduced Enemy Morale
 ¬--------------------
-{HeroAbilityBoromir}Special Ability
-{HeroAbilityBoromir_desc}Has Special Ability on the battlefield.
+{HeroAbilityBoromir}Habilidad especial
+{HeroAbilityBoromir_desc}Puede usar una habilidad especial en el campo de batalla.
 {HeroAbilityBoromir_effects_desc}SON OF GONDOR\nUsage: Charges 1, Duration 120s\nEffects: -500 Own Army Fatigue (Permanent), +50% Own Army Combat Effectiveness, +2 Own Army Morale
 ¬--------------------
-{HeroAbilityFaramir}Special Ability
-{HeroAbilityFaramir_desc}Has Special Ability on the battlefield.
+{HeroAbilityFaramir}Habilidad especial
+{HeroAbilityFaramir_desc}Puede usar una habilidad especial en el campo de batalla.
 {HeroAbilityFaramir_effects_desc}THE GENTLE WARRIOR\nUsage: Charges 2, Cooldown: 60s, Duration 60s\nEffects: -150 Own Army Fatigue (Permanent), -25% Enemy Army Combat Effectiveness
 ¬--------------------
 ¬##########################################################
@@ -2089,7 +2089,7 @@
 ¬--------------------
 {Good_at_the_Walls}Bueno en las murallas
 {Good_at_the_Walls_desc}Este hombre tiene una comprensión básica de cómo mantener a raya a un enemigo asediante.
-{Good_at_the_Walls_effects_desc}\n- Sin efecto
+{Good_at_the_Walls_effects_desc}
 {Strong_at_the_Walls}Fuerte en las murallas
 {Strong_at_the_Walls_desc}Este hombre sabe muy bien cómo defender un asentamiento.
 {Strong_at_the_Walls_effects_desc}\n- +1 Comando (Defendiendo murallas)
@@ -2114,7 +2114,7 @@
 ¬--------------------
 {Wall_Taker}Susurrador de murallas
 {Wall_Taker_desc}Este hombre ha demostrado que sabe detectar el lugar adecuado para asaltar un asentamiento.
-{Wall_Taker_effects_desc}\n- Sin efecto
+{Wall_Taker_effects_desc}
 {Siege_Expert}Experto en asedio
 {Siege_Expert_desc}Ha demostrado ser un hombre fiable para comandar un asalto a las murallas de la ciudad.
 {Siege_Expert_effects_desc}\n- +1 Comando (Atacando murallas)
@@ -2149,7 +2149,7 @@
 ¬--------------------
 {Calm_When_Outnumbered}Calmado en inferioridad
 {Calm_When_Outnumbered_desc}No se deja llevar por el pánico al ver que un ejército más numeroso se le echa encima, sino que elige el mejor lugar para plantar cara.
-{Calm_When_Outnumbered_effects_desc}+1 Command (Defending)
+{Calm_When_Outnumbered_effects_desc}\n- +1 Comando (Defendiendo)
 {Determined_in_Defence}Determinado en defensa
 {Determined_in_Defence_desc}Es astuto en la selección del terreno defensivo y en cómo mantenerlo frente a oleadas de atacantes.
 {Determined_in_Defence_effects_desc}\n- +1 Moral de las tropas\n- +1 Comando (Defendiendo)
@@ -3971,7 +3971,7 @@
 ¬--------------------
 {Social_Smoker}Social Smoker
 {Social_Smoker_desc}Enjoys spending time smoking pipe-weed with his companions.
-{Social_Smoker_effects_desc}+1 Public Happiness
+{Social_Smoker_effects_desc}\n- +1 Felicidad pública
 {Social_Smoker_lose_desc}This man has grown a distate for smoking pipe-weed.
 {Recreational_Smoker}Recreational Smoker
 {Recreational_Smoker_desc}Has grown fond of smoking pipe-weed and sampling new flavours and varieties.
@@ -4580,7 +4580,7 @@
 {Blademaster_desc}A respected blademaster of the Dunedain, skilled in the arts of swordsmanship and combat.
 {Blademaster_effects_desc}+5 Hitpoints, +2 Troop Morale
 ¬---------------
-{DwarvenEngineer}Engineer
+{DwarvenEngineer}Ingeniero
 {DwarvenEngineer_desc}A ingenious engineer of the Dwarves, skilled in the arts of engineering and construction.
 {DwarvenEngineer_effects_desc}+10 Siege Points, +5 Command (Attacking Walls)
 ¬--------------------
@@ -4590,7 +4590,7 @@
 ¬---------------
 {Miner}Miner
 {Miner_desc}A veteran miner of the Dwarves, skilled in the arts of mining and excavation.
-{Miner_effects_desc}+30% Mining Income
+{Miner_effects_desc}\n- +30% Ingresos por minería
 ¬---------------
 {Slayer}Slayer
 {Slayer_desc}An esteemed warrior of the Dwarves, skilled in the arts of warfare and combat.
@@ -4608,11 +4608,11 @@
 {Herald_desc}An esteemed representative of the Elves, skilled in the arts of diplomacy and leadership.
 {Herald_effects_desc}+5 Authority, +5 Public Order, +5 Acumen
 ¬---------------
-{Gwathredir}Biography
+{Gwathredir}Biografía
 {Gwathredir_desc}What little is known of Hervail, even less is known of Gwathredir. The men of Dorwinion know well enough to not enter the Mountains of Mithrin - for none return. Until soemthing changes, it's likely the Avari and their Elders will remain shrouded in mystery.
 {Gwathredir_effects_desc}
 ¬---------------
-{Hervail}Biography
+{Hervail}Biografía
 {Hervail_desc}Little is known of Hervail, Elder of the Avari "native" to the forests of Dorwinion. The little information that has been gleaned is that they are likely distant cousins of those who dwell in the Mountains of Mithrin. Who takes commands from who, if there is even any heriarchy, is unknown. Hervail and his people have not been treatied with since the days of Hawin's ancestors and any knowledge that might have been passed down was long forgotten.
 {Hervail_effects_desc}
 ¬---------------

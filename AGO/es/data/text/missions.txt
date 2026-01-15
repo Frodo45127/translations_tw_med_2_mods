@@ -263,11 +263,11 @@
 {council_take_settlement_FAILURE}No habéis tomado esta población. Tal vez hayáis pensado que no es el momento adecuado para ampliar nuestras fronteras.
 {council_take_settlement_SUCCESS}Enhorabuena, habéis conquistado esta población y habéis ampliado nuestro imperio.
 {guild_take_settlement_TITLE}Tomar una población
-{guild_take_settlement_PROPOSAL}It is time to further our great empire by extending our borders. The Council suggests you take this settlement for the glory of the nation.
-{guild_take_settlement_EXPIRY_LOST}Another has taken this settlement.
-{guild_take_settlement_EXPIRY_ALLIED}This faction has become an ally; you are no longer required to take it.
-{guild_take_settlement_FAILURE}You have failed to take this settlement; perhaps you felt it was not the right time to expand our borders?
-{guild_take_settlement_SUCCESS}Congratulations, you have successfully taken this settlement, and extended our Empire.
+{guild_take_settlement_PROPOSAL}Es hora de expandir nuestro gran imperio más allá de nuestras fronteras. El consejo os sugiere que toméis esta población para mayor gloria de la nación.
+{guild_take_settlement_EXPIRY_LOST}Otro ha tomado esta población.
+{guild_take_settlement_EXPIRY_ALLIED}Esta facción se ha convertido en nuestra aliada. Ya no tenéis que conquistar la población.
+{guild_take_settlement_FAILURE}No habéis tomado esta población. ¿Quizás creíais que no era el momento adecuado para ampliar nuestras fronteras?
+{guild_take_settlement_SUCCESS}Enhorabuena, habéis conquistado esta población y habéis ampliado nuestro imperio.
 {gift_from_council_TITLE}Un regalo del consejo
 {gift_from_council_PROPOSAL}El consejo está muy impresionado con tus dotes de liderazgo y le gustaría que aceptases esta humilde ofrenda como símbolo de las empresas pasadas y de las futuras.
 {council_marry_princess_TITLE}Petición de la mano de la princesa
