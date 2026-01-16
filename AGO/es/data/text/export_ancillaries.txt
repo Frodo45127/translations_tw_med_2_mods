@@ -269,7 +269,7 @@
 {oath_eorl_desc}Este diplomático lleva una pieza de madera tallada en conmemoración del juramento entre Gondor y Rohan de ayudarse mutuamente en tiempos de crisis. Esta ficha es la prueba de ese juramento y las cortes extranjeras respetan la dedicación de las dos naciones, lo que permite a su portador tener una mayor influencia.
 {oath_eorl_effects_desc}\n- +1 Influencia
 ¬-----
-{beorning_guard}Guardia beórnido
+{beorning_guard}Guardia beórnida
 {beorning_guard_desc}One should think twice before deciding to attack or hinder a diplomat with this guard. Beorning warriors are famous for their strength and stamina, but once they reveal their true powers, a foe's situation will become unbearable.
 {beorning_guard_effects_desc}\n- +2 Seguridad personal
 ¬-----
@@ -494,7 +494,7 @@
 {dale_network_effects_desc}Red de espionaje de Dale
 ¬-----
 {anduin_network}Red de espionaje del Anduin
-{anduin_network_desc}Esta red de espionaje te avisará si el Anillo Único acaba en las manos de un general de los beórnidos.
+{anduin_network_desc}Esta red de espionaje te avisará si el Anillo Único acaba en las manos de un general de los beórnidas.
 {anduin_network_effects_desc}Red de espionaje del Anduin
 ¬-----
 {dorwinion_network}Red de espionaje de Dorwinion
@@ -2702,7 +2702,7 @@
 ¬---------------
 ¬############### VOA descriptions ######################
 {beorning_banner}Estandarte beórnida
-{beorning_banner_desc}Un estandarte marrón con una garra de oso negra muestra claramente el signo de los beórnidos.
+{beorning_banner_desc}Un estandarte marrón con una garra de oso negra muestra claramente el signo de los beórnidas.
 {beorning_banner_effects_desc}\n- +2 Moral de las tropas
 ¬---------------
 {woodmen_spear}Lanza de los hombres del bosque
@@ -2710,11 +2710,11 @@
 {woodmen_spear_effects_desc}\n- +1 Comando (Defendiendo)
 ¬---------------
 {beorning_horn}Cuerno beórnida
-{beorning_horn_desc}Este gran cuerno utilizado por los beórnidos da una inyección de moral a todas las tropas cercanas.
+{beorning_horn_desc}Este gran cuerno utilizado por los beórnidas da una inyección de moral a todas las tropas cercanas.
 {beorning_horn_effects_desc}\n- +1 Comando (Defendiendo)\n- +2 Moral de las tropas
 ¬---------------
 {beorning_axe}Hacha beórnida
-{beorning_axe_desc}Esta persona porta una poderosa hacha utilizada en combate por los temibles beórnidos.
+{beorning_axe_desc}Esta persona porta una poderosa hacha utilizada en combate por los temibles beórnidas.
 {beorning_axe_effects_desc}\n- +1 Comando\n- +2 Moral de las tropas
 ¬---------------
 {enemy_banners}Estandartes enemigos capturados
@@ -2738,7 +2738,7 @@
 {warg_coat_effects_desc}\n- +1 Puntos de vida\n- +1 Moral de las tropas
 ¬---------------
 {bear}Oso
-{bear_desc}Algunos beórnidos se han ganado la confianza de los Osos salvajes, un animal así puede ser un sirviente útil y fiel, se dice que son tan fuertes, que pueden igualar a los Gigantes.
+{bear_desc}Algunos beórnidas se han ganado la confianza de los Osos salvajes, un animal así puede ser un sirviente útil y fiel, se dice que son tan fuertes, que pueden igualar a los Gigantes.
 {bear_effects_desc}\n- +1 Autoridad\n- +3 Puntos de vida\n- +1 Línea de visión\n- +1 Seguridad personal
 ¬---------------
 {beorning_chieftain}Cacique beórnida

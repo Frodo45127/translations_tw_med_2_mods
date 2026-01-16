@@ -1519,7 +1519,7 @@
 {ENGLAND_UNIT}Olog-Hai
 {TEUTONIC_ORDER_UNIT}Forestales de Haleth
 {IRELAND_UNIT}Mariscales de Lórien
-{SCOTLAND_UNIT}Tiradones bardinos
+{SCOTLAND_UNIT}Tiradores bárdidos
 {FRANCE_UNIT}Troles de la mano blanca
 {HRE_UNIT}Troles de cueva
 {SPAIN_UNIT}Mûmakil

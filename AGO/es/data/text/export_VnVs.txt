@@ -814,8 +814,8 @@
 {Rouadengi_desc}These men are of Rouadengi descent, born in the heartlands and on the coasts of Dorwinion.
 {Rouadengi_effects_desc}+20% Taxes Income, +2 Farming
 ¬--------------------
-{BeorningRace}Beórnido
-{BeorningRace_desc}Esta persona es un beórnido, y ha servido a Beorn y sus descendientes desde su nacimiento. Es capaz de transformarse en un oso.
+{BeorningRace}Beórnida
+{BeorningRace_desc}Esta persona es un beórnida, y ha servido a Beorn y sus descendientes desde su nacimiento. Es capaz de transformarse en un oso.
 {BeorningRace_effects_desc}\n- +2 Puntos de vida\n- +1 Comando (Atacando)\n- +1 Línea de visión
 ¬--------------------
 {Woodman}Hombre del bosque

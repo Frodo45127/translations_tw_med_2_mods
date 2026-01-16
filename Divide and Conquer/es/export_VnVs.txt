@@ -538,7 +538,7 @@
 {Dorwinrim}Dorwinio
 {Dorwinrim_desc}Northman from lands of Dorwinion.
 ¬--------------------
-{BeorningRace}Beórnido
+{BeorningRace}Beórnida
 {BeorningRace_desc}This person is a Beorning, and has served Beorn and his descendants since his birth. He is able to transform himself into a bear and lays claim to a long tradition of bee-keeping and animal husbandry.
 {BeorningRace_effects_desc}\n- +2 Puntos de vida\n- +1 Comando (Atacando)\n- +1 Agricultura
 ¬--------------------
