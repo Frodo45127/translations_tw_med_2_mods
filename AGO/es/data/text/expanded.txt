@@ -1638,7 +1638,7 @@
 {POLAND_UNIT}Castellanos de Dol Guldur
 {HUNGARY_UNIT}Guardia Martillo dorada
 {PAPAL_STATES_UNIT}Boca de Sauron
-{AZTECS_UNIT}Juramentados de la torre del Isen
+{AZTECS_UNIT}Juramentados de la torre isendraich
 {MONGOLS_UNIT}Hin e-Daur
 {TIMURIDS_UNIT}Caballería éothéod
 {EMT_ARMOUR_LEVEL_0}Ninguno
