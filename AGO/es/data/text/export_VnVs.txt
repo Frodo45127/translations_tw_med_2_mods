@@ -121,73 +121,73 @@
 {Forest_Boost_desc}Quien vive en el bosque el tiempo suficiente no tiene problemas para atravesarlo.
 {Forest_Boost_effects_desc}\n- +30% Puntos de movimiento
 ¬--------------------
-{IsengardEmmisary_gov}Hand of Isengard
+{IsengardEmmisary_gov}Mano de Isengard
 {IsengardEmmisary_gov_desc}This man is an Isengard Inquisitor, sent to Dunland to keep the unruly population in check and to ensure that they remain loyal to the interests of Isengard. He is a stern and efficient enforcer, feared by many of the locals for his ruthless tactics and unforgiving nature. He wears the White Hand of Isengard proudly and bears the authority of Saruman himself, ready to do whatever it takes to maintain order and crush any dissent.
-{IsengardEmmisary_gov_epithet_desc}the Hand of Isengard
-{IsengardEmmisary_gov_effects_desc}Auto-generated
+{IsengardEmmisary_gov_epithet_desc}la Mano de Isengard
+{IsengardEmmisary_gov_effects_desc}Autogenerado
 ¬--------------------
-{IsengardEmmisary_battle}Fist of Isengard
+{IsengardEmmisary_battle}Puño de Isengard
 {IsengardEmmisary_battle_desc}This Isengard Inquisitor is a hardened veteran of countless battles, who has come to Dunland to aid in their war efforts. His grim demeanour and ruthless tactics make him a fearsome sight on the battlefield. He is known to instil fear and discipline in the ranks of Dunlending warriors, and his presence alone can turn the tide of a battle. His ultimate goal is to help the Dunlendings emerge victorious in their struggle against Rohan, and to establish Isengard's dominance over the region.
-{IsengardEmmisary_battle_epithet_desc}the Fist of Isengard
-{IsengardEmmisary_battle_effects_desc}Auto-generated
+{IsengardEmmisary_battle_epithet_desc}el Puño de Isengard
+{IsengardEmmisary_battle_effects_desc}Autogenerado
 ¬--------------------
-{Right_gov_dunland}Right Governor
+{Right_gov_dunland}Gobernador correcto
 {Right_gov_dunland_desc}This trait represents a leader who shares the same ethnicity as the people they are ruling over. When a matching governor is installed, the population is more likely to be content with their leadership, as they feel understood and represented by their governor.\n\nIt is important to carefully consider the ethnicity of the governor when assigning them to rule over a settlement. A mismatched governor can lead to unrest and rebellion, while a matching governor can provide stability and contentment among the people.
-{Right_gov_dunland_effects_desc}+25% Public Order, +2% Tax Income, -5% Unit Training Costs
+{Right_gov_dunland_effects_desc}\n- +25% Orden público\n- +2% Ingresos por impuestos\n- -5% Coste de reclutamiento de unidades
 ¬--------------------
-{Wrong_gov_dunland}Wrong Governor
+{Wrong_gov_dunland}Gobernador equivocado
 {Wrong_gov_dunland_desc}The "Wrong Governor" trait represents the dissatisfaction felt by the population of a settlement when they are ruled by a leader who does not share their politics. This can lead to unrest and rebellion, as the people feel oppressed by a leader who does not understand or care about their culture.\n\nIt is important to carefully consider the ethnicity of the governor when assigning them to rule over a settlement. A mismatched governor can lead to unrest and rebellion, while a matching governor can provide stability and contentment among the people.
-{Wrong_gov_dunland_effects_desc}-25% Public Order, -1% Trading Income, -2% Tax Income
+{Wrong_gov_dunland_effects_desc}\n- -25% Orden público\n- -1% ingresos por comercio\n- -2% Ingresos por impuestos
 ¬--------------------
 {Wulfingir}Wulfingir
 {Wulfingir_desc}This man belongs to the Wulfingir, the proud and powerful tribal nobility of Dunland. They are the native-born rulers of their land, claiming descent from the great warrior Wulf, who fought and conquered his enemies with ferocity and cunning. The Wulfingir are fiercely independent and value their heritage above all else, seeking to preserve their traditional way of life and protect their land from all who would threaten it. Should this man prove himself worthy, he may ascend to the position of Gurach and lead his people as a true chieftain. His status as a Wulfingir makes him a "proper" ruler in the eyes of his kin, and his authority will be respected by all who acknowledge the power of Dunlending nobility. He is likely to be seen as a symbol of strength and stability, and his rule will be accepted more readily by newly integrated populations.\n\nAs a true Dunlending, he is a skilled and fearsome warrior, fighting with a ferocity and determination that comes from years of inter-tribal warfare and bloody raids on neighbouring lands. His experience on the battlefield makes him a competent and capable leader of infantry, able to inspire and command his troops with confidence and skill. Overall, the Wulfingir are a powerful and respected force within Dunlending society, and their rule is feared and respected by all who would challenge their authority.
-{Wulfingir_effects_desc}+1 Hitpoints, +2 Command(Infantry), +2% Tax Income
-{Wulfingir_epithet_desc}of the Wulfingir
+{Wulfingir_effects_desc}\n- +1 Puntos de vida\n- +2 Comando (Infantería)\n- +2% Ingresos por impuestos
+{Wulfingir_epithet_desc} de los Wulfingir
 ¬--------------------
 {Frekkalingir}Frekkalingir
 {Frekkalingir_desc}This man is of the Frekkalingir, a unique group in Dunland that claims descent from Freca's Rohirric retainers. Though not considered part of the native nobility of the Wulfingir, the Frekkalingir still hold a high position in Dunlending society, with their power deriving not from clan-bonds and tribal relations, but solely from their loyalty to the ruling Gurach. This man is a skilled horseman, having grown up riding heavily-armoured steeds that are rare and highly valued in Dunland.\n\nHis mixed heritage, however, may pose a challenge to his rule, as all  proper Dunlendings view the Frekkalingir with suspicion due to their partially Rohirric heritage. This may lead to unrest and opposition to his leadership, especially if he were to become Gurach. Despite this, he can still draw on his unique perspective to navigate the complex political landscape of Dunland, and his familiarity with commanding other riders in battle makes him a valuable asset to any army he leads.
-{Frekkalingir_effects_desc}+1 Hitpoints, +2 Command(Cavalry), +5% Farming Income
-{Frekkalingir_epithet_desc}of the Frekkalingir
+{Frekkalingir_effects_desc}\n- +1 Puntos de vida\n- +2 Comando (Caballería)\n- +5% Ingresos por agricultura
+{Frekkalingir_epithet_desc}de los Frekkalingir
 ¬--------------------
 {Dunforgoil}Dunforgoil
 {Dunforgoil_desc}This man belongs to the Dunforgoil, a half-blood population born from the union of Rohirrim and Dunlendings. Their existence is a testament to the complex and often hostile relationship between these two peoples. The Dunforgoil are a proud and fierce people, possessing both the courage and skill of the Rohirrim and the cunning and tenacity of the Dunlendings. They fight on horseback, a skill that sets them apart from their pure-blooded Dunlending kin. But there is a deep hatred that runs between the Dunlendings and the Rohirrim, a feud that stretches back many years. The Dunlendings have long resented the Rohirrim for taking their lands, and this hatred has only grown.\n\nThis hatred is particularly strong among the pure-blooded Dunlendings, who see the Dunforgoil as a reminder of their loss and humiliation. The Dunforgoil themselves often struggle with their dual heritage, torn between their loyalty to the Dunlending clans and their ties to Rohan. This man, as a Dunforgoil, possesses the traits of both peoples. He is a skilled horseman and a formidable warrior, feared by his enemies and respected by his kin. But his position is not without peril. If he were to ascend to the position of Gurach, ruler of the Dunlending clans, he would have to navigate the treacherous waters of Dunlending politics, where the hatred for the Rohirrim runs deep and the spectre of civil war looms always on the horizon. In battle, this man fights with the fury of the Dunlendings and the honour of the Rohirrim.
-{Dunforgoil_effects_desc}+1 Hitpoints, +1 Command(Cavalry), +2 Command Fighting Rohan
-{Dunforgoil_epithet_desc}of the Dunforgoil
+{Dunforgoil_effects_desc}\n- +1 Puntos de vida\n- +1 Comando (Caballería)\n- +2 Comando al luchar contra Rohan
+{Dunforgoil_epithet_desc}de los Dunforgoil
 ¬--------------------
 {Isendraich}Isendraich
 {Isendraich_desc}This man is of the Isendraich, a tribe with roots that stretch back to the garrison of Isengard. His bloodline is a blend of Dunnish and other influences, and he has grown up in an environment that values discipline, cunning and strength. As such, he is a skilled leader and strategist on the battlefield, and will bring a measure of order to any settlement under his command. However, the Isendraich have long been seen as outsiders by other Dunlending tribes, and there are many who resent their presence and influence.\n\nIf this man were to rise to the position of Gurach, the tension between the Isendraich and the rest of Dunlending society could boil over into open conflict, resulting in a civil war that could tear the realm apart. Despite his abilities as a ruler, his background may cause him to be viewed with suspicion by some, making it difficult for him to gain the trust and loyalty of all those he seeks to govern.
-{Isendraich_effects_desc}+2 Hitpoints, +2% Tax Income, -5% Public Order
-{Isendraich_epithet_desc}of the Isendraich
+{Isendraich_effects_desc}\n- +2 Puntos de vida\n- +2% Ingresos por impuestos\n- -5% Orden público
+{Isendraich_epithet_desc}de los Isendraich
 ¬--------------------
-{Ambition_Level_1}Unambitious (1-2 Ambition)
+{Ambition_Level_1}Poco ambicioso (1-2 de ambición)
 {Ambition_Level_1_desc}This general lacks ambition and is content with a simpler lifestyle.
 {Ambition_Level_1_effects_desc}\n- -1 Seguridad personal\n- -1 Comando\n- -1 Moral\n- -5% Ingresos por impuestos
-{Ambition_Level_2}Reserved (3-4 Ambition)
+{Ambition_Level_2}Reservado (3-4 de ambición)
 {Ambition_Level_2_desc}This general has some level of ambition but is cautious about taking risks.
 {Ambition_Level_2_effects_desc}
-{Ambition_Level_3}Moderately Ambitious (5-6 Ambition)
+{Ambition_Level_3}Moderadamente ambicioso (5-6 de ambición)
 {Ambition_Level_3_desc}This general has a reasonable level of ambition and is willing to take calculated risks.
 {Ambition_Level_3_effects_desc}\n- +3% Ingresos por impuestos\n- +1 Comando
-{Ambition_Level_4}Ambitious (7-8 Ambition)
+{Ambition_Level_4}Ambicioso (7-8 de ambición)
 {Ambition_Level_4_desc}This general has a high level of ambition and is determined to succeed.
 {Ambition_Level_4_effects_desc}\n- +5% Ingresos por impuestos\n- +5% Puntos de movimiento\n- +5% Orden público\n- +1 Comando\n- +1 Moral
-{Ambition_Level_5}Highly Ambitious (9-10 Ambition)
+{Ambition_Level_5}Muy ambicioso (9-10 de ambición)
 {Ambition_Level_5_desc}This general is highly ambitious and will stop at nothing to achieve their goals.
 {Ambition_Level_5_effects_desc}\n- +8% Ingresos por impuestos\n- +5% Puntos de movimiento\n- +10% Orden público\n- +2 Comando\n- +2 Moral
 ¬--------------------
-{Renown_Level_1}Unknown General (1-2 Renown)
+{Renown_Level_1}General desconocido (1-2 de renombre)
 {Renown_Level_1_desc}This general is relatively unknown and has yet to make a name for themselves. Their lack of renown may make it difficult to rally troops or inspire confidence in their leadership.
 {Renown_Level_1_effects_desc}\n- -5% Orden público\n- -1 Comando\n- -2 Moral
-{Renown_Level_2}Greenhorn (3-4 Renown)
+{Renown_Level_2}Novato en ascenso (3-4 de renombre)
 {Renown_Level_2_desc}This general has begun to make a name for themselves, but they still have a long way to go before becoming a household name. Their level of renown may make it slightly harder to gain the respect of their troops and allies.
 {Renown_Level_2_effects_desc}\n- -1 Comando\n- -1 Moral
-{Renown_Level_3}Veteran (5-6 Renown)
+{Renown_Level_3}Veterano (5-6 de renombre)
 {Renown_Level_3_desc}This general has achieved a respectable level of renown, having gained recognition for their military and leadership abilities. They are well-known among their peers and troops.
 {Renown_Level_3_effects_desc}
-{Renown_Level_4}Heroic (7-8 Renown)
+{Renown_Level_4}Heróico (7-8 de renombre)
 {Renown_Level_4_desc}This general is well-known and respected throughout the realm, having earned a reputation as a skilled and charismatic leader. Their renown may inspire their troops to fight harder and boost public order in the areas they govern.
 {Renown_Level_4_effects_desc}\n- +5% Orden público\n- +1 Comando\n- +1 Moral
-{Renown_Level_5}Legendary (9-10 Renown)
+{Renown_Level_5}Legendario (9-10 de renombre)
 {Renown_Level_5_desc}This general is a legendary figure, renowned throughout the land for their military prowess and leadership abilities. Their reputation precedes them and inspires awe in their enemies and allies alike.
 {Renown_Level_5_effects_desc}\n- +10% Orden público\n- +2 Comando\n- +2 Moral\n- +1 Puntos de vida
 ¬--------------------
@@ -195,49 +195,49 @@
 {Ring_Wearer_desc}This general is in control of the One Ring. As the one who possesses the One Ring, this general has gained an immense amount of power and influence. With the Ring under their control, they are able to exert their will upon others and command great respect and fear. However, the Ring also corrupts its bearer, tempting them with promises of ultimate power and domination, and twisting their thoughts and desires towards darkness. While the Ring grants great strength and abilities, it also puts its bearer in grave danger and makes them vulnerable to attack from their enemies.
 {Ring_Wearer_effects_desc}\n- +5 Autoridad\n- +3 Comando\n- +2 Salud\n- +5 Puntos de vida\n- +2 Ambición\n- -3 Perspicacia
 ¬--------------------
-{VeryBadOmens}Very bad sacrificial omens
+{VeryBadOmens}Presagios sacrificiales muy aciagos
 {VeryBadOmens_desc}The sacrificial rites have been performed, but the results are foreboding. The gods do not smile on us this day. The entrails reveal a terrible fate for those who march towards battle, and the wisest course of action is to avoid combat at all cost.
-{VeryBadOmens_effects_desc}-3 Command(Attacking), -5 Morale
-{BadOmens}Bad sacrificial omens
+{VeryBadOmens_effects_desc}\n- -3 Comando (Atacando)\n- -5 Moral
+{BadOmens}Presagios sacrificiales aciagos
 {BadOmens_desc}The sacrificial rites have been performed, but the omens are not favourable. We should wait until the gods favour an attack. It is better to hold our ground and prepare for the right time to strike.
-{BadOmens_effects_desc}-1 Command(Attacking), -2 Morale
-{GoodOmens}Good sacrificial omens
+{BadOmens_effects_desc}\n- -1 Comando (Atacando)\n- -2 Moral
+{GoodOmens}Presagios sacrificiales favorables
 {GoodOmens_desc}The sacrificial rites have been performed, and the omens are favourable. The gods are with us, and it is time to strike the enemy and raid their lands!
-{GoodOmens_effects_desc}+1 Command(Attacking), +2 Morale
-{VeryGoodOmens}Very good sacrificial omens
+{GoodOmens_effects_desc}\n- +1 Comando (Atacando)\n- +2 Moral
+{VeryGoodOmens}Presagios sacrificiales muy favorables
 {VeryGoodOmens_desc}The sacrificial rites have been performed, and the gods have blessed us with auspicious signs. Every omen points to a holy victory on the field of battle, and our foes shall tremble before our righteous might!
-{VeryGoodOmens_effects_desc}+3 Command(Attacking), +5 Morale
+{VeryGoodOmens_effects_desc}\n- +3 Comando (Atacando)\n- +5 Moral
 ¬--------------------
-{DaenRaider1}Unblooded
+{DaenRaider1}Sin sangre
 {DaenRaider1_desc}This Dunlending is yet to lead any raids but is eager to prove themselves to their tribe and establish their reputation as a fearsome raider.
 {DaenRaider1_gain_desc}This Dunlending is yet to lead any raids but is eager to prove themselves to their tribe and establish their reputation as a fearsome raider.
-{DaenRaider1_effects_desc}-2 Command, -4 Morale, -2 Public Order, +1 Unrest
-{DaenRaider2}Blooded
+{DaenRaider1_effects_desc}\n- -2 Comando\n- -4 Moral\n- -2 Orden público\n- +1 Malestar
+{DaenRaider2}Ensangrentado
 {DaenRaider2_desc}This Dunlending has made their mark as a successful raider, bringing in loot and captives for their tribe. They have gained respect and recognition from their fellow raiders.
 {DaenRaider2_gain_desc}This Dunlending has made their mark as a successful raider, bringing in loot and captives for their tribe. They have gained respect and recognition from their fellow raiders.
-{DaenRaider2_effects_desc}-2 Morale, +3% Looting gain
-{DaenRaider3}Feeds the Crebain
+{DaenRaider2_effects_desc}\n- -2 Moral\n- +3% Ingresos por saqueos
+{DaenRaider3}Alimento de Crebain
 {DaenRaider3_desc}This Dunlending has risen to the top of the ranks as a skilled raider. They have a reputation for being particularly brutal, feeding their captives to the Crebain as a show of dominance and fearlessness.
 {DaenRaider3_gain_desc}This Dunlending has risen to the top of the ranks as a skilled raider. They have a reputation for being particularly brutal, feeding their captives to the Crebain as a show of dominance and fearlessness.
-{DaenRaider3_effects_desc}+2 Morale, +5% Looting gain, -10% Unit Costs
-{DaenRaider4}Warchief
+{DaenRaider3_effects_desc}\n- +2 Moral\n- +5% Ingresos por saqueos\n- -10% Coste de unidades
+{DaenRaider4}Señor de la guerra
 {DaenRaider4_desc}This Dunlending has earned the respect and loyalty of their tribe as a skilled leader and strategist. They lead successful raids and battles against rival factions.
 {DaenRaider4_gain_desc}This Dunlending has earned the respect and loyalty of their tribe as a skilled leader and strategist. They lead successful raids and battles against rival factions.
-{DaenRaider4_effects_desc}+4 Morale, +10% Looting gain, -20% Unit Costs, +1 Command
-{DaenRaider5}Notorious Warlord
+{DaenRaider4_effects_desc}\n- +4 Moral\n- +10% Ingresos por saqueos\n- -20% Coste de unidades\n- +1 Comando
+{DaenRaider5}Señor de la guerra famoso
 {DaenRaider5_desc}This Dunlending has become notorious for their raiding and conquests, striking fear into the hearts of their enemies. They have amassed significant wealth and power, and many seek to ally with or challenge them.
 {DaenRaider5_gain_desc}This Dunlending has become notorious for their raiding and conquests, striking fear into the hearts of their enemies. They have amassed significant wealth and power, and many seek to ally with or challenge them.
-{DaenRaider5_effects_desc}+6 Morale, +15% Looting gain, -30% Unit Costs, +2 Command, +1 Hit Points
-{DaenRaider6}Legendary Reaver
+{DaenRaider5_effects_desc}\n- +6 Moral\n- +15% Ingresos por saqueos\n- -30% Coste de unidades\n- +2 Comando\n- +1 Puntos de vida
+{DaenRaider6}Segador legendario
 {DaenRaider6_desc}This Dunlending has achieved legendary status as a raider, with tales of their exploits spreading far and wide throughout Middle-earth. They are a feared and respected figure, with the ability to sway the course of battles and influence the fate of entire factions.
 {DaenRaider6_gain_desc}This Dunlending has achieved legendary status as a raider, with tales of their exploits spreading far and wide throughout Middle-earth. They are a feared and respected figure, with the ability to sway the course of battles and influence the fate of entire factions.
-{DaenRaider6_epithet_desc}the Reaver of Men
-{DaenRaider6_effects_desc}+8 Morale, +20% Looting gain, -40% Unit Costs, +3 Command, +2 Hit Points
+{DaenRaider6_epithet_desc}el Segador de Hombres
+{DaenRaider6_effects_desc}\n- +8 Moral\n- +20% Ingresos por saqueos\n- -40% Coste de unidades\n- +3 Comando\n- +2 Puntos de vida
 ¬--------------------
 {MoriaInquisitor}Inquisidor de Mordor
 {MoriaInquisitor_desc}Chieftain Radzag, a ruthless and cunning leader among the minions of the Dark Lord, has been given a critical mission to fulfil. He has been dispatched to the treacherous Misty Mountains, a land of peril and perilous peaks, to carry out a grave task that will earn him the favour of his dark master. His orders are to track down and destroy any remaining High Elves that still resist the will of Sauron, and to locate and eliminate the supposed Heir of Isildur, a figure of great importance and a threat to the evil designs of the Dark Lord. With his savage horde of orcs and other foul creatures at his command, Chieftain Radzag will stop at nothing to complete his mission and strike fear into the hearts of his enemies.
 {MoriaInquisitor_effects_desc}\n- +2 Comando\n- +2 Moral de las tropas
-{MoriaInquisitor_epithet_desc}the Inquisitor
+{MoriaInquisitor_epithet_desc}el Inquisidor
 ¬--------------------
 {Aragorn}Biografía
 {Aragorn_desc}Tras la muerte de su padre Arathorn a manos de los orcos, Aragorn fue acogido en Rivendel por Elrond. A partir de entonces, Aragorn asumió el papel que le correspondía como decimosexto capitán de los Dúnedain, los montaraces del Norte, y se internó en la naturaleza, donde viven los restos de su pueblo. Aunque su reino fue destruido por guerras civiles y regionales siglos atrás, los Dúnedain del Norte siguen siendo leales a Aragorn y comprometidos con la lucha contra la sombra.
@@ -276,7 +276,7 @@
 ¬--------------------
 {Berethor}Biografía
 {Berethor_desc}Berethor, exiled, along with his wife Morwen, when he failed to retake Osgiliath from Sauron's forces, was a once greatly respected general in the lands of Gondor. With Osgiliath recaptured, he has been pardoned and returns to serve the Steward once again.
-{Berethor_effects_desc}+4 Renown, +4 Command, +5 Hitpoints
+{Berethor_effects_desc}\n- +4 Renombre\n- +4 Comando\n- +5 Puntos de vida
 ¬--------------------
 {Celeborn}Biografía
 {Celeborn_desc}Celeborn es el esposo élfico de Galadriel, Señor de los Galadhrim y, junto con Galadriel, co-gobernante de Lothlórien. Es el padre de Celebrían, la esposa de Elrond, y por tanto el abuelo de Arwen Estrella de la Tarde y de sus hermanos mayores Elladan y Elrohir.
@@ -312,7 +312,7 @@
 ¬--------------------
 {Eowyn}Biografía
 {Eowyn_desc}Éowyn is the valiant daughter of Éomund that knows how wield a sword and does not lack the courage to fight the enemies of Rohan.
-{Eowyn_effects_desc}+1 Renown, +2 Command, +1 Hitpoints, +4 Ambition, +10% Movement Points, +1 Personal Security
+{Eowyn_effects_desc}\n- +1 Renombre\n- +2 Comando\n- +1 Puntos de vida\n- +4 Ambición\n- +10% Puntos de movimiento\n- +1 Seguridad personal
 ¬--------------------
 {Gamling}Biografía
 {Gamling_desc}Gamling es un fornido guerrero de los Rohirrim que procede del Valle Occidental de Rohan; lleva con orgullo el estandarte del Valle Occidental allá donde va.
@@ -371,11 +371,11 @@
 ¬--------------------
 {Herion}Biografía
 {Herion_desc}Herîon is a famed admiral of the Vintner Court long retired to a life of luxury on the Isle of Neburkha.
-{Herion_effects_desc}+4 Authority, +2 Command, +4 Chivalry, +2 Personal Security
+{Herion_effects_desc}\n- +4 Autoridad\n- +2 Comando\n- +4 Caballería\n- +2 Seguridad personal
 ¬--------------------
 {Ultuk}Biografía
 {Ultuk_desc}Ultuk is a noble of the Kugathi clan. Long has he stood watch on the southern borders, waiting for an advance of his Rhunnic kinsmen across the river.
-{Ultuk_effects_desc}+4 Authority, +2 Command, +4 Chivalry, +2 Personal Security
+{Ultuk_effects_desc}\n- +4 Autoridad\n- +2 Comando\n- +4 Caballería\n- +2 Seguridad personal
 ¬--------------------
 {Gandalf}Biografía
 {Gandalf_desc}Gandalf el Gris fue el último de los Istari en llegar a la Tierra Media, desembarcando en Mithlond. Es el más anciano y el de menor estatura de todos ellos, pero en su primer encuentro en los puertos, Círdan el Carpintero de Barcos sintió que poseía la mayor grandeza interior y le entregó el Narya, el Anillo de Fuego. Gandalf esconde bien el anillo, y no es muy sabido que él, y no Círdan, es el poseedor del tercero de los anillos élficos.
@@ -399,7 +399,7 @@
 ¬--------------------
 {Galdor}Biografía
 {Galdor_desc}Galdor was an elusive Elf who hailed form the Havens and served under Círdan. He was present at the council of Elrond and roamed the paths between Imladris and Mithlond bringing any news he could find back to Círdan.
-{Galdor_effects_desc}+1 Authority, +2 Renown, +1 Command, +4 Hitpoints, +2 Loyalty, +1 Personal Security
+{Galdor_effects_desc}\n- +1 Autoridad\n- +2 Renombre\n- +1 Comando\n- +4 Puntos de vida\n- +2 Lealtad\n- +1 Seguridad personal
 {Galdor_epithet_desc}of the Havens
 ¬--------------------
 {Gimli}Biografía
@@ -412,15 +412,15 @@
 ¬--------------------
 {Gor}Biografía
 {Gor_desc}Bound by duty to the remaining dwarves that did not seek out their ancestral homes far to the east, Gror maintains order and provides stability for the people of his realm. The loss of Nogrod and Belegost will forever be a wound that won't fully heal but he is determined to see his people rise again.
-{Gor_effects_desc}+5 Authority, +4 Ambition, +4 Renown, +3 Hitpoints
+{Gor_effects_desc}\n- +5 Autoridad\n- +4 Ambición\n- +4 Renombre\n- +3 Puntos de vida
 ¬--------------------
 {Grain}Biografía
 {Grain_desc}Son of Gor and heir to the royal throne of Ered Luin, Gráin's heart longs for more than civic duty and long days spent in dark halls. Much to the dismay of his father, he can usually be found exploring the outer regions of the realm of his people, accompanied by his most loyal friends.
-{Grain_effects_desc}+20% Movement Points, +3 Personal Security, +3 Command (Defending)
+{Grain_effects_desc}\n- +20% Puntos de movimiento\n- +3 Seguridad personal\n- +3 Comando (Defendiendo)
 ¬--------------------
 {Nar}Biografía
 {Nar_desc}Clanlord of the Firebeards that remained in Ered Luin, Nar is a loyal servant to Gor and is content as long as he and his fellow dwarves continue to prosper.
-{Nar_effects_desc}+8 Hitpoints, -4 Ambition
+{Nar_effects_desc}\n- +8 Puntos de vida\n- -4 Ambición
 ¬--------------------
 {Glorfindel}Biografía
 {Glorfindel_desc}Glorfindel es uno de los Elfos más poderosos de la Tierra Media en la Tercera Edad. Se distingue por su regreso a la Tierra Media tras la muerte como emisario de los Valar, en una misión similar a la de los Istari que llegarían varios miles de años después. Se desconoce su filiación.
@@ -477,7 +477,7 @@
 ¬--------------------
 {Barliman}Biografía
 {Barliman_desc}Barliman Butterbur is one of the Bree-folk, most famous for being the host of the Prancing Pony, the best inn in town. Through his many contacts with visitors to Bree, he helps the people of the Bree-land in keeping them informed about the goings-on outside of their borders. With this information, he's aiding the daily administration of the land. Though he is only an innkeeper, his aptitude for war and government will soon be tested in the struggle for survival of Bree and the Free Peoples in Eriador as a whole.
-{Barliman_effects_desc}+2 Authority, +2 Renown, +2 Hitpoints, +4 Loyalty
+{Barliman_effects_desc}\n- +2 Autoridad\n- +2 Renombre\n- +2 Puntos de vida\n- +4 Lealtad
 ¬--------------------
 {Bilbo}Biografía
 {Bilbo_desc}Bilbo Bolsón era un hobbit que vivía en La Comarca durante los últimos años de la Tercera Edad. Su aventura con los enanos Thorin y compañía le hizo ganar una fortuna y volver a encontrar el Anillo Único de Sauron.
@@ -643,7 +643,7 @@
 {Sharku}Biografía
 {Sharku_desc}Sharkû is the leader of the Warg-riders of Isengard. Originally hailing from the Misty Mountains, he is veteran chief of a group of marauding Warg-riders who ranged deep into the realms of Gondor and Rohan, sowing panic and fear among Saruman's enemies.
 {Sharku_epithet_desc}of the Misty Mountains
-{Sharku_effects_desc}+2 Command, +3 Command (Commanding Cavalry), +5 Hitpoints
+{Sharku_effects_desc}\n- +2 Comando\n- +3 Comando (al mando de caballería)\n- +5 Puntos de vida
 ¬--------------------
 {Yagthak}Biografía
 {Yagthak_desc}Kjaraz is a fierce and determined leader of the Dunlendings, with a deep-seated hatred for the Rohirrim that burns within him like a wildfire. He is a master at manipulating his people, using his charisma and silver tongue to stir up their passions and stoke their anger against the hated enemy. He is a shrewd strategist and an excellent judge of character, able to identify the strengths and weaknesses of his allies and enemies alike. Kjaraz is a man of great ambition and pride, who believes that his people are destined to rule over all the lands of the horse-lords. He is unyielding in his resolve, and will stop at nothing to achieve his goals, no matter what the cost.
@@ -697,11 +697,11 @@
 ¬--------------------
 {ElvenRace}Elfo
 {ElvenRace_desc}Los Elfos fueron los primeros nacidos, creados por Eru y dotados del don de la vida interminable, despertaron por primera vez en las costas de Cuiviénen, en el lejano oriente, hace muchos miles de años. Son las criaturas más sabias y quizá las de mayor talento universal, hábiles en todas las artes a las que dedican su tiempo; de hecho, los mejores guerreros, herreros, arqueros, jinetes, poetas, músicos y artesanos eran todos elfos. Con el paso de los años se han cansado de la Tierra Media y muchos se marchan para vivir sus vidas inmortales en las costas de la lejana Aman, también conocida como Valinor. Todos los elfos están dotados de una vista aguda y una rapidez de movimientos inigualable por las demás razas, pero son notablemente más frágiles que los humanos o los enanos. El elfo más anciano que queda y que tiene un papel destacado en la guerra contra Sauron es Círdan el Constructor de Barcos, que habita en Mithlond; despertó junto al primero de los primeros nacidos hace tantos años...
-{ElvenRace_effects_desc}\n- +2 Puntos de vida\n- +2 Renombre\n- +1 Salúd pública\n- +1 Línea de visión\n- +1 Comando contra orcos
+{ElvenRace_effects_desc}\n- +2 Puntos de vida\n- +2 Renombre\n- +1 Salud pública\n- +1 Línea de visión\n- +1 Comando contra orcos
 ¬--------------------
 {EntsRace}Ent
 {EntsRace_desc}Los Ents son los seres más antiguos que caminan por las tierras de la Tierra Media, a excepción de los Maia. Son creaciones de Yavanna, a quien siguen sirviendo a su retorcida manera, protegiendo su hogar en el bosque.
-{EntsRace_epithet_desc}of Fangorn
+{EntsRace_epithet_desc}de Fangorn
 {EntsRace_effects_desc}\n- +10 Puntos de vida\n- +20% Puntos de movimiento
 ¬--------------------
 {GoodManRace}Hombre del norte
@@ -740,9 +740,9 @@
 {OrcRace_desc}Esta criatura sanguinaria es un orco, una copia vil y cruel de los majestuosos Eldar. Hechos en burla del poder de Ilúvatar por Melkor, son malvados hasta la médula y lucharán contra todas las fuerzas del bien hasta que expiren su último aliento.
 {OrcRace_effects_desc}\n- -5% Coste de reclutamiento de unidades\n- +10% Ingresos por saqueos\n- +3% Ingresos por minería\n- -2 Ambición
 ¬--------------------
-{GoblinRace}Goblin
+{GoblinRace}Trasgo
 {GoblinRace_desc}A more feeble and cunning breed of orcs, they rely on ambush tactics, numbers and machines of war rather than raw strength.
-{GoblinRace_effects_desc}+30% Looting Gain,  +3 Command (Ambushing), +3 Command (Attacking Walls)
+{GoblinRace_effects_desc}\n- +30% Ingresos por saqueos\n- +3 Comando (Emboscando)\n- +3 Comando (Atacando murallas)
 ¬--------------------
 {SnowRace}Orco de las nieves
 {SnowRace_desc}Este feroz guerrero es un Orco de las Nieves. Olvidados por el tiempo en el lejano y helado norte, han regresado a la Tierra Media para responder a la llamada de Sauron y luchar en nombre de Morgoth una vez más.
@@ -755,64 +755,64 @@
 {Arulad}Miembro del clan Arulad
 {Arulad_desc}The Arulad clan is a Rhûnic clan renowned for being skilled warriors, feared by their enemies and respected by their allies. The clan has a long history of fighting for the greater good of Rhûn, and they are well known for their loyalty and fierce determination. They are also famous for their mastery of mounted combat and their expertise in guerrilla warfare. Members of the Arulad clan are highly respected within Rhûn, and their reputation as warriors is second to none.
 {Arulad_effects_desc}\n- +5% Puntos de movimiento\n- +1 Ambición
-{Arulad_epithet_desc}of the Arulad
+{Arulad_epithet_desc}de los Arulad
 {AruladStrat}Miembro del clan Arulad
 ¬--------------------
 {Balchoth}Miembro del clan Balchoth
 {Balchoth_desc}The Balchoth clan is a Rhûnic clan that inhabits the vast steppes of the east. They are known for their love of horses and their skill in mounted warfare. The Balchoth are nomadic people, moving from place to place in search of food and shelter. They are a proud people, fiercely independent and fiercely loyal to their clan. They have a deep respect for their traditions and their history, and they are known for their fierce determination in battle. Members of the Balchoth clan are highly respected by their fellow Easterlings, and they are feared by their enemies.
-{Balchoth_effects_desc}-1 Renown, +1 Command (Ambushing)
-{Balchoth_epithet_desc}of the Balchoth
+{Balchoth_effects_desc}\n- -1 Renombre\n- +1 Comando (Emboscando)
+{Balchoth_epithet_desc}de los Balchoth
 ¬--------------------
 {Daritai}Miembro del clan Daritai
 {Daritai_desc}The Daritai clan is a Rhûnic clan closely tied with Dragon Cult worship. They believe that dragons are the most powerful creatures in the world, and they worship them as gods. The Daritai are known for their fierce determination in battle, and they are feared by their enemies for their ferocity. Members of the Daritai clan are deeply devoted to their beliefs, and they will stop at nothing to defend them. They are also expert looters, and they are known for their ability to extract valuable resources from the land.
 {Daritai_effects_desc}\n- -1 Ambición\n- +5% Ingresos por saqueos
-{Daritai_epithet_desc}of the Daritai
+{Daritai_epithet_desc}de los Daritai
 {DaritaiStrat}Miembro del clan Daritai
 ¬--------------------
 {Udege}Miembro del clan Udege
 {Udege_desc}The Udege clan is an Easterling clan that lives near the shores of the Sea of Rhûn. They are known for their skill in sailing and their expertise in naval combat. The Udege are a proud people, fiercely independent and fiercely loyal to their clan. They are known for their love of adventure and their willingness to explore new lands. Members of the Udege clan are highly respected by their fellow Easterlings, and they are often sought out for their knowledge of the sea and their ability to navigate treacherous waters.
-{Udege_epithet_desc}of the Udege
+{Udege_epithet_desc}de los Udege
 {Udege_effects_desc}\n- +1 Renombre\n- -5% Coste de reclutamiento de unidades
 ¬--------------------
 {Wainrider_Tribe}Miembro de la tribu Aúriga
 {Wainrider_Tribe_desc}The Wainrider tribe is an Easterling tribe that inhabits the Khandish steppe. They are known for their skill in using the wains. The Wainriders are a nomadic people, moving from place to place in search of food and shelter. They are fierce warriors, feared by their enemies for their skill in mounted combat. Members of the Wainrider tribe are highly respected by their fellow Easterlings, and they are often sought out for their knowledge of the land and their expertise in guerrilla warfare.
-{Wainrider_Tribe_epithet_desc}of the Wainriders
+{Wainrider_Tribe_epithet_desc}de los Aúrigas
 {Wainrider_Tribe_effects_desc}\n- +25% Puntos de movimiento
 ¬--------------------
 {Variag_Tribe}Miembro de la tribu Variag
 {Variag_Tribe_desc}Uno de los Variags de Khand, tribu oriental que habita la estepa khandina.
-{Variag_Tribe_epithet_desc}of the Variags
+{Variag_Tribe_epithet_desc}de los Variag
 {Variag_Tribe_effects_desc}\n- +10% Puntos de movimiento
 ¬--------------------
 {Haradrim}Haradrim
 {Haradrim_desc}Miembro de una de las tribus Haradrim.
 {Haradrim_effects_desc}\n- -1 Ambición\n- +1 Comando (Al mando de caballería)
 ¬--------------------
-{Barding}Barding
-{Barding_desc}Northman from Dale
-{Barding_epithet_desc}of Dale
-{Barding_effects_desc}+5% Trading income
+{Barding}Bárdido
+{Barding_desc}Hombre del norte de Valle
+{Barding_epithet_desc}de Valle
+{Barding_effects_desc}\n- +5% Ingresos por comercio
 ¬--------------------
-{LaketownMan}Man of Lake-town
-{LaketownMan_desc}Northman from Lake-town
-{LaketownMan_epithet_desc}of Lake-town
-{LaketownMan_effects_desc}+5% Trading income
+{LaketownMan}Hombre de Ciudad del Lago
+{LaketownMan_desc}Hombre del norte de Ciudad del Lago
+{LaketownMan_epithet_desc}de Ciudad del Lago
+{LaketownMan_effects_desc}\n- +5% Ingresos por comercio
 ¬--------------------
 {Rohirrim}Rohirrim
-{Rohirrim_desc}Northman from the Kingdom of Rohan
+{Rohirrim_desc}Hombre del norte del Reino de Rohan
 {Rohirrim_effects_desc}\n- +1 Comando (Al mando de caballería)\n- -1 Comando (Al mando de infantería)\n +1 Ambición
 ¬--------------------
 {Kugathi}Kugathi
 {Kugathi_desc}Kugathi from the burning lands south of Dorwinion and bordering Rhun.
-{Kugathi_effects_desc}+2 Hitpoints, +2 Command (Defending), +2 Line Of Sight
+{Kugathi_effects_desc}\n- +2 Puntos de vida\n- +2 Comando (Defendiendo)\n- +2 Línea de visión
 ¬--------------------
 {Leofthiuda}Leofthiuda
 {Leofthiuda_desc}These men hail from the Leofthiuda clan in the lands west of Dorwinion.
-{Leofthiuda_effects_desc}+2 Command (Attacking), +3 Troop Morale
+{Leofthiuda_effects_desc}\n- +2 Comando (Atacando)\n- +3 Moral de las tropas
 ¬--------------------
 {Rouadengi}Rouadengi
 {Rouadengi_desc}These men are of Rouadengi descent, born in the heartlands and on the coasts of Dorwinion.
-{Rouadengi_effects_desc}+20% Taxes Income, +2 Farming
+{Rouadengi_effects_desc}\n- +20% Ingresos por impuestos\n- +2 Agricultura
 ¬--------------------
 {BeorningRace}Beórnida
 {BeorningRace_desc}Esta persona es un beórnida, y ha servido a Beorn y sus descendientes desde su nacimiento. Es capaz de transformarse en un oso.
@@ -820,12 +820,12 @@
 ¬--------------------
 {Woodman}Hombre del bosque
 {Woodman_desc}Ser uno de los hombres del Bosque Negro conlleva un buen sistema inmunológico y el conocimiento de la zona.
-{Woodman_epithet_desc}of the Woodmen
+{Woodman_epithet_desc}de los hombres del bosque
 {Woodman_effects_desc}\n- +2 Comando (Emboscando)\n- +3% Puntos de movimiento\n- -1 Ambición
 ¬--------------------
 {Eotheod}Éothéod
 {Eotheod_desc}Esta persona es uno de los Éothéod, descendientes de los antiguos Hombres de Rhovanion, que no siguieron a Eorl hacia el sur.
-{Eotheod_epithet_desc}of the Éothéod
+{Eotheod_epithet_desc}de los Éothéod
 {Eotheod_effects_desc}\n- +1 Ambición\n- +1 Comando (Al mando de caballería)
 ¬--------------------
 {Dunlending}Dunlendino
@@ -860,19 +860,19 @@
 {Grimborn_desc}Los Sombríos son un clan de enanos autoproclamados parias que residen principalmente en las Montañas Azules, pero se sabe que tienen miembros en todo el mundo enano. A diferencia de los Nalgudos y los Barbas de fuego, los Sombríos permanecieron en las Montañas Azules tras la ruina de Beleriand y se separaron de sus parientes. Son conocidos por su feroz odio hacia los elfos, su desprecio hacia los humanos y su profundo deseo de riqueza.
 {Grimborn_effects_desc}\n- +2 Ambición\n- -1 Perspicacia\n- +5% Orden público\n- +1 Comando
 ¬--------------------
-{Blacklock}Blacklock
+{Blacklock}Moreno
 {Blacklock_desc}The Blacklock clan is one of the four distant Dwarven clans of the East. They were originally paired with the Stonefoots and due to the increasing war and unrest in the East, they can often now be seen wandering western Middle-earth. They are particularly well known for their engineering and mechanical skill, often favouring the crossbow as their weapon of choice.
 {Blacklock_effects_desc}
 ¬--------------------
-{Stonefoot}Stonefoot
+{Stonefoot}Pie de Piedra
 {Stonefoot_desc}The Stonefoot clan is one of the four distant Dwarven clans of the East. They were originally paired with the Blacklocks and due to the increasing war and unrest in the East, they can often now be seen wandering western Middle-earth. They are particularly well known for endurance, stamina and resilience.
 {Stonefoot_effects_desc}
 ¬--------------------
-{Ironfist}Ironfist
+{Ironfist}Puño de Hierro
 {Ironfist_desc}The Ironfist clan is one of the four distant Dwarven clans of the East. They were originally paired with the Stiffbeards and due to the increasing war and unrest in the East, they can often now be seen wandering western Middle-earth. They are particularly well known for dedication to war and battle, often favouring heavy two handed weapons and war masks.
 {Ironfist_effects_desc}
 ¬--------------------
-{Stiffbeard}Stiffbeard
+{Stiffbeard}Barbatiesa
 {Stiffbeard_desc}The Stiffbeard clan is one of the four distant Dwarven clans of the East. They were originally paired with the Ironfists and due to the increasing war and unrest in the East, they can often now be seen wandering western Middle-earth. They are particularly well known for eyesight and dexterity, often favouring a bow in battle.
 {Stiffbeard_effects_desc}
 ¬--------------------
@@ -898,17 +898,17 @@
 ¬--------------------
 {Half_Elven}Medio elfo
 {Half_Elven_desc}Este general tiene sangre élfica, heredada a través de uno de sus padres.
-{Half_Elven_epithet_desc}Half-Elven
+{Half_Elven_epithet_desc}Medio elfo
 {Half_Elven_effects_desc}\n- +5% Puntos de movimiento\n- +1 Ambición
 ¬--------------------
 {House_Amdir}Casa de Amdír
 {House_Amdir_desc}Amdír era un noble Sindar de Doriath, miembro de la Comunidad de los Nueve y, por tanto, compañero de Oropher. Se estableció en Lórien y allí fundó el Reino de Lothlórien o Lórinand en la lengua de los Nandor. Amdír sufrió el mismo destino que Oropher, fue asesinado en la Batalla de Dagorlad en el 3434 de la Segunda Edad. Su hijo Amroth se convirtió en Rey de Lothlórien y tras el final de la Guerra de la Última Alianza regresó con los restos de su ejército a Lórien. Alrededor del 2050 de la Tercera Edad, Amroth se ahogó en la Bahía de Belfalas. Tras su muerte, el reinado de Lothlórien quedó vacante y su pueblo -los Galadhrim- tomó a Celeborn y Galadriel por Señor y Señora gobernantes.
-{House_Amdir_epithet_desc}of House Amdír
+{House_Amdir_epithet_desc}de la Casa de Amdír
 {House_Amdir_effects_desc}\n- +1 Ambición\n- +1 Renombre
 ¬--------------------
 {House_Cirdan}Casa de Círdan
 {House_Cirdan_desc}Círdan, a Sindarin nickname meaning the Shipwright, is a Teleri and his real name in Telerin was Nōwē. He was among the highest Telerin Lords who stayed in Middle-earth and akin to Olwë and thus also akin to Elwë and Elmo. When Olwë left Beleriand with those of the Teleri who were eager to reach Valinor, Círdan remained and made his home at the coasts of Belegaer – the Sundering Sea. His people, though belonging to the Sindar, became a folk apart and were called Falathrim, which is Sindarin for the people of the foaming shore. Círdan himself apparently wanted to reach the Blessed Realm and thought of ships to achieve his desire. But he received a direct message from the Valar 'Abide now that time, for when it comes then will your work be of utmost worth, and it will be remembered in song for many ages after.'. He obeyed and still lives in Mithlond. Being among the Eldar who decided to depart from Cuiviénen he thus is the oldest Elf in Middle-earth and he will be the last of all Elves to leave it!
-{House_Cirdan_epithet_desc}of House Círdan
+{House_Cirdan_epithet_desc}de la Casa de Círdan
 {House_Cirdan_effects_desc}\n- -20% Costes de construcción\n- +1 Renombre
 ¬--------------------
 {House_Elrond}Casa de Elrond el Medio Elfo
@@ -917,17 +917,17 @@
 ¬--------------------
 {House_Elwe}Casa de Elwë
 {House_Elwe_desc}La Casa de Elwë era la casa real gobernante de todos los Sindar. El Alto Rey Elwë Singollo, Elu Thingol en sindarin, fue asesinado por los Enanos durante el primer Saqueo de Doriath en el 503 de la Primera Edad. Elwë tenía dos hermanos, Olwë y Elmo. Mientras que Olwë condujo finalmente a Valinor a aquellos de la hueste de los Teleri que ansiaban ver la luz de los Árboles, Telperion y Laurelin, Elmo permaneció en Beleriand con los Teleri restantes en busca de Elwë. Elmo no sobrevivió a la Primera Edad, pero sí lo hizo su nieto Celeborn, hijo de Galadhon. Nunca perdonó a los enanos su participación en la Ruina de Doriath. En Celeborn y sus descendientes vive hasta hoy una rama de la Casa de Elwë.
-{House_Elwe_epithet_desc}of House Elwë
+{House_Elwe_epithet_desc}de la Casa de Elwë
 {House_Elwe_effects_desc}\n- +2 Renombre\n- +10% Orden público
 ¬--------------------
 {House_Finarfin}Casa de Finarfin
 {House_Finarfin_desc}Finarfin was the last son of Finwë and he was the most gentle and noble minded one of them. He married Eärwen, Olwë of Alqualondë’s daughter, and thus his children were akin to Elwë. Three sons he had, Finrod, Angrod and Aikanár and one daughter, Galadriel. Finarfin led the third host of the Ñoldor on their way into exile, but his House and his followers fought against the hosts of Fëanor and Fingolfin during the First Kinslaying, thus defending their mother’s kin and the Teleri in Alqualondë. When Mandos declared the Doom of Fëanor, Finarfin repented and led many of his host back to Valinor, where the Valar granted them forgiveness. He lives there still and rules the Ñoldor in Tirion upon Túna. But all his children along with the rest of his folk and kin continued their march to Middle-earth and thus fell under the Doom of Mandos. Of his children all vanished in the First Age but Galadriel, who is still alive and dwells together with her husband Celeborn in Lórien.
-{House_Finarfin_epithet_desc}of House Finarfin
+{House_Finarfin_epithet_desc}de la Casa de Finarfin
 {House_Finarfin_effects_desc}\n- +2 Renombre\n- +1 Comando\n- +2 Ambición
 ¬--------------------
 {House_Fingolfin}Casa de Fingolfin
 {House_Fingolfin_desc}Después del nacimiento de Fëanor su madre Míriel abandonó la vida terrenal. Su fëa, que es espíritu en Quenya, dejó su hröa, o cuerpo, que ella dejó en Lórien y viajó a Mandos. Esto era algo extraño tanto para los Eldar como para los Valar y nunca había sucedido antes. Finwë estaba afligido y cuidó durante mucho tiempo el cuerpo de su esposa, pero después de algunos años no fue más a Lórien. Al pasar los años Finwë estaba ansioso de tomar una nueva esposa. Esto también era algo desconocido y extraño para los Eldar, ¡porque se casan una sola vez y para siempre! Por lo tanto él buscó el consejo de Manwë y después de la deliberación larga entre el Valar, un estatuto fue hecho y declarado Maldición por Mandos. Ahora Finwë era libre de tomar una nueva esposa y su segunda esposa fue Indis, hermana de Ingwë, el Rey de los Vanyar. Ella le dio cuatro hijos, Findis, Fingolfin, Irimë y Finarfin. Fingolfin el hijo mayor de estos cinco siguió a Fëanor al exilio liderando la segunda hueste de los Ñoldor rebeldes. Durante el Dagor Bragollach -la Batalla de la Llama Repentina- en el 455 de la Primera Edad Fingolfin se enfrentó al mismísimo Morgoth, retándolo a duelo, siete veces hirió a Morgoth con Ringil, su espada, pero al final fue vencido.
-{House_Fingolfin_epithet_desc}of House Fingolfin
+{House_Fingolfin_epithet_desc}de la Casa de Fingolfin
 {House_Fingolfin_effects_desc}\n- +2 Renombre\n- +2 Comando\n- +1 Ambición
 ¬--------------------
 {House_Golden_Flower}Casa de la Flor Dorada
@@ -936,7 +936,7 @@
 ¬--------------------
 {House_Oropher}Casa Oropher
 {House_Oropher_desc}Oropher was a noble Sindar of Doriath. After the Ruin of Doriath and the end of the First Age, he gathered eight companions and led them east across the Ered Luin. This Fellowship of the Nine, as it was later called, eventually reached Greenwood the Great, and there they were welcomed by the Nandor, whom they perceived as being of close kin. Due to their superior knowledge and wisdom, the nine nobles soon became Lords of the Nandor and Oropher, their leader, became King. In Second Age 3434, he fell with two-thirds of his army in the Battle of the Dagorlad, before the Black Gate. After the War of the Last Alliance was over and Sauron was overthrown, only a mere third of Oropher's host returned to their realm. They were led by King Thranduil, Oropher's son, who is their King still.
-{House_Oropher_epithet_desc}of House Oropher
+{House_Oropher_epithet_desc}de la Casa de Oropher
 {House_Oropher_effects_desc}\n- +1 Comando (Emboscando)\n- +1 Ambición\n- +1 Perspicacia
 ¬--------------------
 {HouseElendil}Casa de Elendil
@@ -1203,12 +1203,12 @@
 ¬--------------------
 {Corsair}Corsair of Umbar
 {Corsair_desc}Ever since Angamaite and Sangahyando, the descendants of Castamir, led the Corsairs to ravage Pelargir, they have been a plague on the Southern Coast of Middle-earth ever since. Taking what they please and showing no mercy, they are not to be trusted.
-{Corsair_effects_desc}+30% Looting Gain
+{Corsair_effects_desc}\n- +30% Ingresos por saqueos
 ¬--------------------
 {Harondor}Man of Harondor
 {Harondor_desc}South Gondor, known in Sindarin as Harondor, is a disputed region between the rivers Poros and Harnen. Historically this region was a part of Gondor, but frequent assaults and invasions by the Corsairs of Umbar and the Haradrim meant that, by the later years of the Third Age, Gondor's rule over this region was limited and the men of Harondor began to carve out their own small fiefs and kingdoms.
 {Harondor_epithet_desc}of Harondor
-{Harondor_effects_desc}+4 Personal Security
+{Harondor_effects_desc}\n- +4 Seguridad personal
 ¬--------------------Diplomat
 {NoldorDiplomat}Ñoldo
 {NoldorDiplomat_desc}Los Ñoldor son la segunda de las tres huestes Eldar que partieron de Cuiviénen -las Aguas del Despertar- y participaron en la Gran Marcha hacia Aman. Estaban liderados por Finwë, primer Alto Rey de todos los Ñoldor, y tras un largo viaje llegaron finalmente al Reino Bendito. Su residencia era Tirion, en la colina de Túna, en el Calaciryan, el Paso de la Luz. Como todos los Ñoldor que regresaron a la Tierra Media habían sido seguidores de Fëanor en su Exilio, todos fueron considerados rebeldes contra Manwë y los otros Valar y por lo tanto cayeron bajo la Maldición de Mandos. Así, se les prohibió regresar a Valinor hasta que se hubieran arrepentido y suplicado perdón. Los que sobrevivieron a la Guerra de la Ira al final de la Primera Edad fueron finalmente perdonados y se les permitió regresar al Reino Bendito. Sin embargo, hubo muchos que no desearon regresar o a los que los Valar no concedieron el perdón debido a su papel clave en la rebelión. En su lugar, estos elfos establecieron nuevos reinos en Lindon y Eregion, y tomaron a Gil-galad, hijo de Orodreth, hijo de Angrod y descendiente directo del rey Finwë, como su Alto Rey. Gil-galad pereció heroicamente durante la Batalla de la Última Alianza en el 3441 de la Segunda Edad, cuando se enfrentó en duelo a Sauron. Aunque ahora son un pueblo menguante, los Ñoldor siguen siendo los más poderosos y sabios de los elfos que quedan en la Tierra Media.
@@ -1870,7 +1870,7 @@
 {Winter_4}Icebound Hell
 {Winter_4_desc}A frigid and inhospitable winter descends, making movement near impossible and breaking the strongest of spirits.
 {Winter_4_effects_desc}\n- -20% Puntos de movimiento\n- -4 Moral de las tropas\n- -3 Comando
-{Winter_5}Arctic Apocalypse
+{Winter_5}Apocalipsis ártico
 {Winter_5_desc}An unyielding and merciless winter ravages the land, bringing even the most hardened armies to their knees.
 {Winter_5_effects_desc}\n- -25% Puntos de movimiento\n- -5 Moral de las tropas\n- -5 Comando
 ¬--------------------
@@ -1916,17 +1916,17 @@
 ¬--------------------
 {Effective_Ambusher}Emboscador eficaz
 {Effective_Ambusher_desc}Este hombre ha demostrado tener talento para elegir el momento y el lugar adecuados para lanzar un ataque sorpresa.
-{Effective_Ambusher_effects_desc}+2 Command (Ambushing)
+{Effective_Ambusher_effects_desc}\n- +2 Comando (Emboscando)
 {Cunning_Ambusher}Emboscador asturo
 {Cunning_Ambusher_desc}Este hombre es el más eficaz a la hora de atacar a un enemigo, utilizando la astucia para posicionar bien sus fuerzas.
-{Cunning_Ambusher_effects_desc}+3 Command (Ambushing)
+{Cunning_Ambusher_effects_desc}\n- +3 Comando (Emboscando)
 {Great_Ambusher}Gran emboscador
 {Great_Ambusher_desc}Este hombre ha demostrado en repetidas ocasiones su capacidad para acabar con una fuerza enemiga cuando ataca desde una posición de emboscada.
-{Great_Ambusher_effects_desc}+4 Command (Ambushing)
+{Great_Ambusher_effects_desc}\n- +4 Comando (Emboscando)
 {Stalks_His_Prey}Acecha a su presa
 {Stalks_His_Prey_desc}Este comandante prefiere golpear a sus enemigos cuando no se lo esperan. Es brutalmente eficaz, y sus enemigos deben desconfiar.
 {Stalks_His_Prey_gain_desc}Este hombre se ha convertido en un experto en el arte de tender emboscadas a sus enemigos.
-{Stalks_His_Prey_effects_desc}+5 Command (Ambushing), +1 Troop Morale
+{Stalks_His_Prey_effects_desc}\n- +5 Comando (Emboscando)\n- +1 Moral de las tropas
 ¬--------------------
 {Flawed_Attacker}Atacante penoso
 {Flawed_Attacker_desc}Este hombre aún no ha mostrado la mentalidad adecuada para liderar un ataque.
@@ -1946,7 +1946,7 @@
 {Promising_Attacker_effects_desc}\n- +1 Comando (Atacando)
 {Confident_Attacker}Atacante confiado
 {Confident_Attacker_desc}Este hombre se siente más seguro cuando entra en combate como agresor.
-{Confident_Attacker_effects_desc}+2 Command (Attacking)
+{Confident_Attacker_effects_desc}\n- +2 Comando (Atacando)
 {Strong_Attacker}Atacante fuerte
 {Strong_Attacker_desc}Ser conocido por tener éxito en el ataque inspira a las tropas de este hombre en la batalla.
 {Strong_Attacker_effects_desc}\n- +2 Comando (Atacando)\n- +1 Ambición
@@ -1987,17 +1987,17 @@
 {Promising_Defender_effects_desc}\n- +1 Comando (Defendiendo)
 {Confident_Defender}Defensor confiado
 {Confident_Defender_desc}Cuando es atacado, este hombre mantiene una calma que se filtra entre las filas de sus hombres.
-{Confident_Defender_effects_desc}+2 Command (Defending)
+{Confident_Defender_effects_desc}\n- +2 Comando (Defendiendo)
 {Strong_Defender}Defensor fuerte
 {Strong_Defender_desc}Este hombre no tiene reparos en que el enemigo le traiga la lucha: ha demostrado habilidad para derrotar a otros de esta manera.
-{Strong_Defender_effects_desc}+3 Command (Defending)
+{Strong_Defender_effects_desc}\n- +3 Comando (Defendiendo)
 {Excellent_Defender}Defensor excelente
 {Excellent_Defender_desc}Las tropas de este hombre permanecen confiadas cuando son atacadas, sabiendo que su comandante las ayudará a resistir.
-{Excellent_Defender_effects_desc}+4 Command (Defending), +1 Troop Morale, +1 Ambition, +1 Renown
+{Excellent_Defender_effects_desc}\n- +4 Comando (Defendiendo)\n- +1 Moral de las tropas\n- +1 Ambición\n- +1 Renombre
 {Heroic_Defender}Defensor heróico
 {Heroic_Defender_desc}Este hombre hace de su ejército un objeto inamovible, una barrera que desgasta a cualquier insensato que se le acerque.
 {Heroic_Defender_epithet_desc}el Bastión
-{Heroic_Defender_effects_desc}+5 Command (Defending), +2 Troop Morale, +1 Ambition, +2 Renown
+{Heroic_Defender_effects_desc}\n- +5 Comando (Defendiendo)\n- +2 Moral de las tropas\n- +1 Ambición\n- +2 Renombre
 {Heroic_Defender_gain_desc}Gracias a su naturaleza tenaz, este hombre tiene pocos iguales a la hora de defenderse en batalla.
 ¬--------------------
 {Warg_Commander}Comandante de huargos
@@ -2085,7 +2085,7 @@
 {Engineer}Ingeniero
 {Engineer_desc}Considerado un ingeniero militar cualificado, este hombre es un experto en asegurarse de que puede sacar el máximo partido de su artillería de asedio.
 {Engineer_gain_desc}Este hombre tiene ahora una experiencia técnica inigualable en la guerra de asedio.
-{Engineer_effects_desc}+3 Command (Attacking Walls), +30 Build Points
+{Engineer_effects_desc}\n- +3 Comando (Atacando murallas)\n- +30 Puntos de construcción en asedio
 ¬--------------------
 {Good_at_the_Walls}Bueno en las murallas
 {Good_at_the_Walls_desc}Este hombre tiene una comprensión básica de cómo mantener a raya a un enemigo asediante.
@@ -3407,11 +3407,11 @@
 ¬------  Traits: Governance & Economy  --------------------
 {HorseBreederGuild}Gremio de criadores de caballos
 {HorseBreederGuild_desc}La cría de caballos, un recurso muy valioso, es beneficiosa para nuestro pueblo. Proporciona a nuestra caballería monturas de calidad, nuestros granjeros pueden conseguir caballos de trabajo de razas especiales y los comerciantes vienen a nuestra ciudad a comprar caballos. El inconveniente de la cría de caballos es que algunas de las tierras de cultivo deben convertirse en pastos para proporcionar suficiente comida a los caballos.
-{HorseBreederGuild_effects_desc}\n- -1 Agricultura\n- +5% Comercio\n- +1 Salúd pública\n- +1 Comando (Al mando de caballería)\n- -5% Coste de reclutamiento de unidades
+{HorseBreederGuild_effects_desc}\n- -1 Agricultura\n- +5% Comercio\n- +1 Salud pública\n- +1 Comando (Al mando de caballería)\n- -5% Coste de reclutamiento de unidades
 ¬--------------------
 {MerchantsGuild}Gremio de mercaderes
 {MerchantsGuild_desc}El Gremio de mercaderes se estableció aquí, convirtiendo esta ciudad en el centro comercial de la región. Las rutas comerciales convergen en nuestros mercados, trayendo más mercancías y gente a nuestra ciudad. Con el aumento del flujo de objetos de valor y personas que pasan por nuestra ciudad, también ha aumentado la delincuencia, ya que los ladrones y carteristas oportunistas acechan a los comerciantes desprevenidos.
-{MerchantsGuild_effects_desc}\n- -1 Orden público\n- +10% Comercio\n- +1 Salúd pública\n- +1 Perspicacia\n- +5% Ingresos por impuestos
+{MerchantsGuild_effects_desc}\n- -1 Orden público\n- +10% Comercio\n- +1 Salud pública\n- +1 Perspicacia\n- +5% Ingresos por impuestos
 ¬--------------------
 {WeaponsmithGuild}Gremio de armeros
 {WeaponsmithGuild_desc}Los maestros forjadores han creado un gremio de armeros que beneficia enormemente a nuestras tropas. Disponer de armas de mejor calidad eleva la moral de los soldados, mientras que el renombre de los maestros del gremio atrae a guerreros cualificados a la ciudad, donde ayudan a entrenar a nuestras tropas mientras esperan a que se forjen sus nuevas armas. Como el gremio consume más recursos locales, nuestros beneficios comerciales se reducen ligeramente, pero el aumento de la presencia militar ayuda a mantener el orden y a reducir la delincuencia.
@@ -3509,22 +3509,22 @@
 {Iron_Fisted_effects_desc}\n- +1 Renombre\n- +1 Orden público
 {Harsh_Ruler}Gobernador severo
 {Harsh_Ruler_desc}Hace la vida del pueblo menos soportable. A menudo humilla a los campesinos simplemente por despecho.
-{Harsh_Ruler_effects_desc}+2 Renown, +1 Squalor, +2 Public Order
+{Harsh_Ruler_effects_desc}\n- +2 Renombre\n- +1 Miseria\n- +2 Orden público
 {Cruel_Ruler}Gobernador cruel
 {Cruel_Ruler_desc}En realidad, disfruta haciendo sufrir a los que están bajo su dominio, para que teman y respeten a su amo.
 {Cruel_Ruler_epithet_desc}el Cruel
-{Cruel_Ruler_effects_desc}+3 Renown, +2 Squalor, +3 Public Order, +1 Acumen
+{Cruel_Ruler_effects_desc}\n- +3 Renombre\n- +2 Miseria\n- +3 Orden público\n- +1 Perspicacia
 ¬--------------------
 {Reasonable_Ruler}Gobernador razonable
 {Reasonable_Ruler_desc}Se cree que desea la prosperidad para todo su pueblo y que es un líder muy razonable.
 {Reasonable_Ruler_effects_desc}\n- +1 Renombre\n- -1 Orden público
 {Kind_Ruler}Gobernador amable
 {Kind_Ruler_desc}Ha desarrollado una reputación de gobernante bondadoso, que tiene en cuenta los intereses del pueblo.
-{Kind_Ruler_effects_desc}+2 Renown, -1 Squalor, -1 Public Order, -1 Unrest, +1 Public Happiness
+{Kind_Ruler_effects_desc}\n- +2 Renombre\n- -1 Miseria\n- -1 Orden público\n- -1 Malestar\n- +1 Felicidad pública
 {Benevolent_Ruler}Gobernador benevolente
 {Benevolent_Ruler_desc}Dedicado a mejorar la calidad de vida de quienes están bajo su gobierno. Si es algo, es un servidor del pueblo.
 {Benevolent_Ruler_epithet_desc}the Benevolent
-{Benevolent_Ruler_effects_desc}+3 Renown, -2 Squalor, -2 Public Order, -2 Unrest, +2 Public Happiness, +1 Acumen
+{Benevolent_Ruler_effects_desc}\n- +3 Renombre\n- -2 Miseria\n- -2 Orden público\n- -2 Malestar\n- +2 Felicidad pública\n- +1 Perspicacia
 ¬--------------------
 {A_Sense_of_Justice}Con sentido de la justicia
 {A_Sense_of_Justice_desc}El sentido de la justicia de este hombre es evidente cuando habla de asuntos tanto legales como morales.
@@ -3597,10 +3597,10 @@
 ¬--------------------
 {Nomad_Life}Enfocado en cría de animales
 {Nomad_Life_desc}La agricultura se centra más en los animales, con rebaños de ovejas, vacas y caballos.
-{Nomad_Life_effects_desc}\n- +1 Agricultura\n- +1% Comercio\n- +1 Salúd pública
+{Nomad_Life_effects_desc}\n- +1 Agricultura\n- +1% Comercio\n- +1 Salud pública
 {Nomad_Farming}Cría de animales y agricultura
 {Nomad_Farming_desc}Además del estilo de vida nómada, los nuevos conocimientos agrícolas adquiridos recientemente se están utilizando en algunos lugares adecuados.
-{Nomad_Farming_effects_desc}\n- +2 Agricultura\n- +2% Comercio\n- +1 Salúd pública
+{Nomad_Farming_effects_desc}\n- +2 Agricultura\n- +2% Comercio\n- +1 Salud pública
 ¬--------------------
 {Farming_Knowledge}Conocimiento de agricultura
 {Farming_Knowledge_desc}Sabe cómo trabajar la tierra, ya que ha supervisado la creación de varios distritos agrícolas.
@@ -3975,13 +3975,13 @@
 {Social_Smoker_lose_desc}This man has grown a distate for smoking pipe-weed.
 {Recreational_Smoker}Recreational Smoker
 {Recreational_Smoker_desc}Has grown fond of smoking pipe-weed and sampling new flavours and varieties.
-{Recreational_Smoker_effects_desc}+2 Public Happiness, -2 Fertility
+{Recreational_Smoker_effects_desc}\n- +2 Felicidad pública\n- -2 Fertilidad
 {Heavy_Smoker}Heavy Smoker
 {Heavy_Smoker_desc}Probably smokes a little too much pipe-weed, to the detriment of his own health.
-{Heavy_Smoker_effects_desc}+3 Public Happiness, -3 Fertility, -10% Movement Points
+{Heavy_Smoker_effects_desc}\n- +3 Felicidad pública\n- -3 Fertilidad\n- -10% Puntos de movimiento
 {Pipeweed_Connoisseur}Pipe-weed Connoisseur
 {Pipeweed_Connoisseur_desc}This man is rarely seen without a pipe full of some exotic pipe-weed filling every corner of the room he occupies with smoke.
-{Pipeweed_Connoisseur_effects_desc}+3 Public Happiness, -3 Fertility, -10% Movement Points, +3 Farming
+{Pipeweed_Connoisseur_effects_desc}\n- +3 Felicidad pública\n- -3 Fertilidad\n- -10% Puntos de movimiento\n- +3 Agricultura
 ¬--------------------
 {Religious}Responsable
 {Religious_desc}Este hombre es conocido por cumplir con sus obligaciones.
@@ -4546,47 +4546,47 @@
 ¬--------------------
 {Ruffian}Ruffian
 {Ruffian_desc}Local robbers, cut-throats, brigands and other assorted criminals fall within this category of potential adversaries. Such foes can be encountered on the lonely roads of Eriador, but they are met as likely in a dark alley in Bree.
-{Ruffian_effects_desc}+3 Personal Security
+{Ruffian_effects_desc}\n- +3 Seguridad personal
 ¬--------------------
 {Journeyman}Journeyman
 {Journeyman_desc}A craftsman of the Breeland, skilled in the arts of building and construction.
-{Journeyman_effects_desc}-25% Construction Costs
+{Journeyman_effects_desc}\n- -25% Costes de construcción
 ¬---------------
 {Gate_Keeper}Gate Keeper
 {Gate_Keeper_desc}A gate keeper of the Breeland, skilled in the arts of security and defense.
-{Gate_Keeper_effects_desc}+5 Personal Security
+{Gate_Keeper_effects_desc}\n- +5 Seguridad personal
 ¬---------------
 {ManorLord}Manor Lord
 {ManorLord_desc}An experienced adminstrator of the Breeland, skilled in the arts of management and organization.
-{ManorLord_effects_desc}+20% Farming Income, +10% Tax Income
+{ManorLord_effects_desc}\n- +20% Ingresos por agricultura\n- +10% Ingresos por impuestos
 ¬---------------
 {Caravan_Guard}Caravan Guard
 {Caravan_Guard_desc}A reliable caravan guard of the Breeland, skilled in the arts of trade and logistics.
-{Caravan_Guard_effects_desc}+20% Trade Income, +25% Movement Points
+{Caravan_Guard_effects_desc}\n- +20% Ingresos por comercio\n- +25% Puntos de movimiento
 ¬---------------
 {Survivalist}Survivalist
 {Survivalist_desc}An unassuming ranger of the Dunedain, skilled in the arts of tracking and survival.
-{Survivalist_effects_desc}+10 Command (Ambushing), +3 Line of Sight
+{Survivalist_effects_desc}\n- +10 Comando (Emboscando)\n- +3 Línea de visión
 ¬---------------
 {Loremaster}Loremaster
 {Loremaster_desc}A wise loremaster of the Dunedain, skilled in the arts of history and lore.
-{Loremaster_effects_desc}+10% Casualties Recovering, +5 Public Health
+{Loremaster_effects_desc}\n- +10% Recuperación de bajas\n- +5 Salud pública
 ¬---------------
 {DunedainNoble}Dunedain Noble
 {DunedainNoble_desc}An esteemed noble of the Dunedain, skilled in the arts of diplomacy and leadership.
-{DunedainNoble_effects_desc}-30% Unit Training Costs
+{DunedainNoble_effects_desc}\n- -30% Coste de reclutamiento de unidades
 ¬---------------
 {Blademaster}Blademaster
 {Blademaster_desc}A respected blademaster of the Dunedain, skilled in the arts of swordsmanship and combat.
-{Blademaster_effects_desc}+5 Hitpoints, +2 Troop Morale
+{Blademaster_effects_desc}\n- +5 Puntos de vida\n- +2 Moral de las tropas
 ¬---------------
 {DwarvenEngineer}Ingeniero
 {DwarvenEngineer_desc}A ingenious engineer of the Dwarves, skilled in the arts of engineering and construction.
-{DwarvenEngineer_effects_desc}+10 Siege Points, +5 Command (Attacking Walls)
+{DwarvenEngineer_effects_desc}\n- +10 Puntos de construcción de asedio\n- +5 Comando (Atacando murallas)
 ¬--------------------
 {Exile}Exile
 {Exile_desc}Whether by decree or by force, this character has been exiled from their homeland and now wanders the lands of Middle-earth.
-{Exile_effects_desc}+3 Personal Security, +10% Movement Points
+{Exile_effects_desc}\n- +3 Seguridad personal\n- +10% Puntos de movimiento
 ¬---------------
 {Miner}Miner
 {Miner_desc}A veteran miner of the Dwarves, skilled in the arts of mining and excavation.
@@ -4594,19 +4594,19 @@
 ¬---------------
 {Slayer}Slayer
 {Slayer_desc}An esteemed warrior of the Dwarves, skilled in the arts of warfare and combat.
-{Slayer_effects_desc}+6 Command when fighting the Forces of Evil, +10 Hitpoints, -5 Personal Security
+{Slayer_effects_desc}\n- +6 Comando al luchar contra las fuerzas del mal\n- +10 Puntos de vida\n- -5 Seguridad personal
 ¬---------------
 {Artificer}Artificer
 {Artificer_desc}A celebrated artificer of the Elves, skilled in the arts of craftsmanship and history.
-{Artificer_effects_desc}+50% Looting Gain
+{Artificer_effects_desc}\n- +50% Ingresos por saqueos
 ¬---------------
 {ElvenSentinel}Sentinel
 {ElvenSentinel_desc}A watchful guard of Elven homelands, skilled in the arts of defense and protection.
-{ElvenSentinel_effects_desc}+5 Line of Sight, +5 Command (Defending)
+{ElvenSentinel_effects_desc}\n- +5 Línea de visión\n- +5 Comando (Defendiendo)
 ¬---------------
 {Herald}Herald
 {Herald_desc}An esteemed representative of the Elves, skilled in the arts of diplomacy and leadership.
-{Herald_effects_desc}+5 Authority, +5 Public Order, +5 Acumen
+{Herald_effects_desc}\n- +5 Autoridad\n- +5 Orden público\n- +5 Perspicacia
 ¬---------------
 {Gwathredir}Biografía
 {Gwathredir_desc}What little is known of Hervail, even less is known of Gwathredir. The men of Dorwinion know well enough to not enter the Mountains of Mithrin - for none return. Until soemthing changes, it's likely the Avari and their Elders will remain shrouded in mystery.
