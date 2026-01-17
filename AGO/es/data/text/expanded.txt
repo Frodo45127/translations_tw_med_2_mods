@@ -105,8 +105,8 @@
 ¬##### Named Generals #####
 ¬##########################
 {EMT_AZTECS_NAMED_GENERAL_3}Yagthak
-{EMT_BYZANTIUM_NAMED_GENERAL_3}Leofthiuda Chieftain
-{EMT_BYZANTIUM_NAMED_CHARACTER_3}Leofthiuda Chieftain
+{EMT_BYZANTIUM_NAMED_GENERAL_3}Cacique leofthiuda
+{EMT_BYZANTIUM_NAMED_CHARACTER_3}Cacique leofthiuda
 {EMT_SAXONS_NAMED_GENERAL_3}Círdan
 {EMT_SAXONS_NAMED_CHARACTER_3}Círdan
 {EMT_SAXONS_NAMED_GENERAL_4}Glorfindel
@@ -129,8 +129,8 @@
 {EMT_ENGLAND_NAMED_CHARACTER_5}Nazgûl
 {EMT_ENGLAND_NAMED_GENERAL_6}Gothmog
 {EMT_ENGLAND_NAMED_GENERAL_7}Sauron
-{EMT_ENGLAND_NAMED_GENERAL_8}Ancântar the Inquisitor
-{EMT_ENGLAND_NAMED_CHARACTER_8}Ancântar the Inquisitor
+{EMT_ENGLAND_NAMED_GENERAL_8}Ancântar el Inquisidor
+{EMT_ENGLAND_NAMED_CHARACTER_8}Ancântar el Inquisidor
 {EMT_FRANCE_NAMED_GENERAL_3}Khamûl
 {EMT_FRANCE_NAMED_CHARACTER_3}Khamûl
 {EMT_FRANCE_NAMED_GENERAL_4}Rey Brujo
@@ -166,13 +166,13 @@
 {EMT_KHAND_NAMED_CHARACTER_4}Alatar
 {EMT_KHAND_NAMED_GENERAL_5}Pallando
 {EMT_KHAND_NAMED_CHARACTER_5}Pallando
-{EMT_KHAND_NAMED_GENERAL_6}Ancântar the Inquisitor
-{EMT_KHAND_NAMED_CHARACTER_6}Ancântar the Inquisitor
-{EMT_KHAND_NAMED_GENERAL_7}Ancântar the Inquisitor
-{EMT_KHAND_NAMED_CHARACTER_7}Ancântar the Inquisitor
+{EMT_KHAND_NAMED_GENERAL_6}Ancântar el Inquisidor
+{EMT_KHAND_NAMED_CHARACTER_6}Ancântar el Inquisidor
+{EMT_KHAND_NAMED_GENERAL_7}Ancântar el Inquisidor
+{EMT_KHAND_NAMED_CHARACTER_7}Ancântar el Inquisidor
 {EMT_MILAN_NAMED_GENERAL_3}Théoden
-{EMT_MILAN_NAMED_CHARACTER_4}Dunforgoil Warlord
-{EMT_MILAN_NAMED_GENERAL_4}Dunforgoil Warlord
+{EMT_MILAN_NAMED_CHARACTER_4}Señor de la guerra dunforgoil
+{EMT_MILAN_NAMED_GENERAL_4}Señor de la guerra dunforgoil
 {EMT_MILAN_NAMED_GENERAL_5}Gamling
 {EMT_MILAN_NAMED_CHARACTER_5}Gamling
 {EMT_MILAN_NAMED_GENERAL_6}Hama
@@ -188,7 +188,7 @@
 {EMT_MONGOLS_NAMED_GENERAL_7}Berangrim
 {EMT_MONGOLS_NAMED_GENERAL_8}Mariscal de los elfos
 {EMT_MONGOLS_NAMED_GENERAL_9}Centinela de los elfos
-{EMT_MONGOLS_NAMED_GENERAL_10}Ent of Fangorn
+{EMT_MONGOLS_NAMED_GENERAL_10}Ent de Fangorn
 {EMT_MONGOLS_NAMED_CHARACTER_3}Légolas
 {EMT_MONGOLS_NAMED_CHARACTER_4}Thranduil
 {EMT_MONGOLS_NAMED_CHARACTER_5}Celeborn
@@ -196,7 +196,7 @@
 {EMT_MONGOLS_NAMED_CHARACTER_7}Berangrim
 {EMT_MONGOLS_NAMED_CHARACTER_8}Mariscal de los elfos
 {EMT_MONGOLS_NAMED_CHARACTER_9}Centinela de los elfos
-{EMT_MONGOLS_NAMED_CHARACTER_10}Ent of Fangorn
+{EMT_MONGOLS_NAMED_CHARACTER_10}Ent de Fangorn
 {EMT_MOORS_NAMED_GENERAL_3}Gimli
 {EMT_MOORS_NAMED_CHARACTER_3}Gimli
 {EMT_POLAND_NAMED_GENERAL_3}Khamûl
@@ -231,8 +231,8 @@
 {EMT_SLAVE_NAMED_CHARACTER_5}Pallando
 {EMT_SLAVE_NAMED_GENERAL_6}Tumulario
 {EMT_SLAVE_NAMED_CHARACTER_6}Tumulario
-{EMT_SLAVE_NAMED_GENERAL_7}Great Spiders
-{EMT_SLAVE_NAMED_CHARACTER_7}Great Spiders
+{EMT_SLAVE_NAMED_GENERAL_7}Grandes arañas
+{EMT_SLAVE_NAMED_CHARACTER_7}Grandes arañas
 {EMT_SLAVE_NAMED_GENERAL_8}Leales a Mordor
 {EMT_SLAVE_NAMED_CHARACTER_8}Leales a Mordor
 {EMT_TURKS_GENERAL}Ejército dúnedain
@@ -325,8 +325,8 @@
 {EMT_TEUTONIC_ORDER_NAMED_GENERAL_3}Guerrero de Minhiriath
 {EMT_TEUTONIC_ORDER_NAMED_CHARACTER_4}Guardián de Enedwaith
 {EMT_TEUTONIC_ORDER_NAMED_GENERAL_4}Guardián de Enedwaith
-{EMT_BYZANTIUM_NAMED_CHARACTER_4}Kugathi Nobleman
-{EMT_BYZANTIUM_NAMED_GENERAL_4}Kugathi Nobleman
+{EMT_BYZANTIUM_NAMED_CHARACTER_4}Noble kugathi
+{EMT_BYZANTIUM_NAMED_GENERAL_4}Noble kugathi
 {EMT_SLAVE_NAMED_CHARACTER_7}Araña del Bosque Negro
 {EMT_SLAVE_NAMED_GENERAL_7}Araña del Bosque Negro
 {EMT_ENGLAND_NAMED_CHARACTER_10}Custodio del templo
@@ -339,12 +339,12 @@
 {EMT_SCOTLAND_NAMED_GENERAL_6}Señor de Esgaroth
 {EMT_SCOTLAND_NAMED_GENERAL_5}Montaraz de Athala
 {EMT_SCOTLAND_NAMED_CHARACTER_5}Montaraz de Athala
-{EMT_BYZANTIUM_NAMED_CHARACTER_5}Avari Noble
-{EMT_BYZANTIUM_NAMED_GENERAL_5}Avari Noble
-{EMT_BYZANTIUM_NAMED_CHARACTER_6}Avarin Héruvi
-{EMT_BYZANTIUM_NAMED_GENERAL_6}Avarin Héruvi
-{EMT_BYZANTIUM_NAMED_CHARACTER_7}Vinefleet Captain
-{EMT_BYZANTIUM_NAMED_GENERAL_7}Vinefleet Captain
+{EMT_BYZANTIUM_NAMED_CHARACTER_5}Noble avari
+{EMT_BYZANTIUM_NAMED_GENERAL_5}Noble avari
+{EMT_BYZANTIUM_NAMED_CHARACTER_6}Héruvi avari
+{EMT_BYZANTIUM_NAMED_GENERAL_6}Héruvi avari
+{EMT_BYZANTIUM_NAMED_CHARACTER_7}Capitán de la flota viticultora
+{EMT_BYZANTIUM_NAMED_GENERAL_7}Capitán de la flota viticultora
 {EMT_RUSSIA_NAMED_CHARACTER_4}Montaraz de Berúthiel
 {EMT_RUSSIA_NAMED_GENERAL_4}Montaraz de Berúthiel
 {EMT_MOORS_NAMED_CHARACTER_5}Miembro del clan Nalgudos
@@ -385,7 +385,7 @@
 {HRE}Trasgos de Moria
 {ENGLAND}Mordor
 {TEUTONIC_ORDER}Clanes de Enedwaith
-{NORWAY}Balin's Expedition
+{NORWAY}Expedición de Balin
 {IRELAND}Reino de Lothlórien
 {PORTUGAL}Reino brujo de Angmar
 {POLAND}Dol Guldur
@@ -394,7 +394,7 @@
 {RUSSIA}Ar-Adûnâim
 {SPAIN}Tribus haradrim
 {HUNGARY}Enanos de las Ered Luin
-{SCRIPTS}Spawning Pool
+{SCRIPTS}Piscina de apariciones
 {SLAVE}Reinos Independientes
 {SAXONS}Altos Elfos
 {NORMANS}Bree
@@ -488,12 +488,12 @@
 {EMT_AZTECS_GENERAL}Ejército dunledino
 {EMT_AZTECS_NAMED_CHARACTER}Miembro de familia dunledina
 {EMT_AZTECS_NAMED_GENERAL}General dunledino
-{EMT_AZTECS_NAMED_CHARACTER_4}Dunforgoil Warlord
-{EMT_AZTECS_NAMED_GENERAL_4}Dunforgoil Warlord
-{EMT_AZTECS_NAMED_CHARACTER_5}Frekkalingir Noble
-{EMT_AZTECS_NAMED_GENERAL_5}Frekkalingir Noble
-{EMT_AZTECS_NAMED_CHARACTER_6}Isendraich Councillor
-{EMT_AZTECS_NAMED_GENERAL_6}Isendraich Councillor
+{EMT_AZTECS_NAMED_CHARACTER_4}Señor de la guerra dunforgoil
+{EMT_AZTECS_NAMED_GENERAL_4}Señor de la guerra dunforgoil
+{EMT_AZTECS_NAMED_CHARACTER_5}Noble frekkalingir
+{EMT_AZTECS_NAMED_GENERAL_5}Noble frekkalingir
+{EMT_AZTECS_NAMED_CHARACTER_6}Consejero de la torre del Isen
+{EMT_AZTECS_NAMED_GENERAL_6}Consejero de la torre del Isen
 {EMT_AZTECS_PRINCESS}Princesa dunledina
 {EMT_AZTECS_MERCHANT}Mercander dunledino
 {EMT_AZTECS_PRIEST}Sacerdote dunledino
@@ -549,10 +549,10 @@
 {EMT_TURKS_PRIEST_2}Magnífico imam dúnedain
 {EMT_FRANCE_SPY}Explorador de Isengard
 {EMT_FRANCE_ASSASSIN}Asesino de Isengard
-{EMT_FRANCE_DIPLOMAT_1}Isengard Emissary
-{EMT_FRANCE_DIPLOMAT_2}Isengard Emissary
-{EMT_FRANCE_DIPLOMAT_3}Isengard Emissary
-{EMT_FRANCE_DIPLOMAT}Isengard Emissary
+{EMT_FRANCE_DIPLOMAT_1}Emisario de Isengard
+{EMT_FRANCE_DIPLOMAT_2}Emisario de Isengard
+{EMT_FRANCE_DIPLOMAT_3}Emisario de Isengard
+{EMT_FRANCE_DIPLOMAT}Emisario de Isengard
 {EMT_FRANCE_ADMIRAL}Armada de Isengard
 {EMT_FRANCE_GENERAL}Ejército de Isengard
 {EMT_FRANCE_NAMED_CHARACTER_3}General de Isengard
@@ -567,7 +567,7 @@
 {EMT_FRANCE_PRIEST_2}Cardenal de Isengard
 {EMT_HRE_SPY}Explorador trasgo
 {EMT_HRE_ASSASSIN}Asesino trasgo
-{EMT_HRE_DIPLOMAT}Goblin Emissary
+{EMT_HRE_DIPLOMAT}Emisario trasgo
 {EMT_HRE_ADMIRAL}Armada trasgo
 {EMT_HRE_GENERAL}Ejército trasgo
 {EMT_HRE_NAMED_CHARACTER_3}General trasgo
@@ -580,10 +580,10 @@
 {EMT_HRE_PRIEST_2}Cardenal trasgo
 {EMT_ENGLAND_SPY}Explorador de Mordor
 {EMT_ENGLAND_ASSASSIN}Asesino de Mordor
-{EMT_ENGLAND_DIPLOMAT_1}Mordor Emissary
-{EMT_ENGLAND_DIPLOMAT_2}Mordor Emissary
-{EMT_ENGLAND_DIPLOMAT_3}Mordor Emissary
-{EMT_ENGLAND_DIPLOMAT}Mordor Emissary
+{EMT_ENGLAND_DIPLOMAT_1}Emisario de Mordor
+{EMT_ENGLAND_DIPLOMAT_2}Emisario de Mordor
+{EMT_ENGLAND_DIPLOMAT_3}Emisario de Mordor
+{EMT_ENGLAND_DIPLOMAT}Emisario de Mordor
 {EMT_ENGLAND_ADMIRAL}Armada de Mordor
 {EMT_ENGLAND_GENERAL}Ejército de Mordor
 {EMT_ENGLAND_NAMED_CHARACTER_3}General de Mordor
@@ -663,7 +663,7 @@
 {EMT_PORTUGAL_PRIEST_2}Cardenal angmarino
 {EMT_POLAND_SPY}Espía de Dol Guldur
 {EMT_POLAND_ASSASSIN}Asesino de Dol Guldur
-{EMT_POLAND_DIPLOMAT}Dol Guldur Emissary
+{EMT_POLAND_DIPLOMAT}Emisario de Dol Guldur
 {EMT_POLAND_ADMIRAL}Armada de Dol Guldur
 {EMT_POLAND_GENERAL}Ejército de Dol Guldur
 {EMT_POLAND_NAMED_CHARACTER}Miembro de familia de Dol Guldur
@@ -712,7 +712,7 @@
 {EMT_RUSSIA_PRIEST_1}Obispo adûnâim
 {EMT_RUSSIA_PRIEST_2}Cardenal adûnâim
 {EMT_SPAIN_SPY}Explorador haradrim
-{EMT_SPAIN_ASSASSIN}Hasharii Assassin
+{EMT_SPAIN_ASSASSIN}Asesino hasharii
 {EMT_SPAIN_DIPLOMAT}Diplomático haradrim
 {EMT_SPAIN_ADMIRAL}Armada haradrim
 {EMT_SPAIN_GENERAL}Ejército haradrim
@@ -1267,7 +1267,7 @@
 {EMT_TEUTONIC_ORDER_FACTION_LEADER_NAME}Señor de la Asamblea %S
 {EMT_PORTUGAL_FACTION_LEADER_NAME}Señor Supremo %S
 {EMT_POLAND_FACTION_LEADER_NAME}Señor %S
-{EMT_BYZANTIUM_FACTION_LEADER_NAME}Vintner-Regent %S
+{EMT_BYZANTIUM_FACTION_LEADER_NAME}Regente de los Viñedos %S
 {EMT_MOORS_FACTION_LEADER_NAME}Rey %S
 {EMT_RUSSIA_FACTION_LEADER_NAME}Ar-%S
 {EMT_SPAIN_FACTION_LEADER_NAME}Señor Serpiente %S
@@ -1288,7 +1288,7 @@
 {EMT_TEUTONIC_ORDER_FACTION_HEIR_NAME}Cacique %S
 {EMT_PORTUGAL_FACTION_HEIR_NAME}Primer Teniente %S
 {EMT_POLAND_FACTION_HEIR_NAME}Primer Teniente %S
-{EMT_BYZANTIUM_FACTION_HEIR_NAME}First Councillor %S
+{EMT_BYZANTIUM_FACTION_HEIR_NAME}Primer Concejal %S
 {EMT_MOORS_FACTION_HEIR_NAME}Señor %S
 {EMT_RUSSIA_FACTION_HEIR_NAME}Señor %S
 {EMT_SPAIN_FACTION_HEIR_NAME}Señor de la Guerra %S
@@ -1353,7 +1353,7 @@
 {EMT_YOUR_FORCES_ATTACK_NAVY_HRE}Tus fuerzas están atacando a una armada de Trasgos de Moria
 {EMT_YOUR_FORCES_ATTACK_NAVY_ENGLAND}Tus fuerzas están atacando a una armada de Mordor
 {EMT_YOUR_FORCES_ATTACK_NAVY_TEUTONIC_ORDER}Tus fuerzas están atacando a una armada de Enedwaith
-{EMT_YOUR_FORCES_ATTACK_NAVY_NORWAY}Your forces attack a navy of the Khazad-dûm dwarves
+{EMT_YOUR_FORCES_ATTACK_NAVY_NORWAY}Tus fuerzas están atacando a una armada de los enanos de Khazad-dûm
 {EMT_YOUR_FORCES_ATTACK_NAVY_IRELAND}Tus fuerzas están atacando a una armada de Lórien
 {EMT_YOUR_FORCES_ATTACK_NAVY_PORTUGAL}Tus fuerzas están atacando a una armada de los Remanentes de Angmar
 {EMT_YOUR_FORCES_ATTACK_NAVY_POLAND}Tus fuerzas están atacando a una armada de la Sombra del Bosque Negro
@@ -1466,13 +1466,13 @@
 {EMT_VICTORY_MONGOLS}El reino del Bosque Negro ha logrado obtener la victoria
 {EMT_VICTORY_TURKS}Los dúnedain han logrado obtener la victoria
 {EMT_VICTORY_FRANCE}Isengard ha logrado obtener la victoria
-{EMT_VICTORY_HRE}The Goblins of Moria are Victorious
+{EMT_VICTORY_HRE}Los trasgos de Moria han logrado obtener la victoria
 {EMT_VICTORY_ENGLAND}Mordor ha logrado obtener la victoria
 {EMT_VICTORY_TEUTONIC_ORDER}Enedwaith ha logrado obtener la victoria
 {EMT_VICTORY_IRELAND}El reino de Lothlórien ha logrado obtener la victoria
 {EMT_VICTORY_PORTUGAL}Los remanentes de Angmar han logrado obtener la victoria
 {EMT_VICTORY_POLAND}La Sombra del Bosque Negro ha logrado obtener la victoria
-{EMT_VICTORY_BYZANTIUM}The Vintner Court of Dorwinion are Victorious
+{EMT_VICTORY_BYZANTIUM}La corte viticultora de Dorwinion ha logrado obtener la victoria
 {EMT_VICTORY_MOORS}Los enanos han logrado obtener la victoria
 {EMT_VICTORY_RUSSIA}Los Ar-Adûnâim han logrado obtener la victoria
 {EMT_VICTORY_SPAIN}Los Haradrim ha logrado obtener la victoria
@@ -1480,26 +1480,26 @@
 {EMT_VICTORY_SLAVE}Los reinos independientes han logrado obtener la victoria
 {EMT_VICTORY_DESCR_SLAVE}<<< PLACEHOLDER TEXT >>>
 {EMT_DEFEATED_BY_SLAVE}<<< PLACEHOLDER TEXT >>>
-{VENICE_STRENGTH} Well-Rounded Faction \n Fiery Missiles \n Dragon relics\n Unite the Tribes
-{VENICE_WEAKNESS} Lôke-Innas Rim\n Süri'ut Chariots\n Dragon's Wrath Swiftblades
-{SICILY_STRENGTH} Infantry Focused Faction\n Beacons of Gondor\n Large Starting Domain\n Denethor's madness
-{SICILY_WEAKNESS} Fountain Guard\n Osgiliath Veterans\n Ithilien Rangers \n Trebuchets\n Knights of Anorien
-{MILAN_STRENGTH} Cavalry Focused Faction\n Dwarves of the Glittering Caves\n Gondorian reinforcements\n Powerful Enemy
-{MILAN_WEAKNESS} Royal Guard\n Meduseld Doorwards\n Guard of the Caves
-{PAPAL_STATES_STRENGTH} Useful for AI only campaigns\n\nSelect only this faction and enter the command 'control papal_states' or Press CTRL+SHIFT+A to relinquish control of the Papal States to the AI.
-{PAPAL_STATES_WEAKNESS} Not playable
-{DENMARK_STRENGTH} Centrada en infantería\nCaballería pesada excelente\nUnidades caras\nMúltiples enemigos
+{VENICE_STRENGTH} Facción equilibrada \n Proyectiles incendiarios \n Reliquias del dragón\n Une a las tribus
+{VENICE_WEAKNESS} Lôke-Innas Rim\n Carros Süri'ut\n Espadas veloces de la Ira del Dragón
+{SICILY_STRENGTH} Facción centrada en infantería\n Almenaras de Gondor\n Gran territorio inicial\n Locura de Denethor
+{SICILY_WEAKNESS} Guardia de la fuente \n Veteranos de Osgiliath \n Montaraces de Ithilien \n Trebuchets\n Caballeros de Anorien
+{MILAN_STRENGTH} Facción centrada en caballería\n Enanos de las cavernas centelleantes\n Refuerzos gondorianos\n Enemigo poderoso
+{MILAN_WEAKNESS} Guardia real\n Custodios de las puertas de Meduseld\n Guardia de las cuevas
+{PAPAL_STATES_STRENGTH} Útil para campañas de sólo IA.\n\nSelecciona esta facción e introduce el comando 'control papal_states' o pulsa CTRL+SHIFT+A para ceder el control de los estados papales a la IA.
+{PAPAL_STATES_WEAKNESS} No jugable
+{DENMARK_STRENGTH} Facción centrada en infantería\nCaballería pesada excelente\nUnidades caras\nMúltiples enemigos
 {DENMARK_WEAKNESS} Caballeros del cisne de plata\nCaballeros de Tirith Aear\nCaballeros de Edhellond\nTrebuchets
-{SCOTLAND_STRENGTH} Centrada en proyectiles\nBuenos arqueros\nLista de unidades versatil\nEconomía inicial muy pobre
+{SCOTLAND_STRENGTH} Facción centrada en proyectiles\nBuenos arqueros\nLista de unidades versatil\nEconomía inicial muy pobre
 {SCOTLAND_WEAKNESS} Hearthguard\n Earls\n Athala Rangers\n Aihwothiuda Horseguards\n Barding Hird
 {AZTECS_STRENGTH} Infantry Focused Faction\n Isengard influence\n Custom bodyguards\n Raiding\n Reforms
-{AZTECS_WEAKNESS} Wulfingir\n Frekkalingir
+{AZTECS_WEAKNESS} Wulfingir\nFrekkalingir
 {MONGOLS_STRENGTH} Ranged Focused Faction\n Excellent Archers\n Eryn Lasgalen Creation\n Very Slow Recruitment
 {MONGOLS_WEAKNESS} Hin e-Daur\nAredhirith\nEnts
 {TURKS_STRENGTH} Ranged Focused Faction\n Aragorn's journey\n Beacon of Hope Recruitment System\n Arnor restoration & Reunited Kingdom\n Gandalf
 {TURKS_WEAKNESS} Dúnedain Steelbowmen\n Arthedain Royal Guard\n Dúnedain Rangers\n Sons of Númenor
 {FRANCE_STRENGTH} Infantry Focused Faction\n Well-Armoured Roster\n One Ring Mechanics\n Fangorn Deforestation\n Scouring of the Shire
-{FRANCE_WEAKNESS} Orthanc Guard\n Nazg-hai\n Berserkers
+{FRANCE_WEAKNESS} Guardia de Orthanc\n Nazg-hai\n Berserkers
 {HRE_STRENGTH} Khazad-dûm Expedition\n Cheap Units\n Very Large Unit Size \n Monster and Siege Units \n Bonuses to Looting and Raiding
 {HRE_WEAKNESS} Azog's Defilers\n Mountain Uruks\n Flame Wrangler\n Drummers of the Deep\n Warg Pack\n Cave Trolls
 {GUNDABAD_STRENGTH} Infantry Focused Faction\n Strong Offensive Units\n Scavenged Dwarven Armour\n Can Subjugate Other Orcs
@@ -1511,7 +1511,7 @@
 {IRELAND_STRENGTH} Ranged Focused Faction\n Generally Strong Roster\n Eryn Lasgalen Creation\n Very Slow Recruitment\n Rumil and Orophin
 {IRELAND_WEAKNESS} Berio-I-Ngelaidh\nGûrveleg\nEnts
 {PORTUGAL_STRENGTH} Well-Rounded Faction\n The Witch-king of Angmar\n Multiple Enemies\n Armour Piercing Specialists
-{PORTUGAL_WEAKNESS} Guardians of Carn Dûm \n Barrow-Wights\n Darkblades\n Northguard
+{PORTUGAL_WEAKNESS} Guardianes de Carn Dûm \n Tumularios\n Espadas oscuras\n Guardia del norte
 {POLAND_STRENGTH} Ranged Focused Faction\n Poisoned Missiles\n Úlairi Generals\n Spiders
 {POLAND_WEAKNESS} Castellans of Dol Guldur\n Goblin Headhunters\n Khamûl’s Shadow Rangers\n Spiders
 {BYZANTIUM_STRENGTH} Well-Rounded Faction\n Avari\n Strong Economy\n Kantor buildings\n Regentsmen Reforms
@@ -1521,7 +1521,7 @@
 {RUSSIA_STRENGTH} Infantry Focused Faction\n Restricted Cavalry Recruitment\n Begins as a Horde\n Subjugation Recruitment System\n Pillar of Umbar
 {RUSSIA_WEAKNESS} Naru n'Aru Royal Guard\n Naru n'Aru Royal Knights\n Ar-Pharazôn's Faithful\n Alcarondas Sunderers
 {SPAIN_STRENGTH} Hasharii Assassins\n Strong Offensive Units\n Unite the Tribes\n Empire of the Haradwaith\n Landmark Buildings\n Poorly Armoured Units
-{SPAIN_WEAKNESS} Mûmakil\n Troll-Men Champions\n Serpent Guard\n Hasharii Shadows
+{SPAIN_WEAKNESS} Mûmakil\n Campeones hombres trol\n Guardia serpiente\n Sombras hasharii
 {HUNGARY_STRENGTH} Infantry Focused faction\n Excellent Pikemen and Crossbowmen \n Safe Starting Location\n No Dedicated Cavalry\n Dwarven Rings Choice\n Dwarven Relics
 {HUNGARY_WEAKNESS} Broadbeam Marksmen\n Grimborn Reavers\n Gabilgathol Guard\n Azaghâl's Tomb Protectors
 {TIMURIDS_STRENGTH} Skin-Changers\n Multiple Enemies\n Strong Bodyguards\n Keep The Roads Safe \n Clear Mirkwood
@@ -1638,7 +1638,7 @@
 {POLAND_UNIT}Castellanos de Dol Guldur
 {HUNGARY_UNIT}Guardia Martillo dorada
 {PAPAL_STATES_UNIT}Boca de Sauron
-{AZTECS_UNIT}Isendraich Towersworn
+{AZTECS_UNIT}Juramentados de la torre del Isen
 {MONGOLS_UNIT}Hin e-Daur
 {TIMURIDS_UNIT}Caballería éothéod
 {EMT_ARMOUR_LEVEL_0}Ninguno
@@ -1684,8 +1684,8 @@
 {EMT_GONDOR_PRIEST_1}Obispo
 {EMT_GONDOR_PRIEST_2}Cardenal
 {Khazad}Khazad-dûm
-{East_Moria}Khazad-dûm East
-{West_Moria}Khazad-dûm West
+{East_Moria}Khazad-dûm este
+{West_Moria}Khazad-dûm oeste
 {Morgul-Vale}Minas Morgul
 {Minas-Ithil}Minas Ithil
 {Deep-Mirkwood}Dol Guldur
@@ -1694,28 +1694,28 @@
 {Amon-Lanc}Amon Lanc
 {Gorthad}Tyrn Goerthaid
 {Fornost}Fornost Erain
-{East_Moria_Goblins}Moria East
-{West_Moria_Goblins}Moria West
+{East_Moria_Goblins}Moria este
+{West_Moria_Goblins}Moria oeste
 
-{IC_TAKE_SOURCE}Executive order from Orthanc
+{IC_TAKE_SOURCE}Orden ejecutiva de Orthanc
 {isengard_rohan_mission_EXPIRY_ALLIED}An alliance has been forged with this settlement, the Tower of Orthanc no longer requires you to take it.
 {isengard_rohan_mission_EXPIRY_LOST}Another has taken this settlement, the Tower of Orthanc no longer requires you to take it.
 {isengard_rohan_mission_FAILURE}You have failed to take this settlement; the White Wizard is disappointed with this lack of ambition.
 {isengard_rohan_mission_PROPOSAL}The Wizard Saruman asks us to launch an attack into the land of the Horse lords, which could not fit our interests better. For are they not our hated enemies that stole our land, and many in our tribes are yet filled with revenge for Wulf and for our ancestors. The task is clear, we storm the Westfold over the river Isen and take the city that lies there. Then one day, maybe just maybe we may yet see another Dunlending in the Golden Hall of Meduseld.
 {isengard_rohan_mission_SUCCESS}Congratulations, you have successfully taken this settlement; the White Wizard is pleased.
-{isengard_rohan_mission_TITLE}Take Rohirric Settlement
+{isengard_rohan_mission_TITLE}Captura un asentamiento rohírrico
 {isengard_enedwaith_mission_EXPIRY_ALLIED}An alliance has been forged with this settlement, the Tower of Orthanc no longer requires you to take it.
 {isengard_enedwaith_mission_EXPIRY_LOST}Another has taken this settlement, the Tower of Orthanc no longer requires you to take it.
 {isengard_enedwaith_mission_FAILURE}You have failed to take this settlement; the White Wizard is disappointed with this lack of ambition.
 {isengard_enedwaith_mission_PROPOSAL}The Wizard Saruman asks us to launch an attack into the neighboring lands of our kin, the Hîrwaith. According to his spies, the elders there are gathering a host. A host, he says, that will soon cross into the lands of our ancestors and defile our people. It is hard to believe, I know, but if what he speaks is true, we would be foolish to sit idly by and let them strike first. The Huntmasters have been consulted but their divinations are clouded and murky. The future is unclear. Whatever you decide, Chieftain, decide carefully. Once this path to war is trod, there is likely no turning back.
 {isengard_enedwaith_mission_SUCCESS}Congratulations, you have successfully taken this settlement; the White Wizard is pleased.
-{isengard_enedwaith_mission_TITLE}Take Enedwaith Settlement
+{isengard_enedwaith_mission_TITLE}Captura un asentamiento de Enedwaith
 {isengard_gondor_mission_EXPIRY_ALLIED}An alliance has been forged with this settlement, the Tower of Orthanc no longer requires you to take it.
 {isengard_gondor_mission_EXPIRY_LOST}Another has taken this settlement, the Tower of Orthanc no longer requires you to take it.
 {isengard_gondor_mission_FAILURE}You have failed to take this settlement; the White Wizard is disappointed with this lack of ambition.
 {isengard_gondor_mission_PROPOSAL}The Wizard Saruman asks us to launch an attack into the lands of Gondor. Long have their people wallowed in the shadow of their ancestors. They devote their time to petty politics and squabble over who can truly deal with the threat of the shadow that looms ever closer. Soon there will be another shadow, one cast by a horde of our people, flooding over the Isen into their Western lands. The White Tree shall burn and along with it, their women, their homes and any hope that still remains.
 {isengard_gondor_mission_SUCCESS}Congratulations, you have successfully taken this settlement; the White Wizard is pleased.
-{isengard_gondor_mission_TITLE}Take Gondorian Settlement
+{isengard_gondor_mission_TITLE}Captura un asentamiento gondoriano
 
 {EMT_NORWAY_SPY}Espía de Khazad-dûm
 {EMT_NORWAY_ASSASSIN}Asesino de Khazad-dûm
@@ -1763,7 +1763,7 @@
 {EMT_YOUR_FORCES_ATTACKED_NAVY_NORWAY}Tus fuerzas han sido atacadas por una armada de los enanos de Khazad-dûm
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_NORWAY}Tus fuerzas han sido emboscadas por un ejército de los enanos de Khazad-dûm
 {EMT_VICTORY_NORWAY}Los enanos de Khazad-dûm han logrado obtener la victoria
-{NORWAY_STRENGTH} Infantry Focused Faction\nExcellent Armour and Morale\nExplore and rebuild Khazad-dûm\nHail the seven Dwarven Clans\nExplore the Vault of Uruktharbūn
+{NORWAY_STRENGTH} Facción enfocada a infantería\nExcelente armadura y moral\n Explora y reconstruye Khazad-dûm\n Llama a los siete clanes enanos\n Explora la bóveda de Uruktharbûn
 {NORWAY_WEAKNESS} Legión Primera\nLegión de la Guardia Escudo\nGuardianes de Khazad-dûm\nCatapulta enana
 {NORWAY_UNIT}Legión Primera
 
@@ -1795,13 +1795,13 @@
 {EMT_NORMANS_DOCK}Embarcaderos de Bree
 {EMT_NORMANS_FISHING_VILLAGE}Aldea pesquera de Bree
 {EMT_NORMANS_WATCHTOWER}Atalaya de Bree
-{EMT_NORMANS_FACTION_LEADER}Bree-land's First Commander
+{EMT_NORMANS_FACTION_LEADER}Primer Comandante de Bree
 {EMT_NORMANS_FACTION_HEIR}Primer Capitán de la Guardia de Bree
-{EMT_NORMANS_FACTION_LEADER_TITLE}First Commander
+{EMT_NORMANS_FACTION_LEADER_TITLE}Primer Comandante
 {EMT_NORMANS_FACTION_HEIR_TITLE}Primer Capitán de la Guardia
-{EMT_NORMANS_FACTION_LEADER_NAME}First Commander %S
+{EMT_NORMANS_FACTION_LEADER_NAME}Primer Comandante %S
 {EMT_NORMANS_FACTION_HEIR_NAME}Primer Capitán de la Guardia %S
-{EMT_NORMANS_FORMER_FACTION_LEADER_TITLE}First Commander
+{EMT_NORMANS_FORMER_FACTION_LEADER_TITLE}Primer Comandante
 {EMT_YOUR_FORCES_ATTACK_ARMY_NORMANS}Tus fuerzas están atacando a un ejército de Bree
 {EMT_YOUR_FORCES_ATTACK_NAVY_NORMANS}Tus fuerzas están atacando a una armada de Bree
 {EMT_YOUR_FORCES_AMBUSH_ARMY_NORMANS}Tus fuerzas están emboscando a un ejército de Bree
@@ -1895,7 +1895,7 @@
 {EMT_KHAND_FACTION_HEIR}Heredero de facción de los Variag de Khand
 {EMT_KHAND_FACTION_LEADER_TITLE}Líder de facción
 {EMT_KHAND_FACTION_HEIR_TITLE}Heredero de facción
-{EMT_KHAND_FACTION_LEADER_NAME}Great Khan %S
+{EMT_KHAND_FACTION_LEADER_NAME}Gran Khan %S
 {EMT_KHAND_FACTION_HEIR_NAME}Señor de la Guerra %S
 {EMT_KHAND_FORMER_FACTION_LEADER_TITLE}Señor de la Guerra
 {EMT_YOUR_FORCES_ATTACK_ARMY_KHAND}Tus fuerzas están atacando a un ejército de los Variags de Khand
@@ -2004,6 +2004,6 @@
 {EMT_YOUR_FORCES_ATTACKED_NAVY_SAXONS}Tus fuerzas han sido atacadas por una armada de los Altos Elfos
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_SAXONS}Tus fuerzas han sido emboscadas por un ejército de los Altos Elfos
 {EMT_VICTORY_SAXONS}Los Altos Elfos de Lindon e Imladris ha logrado obtener la victoria
-{SAXONS_STRENGTH} House of the Mírdain\n Glorfindel’s Uncloaking\n Elladan and Elrohir\n Galdor's Dream\n Strong but Expensive Roster\n Very Slow Recruitment
-{SAXONS_WEAKNESS} Mithlond Nobles\n Gwaith-i-Mírdain\n Eldarinwë Roquen
+{SAXONS_STRENGTH} Casa de los Mírdain\n Descubrimiento de Glorfindel\n Elladan y Elrohir\n Sueño de Galdor\n Lista de unidades fuertes, pero caras\n Reclutamiento muy lento
+{SAXONS_WEAKNESS} Nobles de Mithlond\n Gwaith-i-Mírdain\n Eldarinwë Roquen
 {SAXONS_UNIT}Nobles de Mithlond
