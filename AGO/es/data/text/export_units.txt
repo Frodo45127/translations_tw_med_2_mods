@@ -425,7 +425,7 @@
 ¬######### DALE
 {Royal_Guardsmen}Guardias reales
 {Royal_Guardsmen_descr}Before Dale was burned by Smaug the Golden, an elite force of archers guarded the city, wielding both bow and spear to defend the Palace of Girion and the king who lived within. After Bard reclaimed the city and slew Smaug, he sought to recreate this force so the generals of Dale would be guarded by capable men; using spears once meant for the Dorwinion King, Bladorthin, Bard equipped his best men. However, despite the abundance of plate armour Bard declined it, instead choosing to garb the archers in chain mail, not wishing to clothe a select few in rich garments while the rest suffered; instead the plate was melted down for tools or sold to fund Dale’s reconstruction.\n\nRegardless of their origin, these men who are garbed in the red of the Girion’s Palace are a force to be feared for they are fine archers that can pick off enemy troops easily, before turning to dispose of any remaining enemy cavalry or infantry with their spears. Any who face Dale in combat would do well to look past the humble garments of these men, for to underestimate them is to risk death.
-{Royal_Guardsmen_descr_short}Soldados acorazados que sirven como séquito personal de la nobleza de Dale, armados con arcos largos y robustos escudos y lanzas.
+{Royal_Guardsmen_descr_short}Soldados acorazados que sirven como séquito personal de la nobleza de Valle, armados con arcos largos y robustos escudos y lanzas.
 ¬-----
 {Hearthguard}Guardia del hogar
 {Hearthguard_descr}It is said that the men of Rhûn worship dragons as gods, their greatest warriors emulating their ferocity and overwhelming power. Dale has suffered the wrath of a dragon twice before, and they intend never to endure that fate again. To this end, the kings of Dale turned to their allies in Mirkwood and Erebor, and created this corps. Dwarf and elf crafted plated armour, spears, shields, and bows, and trained the best warriors in Dale in their use. To this panoply the men of Dale added their fearsome Black Arrows. Made after the pattern of the arrow that pierced the great wyrm Smaug's breast, these heavy bolts will make a mockery of any armour worn by a lesser creature. Taking the name Hearthguard, these men have sworn that the homes of the Dalefolk will not know dragon fire again. Whether that dragon comes as a great tide of Rhûnic zealots or as a winged wyrm, the Hearthguard will slay the beast and defend their people.\n\nREQUIRES DALE OR ESGAROTH
@@ -435,23 +435,23 @@
 {Northmen_Archers_descr}For as long as records began there have been men living in Greenwood the great, during the 1800s of the Third Age however, when Rhovanion fell, the numbers of Woodmen swelled with generations of exiles made up of Northmen who fled the destruction of the kingdom. The centuries of living in the deep forest and close to the nearby Elves has influenced the Woodmen, they are a secretive folk, wary of strangers but true to their friends. They are natural hunters and are well-versed in hit and run tactics fighting their enemies from the cover of the woodlands.
 {Northmen_Archers_descr_short}Gente dura de los bosques, armados con un arco largo y un hacha.
 ¬-----
-{Dale_Longbowmen}Arqueros de arco largo dalianos
+{Dale_Longbowmen}Arqueros de arco largo vallenses
 {Dale_Longbowmen_descr}Dale's traditional mastery of the bow is famed throughout Middle-earth. It was inherited from the ancestral culture of the woodmen, as the refugees of Rhovanion were exiled in Greenwood the Great for so many centuries. As the Northmen re-emerged and established Dale the bow came with them. In the open landscape that stretches and rolls south from the Iron Hills along the rivers Running and Redwater the bow continued to be relevant to military use. Adapted from Silvan-Elvish influence as a hunting and raiding weapon, the longbow's impressive range allows Northmen to defend their homesteads keeping the fast moving Easterlings at a distance.
-{Dale_Longbowmen_descr_short}Arqueros vestidos con armaduras acolchadas y armados con arcos largos, el núcleo del ejército de Dale.
+{Dale_Longbowmen_descr_short}Arqueros vestidos con armaduras acolchadas y armados con arcos largos, el núcleo del ejército de Valle.
 ¬-----
 {Northmen_Militia}Milicia norteña
 {Northmen_Militia_descr}As the kingdom of Dale spreads out across the entire Vale of Anduin, warriors are spread thin. Outposts and villages are vulnerable to attack, only by levying all the folk can the kingdom be protected. The men of Dale are simple farmers and settlers for the most part, but when cornered a Northman will happily take up arms to defend his hearth and home, or to follow his lord.
-{Northmen_Militia_descr_short}Rudos granjeros y colonos de Dale, armados con grandes hachas a dos manos.
+{Northmen_Militia_descr_short}Rudos granjeros y colonos de Valle, armados con grandes hachas a dos manos.
 ¬-----
-{Dalian_Swordsmen}Espadachines dalianos
+{Dalian_Swordsmen}Espadachines vallenses
 {Dalian_Swordsmen_descr}The traders who are the lifeblood of Dale travel through the wild lands of Mirkwood and Rhovanion. Beset by bandits, orcs, and raiders, these merchants employ substantial companies of guards to ensure that their valuable cargo arrives at its destination, and that they return home safely with their profits. When the Barding kings sought to establish a true army for the protection of Dale, it was these men who first answered their call. Lightly equipped and unused to formations and drill, Dalian Swordsmen are nonetheless brave and skilled at arms, veterans of a thousand tiny skirmishes across the North. They fight proudly with sword and shield, no longer simply for coin, but now for their homeland.
 {Dalian_Swordsmen_descr_short}Soldados vestidos con armaduras acolchadas y armados con espadas largas y escudos.
 ¬-----
-{Dalian_Billmen}Infantería con corchete daliana
+{Dalian_Billmen}Infantería con corchete vallense
 {Dalian_Billmen_descr}The traders who are the lifeblood of Dale travel through the wild lands of Mirkwood and Rhovanion. Beset by bandits, orcs, and raiders, these merchants employ substantial companies of guards to ensure that their valuable cargo arrives at its destination, and that they return home safely with their profits. When the Barding kings sought to establish a true army for the protection of Dale, it was these men who first answered their call. The wild lands of the North have many threats that are too large or too hard for swords alone to overcome. To this end, many merchant guards favour the bill, a versatile weapon with hook, spike, and chopping blade. Whether armoured privateer of the Rhovanian plains, mounted raider from the far East, or foul beast from the depths of Mirkwood, all have felt the shock as a mere footman armed with these weapons has laid them low. Now these men have brought their bills to the service of the Barding kings, ready to humble any of the mighty who would threaten their nation.
-{Dalian_Billmen_descr_short}Los soldados de Dale, vestidos con armaduras acolchadas y armados con versátiles garfios, destacan en la lucha contra la caballería.
+{Dalian_Billmen_descr_short}Los soldados de Valle, vestidos con armaduras acolchadas y armados con versátiles garfios, destacan en la lucha contra la caballería.
 ¬-----
-{Dale_Cavalry}Caballería de Dale
+{Dale_Cavalry}Caballería de Valle
 {Dale_Cavalry_descr}The traders who are the lifeblood of Dale travel through the wild lands of Mirkwood and Rhovanion. Beset by bandits, orcs, and raiders, these merchants employ substantial companies of guards to ensure that their valuable cargo arrives at its destination, and that they return home safely with their profits. When the Barding kings sought to establish a true army for the protection of Dale, it was these men who first answered their call. The Dalian Cavalry are the scouts and outriders of those mercenary companies. Lacking the armour or lances of true knights, they excel at harrying the flanks and rear of the enemy. Their light equipment should not lead one to underestimate them, as these riders have more fighting experience than the armoured lords of more peaceful lands.
 {Dale_Cavalry_descr_short}Caballería media, equipada con cotas de malla, espadas y lanzas.
 ¬-----
@@ -473,9 +473,9 @@
 ¬-----
 {Barding_Hird}Hird bárdido
 {Barding_Hird_descr}The most trusted men of the finest war bands are chosen to guard the Earls, as well as the king and his royal halls. They are loyal, steadfast and experienced soldiers. In battle, these warriors can take on the heaviest opponents, whether they come mounted or on foot. Reliance on Dwarf-crafted armour makes them slow, but wielding their huge halberds they cut through everything that stands in their way methodically and relentlessly.
-{Barding_Hird_descr_short}Guardias fuertemente acorazados de la nobleza de Dale, equipados con alabardas y armadura de placas parcial.
+{Barding_Hird_descr_short}Guardias fuertemente acorazados de la nobleza de Valle, equipados con alabardas y armadura de placas parcial.
 ¬-----
-{Dale_Swordmasters}Maestros espadachines de Dale
+{Dale_Swordmasters}Maestros espadachines de Valle
 {Dale_Swordmasters_descr}Few mercenaries live to grow old, but those who do posses an unmatched combination of physical prowess, skill, and cunning. These men no longer guard wagons of timber or barges filled with grain, but instead serve as bodyguards and duellists for their masters as they conduct their negotiations in the markets of Mistrand and Helcârin. Thus, these men have put aside shields and pole arms, instead wielding mighty greatswords. This serves as its own mark of accomplishment, as the skill necessary to use one of these man-high swords is a lifetime in the learning. Now these men, too, are answering the call of the Barding kings, forming into regiments of the most experienced and skilled warriors Dale has to offer. The foes of Dale would do well to fear the charge of these Swordmasters, as their blades will sweep away almost any number of lesser warriors.
 {Dale_Swordmasters_descr_short}Veteranos altamente cualificados, armados con enormes espadas a dos manos.
 ¬-----

@@ -721,7 +721,7 @@
 {MiddleManRace_effects_desc}\n- +5% Puntos de movimiento\n- +2 Línea de visión\n- +1 Comando (Emboscando)\n- +1 Agricultura\n- -2 Ambición
 ¬--------------------
 {AngmarManRace}Angmarino
-{AngmarManRace_desc}Los angmarinos están estrechamente vinculados genealógicamente a los hombres de Dale y Rohan, pero ahí acaba la similitud. Los hombres del lejano norte siempre han albergado un amargo odio hacia los descendientes de Númenor y pretenden gobernarlo todo. Su fría y gélida existencia los ha endurecido físicamente y son capaces de soportar los aguijones y los cortes de la guerra más que los hombres de menor rango. Los hombres de Angmar son también maestros incursores y se mueven con rapidez por las llanuras del norte.
+{AngmarManRace_desc}Los angmarinos están estrechamente vinculados genealógicamente a los hombres de Valle y Rohan, pero ahí acaba la similitud. Los hombres del lejano norte siempre han albergado un amargo odio hacia los descendientes de Númenor y pretenden gobernarlo todo. Su fría y gélida existencia los ha endurecido físicamente y son capaces de soportar los aguijones y los cortes de la guerra más que los hombres de menor rango. Los hombres de Angmar son también maestros incursores y se mueven con rapidez por las llanuras del norte.
 {AngmarManRace_effects_desc}\n- +1 Comando\n- -5% Coste de reclutamiento de unidades\n- +5% Ingresos por saqueos\n- +1 Ambición
 ¬--------------------
 {NazgulRace}Úlairi
@@ -1826,8 +1826,8 @@
 {Rohan_Banner_desc}Un símbolo de una aplastante victoria contra los ejércitos de Rohan.
 {Rohan_Banner_effects_desc}\n- +1 Renombre
 ¬--------------------
-{Dale_Banner}Estandarte del Reino de Dale
-{Dale_Banner_desc}Símbolo de una aplastante victoria contra los ejércitos del Reino de Dale.
+{Dale_Banner}Estandarte del Reino de Valle
+{Dale_Banner_desc}Símbolo de una aplastante victoria contra los ejércitos del Reino de Valle.
 {Dale_Banner_effects_desc}\n- +1 Renombre
 ¬--------------------
 {Dorwinion_Banner}Vintner Court of Dorwinion's Banner
@@ -2737,25 +2737,25 @@
 {Loathes_Russians_desc}Empeñado en dar una lección mortal a los númenóreos, un hombre ideal para hacerlo a gran escala.
 {Loathes_Russians_effects_desc}\n- +1 Moral de las tropas\n- +3 Comando (Contra Ar-Adûnâim)
 ¬--------------------
-{Wary_of_Scots}Receloso de dalianos
-{Wary_of_Scots_desc}Tranquilamente sacudido por las costumbres y guerreros de Dale.
-{Wary_of_Scots_effects_desc}\n- -1 Comando (Contra Dale)
-{Fears_Scots}Teme a los dalianos
-{Fears_Scots_desc}Su abierto temor a los hombres de Dale le convierte en un mal comandante para dirigir un ejército contra ellos.
-{Fears_Scots_effects_desc}\n- -2 Comando (Contra Dale)
-{Terrified_of_Scottish}Aterrorizado por los dalianos
-{Terrified_of_Scottish_desc}La mera visión de un guerrero de Dale basta para que este cobarde coja a tientas las riendas de su caballo.
-{Terrified_of_Scottish_effects_desc}\n- -1 Moral de las tropas\n- -3 Comando (Contra Dale)
+{Wary_of_Scots}Receloso de vallenses
+{Wary_of_Scots_desc}Tranquilamente sacudido por las costumbres y guerreros de Valle.
+{Wary_of_Scots_effects_desc}\n- -1 Comando (Contra Valle)
+{Fears_Scots}Teme a los vallenses
+{Fears_Scots_desc}Su abierto temor a los hombres de Valle le convierte en un mal comandante para dirigir un ejército contra ellos.
+{Fears_Scots_effects_desc}\n- -2 Comando (Contra Valle)
+{Terrified_of_Scottish}Aterrorizado por los vallenses
+{Terrified_of_Scottish_desc}La mera visión de un guerrero de Valle basta para que este cobarde coja a tientas las riendas de su caballo.
+{Terrified_of_Scottish_effects_desc}\n- -1 Moral de las tropas\n- -3 Comando (Contra Valle)
 ¬--------------------
-{Dislikes_Scots}No le gustan los dalianos
-{Dislikes_Scots_desc}Guarda rencor a la gente de Dale, y ha pensado en la mejor manera de enfrentarse a ellos en la batalla.
-{Dislikes_Scots_effects_desc}\n- +1 Comando (Contra Dale)
-{Hates_Scots}Odia a los dalianos
-{Hates_Scots_desc}Este hombre lleva en su corazón un odio irracional hacia Dale, que expresa enérgicamente en el campo de batalla.
-{Hates_Scots_effects_desc}\n- +1 Moral de las tropas\n- +2 Comando (Contra Dale)
-{Loathes_Scottish_Scum}Detesta a los dalianos
-{Loathes_Scottish_Scum_desc}Aunque nunca se cuestiona su capacidad para matar a los guerreros de Dale, sí suele cuestionarse lo sana que es su obsesión por hacerlo.
-{Loathes_Scottish_Scum_effects_desc}\n- +1 Moral de las tropas\n- +3 Comando (Contra Dale)
+{Dislikes_Scots}No le gustan los vallenses
+{Dislikes_Scots_desc}Guarda rencor a la gente de Valle, y ha pensado en la mejor manera de enfrentarse a ellos en la batalla.
+{Dislikes_Scots_effects_desc}\n- +1 Comando (Contra Valle)
+{Hates_Scots}Odia a los vallenses
+{Hates_Scots_desc}Este hombre lleva en su corazón un odio irracional hacia Valle, que expresa enérgicamente en el campo de batalla.
+{Hates_Scots_effects_desc}\n- +1 Moral de las tropas\n- +2 Comando (Contra Valle)
+{Loathes_Scottish_Scum}Detesta a los vallenses
+{Loathes_Scottish_Scum_desc}Aunque nunca se cuestiona su capacidad para matar a los guerreros de Valle, sí suele cuestionarse lo sana que es su obsesión por hacerlo.
+{Loathes_Scottish_Scum_effects_desc}\n- +1 Moral de las tropas\n- +3 Comando (Contra Valle)
 ¬--------------------
 {Wary_of_Sicilians}Receloso de gondorianos
 {Wary_of_Sicilians_desc}Saber de lo que son capaces los gondorianos ha obligado a este hombre a darles demasiado respeto.
@@ -3067,18 +3067,18 @@
 {Beorns_Halls_Pillager_epithet_desc}Expoliador de los Salones de Beorn
 {Beorns_Halls_Pillager_effects_desc}\n- +1 Moral de las tropas\n- +1 Comando (Atacando murallas)\n- +5% Ingresos por saqueos\n- +1 Perspicacia\n- +1 Renombre
 ¬--------------------
-{Dale_Capturer}Conquistador de Dale
-{Dale_Conqueror}Conquistador de Dale
-{Dale_Conqueror_desc}Este general comandó el ejército hasta la victoria durante el asedio de Dale.
+{Dale_Capturer}Conquistador de Valle
+{Dale_Conqueror}Conquistador de Valle
+{Dale_Conqueror_desc}Este general comandó el ejército hasta la victoria durante el asedio de Valle.
 {Dale_Conqueror_gain_desc}Este general demostró talento para comandar una batalla de asedio y ha conducido a nuestro ejército a una gloriosa conquista de un importante asentamiento enemigo. Se ha convertido en un héroe para nuestro pueblo y ya lo llaman el Conquistador, cuyo nombre se escribirá en la historia y se contará en cuentos y canciones.
-{Dale_Conqueror_epithet_desc}Conquistador de Dale
+{Dale_Conqueror_epithet_desc}Conquistador de Valle
 {Dale_Conqueror_effects_desc}\n- +1 Moral de las tropas\n- +1 Comando (Atacando murallas)\n- +1 Perspicacia\n- +1 Renombre
 ¬--------------------
-{Dale_Looter}Desvalijador de Dale
-{Dale_Plunderer}Desvalijador de Dale
-{Dale_Plunderer_desc}Este general dirigió el ejército durante la exitosa conquista y posterior saqueo de Dale.
+{Dale_Looter}Desvalijador de Valle
+{Dale_Plunderer}Desvalijador de Valle
+{Dale_Plunderer_desc}Este general dirigió el ejército durante la exitosa conquista y posterior saqueo de Valle.
 {Dale_Plunderer_gain_desc}Este general ha conducido a nuestro ejército a una gloriosa victoria sobre nuestros enemigos y ha conquistado un importante asentamiento enemigo. Los supervivientes que huyeron del posterior saqueo de la ciudad conquistada trajeron historias de nuestro terror y sembraron el miedo en las tierras de nuestros enemigos. El pueblo ya lo ha bautizado como el Desvalijador.
-{Dale_Plunderer_epithet_desc}Desvalijador de Dale
+{Dale_Plunderer_epithet_desc}Desvalijador de Valle
 {Dale_Plunderer_effects_desc}\n- +1 Moral de las tropas\n- +1 Comando (Atacando murallas)\n- +5% Ingresos por saqueos\n- +1 Perspicacia\n- +1 Renombre
 ¬--------------------
 {Esgaroth_Capturer}Conquistador de Esgaroth
@@ -4220,7 +4220,7 @@
 {Dragoncult_Inquisitor_gain_desc}El renombre y la fe de este General crecieron tanto que se le otorgó el rango de inquisidor dentro del Culto del Dragón.
 ¬--------------------
 {DragonArtefactHunt}Artefactos de dragón
-{DragonArtefactHunt_desc}Esparcidos por la Tierra Media hay varios artefactos relacionados con dragones. El Culto del Dragón desea adquirir algunos de ellos para seguir estableciendo su religión y aumentar su control sobre los diversos clanes rhûnicos. Deberíamos enviar a nuestro diplomático al Valle del Anduin, a los Salones de Beorn, donde se encuentran los restos del famoso Tesoro de Scatha, y a las tierras de Dale, donde yace el cadáver de Smaug en el Lago Largo, e intentar adquirir estos artefactos. También deberíamos enviar a nuestro espía al frío norte, al Brezal Marchito, donde podría adquirir un huevo de dragón. Si nuestros diplomáticos y espías fracasan en la adquisición de estos artefactos, podemos recurrir a nuestra influencia entre los oficiales militares y lanzar campañas para conquistar estos asentamientos.
+{DragonArtefactHunt_desc}Esparcidos por la Tierra Media hay varios artefactos relacionados con dragones. El Culto del Dragón desea adquirir algunos de ellos para seguir estableciendo su religión y aumentar su control sobre los diversos clanes rhûnicos. Deberíamos enviar a nuestro diplomático al Valle del Anduin, a los Salones de Beorn, donde se encuentran los restos del famoso Tesoro de Scatha, y a las tierras de Valle, donde yace el cadáver de Smaug en el Lago Largo, e intentar adquirir estos artefactos. También deberíamos enviar a nuestro espía al frío norte, al Brezal Marchito, donde podría adquirir un huevo de dragón. Si nuestros diplomáticos y espías fracasan en la adquisición de estos artefactos, podemos recurrir a nuestra influencia entre los oficiales militares y lanzar campañas para conquistar estos asentamientos.
 {OneArtefact}Un artefacto de dragón
 {OneArtefact_desc}El Culto del Dragón posee ahora un artefacto vinculado a uno de los dragones de la Tercera Edad, lo que refuerza la fe de los miembros del culto y de sus fieles.
 {OneArtefact_effects_desc}\n- +1 Perspicacia

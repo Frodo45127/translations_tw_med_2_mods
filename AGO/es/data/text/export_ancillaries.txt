@@ -274,11 +274,11 @@
 {beorning_guard_effects_desc}\n- +2 Seguridad personal
 ¬-----
 {dalish_people}Sello diplomático
-{dalish_people_desc}El pueblo de Dale siempre ha sido generoso y amistoso con otras naciones, como Erebor y el Reino del Bosque Negro. Este sello representa esta amistad y es una petición del Rey de Dale para que otras naciones traten a este diplomático con neutralidad, permitiéndole influir en cortes extranjeras más fácilmente. Además, este sello permite al diplomático que lo porta buscar la ayuda de mercaderes y plebeyos y así, averiguar rumores.
+{dalish_people_desc}El pueblo de Valle siempre ha sido generoso y amistoso con otras naciones, como Erebor y el Reino del Bosque Negro. Este sello representa esta amistad y es una petición del Rey de Valle para que otras naciones traten a este diplomático con neutralidad, permitiéndole influir en cortes extranjeras más fácilmente. Además, este sello permite al diplomático que lo porta buscar la ayuda de mercaderes y plebeyos y así, averiguar rumores.
 {dalish_people_effects_desc}\n- +1 Influencia\n- +1 Línea de visión
 ¬-----
 {dalish_retinue}Séquito diplomático
-{dalish_retinue_desc}El séquito de los diplomáticos de Dale está formado por guardias que proporcionan seguridad y comerciantes que buscan nuevas oportunidades comerciales. El diplomático también está autorizado a comandar embarcaciones lacustres para facilitar los viajes por ríos y lagos, y monturas para ayudar en los desplazamientos por tierra.
+{dalish_retinue_desc}El séquito de los diplomáticos de Valle está formado por guardias que proporcionan seguridad y comerciantes que buscan nuevas oportunidades comerciales. El diplomático también está autorizado a comandar embarcaciones lacustres para facilitar los viajes por ríos y lagos, y monturas para ayudar en los desplazamientos por tierra.
 {dalish_retinue_effects_desc}\n- +1 Seguridad personal\n- +10% Puntos de movimiento
 ¬-----
 {pipeweed_gold}Hierba de pipa y monedas
@@ -489,9 +489,9 @@
 {nd_network_desc}Esta red de espionaje te avisará si el Anillo Único acaba en las manos de un general de los Dúnedain del Norte.
 {nd_network_effects_desc}Red de espionaje de los Dúnedain del Norte
 ¬-----
-{dale_network}Red de espionaje de Dale
-{dale_network_desc}Esta red de espionaje te avisará si el Anillo Único acaba en las manos de un general del Reino de Dale.
-{dale_network_effects_desc}Red de espionaje de Dale
+{dale_network}Red de espionaje de Valle
+{dale_network_desc}Esta red de espionaje te avisará si el Anillo Único acaba en las manos de un general del Reino de Valle.
+{dale_network_effects_desc}Red de espionaje de Valle
 ¬-----
 {anduin_network}Red de espionaje del Anduin
 {anduin_network_desc}Esta red de espionaje te avisará si el Anillo Único acaba en las manos de un general de los beórnidas.
@@ -966,7 +966,7 @@
 {elven_veteran_effects_desc}\n- +1 Comando (Atacando)\n- +2 Renombre\n- +1 Comando (Defendiendo)
 ¬-----
 {emeralds_girion}Esmeraldas de Girion
-{emeralds_girion_desc}Girion fue el último rey de Dale antes de que fuera destruido por el dragón Smaug. Regaló estas esmeraldas a los enanos de Erebor para adornar una bella armadura. Tras la Batalla de los Cinco Ejércitos en 2941 T.E., el rey Dáin II se las regaló a Bardo el Arquero, quien a su vez se las regaló al rey de los bosques Thranduil.
+{emeralds_girion_desc}Girion fue el último rey de Valle antes de que fuera destruido por el dragón Smaug. Regaló estas esmeraldas a los enanos de Erebor para adornar una bella armadura. Tras la Batalla de los Cinco Ejércitos en 2941 T.E., el rey Dáin II se las regaló a Bardo el Arquero, quien a su vez se las regaló al rey de los bosques Thranduil.
 {emeralds_girion_effects_desc}\n- +1 Autoridad\n- +1 Felicidad pública\n- +5% Comercio\n- -1 Malestar
 ¬-----
 {eregion_guild}Jefe del Gwaith-i-Mírdain
@@ -1335,8 +1335,8 @@
 {northman_spear_desc}Aunque esta sencilla lanza puede no ser tan mortífera ni tan precisa como otras, está sólidamente construida y cumple la tarea para la que fue hecha. Estas humildes lanzas son utilizadas por los norteños.
 {northman_spear_effects_desc}\n- +1 Comando (Al mando de infantería)
 ¬-----
-{dalian_longbow}Arco largo daliano
-{dalian_longbow_desc}Los hombres de Dale son conocidos en toda la Tierra Media por ser buenos arqueros y, aunque gran parte de esta reputación se debe a su habilidad, también se debe a la calidad de sus arcos, que se fabrican con conocimientos élficos.
+{dalian_longbow}Arco largo vallense
+{dalian_longbow_desc}Los hombres de Valle son conocidos en toda la Tierra Media por ser buenos arqueros y, aunque gran parte de esta reputación se debe a su habilidad, también se debe a la calidad de sus arcos, que se fabrican con conocimientos élficos.
 {dalian_longbow_effects_desc}\n- +1 Seguridad pública \n- +1 Comando (Emboscando)
 ¬-----
 {boatman}Barquero
@@ -1463,8 +1463,8 @@
 {khandish_helmet_desc}Este general lleva un intimidante yelmo forjado con la sabiduría y las habilidades de la gente de Khand. Este yelmo, que normalmente sólo se entrega a aquellos que han jurado lealtad al Khan, infunde temor en los corazones de los enemigos gracias a su diseño.
 {khandish_helmet_effects_desc}\n- +1 Renombre
 ¬-----
-{dale_armour}Armadura daliana
-{dale_armour_desc}Este general lleva una armadura forjada no sólo con la sabiduría y las habilidades del pueblo de Dale, sino también con las habilidades y conocimientos adicionales de los Enanos de Erebor. Esta armadura, que normalmente sólo se entrega a aquellos que han jurado lealtad al Rey de Dale, es resistente y eficaz.
+{dale_armour}Armadura vallense
+{dale_armour_desc}Este general lleva una armadura forjada no sólo con la sabiduría y las habilidades del pueblo de Valle, sino también con las habilidades y conocimientos adicionales de los Enanos de Erebor. Esta armadura, que normalmente sólo se entrega a aquellos que han jurado lealtad al Rey de Valle, es resistente y eficaz.
 {dale_armour_effects_desc}\n- +1 Puntos de vida\n- +1 Renombre
 ¬-----
 {mail_hauberk}Armadura de malla
@@ -1671,11 +1671,11 @@
 {golden_chalice_effects_desc}\n- Dale esto al general que quieras designar como tu próximo heredero
 ¬-----
 {black_arrow}Flecha negra
-{black_arrow_desc}La Flecha Negra es una reliquia de la casa de Girion, Señor de Dale. Fue forjada por Thrór el Enano, que era Rey bajo la Montaña, y utilizada por Bardo para matar al poderoso dragón Smaug.
+{black_arrow_desc}La Flecha Negra es una reliquia de la casa de Girion, Señor de Valle. Fue forjada por Thrór el Enano, que era Rey bajo la Montaña, y utilizada por Bardo para matar al poderoso dragón Smaug.
 {black_arrow_effects_desc}\n- +1 Autoridad
 ¬-----
 {cram}Cram
-{cram_desc}El cram es un alimento en forma de galleta elaborado por los hombres de Esgaroth y Dale. Muy nutritivo, se utiliza como sustento en los viajes largos.
+{cram_desc}El cram es un alimento en forma de galleta elaborado por los hombres de Esgaroth y Valle. Muy nutritivo, se utiliza como sustento en los viajes largos.
 {cram_effects_desc}\n- +1 Salud pública\n- +5% Puntos de movimiento\n- +1 Moral de las tropas
 ¬-----
 {druedain_statue}Centinela de piedra
@@ -2378,7 +2378,7 @@
 {hobbit_flute_desc}Un buen instrumento fabricado por los habitantes de la Comarca, sus ligeras melodías inspiran a las tropas en la batalla.
 {hobbit_flute_effects_desc}\n- +1 Comando (Al mando de infantería)
 ¬---------------
-{dale_music}Laúd daliano
+{dale_music}Laúd vallense
 {dale_music_desc}Uno de los mejores instrumentos fabricados por los norteños, inspira a las tropas en la batalla.
 {dale_music_effects_desc}\n- +1 Comando (Al mando de infantería)
 ¬---------------
@@ -2497,19 +2497,19 @@
 {commander_eorl_desc}"¡Jinetes de Rohan! ¡Juramentos habéis hecho, ahora cumplidlos todos, al señor y a la tierra!"
 {commander_eorl_effects_desc}\n- +1 Comando\n- +1 Autoridad
 ¬---------------
-{king_dale}Rey de Dale
+{king_dale}Rey de Valle
 {king_dale_desc}Gobernante de las Tierras del Norte.
 {king_dale_effects_desc}\n- +2 Autoridad\n- +1 Moral de las tropas
 ¬---------------
 {troops_dale}Athal de Rhovanion
-{troops_dale_desc}Primer Comandante de los ejércitos de Dale.
+{troops_dale_desc}Primer Comandante de los ejércitos de Valle.
 {troops_dale_effects_desc}\n- +1 Comando\n- +2 Autoridad
 ¬---------------
 {lord_esgaroth}Señor de Esgaroth
 {lord_esgaroth_desc}Los Señores de Esgaroth siempre habían sido los gobernantes más fuertes del norte.
 {lord_esgaroth_effects_desc}\n- +1 Autoridad\n- +5% Comercio
 ¬---------------
-{dale_chancellor}Staua de Dale
+{dale_chancellor}Staua de Valle
 {dale_chancellor_desc}La política no es un negocio limpio.
 {dale_chancellor_effects_desc}\n- -10% Costes de construcción \n- +2% Comercio
 ¬---------------
@@ -2635,7 +2635,7 @@
 {shire_wine_desc}El mejor vino del Farthing del Sur.
 {shire_wine_effects_desc}\n- +1 Salud pública
 ¬---------------
-{mayor_dale}Cadena del alcalde de Dale
+{mayor_dale}Cadena del alcalde de Valle
 {mayor_dale_desc}El alcalde dirige la ciudad en nombre del Rey.
 {mayor_dale_effects_desc}\n- +1 Felicidad pública\n- +1 Orden público\n- +5% Ingresos por impuestos
 ¬---------------

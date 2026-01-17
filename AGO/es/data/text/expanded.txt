@@ -331,10 +331,10 @@
 {EMT_SLAVE_NAMED_GENERAL_7}Araña del Bosque Negro
 {EMT_ENGLAND_NAMED_CHARACTER_10}Custodio del templo
 {EMT_ENGLAND_NAMED_GENERAL_10}Custodio del templo
-{EMT_SCOTLAND_NAMED_CHARACTER_3}Barón de Dale
-{EMT_SCOTLAND_NAMED_GENERAL_3}Barón de Dale
-{EMT_SCOTLAND_NAMED_CHARACTER_4}Príncipe de Dale
-{EMT_SCOTLAND_NAMED_GENERAL_4}Príncipe de Dale
+{EMT_SCOTLAND_NAMED_CHARACTER_3}Barón de Valle
+{EMT_SCOTLAND_NAMED_GENERAL_3}Barón de Valle
+{EMT_SCOTLAND_NAMED_CHARACTER_4}Príncipe de Valle
+{EMT_SCOTLAND_NAMED_GENERAL_4}Príncipe de Valle
 {EMT_SCOTLAND_NAMED_CHARACTER_6}Señor de Esgaroth
 {EMT_SCOTLAND_NAMED_GENERAL_6}Señor de Esgaroth
 {EMT_SCOTLAND_NAMED_GENERAL_5}Montaraz de Athala
@@ -377,7 +377,7 @@
 {MILAN}Reino de Rohan
 {PAPAL_STATES}Señor Oscuro de Mordor
 {DENMARK}Principado de Dol Amroth
-{SCOTLAND}Reino de Dale
+{SCOTLAND}Reino de Valle
 {AZTECS}Dunlendinos
 {MONGOLS}Reino del Bosque Negro
 {TURKS}Montaraces del Norte
@@ -469,18 +469,18 @@
 {EMT_DENMARK_PRIEST}Sacerdote amrothiano
 {EMT_DENMARK_PRIEST_1}Obispo amrothiano
 {EMT_DENMARK_PRIEST_2}Cardenal amrothiano
-{EMT_SCOTLAND_SPY}Espía daliano
-{EMT_SCOTLAND_ASSASSIN}Asesino daliano
-{EMT_SCOTLAND_DIPLOMAT}Diplomático daliano
-{EMT_SCOTLAND_ADMIRAL}Armada daliana
-{EMT_SCOTLAND_GENERAL}Ejército daliano
-{EMT_SCOTLAND_NAMED_CHARACTER}Miembro de familia daliana
-{EMT_SCOTLAND_NAMED_GENERAL}General daliano
-{EMT_SCOTLAND_PRINCESS}Princesa daliana
-{EMT_SCOTLAND_MERCHANT}Mercander daliano
-{EMT_SCOTLAND_PRIEST}Sacerdote daliano
-{EMT_SCOTLAND_PRIEST_1}Obispo daliano
-{EMT_SCOTLAND_PRIEST_2}Cardenal daliano
+{EMT_SCOTLAND_SPY}Espía vallense
+{EMT_SCOTLAND_ASSASSIN}Asesino vallense
+{EMT_SCOTLAND_DIPLOMAT}Diplomático vallense
+{EMT_SCOTLAND_ADMIRAL}Armada vallense
+{EMT_SCOTLAND_GENERAL}Ejército vallense
+{EMT_SCOTLAND_NAMED_CHARACTER}Miembro de familia vallense
+{EMT_SCOTLAND_NAMED_GENERAL}General vallense
+{EMT_SCOTLAND_PRINCESS}Princesa vallense
+{EMT_SCOTLAND_MERCHANT}Mercander vallense
+{EMT_SCOTLAND_PRIEST}Sacerdote vallense
+{EMT_SCOTLAND_PRIEST_1}Obispo vallense
+{EMT_SCOTLAND_PRIEST_2}Cardenal vallense
 {EMT_AZTECS_SPY}Espía dunledino
 {EMT_AZTECS_ASSASSIN}Asesino dunledino
 {EMT_AZTECS_DIPLOMAT}Diplomático dunledino
@@ -797,12 +797,12 @@
 {EMT_DENMARK_CITY}Ciudad amrothiana
 {EMT_DENMARK_LARGE_CITY}Ciudad grande amrothiana
 {EMT_DENMARK_HUGE_CITY}Ciudad enorme amrothiana
-{EMT_SCOTLAND_VILLAGE}Aldea daliana
-{EMT_SCOTLAND_TOWN}Pueblo daliano
-{EMT_SCOTLAND_LARGE_TOWN}Pueblo grande daliano
-{EMT_SCOTLAND_CITY}Ciudad daliana
-{EMT_SCOTLAND_LARGE_CITY}Ciudad grande daliana
-{EMT_SCOTLAND_HUGE_CITY}Ciudad enorme daliana
+{EMT_SCOTLAND_VILLAGE}Aldea vallense
+{EMT_SCOTLAND_TOWN}Pueblo vallense
+{EMT_SCOTLAND_LARGE_TOWN}Pueblo grande vallense
+{EMT_SCOTLAND_CITY}Ciudad vallense
+{EMT_SCOTLAND_LARGE_CITY}Ciudad grande vallense
+{EMT_SCOTLAND_HUGE_CITY}Ciudad enorme vallense
 {EMT_AZTECS_VILLAGE}Aldea dunledina
 {EMT_AZTECS_TOWN}Pueblo dunledino
 {EMT_AZTECS_LARGE_TOWN}Pueblo grande dunledino
@@ -929,12 +929,12 @@
 {EMT_DENMARK_LARGE_CASTLE}Fortaleza amrothiana
 {EMT_DENMARK_FORTRESS}Ciudadela amrothiana
 {EMT_DENMARK_STAR_FORT}Fortaleza estrella amrothiana
-{EMT_SCOTLAND_WOODEN_CASTLE}Mota y liza daliana
-{EMT_SCOTLAND_STONE_KEEP}Castillo de madera daliano
-{EMT_SCOTLAND_CASTLE}Castillo daliano
-{EMT_SCOTLAND_LARGE_CASTLE}Fortaleza daliana
-{EMT_SCOTLAND_FORTRESS}Ciudadela daliana
-{EMT_SCOTLAND_STAR_FORT}Fortaleza estrella daliana
+{EMT_SCOTLAND_WOODEN_CASTLE}Mota y liza vallense
+{EMT_SCOTLAND_STONE_KEEP}Castillo de madera vallense
+{EMT_SCOTLAND_CASTLE}Castillo vallense
+{EMT_SCOTLAND_LARGE_CASTLE}Fortaleza vallense
+{EMT_SCOTLAND_FORTRESS}Ciudadela vallense
+{EMT_SCOTLAND_STAR_FORT}Fortaleza estrella vallense
 {EMT_AZTECS_WOODEN_CASTLE}Mota y liza dunledina
 {EMT_AZTECS_STONE_KEEP}Castillo de madera dunledino
 {EMT_AZTECS_CASTLE}Castillo dunledino
@@ -1036,7 +1036,7 @@
 {EMT_MILAN_CAPITAL}Capital rohírrica
 {EMT_PAPAL_STATES_CAPITAL}Capital de Sauron
 {EMT_DENMARK_CAPITAL}Capital amrothiana
-{EMT_SCOTLAND_CAPITAL}Capital daliana
+{EMT_SCOTLAND_CAPITAL}Capital vallense
 {EMT_AZTECS_CAPITAL}Capital dunledina
 {EMT_MONGOLS_CAPITAL}Capital del reino del Bosque Negro
 {EMT_TIMURIDS_CAPITAL}Capital del valle del Anduin
@@ -1058,7 +1058,7 @@
 {EMT_MILAN_FORT}Fuerte rohírrico
 {EMT_PAPAL_STATES_FORT}Fuerte de Sauron
 {EMT_DENMARK_FORT}Fuerte amrothiano
-{EMT_SCOTLAND_FORT}Fuerte daliano
+{EMT_SCOTLAND_FORT}Fuerte vallense
 {EMT_AZTECS_FORT}Fuerte dunledino
 {EMT_MONGOLS_FORT}Fuerte del reino del Bosque Negro
 {EMT_TIMURIDS_FORT}Fuerte del valle del Anduin
@@ -1080,7 +1080,7 @@
 {EMT_MILAN_PORT}Puerto rohírrico
 {EMT_PAPAL_STATES_PORT}Puerto de Sauron
 {EMT_DENMARK_PORT}Puerto amrothiano
-{EMT_SCOTLAND_PORT}Puerto daliano
+{EMT_SCOTLAND_PORT}Puerto vallense
 {EMT_AZTECS_PORT}Puerto dunledino
 {EMT_MONGOLS_PORT}Puerto del reino del Bosque Negro
 {EMT_TIMURIDS_PORT}Puerto del valle del Anduin
@@ -1102,7 +1102,7 @@
 {EMT_MILAN_DOCK}Embarcaderos rohírricos
 {EMT_PAPAL_STATES_DOCK}Embarcaderos de Sauron
 {EMT_DENMARK_DOCK}Embarcaderos amrothianos
-{EMT_SCOTLAND_DOCK}Embarcaderos dalianos
+{EMT_SCOTLAND_DOCK}Embarcaderos vallenses
 {EMT_AZTECS_DOCK}Embarcaderos dunledinos
 {EMT_MONGOLS_DOCK}Embarcaderos del reino del Bosque Negro
 {EMT_TIMURIDS_DOCK}Embarcaderos del valle del Anduin
@@ -1124,7 +1124,7 @@
 {EMT_MILAN_FISHING_VILLAGE}Aldea pesquera rohírrica
 {EMT_PAPAL_STATES_FISHING_VILLAGE}Aldea pesquera de Sauron
 {EMT_DENMARK_FISHING_VILLAGE}Aldea pesquera amrothiana
-{EMT_SCOTLAND_FISHING_VILLAGE}Aldea pesquera daliana
+{EMT_SCOTLAND_FISHING_VILLAGE}Aldea pesquera vallense
 {EMT_AZTECS_FISHING_VILLAGE}Aldea pesquera dunledina
 {EMT_MONGOLS_FISHING_VILLAGE}Aldea pesquera del reino del Bosque Negro
 {EMT_TIMURIDS_FISHING_VILLAGE}Aldea pesquera del valle del Anduin
@@ -1146,7 +1146,7 @@
 {EMT_MILAN_WATCHTOWER}Atalaya rohírrica
 {EMT_PAPAL_STATES_WATCHTOWER}Atalaya de Sauron
 {EMT_DENMARK_WATCHTOWER}Atalaya amrothiana
-{EMT_SCOTLAND_WATCHTOWER}Atalaya daliana
+{EMT_SCOTLAND_WATCHTOWER}Atalaya vallense
 {EMT_AZTECS_WATCHTOWER}Atalaya dunledina
 {EMT_MONGOLS_WATCHTOWER}Atalaya del reino del Bosque Negro
 {EMT_TIMURIDS_WATCHTOWER}Atalaya del valle del Anduin
@@ -1168,7 +1168,7 @@
 {EMT_MILAN_FACTION_LEADER}Líder de facción rohírrico
 {EMT_PAPAL_STATES_FACTION_LEADER}Sauron
 {EMT_DENMARK_FACTION_LEADER}Líder de facción amrothiano
-{EMT_SCOTLAND_FACTION_LEADER}Líder de facción daliano
+{EMT_SCOTLAND_FACTION_LEADER}Líder de facción vallense
 {EMT_AZTECS_FACTION_LEADER}Líder de facción dunledino
 {EMT_MONGOLS_FACTION_LEADER}Líder de facción del reino del Bosque Negro
 {EMT_TIMURIDS_FACTION_LEADER}Líder del valle del Anduin
@@ -1190,7 +1190,7 @@
 {EMT_MILAN_FACTION_HEIR}Heredero de facción rohírrico
 {EMT_PAPAL_STATES_FACTION_HEIR}Heredero de facción de Sauron
 {EMT_DENMARK_FACTION_HEIR}Heredero de facción amrothiano
-{EMT_SCOTLAND_FACTION_HEIR}Heredero de facción daliano
+{EMT_SCOTLAND_FACTION_HEIR}Heredero de facción vallense
 {EMT_AZTECS_FACTION_HEIR}Heredero de facción dunledino
 {EMT_MONGOLS_FACTION_HEIR}Heredero de facción del reino del Bosque Negro
 {EMT_TIMURIDS_FACTION_HEIR}Heredero de facción del valle del Anduin
@@ -1321,7 +1321,7 @@
 {EMT_YOUR_FORCES_ATTACK_ARMY_MILAN}Tus fuerzas están atacando a un ejército de Rohan
 {EMT_YOUR_FORCES_ATTACK_ARMY_PAPAL_STATES}Tus fuerzas están atacando a un ejército de Sauron
 {EMT_YOUR_FORCES_ATTACK_ARMY_DENMARK}Tus fuerzas están atacando a un ejército de Dol Amroth
-{EMT_YOUR_FORCES_ATTACK_ARMY_SCOTLAND}Tus fuerzas están atacando a un ejército de Dale
+{EMT_YOUR_FORCES_ATTACK_ARMY_SCOTLAND}Tus fuerzas están atacando a un ejército de Valle
 {EMT_YOUR_FORCES_ATTACK_ARMY_AZTECS}Tus fuerzas están atacando a un ejército de Dunland
 {EMT_YOUR_FORCES_ATTACK_ARMY_MONGOLS}Tus fuerzas están atacando a un ejército del Reino del Bosque Negro
 {EMT_YOUR_FORCES_ATTACK_ARMY_TIMURIDS}Tus fuerzas están atacando a un ejército del Valle del Anduin
@@ -1344,7 +1344,7 @@
 {EMT_YOUR_FORCES_ATTACK_NAVY_MILAN}Tus fuerzas están atacando a una armada de Rohan
 {EMT_YOUR_FORCES_ATTACK_NAVY_PAPAL_STATES}Tus fuerzas están atacando a una armada de Sauron
 {EMT_YOUR_FORCES_ATTACK_NAVY_DENMARK}Tus fuerzas están atacando a una armada de Dol Amroth
-{EMT_YOUR_FORCES_ATTACK_NAVY_SCOTLAND}Tus fuerzas están atacando a una armada de Dale
+{EMT_YOUR_FORCES_ATTACK_NAVY_SCOTLAND}Tus fuerzas están atacando a una armada de Valle
 {EMT_YOUR_FORCES_ATTACK_NAVY_AZTECS}Tus fuerzas están atacando a una armada de Dunland
 {EMT_YOUR_FORCES_ATTACK_NAVY_MONGOLS}Tus fuerzas están atacando a una armada del Reino del Bosque Negro
 {EMT_YOUR_FORCES_ATTACK_NAVY_TIMURIDS}Tus fuerzas están atacando a una armada del Valle del Anduin
@@ -1368,7 +1368,7 @@
 {EMT_YOUR_FORCES_AMBUSH_ARMY_MILAN}Tus fuerzas están emboscando a un ejército de Rohan
 {EMT_YOUR_FORCES_AMBUSH_ARMY_PAPAL_STATES}Tus fuerzas están emboscando a un ejército de Sauron
 {EMT_YOUR_FORCES_AMBUSH_ARMY_DENMARK}Tus fuerzas están emboscando a un ejército de Dol Amroth
-{EMT_YOUR_FORCES_AMBUSH_ARMY_SCOTLAND}Tus fuerzas están emboscando a un ejército de Dale
+{EMT_YOUR_FORCES_AMBUSH_ARMY_SCOTLAND}Tus fuerzas están emboscando a un ejército de Valle
 {EMT_YOUR_FORCES_AMBUSH_ARMY_AZTECS}Tus fuerzas están emboscando a un ejército de Dunland
 {EMT_YOUR_FORCES_AMBUSH_ARMY_MONGOLS}Tus fuerzas están emboscando a un ejército del Reino del Bosque Negro
 {EMT_YOUR_FORCES_AMBUSH_ARMY_TIMURIDS}Tus fuerzas están emboscando a un ejército del Valle del Anduin
@@ -1391,7 +1391,7 @@
 {EMT_YOUR_FORCES_ATTACKED_ARMY_MILAN}Tus fuerzas han sido atacadas por un ejército de Rohan
 {EMT_YOUR_FORCES_ATTACKED_ARMY_PAPAL_STATES}Tus fuerzas han sido atacadas por un ejército de Sauron
 {EMT_YOUR_FORCES_ATTACKED_ARMY_DENMARK}Tus fuerzas han sido atacadas por un ejército de Dol Amroth
-{EMT_YOUR_FORCES_ATTACKED_ARMY_SCOTLAND}Tus fuerzas han sido atacadas por un ejército de Dale
+{EMT_YOUR_FORCES_ATTACKED_ARMY_SCOTLAND}Tus fuerzas han sido atacadas por un ejército de Valle
 {EMT_YOUR_FORCES_ATTACKED_ARMY_AZTECS}Tus fuerzas han sido atacadas por un ejército de Dunland
 {EMT_YOUR_FORCES_ATTACKED_ARMY_MONGOLS}Tus fuerzas han sido atacadas por un ejército del Reino del Bosque Negro
 {EMT_YOUR_FORCES_ATTACKED_ARMY_TIMURIDS}Tus fuerzas han sido atacadas por un ejército del Valle del Anduin
@@ -1414,7 +1414,7 @@
 {EMT_YOUR_FORCES_ATTACKED_NAVY_MILAN}Tus fuerzas han sido atacadas por una armada de Rohan
 {EMT_YOUR_FORCES_ATTACKED_NAVY_PAPAL_STATES}Tus fuerzas han sido atacadas por una armada de Sauron
 {EMT_YOUR_FORCES_ATTACKED_NAVY_DENMARK}Tus fuerzas han sido atacadas por una armada de Dol Amroth
-{EMT_YOUR_FORCES_ATTACKED_NAVY_SCOTLAND}Tus fuerzas han sido atacadas por una armada de Dale
+{EMT_YOUR_FORCES_ATTACKED_NAVY_SCOTLAND}Tus fuerzas han sido atacadas por una armada de Valle
 {EMT_YOUR_FORCES_ATTACKED_NAVY_AZTECS}Tus fuerzas han sido atacadas por una armada de Dunland
 {EMT_YOUR_FORCES_ATTACKED_NAVY_MONGOLS}Tus fuerzas han sido atacadas por una armada del Reino del Bosque Negro
 {EMT_YOUR_FORCES_ATTACKED_NAVY_TIMURIDS}Tus fuerzas han sido atacadas por una armada del Valle del Anduin
@@ -1437,7 +1437,7 @@
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_MILAN}Tus fuerzas han sido emboscadas por un ejército de Rohan
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_PAPAL_STATES}Tus fuerzas han sido emboscadas por un ejército de Sauron
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_DENMARK}Tus fuerzas han sido emboscadas por un ejército de Dol Amroth
-{EMT_YOUR_FORCES_AMBUSHED_ARMY_SCOTLAND}Tus fuerzas han sido emboscadas por un ejército de Dale
+{EMT_YOUR_FORCES_AMBUSHED_ARMY_SCOTLAND}Tus fuerzas han sido emboscadas por un ejército de Valle
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_AZTECS}Tus fuerzas han sido emboscadas por un ejército de Dunland
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_MONGOLS}Tus fuerzas han sido emboscadas por un ejército del Reino del Bosque Negro
 {EMT_YOUR_FORCES_AMBUSHED_ARMY_TIMURIDS}Tus fuerzas han sido emboscadas por un ejército del Valle del Anduin
@@ -1461,7 +1461,7 @@
 {EMT_VICTORY_MILAN}Rohan ha logrado obtener la victoria
 {EMT_VICTORY_PAPAL_STATES}El Señor Oscuro de Mordor ha logrado obtener la victoria
 {EMT_VICTORY_DENMARK}Dol Amroth ha logrado obtener la victoria
-{EMT_VICTORY_SCOTLAND}Dale ha logrado obtener la victoria
+{EMT_VICTORY_SCOTLAND}Valle ha logrado obtener la victoria
 {EMT_VICTORY_AZTECS}Los hombres salvajes de las Tierras Brunas han logrado obtener la victoria
 {EMT_VICTORY_MONGOLS}El reino del Bosque Negro ha logrado obtener la victoria
 {EMT_VICTORY_TURKS}Los dúnedain han logrado obtener la victoria
