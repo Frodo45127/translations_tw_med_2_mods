@@ -10,7 +10,7 @@
 {SMT_NEUTRAL}Neutral
 {SMT_HOSTILE}Hostil
 {SMT_AT_WAR}En guerra
-{SMT_NIGHT_ATTACK}Intenta un ataque nocturno
+{SMT_NIGHT_ATTACK}Ataque nocturno
 {SMT_TRADE_RIGHTS}Derechos comerciales
 {SMT_SIEGE}Mantener asedio
 {SMT_ASSAULT}Asaltar

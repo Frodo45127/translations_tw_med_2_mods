@@ -684,7 +684,7 @@
 {oakenshield_desc}King Thráin led the vanguard's assault during the Battle of Azanulbizar, but he was repelled by the Orcs in the woods near the Mirrormere, many dwarven lords had been slain in the fray. The shield of Thorin, Thráin's eldest son, was broken. So, he cut off an oak branch that he used as a shield and returned to the battle in spite of his injuries. This dwarven lord was in a similar situation during the battle and so he reacted like Thorin to protect his life.
 {oakenshield_effects_desc}+2 Renown, +1 Hitpoints, +2 Troop Morale
 ¬-----
-{orc_coat}coat of mail
+{orc_coat}Rusty Mail
 {orc_coat_desc}Made by orc smiths, this coat of mail is rough and rusty. It is still better than nothing.
 {orc_coat_effects_desc}+1 Hitpoints
 ¬-----

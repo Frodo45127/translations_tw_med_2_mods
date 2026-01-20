@@ -684,7 +684,7 @@
 {oakenshield_desc}El rey Thráin lideró el asalto de la vanguardia durante la batalla de Azanulbizar, pero fue repelido por los orcos en los bosques cercanos al Lago Espejo, muchos señores enanos habían sido asesinados en la refriega. El escudo de Thorin, el hijo mayor de Thráin, estaba roto. Entonces, cortó una rama de roble que utilizó como escudo y volvió a la batalla a pesar de sus heridas. Este señor enano se encontraba en una situación similar durante la batalla, por lo que reaccionó como Thorin para proteger su vida.
 {oakenshield_effects_desc}\n- +2 Renombre\n- +1 Puntos de vida\n- +2 Moral de las tropas
 ¬-----
-{orc_coat}Cota de malla
+{orc_coat}Malla oxidada
 {orc_coat_desc}Hecha por herreros orcos, esta cota de malla está áspera y oxidada. Pero es mejor que nada.
 {orc_coat_effects_desc}\n- +1 Puntos de vida
 ¬-----

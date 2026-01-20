@@ -610,7 +610,7 @@
 {Ubaadah_effects_desc}
 ¬--------------------
 {Khaldoon}Biografía
-{khaldoon_desc}Khaldoon was raised within the catacombs of Faen’obel, trained from a young age to exact the will of the Hasharii and support the Serpent Tribe’s rule. He has worked in the shadows to expand the influence of the Hasharii throughout the Haradwaith and erase any traitors who would dare turn from the light of Sauron. Now he shoulders the task of bringing Harad’s deadly enforcers to the field of battle. Khaldoon is a cold and heartless man, although his fealty is owed to the Serpent Lord — his true and only master is Sauron himself, for the worship of Harad’s God-King was first practiced by the Hasharii and they have ensured Harad remains faithful since the second age.
+{Khaldoon_desc}Khaldoon was raised within the catacombs of Faen’obel, trained from a young age to exact the will of the Hasharii and support the Serpent Tribe’s rule. He has worked in the shadows to expand the influence of the Hasharii throughout the Haradwaith and erase any traitors who would dare turn from the light of Sauron. Now he shoulders the task of bringing Harad’s deadly enforcers to the field of battle. Khaldoon is a cold and heartless man, although his fealty is owed to the Serpent Lord — his true and only master is Sauron himself, for the worship of Harad’s God-King was first practiced by the Hasharii and they have ensured Harad remains faithful since the second age.
 {Khaldoon_epithet_desc}the Assassin
 {Khaldoon_effects_desc}
 ¬--------------------
@@ -4638,3 +4638,19 @@
 {GeneralKillCount7_desc}This commander's name will echo through the ages as one of the greatest warriors who has ever lived.
 {GeneralKillCount7_effects_desc}
 {GeneralKillCount7_epithet_desc}the Bane of Middle-earth
+¬---------------¬---------------
+{OldAge_Start}Viejo
+{OldAge_Start_desc}While this general may still have some life in him, his best years are long behind him.
+{OldAge_Start_effects_desc}
+{OldAge_Start_gain_desc}This general's age is not a serious issue yet but time is catching up to him.
+
+{OldAge_Progress}Anciano
+{OldAge_Progress_desc}This general feels old, both physically and mentally. While still capable, his time is starting to run out.
+{OldAge_Progress_effects_desc}
+{OldAge_Progress_gain_desc}This general's age is clear for all to see and even he cannot begin to deny it's effects on him.
+
+{OldAge_Ailing}Decrépito
+{OldAge_Ailing_desc}This general is riddled with ailments and will die soon. While there are many in Middle-earth who can stave off death's welcoming arms, this general is not so fortunate.
+{OldAge_Ailing_effects_desc}
+{OldAge_Ailing_gain_desc}The winds of time howl at this general's feet. It won't be long until he breathes his last breath.
+¬---------------
