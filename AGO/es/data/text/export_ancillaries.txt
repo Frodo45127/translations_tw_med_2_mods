@@ -84,7 +84,7 @@
 {naval_ballista_effects_desc}\n- +5% Puntos de movimiento\n- +1 Comando en mar
 ¬-----
 {dragon_fire}Lanza de fuego rhûnica
-{dragon_fire_desc}The Dragon Cult of Rhûn is ingenious and resourceful, and these talents have lead the Cult to develop a weapon that utilizes the dragon oil that is used in their flaming arrows. This immense lance sprays fire onto the water, a fire that continues to burn on the water's surface. This is a potent weapon that strikes immense fear into the enemy's heart.
+{dragon_fire_desc}El culto del dragón de Rhûn es ingenioso y posee bastantes recursos, y estos talentos han llevado al culto a desarrollar un arma que utiliza el aceite de dragón que se emplea en sus flechas incendiarias. Esta inmensa lanza arroja fuego sobre el agua, un fuego que continúa ardiendo en la superficie durante un tiempo. Se trata de un arma potente que infunde un miedo inmenso en el corazón del enemigo.
 {dragon_fire_effects_desc}\n- +5% Puntos de movimiento\n- +1 Comando en mar
 ¬-----
 {corsair_mercenaries}Capitán corsario mercenario
@@ -129,8 +129,8 @@
 {ori_mazarbul_book_desc}Balin se llevó este libro cuando abandonó Erebor para que Ori pudiera registrar la historia del reino enano y su progreso en las profundidades de Moria. En él se detallan prolijas y completas notas de la vida cotidiana dentro de Moria.
 {ori_mazarbul_book_effects_desc}\n- +1 Influencia
 ¬---------------
-{history_of_dwarves}A History of Dwarves
-{history_of_dwarves_desc}A simple yet detailed manuscript chronicling the history of dwarves since Durin the Deathless first awoke. Written and maintained by the countless lords and kings of Khazad-dûm, this book contains a wealth of invaluable wisdom for any privileged enough to read it and is one of the ancient few relics that have survived from the First Age.
+{history_of_dwarves}Una historia de enanos
+{history_of_dwarves_desc}Un manuscrito sencillo pero detallado que narra la historia de los enanos desde que Durin el Inmortal despertó por primera vez. Escrito y conservado por los innumerables señores y reyes de Khazad-dûm, este libro contiene una gran cantidad de sabiduría invaluable para cualquiera que tenga el privilegio de leerlo y es una de las pocas reliquias antiguas que han sobrevivido desde la Primera Edad.
 {history_of_dwarves_effects_desc}+
 ¬---------------
 {emissary_mordor}Emisario de Mordor
@@ -226,11 +226,11 @@
 {umbar_spy_effects_desc}\n- +2 Línea de visión
 ¬-----
 {nomad_ways}Amuletos nómadas
-{nomad_ways_desc}This diplomat carries strange charms from the far south and east of Middle-earth. Nobles of Middle-earth are intrigued by these charms and those who carry them, for they signify their foreign origin and their combat skill. As such this diplomat can influence other nations' courts to a greater degree.
+{nomad_ways_desc}Este diplomático lleva consigo extraños amuletos procedentes del lejano sur y este de la Tierra Media. Los nobles de la Tierra Media sienten curiosidad por estos amuletos y por quienes los llevan, ya que simbolizan su origen extranjero y su destreza en el combate. Por ello, este diplomático puede influir en mayor medida en las cortes de otras naciones.
 {nomad_ways_effects_desc}\n- +1 Influencia\n- +1 Seguridad personal
 ¬-----
 {serpent_tribe}Lengua de serpiente
-{serpent_tribe_desc}This diplomat carries a stone serpent's tongue that indicates that they hold the position of the Great Serpent's Tongue in Harad. Foreign courts will treat this diplomat with respect that is accorded to one of their rank and they are able to have a greater influence.
+{serpent_tribe_desc}Este diplomático lleva una lengua de serpiente de piedra que indica que ocupa el cargo de Lengua de la Gran Serpiente en Harad. Las cortes extranjeras tratarán a este diplomático con el respeto que se le concede a alguien de su rango y podrá ejercer una mayor influencia.
 {serpent_tribe_effects_desc}\n- +1 Influencia
 ¬-----
 {harad_bodyguard}Guardias hombres trol
@@ -242,7 +242,7 @@
 {harad_mounts_effects_desc}\n- +10% Puntos de movimiento\n- +1 Línea de visión
 ¬-----
 {sealed_letter}Carta sellada
-{sealed_letter_desc}This diplomat carries letters from the Steward of Gondor, addressed to foreign nations, that are sealed by the Steward's personal seal. As such, this diplomat is able to use these to impress foreign courts and influence them.
+{sealed_letter_desc}Este diplomático lleva cartas del Senescal de Gondor, dirigidas a naciones extranjeras, que están selladas con el sello personal del Senescal. Como tal, este diplomático puede utilizarlas para impresionar a las cortes extranjeras e influir en ellas.
 {sealed_letter_effects_desc}\n- +1 Influencia
 ¬-----
 {da_ship}Barco amrothiano
@@ -262,7 +262,7 @@
 {swift_horsec_effects_desc}\n- +10% Puntos de movimiento
 ¬-----
 {rohirrim_retinue}Guardias rohirrim
-{rohirrim_retinue_desc}A group of Rohirrim cavalry escorts and protects this diplomat on their missions and scouts the land to find safe paths and ensure that foes will not interfere with the diplomat's tasks.
+{rohirrim_retinue_desc}Un grupo de jinetes rohirrim escolta y protege a este diplomático en sus misiones y explora el terreno para encontrar caminos seguros y garantizar que los enemigos no interfieran en las tareas del diplomático.
 {rohirrim_retinue_effects_desc}\n- +1 Seguridad personal\n- +1 Línea de visión
 ¬-----
 {oath_eorl}Juramento de Eorl
@@ -270,7 +270,7 @@
 {oath_eorl_effects_desc}\n- +1 Influencia
 ¬-----
 {beorning_guard}Guardia beórnida
-{beorning_guard_desc}One should think twice before deciding to attack or hinder a diplomat with this guard. Beorning warriors are famous for their strength and stamina, but once they reveal their true powers, a foe's situation will become unbearable.
+{beorning_guard_desc}Hay que pensárselo dos veces antes de decidir atacar u obstaculizar a un diplomático con esta guardia. Los guerreros beórnidas son famosos por su fuerza y resistencia, pero una vez que revelan sus verdaderos poderes, el enemigo no tendrá a donde huir.
 {beorning_guard_effects_desc}\n- +2 Seguridad personal
 ¬-----
 {dalish_people}Sello diplomático
@@ -299,7 +299,7 @@
 ¬-----
 {elendil_crown}Corona de Elendil
 {elendil_crown_desc}Corona de plata usada por el Alto Rey de los Dúnedain, llevada por los reyes de Gondor.
-{elendil_crown_effects_desc}+5 Authority, +5 Renown, +2 Command, +1 Acumen, +1 Troop Morale
+{elendil_crown_effects_desc}\n- +5 Autoridad\n- +5 Renombre\n- +2 Comando\n- +1 Perspicacia\n- +1 Moral de las tropas
 ¬-----
 {crebain_dunland}Crebains de Dunland
 {crebain_dunland_desc}Los Crebain de Dunland son un tipo especial de cuervo conocido por ser inteligente. Los Dunlendinos consiguieron domesticar a algunos de estos pájaros para utilizarlos en la caza y el espionaje.
@@ -326,7 +326,7 @@
 {uruk_guard_effects_desc}\n- +1 Seguridad personal
 ¬-----
 {enemy_skull}Calavera coronada
-{enemy_skull_desc}This diplomat carries a skull crowed with an ancient gold band that has been soldered onto the bone. This fearsome artefact identifies the bearer as one of Mordor's chosen envoys, and is a warning to foreign courts to treat this diplomat seriously or face the consequences.
+{enemy_skull_desc}Este diplomático lleva una calavera coronada con una antigua banda de oro que ha sido soldada al hueso. Este temible artefacto identifica al portador como uno de los enviados elegidos de Mordor y es una advertencia a las cortes extranjeras para que traten a este diplomático con seriedad o se enfrenten a las consecuencias.
 {enemy_skull_effects_desc}\n- +1 Influencia
 ¬-----
 {great_eye}Ojo de Sauron
@@ -353,8 +353,8 @@
 {morgul_blade_desc}Este diplomático porta una espada Morgul que le ha sido confiada por un Nazgûl. El miedo a convertirse en un espectro si es golpeado por esta espada ofrece protección al diplomático y también sirve como amenaza en las negociaciones si las cosas no salen como el diplomático desea.
 {morgul_blade_effects_desc}\n- +1 Influencia\n- +1 Seguridad personal
 ¬-----
-{grima_horse}Grima's Horse
-{grima_horse_desc}This is a Rohirric steed that Grima acquired while doing Saruman's bidding in Edoras, and this steed carries him quickly to destinations where he is needed to negotiate with foreign courts.
+{grima_horse}Caballo de Grima
+{grima_horse_desc}Se trata de un corcel rohirrico que Grima adquirió mientras cumplía las órdenes de Saruman en Edoras, y que le lleva rápidamente a los destinos donde se le necesita para negociar con cortes extranjeras.
 {grima_horse_effects_desc}\n- +5% Puntos de movimiento
 ¬-----
 ¬###################
@@ -378,7 +378,7 @@
 {coin_bag_effects_desc}\n- +1 Habilidad de agente
 ¬-----
 {hobbit_apprentice}Aprendiz hobbit
-{hobbit_apprentice_desc}This spy is accompanied by a Hobbit apprentice. Hobbits are small, skilled in the arts of hiding, can be disguised as children and make excellent burglars. In all, this spy's hobbit companion increases the effectiveness of the missions they undertake.
+{hobbit_apprentice_desc}Este espía va acompañado de un aprendiz hobbit. Los hobbits son pequeños, expertos en el arte de esconderse, pueden disfrazarse de niños y son excelentes ladrones. En definitiva, el compañero hobbit de este espía aumenta la eficacia de las misiones que emprenden.
 {hobbit_apprentice_effects_desc}\n- +1 Habilidad de agente
 ¬-----
 {galadhrim_cloak}Capa de los galadhrim
@@ -386,7 +386,7 @@
 {galadhrim_cloak_effects_desc}\n- +1 Habilidad de agente
 ¬-----
 {human_spy}Espía humano
-{human_spy_desc}Orcs are ugly and cannot walk openly in the streets of other races' cities for fear of death, as such, an orc spy must find other ways of listening to conversations and meeting others. This human in service to the orc fulfils this role, going in places the orc cannot go and increasing the effectiveness of the orc spy's missions.
+{human_spy_desc}Los orcos son feos y no pueden caminar abiertamente por las calles de las ciudades de otras razas por temor a la muerte, por lo que un espía orco debe encontrar otras formas de escuchar conversaciones y conocer a otras personas. Este humano al servicio del orco cumple esta función, yendo a lugares a los que el orco no puede ir y aumentando la eficacia de las misiones del espía orco.
 {human_spy_effects_desc}\n- +1 Habilidad de agente
 ¬-----
 {merchant_cover}Disfraz de mercader
@@ -438,7 +438,7 @@
 {enemy_hostage_effects_desc}\n- +1 Habilidad de agente \n- +1 Línea de visión
 ¬-----
 {double_agent}Cartas de crédito
-{double_agent_desc}This spy carries letters of credit that allow an individual to gain wealth in the spy's home nation. These credits can be used to bribe an enemy agent or individual to side with the spy in exchange for a safe home or wealth in the spy's home nation. These turncoats grant the spy access to secure locations and advance warning of enemy troop movements.
+{double_agent_desc}Este espía lleva consigo cartas de crédito que permiten a una persona obtener riqueza en el país de origen del espía. Estos créditos pueden utilizarse para sobornar a un agente o persona enemiga para que se ponga del lado del espía a cambio de un hogar seguro o riqueza en el país de origen del espía. Estos traidores le conceden al espía acceso a lugares seguros y le advierten con antelación de los movimientos de las tropas enemigas.
 {double_agent_effects_desc}\n- +1 Habilidad de agente \n- +1 Línea de visión
 ¬-----
 {lockpick}Ganzúa
@@ -449,8 +449,8 @@
 {elder_race_desc}La mayoría de los elfos, salvo los avari, viven en sociedades muy unidas, separadas de las demás razas del mundo. Sus poderes les ayudan a descubrir a cualquier invitado no deseado o cosas de naturaleza maligna y a descubrir a posibles espías. Esto hace que las ciudades élficas sean muy seguras y casi imposibles de infiltrar. Los conocimientos de los elfos son vastos y durante sus vidas eternas se encontraron con muchos mapas, visitaron ciudades y descubrieron secretos del mundo y trajeron estos conocimientos de vuelta. Esta información y los mapas secretos ayudan a los espías elfos a la hora de infiltrarse en estos lugares.
 {elder_race_effects_desc}\n- +1 Habilidad de agente
 ¬-----
-{goblin_spies}Red de espionaje trasgo
-{goblin_spies_desc}This spy has enlisted the aid of goblins who spy on the land and travellers along the span of the Misty Mountains from their vast network of tunnels. This knowledge increases the effectiveness of the spy's missions.
+{goblin_spies}Red de espionaje trasga
+{goblin_spies_desc}Este espía ha reclutado la ayuda de trasgos que espían la tierra y a los viajeros a lo largo de las Montañas Nubladas desde su vasta red de túneles. Este conocimiento aumenta la eficacia de las misiones del espía.
 {goblin_spies_effects_desc}\n- +1 Línea de visión
 ¬-----
 {animal_sentry}Amigos animales
@@ -458,7 +458,7 @@
 {animal_sentry_effects_desc}\n- +1 Línea de visión
 ¬-----
 {hasharii_companion}Compañero hasharii
-{hasharii_companion_desc}This spy is accompanied by a member of the Hasharii order. Hasharii can be female or male, although females are preferred for infiltration purposes as they can use their feminine wiles to seduce enemy guards and create an opening for the spy to sneak into secure locations. Regardless of their gender the presence of a Hasharii increases the effectiveness of the spy's missions. Furthermore, the Hasharii can scout and warn the spy of enemy movements.
+{hasharii_companion_desc}Este espía va acompañado por un miembro de la orden Hasharii. Los Hasharii pueden ser hombres o mujeres, aunque se prefiere a las mujeres para fines de infiltración, ya que pueden usar sus artimañas femeninas para seducir a los guardias enemigos y crear una oportunidad para que el espía se cuele en lugares seguros. Independientemente de su género, la presencia de un Hasharii aumenta la eficacia de las misiones del espía. Además, los Hasharii pueden explorar y advertir al espía de los movimientos del enemigo.
 {hasharii_companion_effects_desc}\n- +1 Seguridad personal\n- +1 Habilidad de agente
 ¬-----
 {black_cat}Gato negro
@@ -616,7 +616,7 @@
 {durin_crown_desc}Los majestuosos y vastos salones desde la Puerta de Hollin hasta la Puerta Oriental, desde las profundidades más oscuras hasta la Torre de Durin, donde una vez Durin el Inmortal y sus herederos gobernaron durante milenios, han sido totalmente liberados de la intolerable presencia de los Orcos y el Daño de Durin. Por lo tanto, este enano se ha declarado Rey de Khazad-dûm y ha establecido de nuevo el poder y la riqueza de la ciudad.
 {durin_crown_effects_desc}\n- +3 Autoridad\n- +3 Renombre\n- +10% Ingresos por minería\n- +3 Perspicacia
 ¬-----
-{dwarven_coat}Dwarven Mail
+{dwarven_coat}Malla enana
 {dwarven_coat_desc}Aunque los enanos han perdido parte de los conocimientos sobre la confección de armaduras debido a la pérdida de Khazad-dûm y las Montañas Grises, aún existen herreros competentes cuyas cotas de malla son conocidas por ser mucho más sólidas que las confeccionadas por los hombres.
 {dwarven_coat_effects_desc}\n- +2 Puntos de vida
 ¬-----
@@ -1002,11 +1002,11 @@
 {king_lorien_effects_desc}\n- +2 Autoridad\n- +2 Renombre\n- +1 Felicidad pública
 ¬-----
 {king_noldor}Ororan Ñoldoron
-{king_noldor_desc}Finwë, the chosen leader of the Ñoldor on the Great March, first claimed this title when the Ñoldor reached Aman. After Finwë was slain by Morgoth in Formenos, Fëanor, being his eldest son and the High Kingship being vacant, inherited the Title. While Fëanor led the Ñoldor on their way into exile, his youngest brother, Finarfin, repented and led many of his Kin back to Valinor, where the Valar granted them forgiveness and where he afterwards ruled the remaining Ñoldor in Valinor as their High King. Fëanor though, not heeding the Doom of Mandos, led the greatest part of the Ñoldor further on to Middle-earth. After he was slain by Balrogs the eldest of his seven sons Maedhros inherited the title. But Maedhros passed the High Kingship to Fingolfin both as a reward for rescuing him from Thangorodrim (the three-peaked mountain of Angband, Morgoth's main stronghold in the First Age) and as a sign of remorse concerning the burning of the stolen ships of the Teleri at Losgar. In Fingolfin's House the High Kingship of the Ñoldor remained until, at the end of the First Age, Gil-galad, son of Orodreth, son of Angrod, son of Finarfin became King of Lindon and High King of the Ñoldor. After the War of the Last Alliance and the death of Gil-galad, Elrond and therefore the line of Fingolfin once again took up the High Kingship.
+{king_noldor_desc}Finwë, el líder elegido de los Ñoldor en la Gran Marcha, reclamó por primera vez este título cuando los Ñoldor llegaron a Aman. Después de que Finwë fuera asesinado por Morgoth en Formenos, Fëanor, siendo su hijo mayor y quedando vacante el Alto Reinado, heredó el título. Mientras Fëanor guiaba a los Ñoldor en su camino hacia el exilio, su hermano menor, Finarfin, se arrepintió y condujo a muchos de los suyos de vuelta a Valinor, donde los Valar les concedieron el perdón y donde él gobernó posteriormente a los Ñoldor que quedaban en Valinor como su Alto Rey. Fëanor, sin embargo, sin prestar atención a la Maldición de Mandos, condujo a la mayor parte de los Ñoldor más allá, a la Tierra Media. Después de que fuera asesinado por los Balrogs, el mayor de sus siete hijos, Maedhros, heredó el título. Pero Maedhros cedió la Alta Realeza a Fingolfin, tanto como recompensa por rescatarlo de Thangorodrim (la montaña de tres picos de Angband, la principal fortaleza de Morgoth en la Primera Edad) como en señal de arrepentimiento por la quema de los barcos robados de los Teleri en Losgar. En la Casa de Fingolfin permaneció la Alta Realeza de los Ñoldor hasta que, al final de la Primera Edad, Gil-galad, hijo de Orodreth, hijo de Angrod, hijo de Finarfin, se convirtió en Rey de Lindon y Alto Rey de los Ñoldor. Tras la Guerra de la Última Alianza y la muerte de Gil-galad, Elrond y, por lo tanto, la línea de Fingolfin, retomaron una vez más el Alto Reinado.
 {king_noldor_effects_desc}\n- +4 Autoridad\n- +2 Renombre\n- +1 Comando
 ¬-----
 {king_woodland_realm}Aran-en-Laiqua Taurë
-{king_woodland_realm_desc}Oropher was a noble Sindar of Doriath. After the War of Wrath and the end of the First Age he gathered a fellowship of eight other Sindar of Doriath and led them over the Ered Luin into Eriador: they became famous as the Fellowship of Nine. Far east they travelled until they finally reached Greenwood the Great. There they met the Nandor, who had dwelled in this region since they had departed from the Great March. The Nandor took him for King and his companions for Lords in the new founded Woodland Realm. Oropher perished in the war of the Last Alliance and his son Thranduil became King of his father's realm.
+{king_woodland_realm_desc}Oropher era un noble Sindar de Doriath. Tras la Guerra de la Ira y el fin de la Primera Edad, reunió a una comunidad de otros ocho Sindar de Doriath y los condujo a través de las Ered Luin hasta Eriador: se hicieron famosos como la Comunidad de los Nueve. Viajaron hacia el lejano oriente hasta que finalmente llegaron al Gran Bosque Verde. Allí se encontraron con los Nandor, que habían habitado en esa región desde que partieron de la Gran Marcha. Los Nandor lo nombraron rey y a sus compañeros señores del recién fundado Reino del Bosque. Oropher pereció en la Guerra de la Última Alianza y su hijo Thranduil se convirtió en rey del reino de su padre.
 {king_woodland_realm_effects_desc}\n- +2 Autoridad\n- +2 Renombre\n- +1 Felicidad pública
 ¬-----
 {lembas}Lembas
@@ -1081,123 +1081,123 @@
 ¬-----
 {captain_of_the_citadel_guard}Captain of the Citadel Guard
 {captain_of_the_citadel_guard_desc}This man is the Captain of the Citadel Guards, tasked with the defence of Minas Tirith and the White Tree of Gondor.
-{captain_of_the_citadel_guard_effects_desc}+2 Command, +3 Troop Morale, +2 Hitpoints
+{captain_of_the_citadel_guard_effects_desc}\n- +2 Comando\n- +3 Moral de las tropas\n- +2 Puntos de vida
 ¬-----
 {captain_of_the_outlands}Captain of the Outlands
 {captain_of_the_outlands_desc}The Captains are given authority by the Ruling Steward. They are, first and foremost, military commanders. Their positions are military and administrative ones, given by the central government and not inherited in the family.
-{captain_of_the_outlands_effects_desc}+1 Command, +3 Troop Morale, +2 Hitpoints
+{captain_of_the_outlands_effects_desc}\n- +1 Comando\n- +3 Moral de las tropas\n- +2 Puntos de vida
 ¬---------------
 {commander_of_the_northern_army}Commander of the Northern Army's
 {commander_of_the_northern_army_desc}The northern army of Gondor has fought many battles against the Wainriders and its most famous commander was King Ondoher.
-{commander_of_the_northern_army_effects_desc}+2 Command (Fighting against Rhûn or Dol Guldur), +2 Loyalty
+{commander_of_the_northern_army_effects_desc}\n- +2 Comando (Luchando contra Rhûn o Dol Guldur)\n- +2 Lealtad
 ¬---------------
 {commander_of_the_eastern_army}Commander of the Eastern Army's
 {commander_of_the_eastern_army_desc}The eastern army of Gondor has defended Osgiliath for many years and is the most battle hardened force in Gondor.
-{commander_of_the_eastern_army_effects_desc}+3 Command (Fighting against Mordor), +2 Loyalty
+{commander_of_the_eastern_army_effects_desc}\n- +3 Comando (Luchando contra Mordor)\n- +2 Lealtad
 ¬---------------
 {commander_of_the_western_army}Commander of the Western Army's
 {commander_of_the_western_army_desc}The western army of Gondor has kept the western borders safe for many years under Hirluin the Fair.
-{commander_of_the_western_army_effects_desc}+1 Command (Fighting against Isengard, Dunland or Enedwaith) +2 Loyalty
+{commander_of_the_western_army_effects_desc}\n- +1 Comando (Luchando contra Isengard, Dunland o Enedwaith)\n- +2 Lealtad
 ¬---------------
 {commander_of_the_southern_army}Commander of the Southern Army's
 {commander_of_the_southern_army_desc}The southern army of Gondor traces its proud legacy back to King Eärnur.
-{commander_of_the_southern_army_effects_desc}+2 Command (Fighting against Harad or Khand), +2 Loyalty
+{commander_of_the_southern_army_effects_desc}\n- +2 Comando (Luchando contra Harad o Khand)\n- +2 Lealtad
 ¬---------------
 {warden_of_the_keys}Warden of the Keys
 {warden_of_the_keys_desc}Warden of the Keys is a high office of Minas Tirith.
-{warden_of_the_keys_effects_desc}+2 Public Hapiness, +2 Hitpoints
+{warden_of_the_keys_effects_desc}\n- +2 Felicidad pública\n- +2 Puntos de vida
 ¬---------------
 {lord_of_rhovanion}Lord of Rhovanion
 {lord_of_rhovanion_desc}Having sworn an oath to the lord of Gondor, this man has been given lordship of the region of Rhovanion, leading his people under the protection of Gondor.
-{lord_of_rhovanion_effects_desc}+2 Public Happiness, -20% Unit Training Costs, +2 Hitpoints +2 Authority
+{lord_of_rhovanion_effects_desc}\n- +2 Felicidad pública\n- -20% Costes de entrenamiento de unidades\n- +2 Puntos de vida\n- +2 Autoridad
 ¬---------------
 {guardian_westborder}Guardian of the Western Border
 {guardian_westborder_desc}This man is the guardian of the western border.
-{guardian_westborder_effects_desc}+1 Command (Fighting against Isengard, Dunland or Enedwaith), +2 Hitpoints
+{guardian_westborder_effects_desc}\n- +1 Comando (Luchando contra Isengard, Dunland o Enedwaith)\n- +2 Puntos de vida
 ¬---------------
 {lord_pukel_land}Lord Of Pukel Land
 {lord_pukel_land_desc}This man is the Lord of Pukel Land, and important mining region on the western coast bordering Enedwaith to the North.
-{lord_pukel_land_effects_desc}+1 Renown, +1 Loyalty, +20% Mining Income
+{lord_pukel_land_effects_desc}\n- +1 Renombre\n- +1 Lealtad\n- +20% Ingresos por minería
 ¬---------------
 {lord_belfalas}Lord Of Belfalas
 {lord_belfalas_desc}This man is the Lord of Belfalas, home to the mighty knights of Dol Amroth.
-{lord_belfalas_effects_desc}+1 Renown, +1 Loyalty, +1 Public Happiness, +5% Trade, +5% Mining Income
+{lord_belfalas_effects_desc}\n- +1 Renombre\n- +1 Lealtad\n- +1 Felicidad pública\n- +5% Comercio\n- +5% Ingresos por minería
 ¬---------------
 {lord_amon_eithel}Lord of Amon Eithel
 {lord_amon_eithel_desc}This man is the Lord of Amon Eithel.
-{lord_amon_eithel_effects_desc}+1 Renown, +1 Loyalty, +1 Command (Fighting against Harad or Khand)
+{lord_amon_eithel_effects_desc}\n- +1 Renombre\n- +1 Lealtad\n- +1 Comando (Luchando contra Harad o Khand)
 ¬---------------
 {lord_linhir}Lord Of Linhir
 {lord_linhir_desc}This man is the Lord of Linhir, one of the coastal regions of Gondor.
-{lord_linhir_effects_desc}+1 Renown, +1 Loyalty, +1 Public Happiness, +10% Trade
+{lord_linhir_effects_desc}\n- +1 Renombre\n- +1 Lealtad\n- +1 Felicidad pública\n- +10% Comercio
 ¬---------------
 {lord_cirithiaur}Lord Of Cirith Iaur
 {lord_cirithiaur_desc}This man is the Lord of Cirith Iaur, an important border casle in the west.
-{lord_cirithiaur_effects_desc}+1 Renown, +1 Loyalty, +1 Public Health, -1 Squalor, +1 Command (Defending Walls), +3% Mining
+{lord_cirithiaur_effects_desc}\n- +1 Renombre\n- +1 Lealtad\n- +1 Salud pública\n- -1 Miseria\n- +1 Comando (Defendiendo murallas)\n- +3% Minería
 ¬---------------
 {lord_tolfalas}Lord Of Gobel Tolfalas
 {lord_tolfalas_desc}This man is the Lord of Gobel Tolfalas, an important island off the coast of Gondor, guarding the entrance to the Anduin.
-{lord_tolfalas_effects_desc}+1 Renown, +1 Loyalty, +1 Public Happiness, -1 Squalor
+{lord_tolfalas_effects_desc}\n- +1 Renombre\n- +1 Lealtad\n- +1 Felicidad pública\n- -1 Miseria
 ¬---------------
 {lord_of_anorien}Lord Of Anorien
 {lord_of_anorien_desc}This man is the Lord of Anorien, the chief region of Gondor.
-{lord_of_anorien_effects_desc}+2 Renown, +10% Mining Income, +20% Trade
+{lord_of_anorien_effects_desc}\n- +2 Renombre\n- +10% Ingresos por minería\n- +20% Comercio
 ¬---------------
 {second_ranger}Lieutenant of the Ithilien Rangers
 {second_ranger_desc}This man is the second in command of the Ithilien Rangers.
-{second_ranger_effects_desc}+1 Loyalty, +1 Command (Ambushing)
+{second_ranger_effects_desc}\n- +1 Lealtad\n- +1 Comando (Emboscando)
 ¬---------------
 {lord_umbar}Lord Of Umbar
 {lord_umbar_desc}This man is the Lord of Umbar.
-{lord_umbar_effects_desc}+1 Renown, +1 Loyalty, +1 Command, +2 Acumen, 15% Trade
+{lord_umbar_effects_desc}\n- +1 Renombre\n- +1 Lealtad\n- +1 Comando\n- +2 Perspicacia\n- 15% Comercio
 ¬---------------
 {lord_sharondor}Lord Of Barad Harn
 {lord_sharondor_desc}This man is the Lord of Barad Harn.
-{lord_sharondor_effects_desc}+1 Renown, +1 Loyalty, +1 Command (Fighting against Harad)
+{lord_sharondor_effects_desc}\n- +1 Renombre\n- +1 Lealtad\n- +1 Comando (Luchando contra Harad)
 ¬---------------
 {lord_harondor}Lord Of Harondor
 {lord_harondor_desc}This man is the Lord of Harondor.
-{lord_harondor_effects_desc}+1 Renown, +1 Loyalty, +1 Command (Fighting against Harad or Khand)
+{lord_harondor_effects_desc}\n- +1 Renombre\n- +1 Lealtad\n- +1 Comando (Luchando contra Harad o Khand)
 ¬---------------
 {lord_of_emynarnen}Lord Of Emyn Arnen
 {lord_of_emynarnen_desc}This man is the Lord of Emyn Arnen a ranger hidout in Ithilien.
-{lord_of_emynarnen_effects_desc}+1 Renown, +1 Loyalty, +1 Command (Fighting against Khand or Mordor)
+{lord_of_emynarnen_effects_desc}\n- +1 Renombre\n- +1 Lealtad\n- +1 Comando (Luchando contra Khand o Mordor)
 ¬---------------
 {lord_of_brethil}Lord Of Brethil
 {lord_of_brethil_desc}This man is the Lord of Brethil, an important fief of Gondor.
-{lord_of_brethil_effects_desc}+1 Renown, +1 Loyalty, +1 Public Happiness, +1 Public Health, -1 Squalor, +3% Trade, +3% Mining Income
+{lord_of_brethil_effects_desc}\n- +1 Renombre\n- +1 Lealtad\n- +1 Felicidad pública\n- +1 Salud pública\n- -1 Miseria\n- +3% Comercio\n- +3% Ingresos por minería
 ¬---------------
 {lord_of_fanuilond}Lord Of Fanuilond
 {lord_of_fanuilond_desc}This man is the Lord of Fanuilond, an important fief of Gondor.
-{lord_of_fanuilond_effects_desc}+1 Renown, +1 Loyalty, +1 Public Happiness, +1 Command (Fighting against Harad or Khand)
+{lord_of_fanuilond_effects_desc}\n- +1 Renombre\n- +1 Lealtad\n- +1 Felicidad pública\n- +1 Comando (Luchando contra Harad o Khand)
 ¬---------------
 {lord_of_tarnost}Lord of Tarnost
 {lord_of_tarnost_desc}This man is the Lord of Tarnost, an important military stronghold in Gondor.
-{lord_of_tarnost_effects_desc}+1 Renown, +1 Loyalty, +5% Mining Income, +1 Command (Commanding Cavalry)
+{lord_of_tarnost_effects_desc}\n- +1 Renombre\n- +1 Lealtad\n- +5% Ingresos por minería\n- +1 Comando (Al mando de caballería)
 ¬---------------
 {guardian_of_forannest}Guardian of Forannest
 {guardian_of_forannest_desc}This man is the guardian of Forannest, the northern gate of the Rammas Echor
-{guardian_of_forannest_effects_desc}+2 Hitpoints, +2 Troop Morale
+{guardian_of_forannest_effects_desc}\n- +2 Puntos de vida\n- +2 Moral de las tropas
 ¬---------------
 {lord_of_gobelmirlond}Lord of Gobel Mirlond
 {lord_of_gobelmirlond_desc}This man is the Lord of Gobel Mirlond, a princepality in south Gondor.
-{lord_of_gobelmirlond_effects_desc}+1 Renown, +1 Public Hapiness, +5% Trade, +1 Command (Fighting against Harad)
+{lord_of_gobelmirlond_effects_desc}\n- +1 Renombre\n- +1 Felicidad pública\n- +5% Comercio\n- +1 Comando (Luchando contra Harad)
 ¬---------------
 {lord_of_ras_morthil}Lord of Ras Morthil
 {lord_of_ras_morthil_desc}This man is the Lord of Ras Morthil, the western barrier of Gondor is an important natural defensive region.
-{lord_of_ras_morthil_effects_desc}+1 Renown, +1 Public Hapiness, +10% Trade, +1 Command (Fighting against Enedwaith)
+{lord_of_ras_morthil_effects_desc}\n- +1 Renombre\n- +1 Felicidad pública\n- +10% Comercio\n- +1 Comando (Luchando contra Enedwaith)
 ¬---------------
 {guardian_of_cair_andros}Guardian of Cair Andros
 {guardian_of_cair_andros_desc}This man is the guardian of the Isle of Andros, a key stratigic position on the Anduin River.
-{guardian_of_cair_andros_effects_desc}+2 Troop Morale, +1 Command (Commanding Infantry), +1 Command (Defending Walls), +2 Loyalty, +2 Hitpoints
+{guardian_of_cair_andros_effects_desc}\n- +2 Moral de las tropas\n- +1 Comando (Al mando de infantería)\n- +1 Comando (Defendiendo murallas)\n- +2 Lealtad\n- +2 Puntos de vida
 ¬---------------
 {defender_of_osgiliath}Defender of Osgiliath
 {defender_of_osgiliath_desc}This man is the defender of Osgiliath, having fought many battles for the old city.
-{defender_of_osgiliath_effects_desc}+2 Command (Defending), +2 Hitpoints
+{defender_of_osgiliath_effects_desc}\n- +2 Comando (Defendiendo)\n- +2 Puntos de vida
 ¬---------------
 {lord_of_calenhad}Lord of Carathan
 {lord_of_calenhad_desc}This man is the Lord of Carathan, Gondor's northern border towards Rohan.
-{lord_of_calenhad_effects_desc}+1 Renown, +1 Loyalty, +1 Public Happiness, +20% Mining Income
+{lord_of_calenhad_effects_desc}\n- +1 Renombre\n- +1 Lealtad\n- +1 Felicidad pública\n- +20% Ingresos por minería
 ¬-----
 {dol_amroth_officer}Oficial de Dol Amroth
 {dol_amroth_officer_desc}Este hombre es un oficial de renombre y bien conocido en el formidable ejército amrothiano y su presencia en el campo de batalla inspira a sus hombres.
@@ -1301,7 +1301,7 @@
 ¬-----
 {harad_item_fuinor_spear}Fuinor's Spear
 {harad_item_fuinor_spear_desc}Forged by Harad's second Lord, the spear is a badge of office to the heir of the Serpent Lord and the master of the Hasharii.
-{harad_item_fuinor_spear_effects_desc}+2 Personal Security, +2 Command, -2 Unrest
+{harad_item_fuinor_spear_effects_desc}\n- +2 Seguridad personal\n- +2 Comando\n- -2 Malestar
 ¬-----
 {steward_gondor}Senescal de Gondor
 {steward_gondor_desc}Tras el fracaso del linaje de los Reyes, el linaje de los Senescales gobierna ahora las tierras de Gondor.
@@ -1574,7 +1574,7 @@
 ¬-----
 {isendraich_councillor}Isendraich Councillor
 {isendraich_councillor_desc}This is an advisor, sent from the tower of Orthanc, to oversee this man's abilities.
-{isendraich_councillor_effects_desc}+2% Taxes Income, -1 Public Happiness, +1 Ambition, +2 Command vs Hîrwaith
+{isendraich_councillor_effects_desc}\n- +2% Ingresos por impuestos\n- -1 Felicidad pública\n- +1 Ambición\n- +2 Comando contra Hîrwaith
 ¬-----
 {chief_counselor}Bên
 {chief_counselor_desc}Un Bên es un sirviente o consejero de un señor númenóreo, que ha elegido asesorar a este general en la administración de las ciudades. Ayudan en la construcción, el cumplimiento de la ley y la recaudación de impuestos.
@@ -1770,7 +1770,7 @@
 ¬-----
 {imported_goods_3}Bienes importados
 ¬-----
-{saruman_gladden_instructions}Tattered Note
+{saruman_gladden_instructions}Nota hecha pedazos
 {saruman_gladden_instructions_desc}"Kok noravh, paukav avhe foreukav ro fangorn agh avhe foreukav ro avhe elveuk. Nalkramal avhe ana comeuk poshat from avhe mounavain agh feeduk avhe celduin, avhere liwo be ij greaav marukh. Iav iuk katu lat ukhall conducav your ukearch. Scour avhe bankuk, avhe riverbun agh avhe nauk-eduk. Um lat gimb avhe ring, thrak avo alnej wiavh haukave."
 {saruman_gladden_instructions_effects_desc}
 ¬-----
@@ -1904,7 +1904,7 @@
 {hound_huan_desc}Descendiente del poderoso Huan.
 {hound_huan_effects_desc}\n- +2 Seguridad personal\n- +1 Seguridad pública \n- +1 Línea de visión\n- +1 Moral de las tropas
 ¬-----
-{pony}Pony
+{pony}Poni
 {pony_desc}Un poni es algo bonito. Puede transportar mercancías o muebles a largas distancias, incluso se puede montar en suelo empedrado. Sin embargo, no puede viajar por las minas debido al suelo traicionero.
 {pony_effects_desc}\n- +5% Puntos de movimiento
 ¬-----
@@ -1934,7 +1934,7 @@
 {dwarven_power_ring3_desc}Celebrimbor ofreció el séptimo anillo de poder a Durin III, Rey de Khazad-dûm y Rey de los Barbiluengos. Su anillo pasó por los sucesivos Reyes del Pueblo de Durin hasta que llegó a manos de Sauron a finales de la Tercera Edad.
 {dwarven_power_ring3_effects_desc}\n- -2 Ambición\n- +20% Ingresos por minería\n- +10% Comercio\n- +3 Malestar
 ¬-----
-{eregion_ring}Ring of Eregion
+{eregion_ring}Anillo de Eregion
 {eregion_ring_desc}Los nuevos artesanos del Gwaith-i-Mírdain han estudiado durante mucho tiempo la fabricación de anillos de poder, pero debido a la falta de conocimientos los anillos que fabrican no son tan poderosos como los antiguos hechos por Celebrimbor. Están libres de la influencia del Anillo único y dan un aspecto más majestuoso y poderoso a sus portadores. Sólo las personas más honorables pueden recibir un anillo, pues sería un gran desastre verlos en manos de seres malvados.
 {eregion_ring_effects_desc}\n- +1 Autoridad\n- +1 Comando\n- +3 Perspicacia
 ¬-----
@@ -1950,39 +1950,39 @@
 {ring_barahir_desc}Este orgulloso anillo fue hecho por los Ñoldor de Valinor.
 {ring_barahir_effects_desc}\n- -1% Costes de construcción \n- +1 Agricultura\n- +1 Salud pública\n- +1 Felicidad pública\n- -1 Malestar
 ¬-----
-{ring_nazgulb}Ring of Gan Altan the Honoured
+{ring_nazgulb}Anillo de Gan Altan el Honrado
 {ring_nazgulb_desc}Una vez completados los Anillos de Poder por Celebrimbor de Eregion, Sauron entregó los Nueve Anillos destinados a los hombres a los señores de los Dúnedain. Los anillos respondían al Único y poco a poco convirtieron a sus portadores en los famosos Úlairi, los Espectros del Anillo. Éste es uno de esos anillos.
 {ring_nazgulb_effects_desc}\n- +2 Autoridad\n- +1 Comando\n- +1 Puntos de vida\n- +2 Perspicacia
 ¬-----
-{ring_nazgulc}NRing of Balak'nar Sunfire
+{ring_nazgulc}Anillo de Balak'nar Fuego Solar
 {ring_nazgulc_desc}Una vez completados los Anillos de Poder por Celebrimbor de Eregion, Sauron entregó los Nueve Anillos destinados a los hombres a los señores de los Dúnedain. Los anillos respondían al Único y poco a poco convirtieron a sus portadores en los famosos Úlairi, los Espectros del Anillo. Éste es uno de esos anillos.
 {ring_nazgulc_effects_desc}\n- +2 Autoridad\n- +1 Comando\n- +1 Puntos de vida\n- +2 Perspicacia
 ¬-----
-{ring_nazguld}Ring of Khamûl the Easterling
+{ring_nazguld}Anillo de Khamûl el Oriental
 {ring_nazguld_desc}Una vez completados los Anillos de Poder por Celebrimbor de Eregion, Sauron entregó los Nueve Anillos destinados a los hombres a los señores de los Dúnedain. Los anillos respondían al Único y poco a poco convirtieron a sus portadores en los famosos Úlairi, los Espectros del Anillo. Éste es uno de esos anillos.
 {ring_nazguld_effects_desc}\n- +2 Autoridad\n- +1 Comando\n- +1 Puntos de vida\n- +2 Perspicacia
 ¬-----
-{ring_nazgule}Ring of Lagoren of the Neck
+{ring_nazgule}Anillo de Lagoren del Cuello
 {ring_nazgule_desc}Una vez completados los Anillos de Poder por Celebrimbor de Eregion, Sauron entregó los Nueve Anillos destinados a los hombres a los señores de los Dúnedain. Los anillos respondían al Único y poco a poco convirtieron a sus portadores en los famosos Úlairi, los Espectros del Anillo. Éste es uno de esos anillos.
 {ring_nazgule_effects_desc}\n- +2 Autoridad\n- +1 Comando\n- +1 Puntos de vida\n- +2 Perspicacia
 ¬-----
-{ring_nazgulf}Ring of Aglarâkhôr the Disciple
+{ring_nazgulf}Anillo de Aglarâkhôr el Discípulo
 {ring_nazgulf_desc}Una vez completados los Anillos de Poder por Celebrimbor de Eregion, Sauron entregó los Nueve Anillos destinados a los hombres a los señores de los Dúnedain. Los anillos respondían al Único y poco a poco convirtieron a sus portadores en los famosos Úlairi, los Espectros del Anillo. Éste es uno de esos anillos.
 {ring_nazgulf_effects_desc}\n- +2 Autoridad\n- +1 Comando\n- +1 Puntos de vida\n- +2 Perspicacia
 ¬-----
-{ring_nazgulg}Ring of Shi-vuus the Desert Sand
+{ring_nazgulg}Anillo de Shi-vuus de las Arenas del Desierto
 {ring_nazgulg_desc}Una vez completados los Anillos de Poder por Celebrimbor de Eregion, Sauron entregó los Nueve Anillos destinados a los hombres a los señores de los Dúnedain. Los anillos respondían al Único y poco a poco convirtieron a sus portadores en los famosos Úlairi, los Espectros del Anillo. Éste es uno de esos anillos.
 {ring_nazgulg_effects_desc}\n- +2 Autoridad\n- +1 Comando\n- +1 Puntos de vida\n- +2 Perspicacia
 ¬-----
-{ring_nazgulh}Ring of Zagar the Unfaithful
+{ring_nazgulh}Anillo de Zagar el Infiel
 {ring_nazgulh_desc}Una vez completados los Anillos de Poder por Celebrimbor de Eregion, Sauron entregó los Nueve Anillos destinados a los hombres a los señores de los Dúnedain. Los anillos respondían al Único y poco a poco convirtieron a sus portadores en los famosos Úlairi, los Espectros del Anillo. Éste es uno de esos anillos.
 {ring_nazgulh_effects_desc}\n- +2 Autoridad\n- +1 Comando\n- +1 Puntos de vida\n- +2 Perspicacia
 ¬-----
-{ring_nazguli}Ring of Leofric the Bowed
+{ring_nazguli}Anillo de Leofric el Arrodillado
 {ring_nazguli_desc}Una vez completados los Anillos de Poder por Celebrimbor de Eregion, Sauron entregó los Nueve Anillos destinados a los hombres a los señores de los Dúnedain. Los anillos respondían al Único y poco a poco convirtieron a sus portadores en los famosos Úlairi, los Espectros del Anillo. Éste es uno de esos anillos.
 {ring_nazguli_effects_desc}\n- +2 Autoridad\n- +1 Comando\n- +1 Puntos de vida\n- +2 Perspicacia
 ¬-----
-{ring_witchking}Ring of the Witch-king
+{ring_witchking}Anillo del Rey Brujo
 {ring_witchking_desc}Una vez completados los Anillos de Poder por Celebrimbor de Eregion, Sauron entregó los Nueve Anillos destinados a los hombres a los señores de los Dúnedain. Los anillos respondían al Único y poco a poco convirtieron a sus portadores en los famosos Úlairi, los Espectros del Anillo. Éste es uno de esos anillos.
 {ring_witchking_effects_desc}\n- +2 Autoridad\n- +2 Comando\n- +1 Puntos de vida\n- +3 Perspicacia
 ¬-----
@@ -2026,12 +2026,12 @@
 ¬############################
 ¬##### Script: One Ring #####
 ¬############################
-{gollum}Gollum
+{gollum}Golum
 {gollum_desc}Una vez corrompido, siempre está cerca del Anillo Único. «Mi tesoro...»
 {gollum_effects_desc}\n- -1 Felicidad pública\n- +5% Puntos de movimiento\n- +1 Malestar
 ¬-----
 {one_ring}Anillo Único
-{one_ring_desc}Only the fire shows it - "Ash nazg durbatulûk, ash nazg gimbatul, ash nazg thrakatulûk, agh burzum-ishi krimpatul" - One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them!
+{one_ring_desc}Solo el fuego puede mostrarlo - "Ash nazg durbatulûk, ash nazg gimbatul, ash nazg thrakatulûk, agh burzum-ishi krimpatul" - Un Anillo para gobernarlos a todos, un Anillo para encontrarlos, un Anillo para atraerlos a todos y atarlos en las tinieblas.
 {one_ring_effects_desc}
 ¬-----
 ¬################################
@@ -2075,7 +2075,7 @@
 {balin_axe_desc}Esta gran hacha de batalla ha pasado de padres a hijos durante generaciones.
 {balin_axe_effects_desc}\n- +2 Autoridad\n- +1 Comando (Defendiendo)
 ¬-----
-{blade_khamul}Khamûl's Sword
+{blade_khamul}Espada de Khamûl
 {blade_khamul_desc}Esta es la poderosa espada del oriental Khamûl.
 {blade_khamul_effects_desc}\n- +1 Autoridad\n- +1 Temor
 ¬-----
@@ -2452,7 +2452,7 @@
 {mount_rohirrim_effects_desc}\n- +25% Puntos de movimiento
 ¬---------------
 {flame_shard}Fragmento de llama
-{flame_shard_desc}A piece of the Balrog's sword.
+{flame_shard_desc}Un trozo de la espada del Balrog.
 {flame_shard_effects_desc}\n- +1 Autoridad
 ¬---------------
 {tree_axe}Hacha de leñador
@@ -2541,7 +2541,7 @@
 {mitheithel_desc}Posición otorgada al actual Señor de Rhudaur.
 {mitheithel_effects_desc}\n- +2 Ambición\n- +2 Autoridad\n- +1 Renombre
 ¬---------------
-{falathrim}Grand Master of Mithrîn
+{falathrim}Gran maestro de Mithrîn
 {falathrim_desc}Protector and governor of the castle of Mithrîn, sworn to protect all of the peoples of the southern lands of Dorwinion.
 {falathrim_effects_desc}\n- +1 Comando (Defendiendo)\n- +1 Renombre
 ¬---------------
@@ -2549,7 +2549,7 @@
 {nebur_desc}Protector y gobernador de la isla de Nebûr.
 {nebur_effects_desc}\n- +1 Comando (Defendiendo)\n- +1 Renombre
 ¬---------------
-{dorwinion_king}Dorwinion Vintner-Regent
+{dorwinion_king}Regente del Viñedo de Dorwinion
 {dorwinion_king_desc}Protector del Reino de Dorwinion, maestro de la Corte de los Viticultores y único humano que forma parte del Alto Consejo Avarin.
 {dorwinion_king_effects_desc}\n- +2 Autoridad\n- +1 Renombre\n- +1 Moral de las tropas\n- +1 Comando
 ¬---------------
@@ -2565,11 +2565,11 @@
 {dwarf_halls_desc}Guardián de los Salones
 {dwarf_halls_effects_desc}\n- +1 Comando\n- +2 Autoridad
 ¬---------------
-{harad_item_crown_serpent}Crown of the Serpent
+{harad_item_crown_serpent}Corona de la Serpiente
 {harad_item_crown_serpent_desc}A jagged crown of black steel, with a large red jewel set at the top in the fashion of the Great Eye. This crown marks its wearer as the Undisputed Master of Harad and Serpent Lord of Faen'obel, chosen to rule the Haradrim by the Dark Lord Sauron himself.
-{harad_item_crown_serpent_effects_desc}+3 Authority, +2 Dread, +3 Command, +3 Law
+{harad_item_crown_serpent_effects_desc}\n- +3 Autoridad\n- +2 Temor\n- +3 Comando\n- +3 Ley
 ¬---------------
-{black_corsair}Corsair Lord of Umbar
+{black_corsair}Señor corsario de Umbar
 {black_corsair_desc}Señor corsario negro de Umbar
 {black_corsair_effects_desc}\n- +2 Autoridad\n- +1 Renombre
 ¬---------------
@@ -2597,9 +2597,9 @@
 {troops_rhun_desc}Primer Comandante de los ejércitos orientales.
 {troops_rhun_effects_desc}\n- +1 Autoridad\n- +1 Comando
 ¬---------------
-{king_dunland}Gurach of Dunland
+{king_dunland}Gurach de Dunland
 {king_dunland_desc}Líder de las hordas salvajes de Dunland.
-{king_dunland_effects_desc}+1 Command, +3 Renown
+{king_dunland_effects_desc}\n- +1 Comando\n- +3 Renombre
 ¬---------------
 {king_mordor}Señor de la Guerra de Mordor
 {king_mordor_desc}Primer Comandante de Mordor
@@ -2806,143 +2806,143 @@
 ¬### Gondor Ancillaries ###################
 {citadel_helmet}Citadel Guard Helmet
 {citadel_helmet_desc}Ceremonial helmet of the Citadel Guard, wrought out of Mithril. While not always worn in battle, this helmet demands respect amongst even the rank and file of Gondor's army.
-{citadel_helmet_effects_desc}Auto-generated
+{citadel_helmet_effects_desc}Autogenerado
 ¬---------------
 {citadel_armour}Citadel Guard Armaments
 {citadel_armour_desc}Crafted in the finest forges of Minas Tirith, the armour of the Citadel Guard is renowned across Middle-earth.
-{citadel_armour_effects_desc}Auto-generated
+{citadel_armour_effects_desc}Autogenerado
 ¬---------------
 {citadel_shield}Citadel Guard Shield
 {citadel_shield_desc}Exquisite shield crafted for Gondor's Citadel Guard
-{citadel_shield_effects_desc}Auto-generated
+{citadel_shield_effects_desc}Autogenerado
 ¬---------------
 {bodyguard_armour}Captain's Armour
 {bodyguard_armour_desc}Every general in Gondor is well equipped in finely crafted, well fitting armour.
-{bodyguard_armour_effects_desc}Auto-generated
+{bodyguard_armour_effects_desc}Autogenerado
 ¬---------------
 {fief_anfalas_armour}Ceremonial Anfalas Armour
 {fief_anfalas_armour_desc}Each ruler of Gondor's fief's hold a ceremonial set of armour passed down from father to son. While it is not the finest armour that can be found in Gondor, it is often some of the most ornate and decorative and grants the wearer respect amongst his fellow lords and serfs.
-{fief_anfalas_armour_effects_desc}Auto-generated
+{fief_anfalas_armour_effects_desc}Autogenerado
 ¬---------------
 {fief_anorien_armour}Ceremonial Anórien Armour
 {fief_anorien_armour_desc}Each ruler of Gondor's fief's hold a ceremonial set of armour passed down from father to son. While it is not the finest armour that can be found in Gondor, it is often some of the most ornate and decorative and grants the wearer respect amongst his fellow lords and serfs.
-{fief_anorien_armour_effects_desc}Auto-generated
+{fief_anorien_armour_effects_desc}Autogenerado
 ¬---------------
 {fief_belfalas_armour}Ceremonial Belfalas Armour
 {fief_belfalas_armour_desc}Each ruler of Gondor's fief's hold a ceremonial set of armour passed down from father to son. While it is not the finest armour that can be found in Gondor, it is often some of the most ornate and decorative and grants the wearer respect amongst his fellow lords and serfs.
-{fief_belfalas_armour_effects_desc}Auto-generated
+{fief_belfalas_armour_effects_desc}Autogenerado
 ¬---------------
 {fief_ithilien_armour}Ithilien Ranger Cloak
 {fief_ithilien_armour_desc}The cloaks of the Ithilien rangers are unusually light and provide warmth for long, cold nights spent stalking prey on the borders of Gondor's lands.
-{fief_ithilien_armour_effects_desc}Auto-generated
+{fief_ithilien_armour_effects_desc}Autogenerado
 ¬---------------
 {fief_prince_armour}Belfalas Prince's Armour
 {fief_prince_armour_desc}Each ruler of Gondor's fief's hold a ceremonial set of armour passed down from father to son. While it is not the finest armour that can be found in Gondor, it is often some of the most ornate and decorative and grants the wearer respect amongst his fellow lords and serfs.
-{fief_prince_armour_effects_desc}Auto-generated
+{fief_prince_armour_effects_desc}Autogenerado
 ¬---------------
 {fief_lamedon_armour}Ceremonial Lamedon Armour
 {fief_lamedon_armour_desc}Each ruler of Gondor's fief's hold a ceremonial set of armour passed down from father to son. While it is not the finest armour that can be found in Gondor, it is often some of the most ornate and decorative and grants the wearer respect amongst his fellow lords and serfs.
-{fief_lamedon_armour_effects_desc}Auto-generated
+{fief_lamedon_armour_effects_desc}Autogenerado
 ¬---------------
 {fief_lebennin_armour}Ceremonial Lebennin Armour
 {fief_lebennin_armour_desc}Each ruler of Gondor's fief's hold a ceremonial set of armour passed down from father to son. While it is not the finest armour that can be found in Gondor, it is often some of the most ornate and decorative and grants the wearer respect amongst his fellow lords and serfs.
-{fief_lebennin_armour_effects_desc}Auto-generated
+{fief_lebennin_armour_effects_desc}Autogenerado
 ¬---------------
 {fief_lossarnach_armour}Ceremonial Lossarnach Armour
 {fief_lossarnach_armour_desc}Each ruler of Gondor's fief's hold a ceremonial set of armour passed down from father to son. While it is not the finest armour that can be found in Gondor, it is often some of the most ornate and decorative and grants the wearer respect amongst his fellow lords and serfs.
-{fief_lossarnach_armour_effects_desc}Auto-generated
+{fief_lossarnach_armour_effects_desc}Autogenerado
 ¬---------------
 {fief_morthond_armour}Ceremonial Morthond Vale Armour
 {fief_morthond_armour_desc}Each ruler of Gondor's fief's hold a ceremonial set of armour passed down from father to son. While it is not the finest armour that can be found in Gondor, it is often some of the most ornate and decorative and grants the wearer respect amongst his fellow lords and serfs.
-{fief_morthond_armour_effects_desc}Auto-generated
+{fief_morthond_armour_effects_desc}Autogenerado
 ¬---------------
 {fief_pinnath_gelin_armour}Ceremonial Pinnath Gelin Armour
 {fief_pinnath_gelin_armour_desc}Each ruler of Gondor's fief's hold a ceremonial set of armour passed down from father to son. While it is not the finest armour that can be found in Gondor, it is often some of the most ornate and decorative and grants the wearer respect amongst his fellow lords and serfs.
-{fief_pinnath_gelin_armour_effects_desc}Auto-generated
+{fief_pinnath_gelin_armour_effects_desc}Autogenerado
 ¬---------------
 {fief_ringlo_armour}Ceremonial Ringló Vale Armour
 {fief_ringlo_armour_desc}Each ruler of Gondor's fief's hold a ceremonial set of armour passed down from father to son. While it is not the finest armour that can be found in Gondor, it is often some of the most ornate and decorative and grants the wearer respect amongst his fellow lords and serfs.
-{fief_ringlo_armour_effects_desc}Auto-generated
+{fief_ringlo_armour_effects_desc}Autogenerado
 ¬---------------
 {fountain_armour}Fountain Guard Armour
 {fountain_armour_desc}Exquisite shield crafted for Gondor's Fountain Guard
-{fountain_armour_effects_desc}Auto-generated
+{fountain_armour_effects_desc}Autogenerado
 ¬---------------
 {stewards_armour}Steward's Armaments
 {stewards_armour_desc}Comissioned by the Steward Mardil Voronwë, not long after Eärnur's dissapearance, this set of armaments has been passed down from Steward to Steward for many centuries. The craftsmanship rivals even that of the Dwarves and is often a subject of great study for many an inspiring smith.
-{stewards_armour_effects_desc}Auto-generated
+{stewards_armour_effects_desc}Autogenerado
 ¬---------------
 {anorien_helmet}Anórien Helmet
 {anorien_helmet_desc}This helmet not only helps keep the wearer safe but also has a simple visor to keep the sun out of the rider's eyes.
-{anorien_helmet_effects_desc}Auto-generated
+{anorien_helmet_effects_desc}Autogenerado
 ¬---------------
 {anorien_lance}Anórien Lance
 {anorien_lance_desc}The lances of the Knights of Anorien are honed to a tip and ordaned with the emblems and insignia of their Lord's fief.
-{anorien_lance_effects_desc}Auto-generated
+{anorien_lance_effects_desc}Autogenerado
 ¬---------------
 {anorien_shield}Anórien Shield
 {anorien_shield_desc}Spear shall be shaken, shield shall be splintered, a sword-day, a red day, ere the sun rises!
-{anorien_shield_effects_desc}Auto-generated
+{anorien_shield_effects_desc}Autogenerado
 ¬---------------
 {belfalas_helmet}Belfalas Helmet
 {belfalas_helmet_desc}Even battered daily by strong winds and the spray of the sea, this helmet still gleams brightly.
-{belfalas_helmet_effects_desc}Auto-generated
+{belfalas_helmet_effects_desc}Autogenerado
 ¬---------------
 {belfalas_cloak}Belfalas Cape
 {belfalas_cloak_desc}On the backs of the men of Belfalas, this cape billows beautifully in the ocean air.
-{belfalas_cloak_effects_desc}Auto-generated
+{belfalas_cloak_effects_desc}Autogenerado
 ¬---------------
 {belfalas_lance}Belfalas Swan Lance
 {belfalas_lance_desc}The lances of Belfalas are feared amongst the Haradrim and Khandish people for good reason. Refined and perfectly balanced over the countless wars, they strike hard and can penetrate even the hardiest armour with ease.
-{belfalas_lance_effects_desc}Auto-generated
+{belfalas_lance_effects_desc}Autogenerado
 ¬---------------
 {bodyguard_cloak}Gondor Bodyguard Cloak
 {bodyguard_cloak_desc}What is a man of Gondor without his cloak?
-{bodyguard_cloak_effects_desc}Auto-generated
+{bodyguard_cloak_effects_desc}Autogenerado
 ¬---------------
 {citadel_spear}Citadel Guard Heavy Spear
 {citadel_spear_desc}Sworn to obey none but the king of Gondor, the Citadel Guard will obey his commands and his spear is his instrument.
-{citadel_spear_effects_desc}Auto-generated
+{citadel_spear_effects_desc}Autogenerado
 ¬---------------
 {lamedon_greatsword}Lamedon Greatsword
 {lamedon_greatsword_desc}Heavy and broad, the greatswords wielded by the men of Lamedon require enourmous strength to use effectively.
-{lamedon_greatsword_effects_desc}Auto-generated
+{lamedon_greatsword_effects_desc}Autogenerado
 ¬---------------
 {lossarnach_cape}Lossarnach Cape
 {lossarnach_cape_desc}Adorned with the famouse white flowers, only found high up on the mountains of Lossarnach, these capes, and also their craftsmanship, is known well to any experienced seamstress of Gondor.
-{lossarnach_cape_effects_desc}Auto-generated
+{lossarnach_cape_effects_desc}Autogenerado
 ¬---------------
 {lossarnach_helmet}Lossarnach Helmet
 {lossarnach_helmet_desc}This helmet has likely saved many a Lossarnach skull from a falling boulder splattering their brains all over the white snow.
-{lossarnach_helmet_effects_desc}Auto-generated
+{lossarnach_helmet_effects_desc}Autogenerado
 ¬---------------
 {osgiliath_halberd}Osgiliath Halberd
 {osgiliath_halberd_desc}A strong wall of halberds has often held back an orcish assault on Osgiliath and this halberd is no different.
-{osgiliath_halberd_effects_desc}Auto-generated
+{osgiliath_halberd_effects_desc}Autogenerado
 ¬---------------
 {osgiliath_helmet}Osgiliath Helmet
 {osgiliath_helmet_desc}A finely crafted helmet used mainly by the defenders of Osgiliath
-{osgiliath_helmet_effects_desc}Auto-generated
+{osgiliath_helmet_effects_desc}Autogenerado
 ¬---------------
 {pinnath_gelin_lance}Pinnath Gelin Lance
 {pinnath_gelin_lance_desc}Lighter and often more well balanced, the lances of the men of Pinnath Gelin are more suited to agile engagements rather than a full on frontal charge. They are verstaile and can often be used post-engagement.
-{pinnath_gelin_lance_effects_desc}Auto-generated
+{pinnath_gelin_lance_effects_desc}Autogenerado
 ¬---------------
 {pinnath_gelin_shield}Pinnath Gelin Shield
 {pinnath_gelin_shield_desc}The shields in Pinnath Gelin are smaller than those found in Eastern Gondor.
-{pinnath_gelin_shield_effects_desc}Auto-generated
+{pinnath_gelin_shield_effects_desc}Autogenerado
 ¬---------------
 {ringlo_cape}Ringló Vale Cape
 {ringlo_cape_desc}Well worn but also well crafted cape from the Ringló vale adorned with Ringló heraldry
-{ringlo_cape_effects_desc}Auto-generated
+{ringlo_cape_effects_desc}Autogenerado
 ¬---------------
 {ringlo_shield}Ringló Vale Shield
 {ringlo_shield_desc}Well worn but also well crafted shield from the Ringló vale adorned with Ringló heraldry
-{ringlo_shield_effects_desc}Auto-generated
+{ringlo_shield_effects_desc}Autogenerado
 ¬---------------
 {stewards_cape}Steward's Cape
 {stewards_cape_desc}An ornate fur lined ceremonial cape worn only by the Steward of Gondor and passed down for many hundreds of years.
-{stewards_cape_effects_desc}Auto-generated
+{stewards_cape_effects_desc}Autogenerado
 ¬---------------
 ¬###### Various ######
 {dunland_helmet}Yelmo dunledino
@@ -3181,15 +3181,15 @@
 ¬-----------------
 {mariner_retainer}Vinefleet Mariner Retainer
 {mariner_retainer_desc}The mariners of the Vinefleet are a cunning bunch and their experience and counsel in a variety of matters is most valuable.
-{mariner_retainer_effects_desc}+3 Personal Security, +20% Looting Gain, +3 Unrest
+{mariner_retainer_effects_desc}\n- +3 Seguridad personal\n- +20% Ingresos por saqueos\n- +3 Malestar
 ¬---------------
 {kugath_chariot}Finely Crafted Kugathi Chariot
 {kugath_chariot_desc}While appearing simple, to construct a chariot that stands the test of time, one must have both a great deal of time and knowledge. The spokes must be sharpened, the axles greased, the carriage rigged... but have patience and you shall have something of true beauty and speed, unmatched by any in the Near East.
-{kugath_chariot_effects_desc}+10% Movement Points, +3 Troop Morale
+{kugath_chariot_effects_desc}\n- +10% Puntos de movimiento\n- +3 Moral de las tropas
 ¬---------------
 {leofthiuda_horse}Roearas
 {leofthiuda_horse_desc}The large, black horses found roaming the plains of West of the Dorwinion mountains are known to the Leofthiuda as the "Roearas". These legendary beasts are tamable only by true masters of the horse who have lived and breathed this land all their life.
-{leofthiuda_horse_effects_desc}+10% Movement Points, +3 Authority
+{leofthiuda_horse_effects_desc}\n- +10% Puntos de movimiento\n- +3 Autoridad
 ¬---------------
 {lower_baron}Ambitious Lower Baron
 {lower_baron_desc}From all great men come humble beginnings. In order to become the man you want to be, you must first accept the man you are. These petty barons of the Vintner Court are no fools and offer their service to the more experienced and prestigious lords and ladies in an effort to observe, learn and experience first hand what it takes to wield the power to change history.
@@ -3197,7 +3197,7 @@
 ¬---------------
 {avari_entourage}Avari Entourage
 {avari_entourage_desc}If a general proves himself to be a worthy commander and the men of Dorwinion have not openly declared war on the Avari elves, a few among them will offer their services in order to learn the ways of men. These elves provide sound counsel as well as protection for lucky general.
-{avari_entourage_effects_desc}+4 Bodyguard Size, +2 Command (Attacking)
+{avari_entourage_effects_desc}\n- +4 Tamaño de guardaespaldas\n- +2 Comando (Atacando)
 ¬---------------
 {orocarni_merchant}Orocarni Merchant
 {orocarni_merchant_desc}All dwarves (despite what many elves might say) are shrewd negotiators and have a keen eye for fine craftsmanship. The Orocarni are no exception and the wares they bring with them from the Red Mountains of the East are both rare and sought after by both men and elf alike.
@@ -3205,140 +3205,140 @@
 ¬---------------
 {rouadengi_taxman}Rouadengi Taxman
 {rouadengi_taxman_desc}The Rouadengi are shrewd tax collectors and are not know to let any coin that is owed slip through their grasp. This ruthless collection of taxes ensures the Court has enough funds to fulfill it's obligations.
-{rouadengi_taxman_effects_desc}+5% Taxes Income
+{rouadengi_taxman_effects_desc}\n- +5% Ingresos por impuestos
 ¬---------------
 {chieftains_bridles}Leofthiuda Chieftains Bridles
 {chieftains_bridles_desc}The bridles of a Leofthiuda Chieftain are a sacred thing. Passed down from father to son, often through multiple generations, they are proof of one's heritage in Leofthiuda society. They come in various shapes, sizes and materials but the authority and respect they demand is always the same.
-{chieftains_bridles_effects_desc}+3 Renown, +3 Authority
+{chieftains_bridles_effects_desc}\n- +3 Renombre\n- +3 Autoridad
 ¬---------------
 {seal_of_the_council}Seal of the Council
 {seal_of_the_council_desc}The Seal of the Council holds great weight among the people of Dorwinion. It is a symbol of power, respect and most importantly, authority. One does not simply defy an order or judgement ordained by the Council's Seal without thinking long and hard about what might follow.
-{seal_of_the_council_effects_desc}+5 Authority
+{seal_of_the_council_effects_desc}\n- +5 Autoridad
 ¬---------------
 {sommelier}Renowned Sommelier
 {sommelier_desc}A sommelier, or wine steward, is a trained and knowledgeable professional in the art of wine tasting. They ensure that only the finest wines and both procurred and paired. This particular sommelier demands great respect, even amongst the great wine stewards of the Elves.
-{sommelier_effects_desc}+1 to public health, +3 Hitpoints
+{sommelier_effects_desc}\n- +1 Salud pública\n- +3 Puntos de vida
 ¬---------------
 {easterling_contacts}Easterling Contacts
 {easterling_contacts_desc}This general has a large network of contacts amongst the people of Rhûn. Not all here side with the Shadow and there are many sympathizers and allies amongst their rank, willing to aid Dorwinion wherever they can.
-{easterling_contacts_effects_desc}+3 Command when fighting Men of the East
+{easterling_contacts_effects_desc}\n- +3 Comando al luchar contra los hombres del Este
 ¬---------------
 {vintner_uncle}Vintner Uncle
 {vintner_uncle_desc}This general's uncle is a respected man amongst the Vinter Court. He has held a position as a petty Judge on the Lower Council and can, given enough "leverage", be swayed to vote in the interests of their nephew.
-{vintner_uncle_effects_desc}+3 Acumen, -15% Construction Costs
+{vintner_uncle_effects_desc}\n- +3 Perspicacia\n- -15% Costes de construcción
 ¬---------------
 {retired_thornsmen_captain}Retired Thornsmen Captain
 {retired_thornsmen_captain_desc}Thornsmen live and breathe cities and the coasts. They know the urbanite population better than any other. This captain, although retired, offers advice and counsel on how to keep the local population in line.
-{retired_thornsmen_captain_effects_desc}+4 Public Order
+{retired_thornsmen_captain_effects_desc}\n- +4 Orden público
 ¬---------------
 {gondorian_architect}Renowned Gondorian Architect
 {gondorian_architect_desc}The masonry and architecture of the Gondorians is legendary across Middle-earth. As time has passed, however, this legend has faded and the wealth of funds used to fund it's glorious construction projects has long dried up. This particular architect, renowned across Gondor, has sought further pastures and grander designs than those of Gondor.
-{gondorian_architect_effects_desc}-15% Construction Costs
+{gondorian_architect_effects_desc}\n- -15% Costes de construcción
 ¬---------------
 {gondorian_advisor}Gondorian Military Advisor
 {gondorian_advisor_desc}Gondor and Dorwinion have a long and turbulent history. While Denethor's madness is still held at bay, he has dispatched a small contingent of military advisors to the last few remanining realms of men in order to aid in holding back the invetiable tide of darkness from realms once held by Gondor in days gone by.
-{gondorian_advisor_effects_desc}+3 Command (Infantry), +3 Command (Cavalry), +10% Movement Points
+{gondorian_advisor_effects_desc}\n- +3 Comando (Infantería)\n- +3 Comando (Caballería)\n- +10% Puntos de movimiento
 ¬---------------
 ¬ Harad Governor Traits
 {harad_gov_esthala}Tyrant of Esthala
 {harad_gov_esthala_desc}The Serpent Lord has appointed this man as ruler of Esthala, an important settlement in Harondor and the site of many battles between Harad and Gondor. The Tyrant is expected to set Esthala as an example for Haradrim rulers in Harondor, establishing strong governance and lasting order in the Serpent Lord's name.
-{harad_gov_esthala_effects_desc}+2 law, -2 public happiness, +10% taxes, +1 farming
+{harad_gov_esthala_effects_desc}\n- +2 Ley\n- -2 Felicidad pública\n- +10% Ingresos por impuestos\n- +1 Agricultura
 ¬---------------
 {harad_gov_amon_ethel}Gidabo of Amon Ethel
 {harad_gov_amon_ethel_desc}The military ruler of Amon Ethel is responsible for ensuring the defense of the Northern shore of the Harnen, as well as bringing in any potential mercenary company into the service of Harad. The Gidabo will also secure the roads North for the passage of troops and trade caravans to the frontiers.
-{harad_gov_amon_ethel_effects_desc}-10% Recruitment Cost, +5% Trade, +10% Raiding Income
+{harad_gov_amon_ethel_effects_desc}\n- -10% Costes de reclutamiento\n- +5% Comercio\n- +10% Ingresos por saqueos
 ¬---------------
 {harad_gov_gobel_mirlond}Dwalot of Gobel Mirlond
 {harad_gov_gobel_mirlond_desc}Being named ‘King' of this former principality is an honor and a great responsibility in ensuring the defense of the Northern mouth of the Harnen. The Dwalot will maintain protection over the trade lanes that flow goods into the Harnen and lead the province from the Dark Brothers Landing.
-{harad_gov_gobel_mirlond_effects_desc}+5% Trade, -2 Public Happiness, +1 Acumen, +1 Influence
+{harad_gov_gobel_mirlond_effects_desc}\n- +5% Comercio\n- -2 Felicidad pública\n- +1 Perspicacia\n- +1 Influencia
 ¬---------------
 {harad_gov_faenobel}Vizar of Faen'obel
 {harad_gov_faenobel_desc}There are dozens of Haradrim tribes that live within Faen'Obel and hundreds that dot the coast of the great Harnen river. The Serpent Tribe rules them all and the Vizar is appointed to rule Faen'obel by the Serpent Lord himself. None challenge him, for it is death to do so. Faen'obel has always been a powerful city, its strategic location dominates the Harnen river and it benefits from an agricultural abundance that is unmatched. It is the capital of Harad, and the Serpent Lord is its absolute master.
-{harad_gov_faenobel_effects_desc}+3 Farming, +10% Trade, +5% Taxes, +2 Influence, +2 Acumen
+{harad_gov_faenobel_effects_desc}\n- +3 Agricultura\n- +10% Comercio\n- +5% Ingresos por impuestos\n- +2 Influencia\n- +2 Perspicacia
 ¬---------------
 {harad_gov_amrun}Gidabo of Amrun
 {harad_gov_amrun_desc}Amrun is a strategic settlement that guards the Eastern banks of the Harnen. The Serpent Tribe has appointed this man as military ruler of Amrun, responsible for protecting the Eastern approach to Faen'Obel and the lucrative trade routes overseen by the Muhad caravans.
-{harad_gov_amrun_effects_desc}+5 Trade, -5% Recruitment Cost, +1 Law, +1 Acumen
+{harad_gov_amrun_effects_desc}\n- +5 Comercio\n- -5% Costes de reclutamiento\n- +1 Ley\n- +1 Perspicacia
 ¬---------------
 {harad_gov_tal_aljaf}Sarki of Tal Aljaf
 {harad_gov_tal_aljaf_desc}Tal Aljaf is ruled by a council of its most powerful tribes. The Sarki presides over the council and ensures the affairs of the region align with the Serpent Lord. Tal Aljaf hosts many pilgrims who walk the path of the Benevolent and keep vigil over the road to Far Harad.
-{harad_gov_tal_aljaf_effects_desc}+2 Public Happiness, +2 Acumen, +5% Trade
+{harad_gov_tal_aljaf_effects_desc}\n- +2 Felicidad pública\n- +2 Perspicacia\n- +5% Comercio
 ¬---------------
 {harad_gov_ardumir}Temple-Master of Ardumir
 {harad_gov_ardumir_desc}The Temple of Sauron is the center of political life in Ardumir. This man rules the temple and city as Master and ensures the faith and teachings of Sauron and the laws of his proxies are obeyed by all who live within Ardumir.
-{harad_gov_ardumir_effects_desc}+2 Law, +5 Taxes, +1 Influence, +2 Acumen
+{harad_gov_ardumir_effects_desc}\n- +2 Ley\n- +5 Ingresos por impuestos\n- +1 Influencia\n- +2 Perspicacia
 ¬---------------
 {harad_gov_caldun}Dwalot of Caldun
 {harad_gov_caldun_desc}This man is the effective ‘King' of Caldun and ensures the coastal tribes and villages pay their tithes and taxes. He was likely given the right to rule by the Serpent Lord himself and is responsible for protecting the southern mouth of the Harnen.
-{harad_gov_caldun_effects_desc}+5 Trade, +2 Law, +1 Acumen, +1 Farming
+{harad_gov_caldun_effects_desc}\n- +5 Comercio\n- +2 Ley\n- +1 Perspicacia\n- +1 Agricultura
 ¬---------------
 {harad_gov_umbar}Lord of Umbar
 {harad_gov_umbar_desc}Umbar is a powerful harbor with a long naval tradition that has strong ties to rebellious Gondorian factions. As such, the Serpent Lord has appointed this man to rule the city in his stead as Lord, ensuring the loyalty of the population and the suppression of unwanted dissension. The Corsairs bring in vast wealth to the city, and this man is responsible for the Serpent Lord's ‘share'.
-{harad_gov_umbar_effects_desc}+10% Trade, +10% Taxes, -3 Public Happiness, +2 Law
+{harad_gov_umbar_effects_desc}\n- +10% Comercio\n- +10% Ingresos por impuestos\n- -3 Felicidad pública\n- +2 Ley
 ¬---------------
 {harad_gov_korondaj}Raai of Korondaj
 {harad_gov_korondaj_desc}This man is the appointed ambassador to the Muhad of Korondaj. The Muhad Nation holds a great deal of autonomy and is treated as a respected ally. This man oversees relations between the Serpent Tribe and the Muhad, ensuring that the needs of the Nation are respected and their agreements with the Haradrim are fulfilled.
-{harad_gov_korondaj_effects_desc}+2 Public Health, +5% Trade, -1 Law, +1 Farming
+{harad_gov_korondaj_effects_desc}\n- +2 Salud pública\n- +5% Comercio\n- -1 Ley\n- +1 Agricultura
 ¬---------------
 {harad_gov_an_karagmir}Kabakai of An Karagmir
 {harad_gov_an_karagmir_desc}The Trollmen of Far Harad respect strength above all else. This man's title of ‘Conqueror' reflects his position as Harad's appointed ruler of An Karagmir. The Trollmen are a very important asset for the Serpent Lord, providing him with powerful warriors and access to the mighty Mumakil. This man is responsible for ensuring Far Harad's resources and people remain in service to the Serpent Lord.
-{harad_gov_an_karagmir_effects_desc}+2 Command, +1 Law, -10% Recruitment Cost
+{harad_gov_an_karagmir_effects_desc}\n- +2 Comando\n- +1 Ley\n- -10% Costes de reclutamiento
 ¬---------------
 {harad_gov_kruk_mahur}Gidabo of Kruk Mahur
 {harad_gov_kruk_mahur_desc}As the military ruler of Kruk Mahur, this man ensures relations between the Haradrim and the Variags remain stable. He also oversees tribal settlements that fall within Harad's borders while making sure he takes advantage of any potential alliance with Variag warbands.
-{harad_gov_kruk_mahur_effects_desc}+5 Trade, +2 Law, +1 Command, -1 Public Happiness
+{harad_gov_kruk_mahur_effects_desc}\n- +5 Comercio\n- +2 Ley\n- +1 Comando\n- -1 Felicidad pública
 ¬---------------
 {harad_item_master_chains}Master of Chains
 {harad_item_master_chains_desc}This man rules Peligar as a new capital for the slave trade. It's position on the Anduin makes it an ideal location to centralize the transport of human cargo to the south. Other resources will obviously be funneled out of Gondor through Peligar as well, and this man will ensure the plunder of the land shall flow into the hands of Sauron’s faithful.
-{harad_item_master_chains_effects_desc}+3 Dread, +3 Command, +15% Trade, +2 Law, -6 Public Happiness
+{harad_item_master_chains_effects_desc}\n- +3 Temor\n- +3 Comando\n- +15% Comercio\n- +2 Ley\n- -6 Felicidad pública
 ¬---------------
 {harad_item_master_arms}Master of Arms
 {harad_item_master_arms_desc}The Master of Arms leads the transformation of the land into the machine of war the Dark Lord demands. He is responsible for coordination between the various armies and factions of the Shadow to march as one, to expand the frontier across the Anduin, and to burn the realms of the West to ash should they choose to resist the rule of Sauron.
-{harad_item_master_arms_effects_desc}+3 Command, +4 Dread, -15 Recruitment Cost, +10 Movement
+{harad_item_master_arms_effects_desc}\n- +3 Comando\n- +4 Temor\n- -15 Costes de reclutamiento\n- +10 Movimiento
 ¬---------------
 {harad_item_master_ships}Master of Ships
 {harad_item_master_ships_desc}This man has been placed in command of the Black Armada, the new and powerful navy of Harad. He is responsible for overseeing its expansion and deployment, as well as governing its new base of operations: the former Gondorian city of Dol Amroth.
-{harad_item_master_ships_effects_desc}+2 Command, +3 Dread, +10% Movement, +10% Raiding Income, -4 Public Happiness
+{harad_item_master_ships_effects_desc}\n- +2 Comando\n- +3 Temor\n- +10% Movimiento\n- +10% Ingresos por saqueos\n- -4 Felicidad pública
 ¬---------------
 {harad_item_kuhzaymah_robes}Khûzaymáh's Brigandine Robes
 {harad_item_kuhzaymah_robes_desc}Khûzaymáh's armoured robe is a masterpiece. The elegant style conceals the cunning behind its design; beautiful fabrics are woven intricately over studded steel plates, affording him complete protection while remaining light and flexible.
-{harad_item_kuhzaymah_robes_effects_desc} +3 Hit Points, +2 Personal Security, +1 Authority, +2 Command
+{harad_item_kuhzaymah_robes_effects_desc}\n-  +3 Puntos de vida\n- +2 Seguridad personal\n- +1 Autoridad\n- +2 Comando
 ¬---------------
 {harad_item_swords_herumor}Swords of Herumor
 {harad_item_swords_herumor_desc}Twin blades of Herumor, Harad's first Lord. Passed to each successive Serpent Lord upon their accession to the throne. Centuries of blood have washed across their edges, and endless glory has been won by their masters. These blades have an uncanny ability to find their way back into the hands of those worthy to rule, despite being lost several times throughout history.
-{harad_item_swords_herumor_effects_desc}+1 Hit Points, +3 Personal Security, +2 Command, +1 Authority
+{harad_item_swords_herumor_effects_desc}\n- +1 Puntos de vida\n- +3 Seguridad personal\n- +2 Comando\n- +1 Autoridad
 ¬---------------
 {harad_item_master_legions}Master of the Legions
 {harad_item_master_legions_desc}This banner is given to the Supreme Commander of Harad's military, the Master of the Legions. He is charged with organizing the Army and ensuring the tribes provide the expected tithe of manpower.
-{harad_item_master_legions_effects_desc}-10% Recruitment Cost, +2 Command, +2 Acumen
+{harad_item_master_legions_effects_desc}\n- -10% Costes de reclutamiento\n- +2 Comando\n- +2 Perspicacia
 ¬---------------
 {harad_item_sardat_serpent}Sardat of the Serpent Tribe
 {harad_item_sardat_serpent_desc}The Sardat is responsible for the Serpent Tribe's considerable wealth. The Merchant Syndicate answers to her, and she reports directly to the Serpent Lord. She is likely part of the ruling family, thus her loyalty is unquestionable.
-{harad_item_sardat_serpent_effects_desc}+5% Tax Income, +3 Acumen, +1 Influence
+{harad_item_sardat_serpent_effects_desc}\n- +5% Ingresos por impuestos\n- +3 Perspicacia\n- +1 Influencia
 ¬---------------
 {harad_item_serpent_scale}Serpent Scale
 {harad_item_serpent_scale_desc}A coat of fine scale armour from the greatest blacksmiths in Harad. Such protection is a sign of status, as it is extremely expensive and is sometimes offered as a gift to those most loyal to the Serpent Lord.
-{harad_item_serpent_scale_effects_desc}+2 Hit Points, +1 Command, +2 Influence
+{harad_item_serpent_scale_effects_desc}\n- +2 Puntos de vida\n- +1 Comando\n- +2 Influencia
 ¬---------------
 {harad_item_tribal_hostage}Tribal Hostage
 {harad_item_tribal_hostage_desc}A hostage kept as leverage over a tribe, often a relation of a chieftain. Sometimes offered as collateral for debt, other times as a gift to an influential master.
-{harad_item_tribal_hostage_effects_desc}+2 Loyalty, +1 Farming Income
+{harad_item_tribal_hostage_effects_desc}\n- +2 Lealtad\n- +1 Ingresos por agricultura
 ¬---------------
 {harad_item_syndicate_merchant}Syndicate Merchant
 {harad_item_syndicate_merchant_desc}A well-connected merchant with assets spread across Harad and likely some foreign lands as well.
-{harad_item_syndicate_merchant_effects_desc}+10% Trade, +3 Tax Income, +2 Unrest
+{harad_item_syndicate_merchant_effects_desc}\n- +10% Comercio\n- +3 Ingresos por impuestos\n- +2 Malestar
 ¬---------------
 {harad_item_muhad_chieftain}Muhad Chieftain
 {harad_item_muhad_chieftain_desc}A chief of the Muhad Nation, very knowledgeable of the vast deserts of the south and how to cross them safely. Well connected with the trade caravans who venture into distant lands.
-{harad_item_muhad_chieftain_effects_desc}+7% Trade, +10% Movement Range
+{harad_item_muhad_chieftain_effects_desc}\n- +7% Comercio\n- +10% Alcance de movimiento
 ¬---------------
 {harad_item_trollman_champion}Troll-man Champion
 {harad_item_trollman_champion_desc}The intimidating presence of this champion inspires fear. They will defend their charge until death.
-{harad_item_trollman_champion_effects_desc}+3 Personal Security, +1 Hit Points, +1 Law
+{harad_item_trollman_champion_effects_desc}\n- +3 Seguridad personal\n- +1 Puntos de vida\n- +1 Ley
 ¬---------------
 {harad_item_aspiring_warrior}Aspiring Warrior
 {harad_item_aspiring_warrior_desc}A young warrior who has proven themselves with blood and glory. A future general and a useful ally to the powerful.
-{harad_item_aspiring_warrior_effects_desc}+2 Command, +1 Personal Security, +1 Influence
+{harad_item_aspiring_warrior_effects_desc}\n- +2 Comando\n- +1 Seguridad personal\n- +1 Influencia
 ¬---------------
 {local_guide}Local Guide
 {local_guide_desc}This general is accompanied by a local guide from the Wayfarer's Guild who knows the land and how best to navigate it.
